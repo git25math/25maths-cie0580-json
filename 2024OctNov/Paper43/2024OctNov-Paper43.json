@@ -1,0 +1,204 @@
+{
+  "v": "1.0",
+  "paper": "2024OctNov-Paper43",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "OctNov",
+  "paperNum": "43",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1, "marks": 9,
+      "stem": [{ "type": "text", "content": "Dinari sells fruit and vegetables." }],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "One day the mass of fruit and vegetables he sells is in the ratio fruit : vegetables $= 9 : 8$. He sells 48 kg of vegetables." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the mass of the fruit he sells." }], "answer": { "type": "number", "suffix": "kg" } },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "On another day he receives $\\$280$ for the fruit and vegetables he sells. The $\\$280$ is in the ratio fruit : vegetables $= (c + 3) : (c - 1)$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the amount he receives from selling the fruit." }], "answer": { "type": "number", "prefix": "$\\$$" } },
+        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "In one week Dinari buys fruit and vegetables for $\\$1620$. He sells the fruit and vegetables for $\\$1750$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate his percentage profit." }], "answer": { "type": "number", "suffix": "%" } },
+        { "label": "(d)", "marks": 2, "content": [{ "type": "text", "content": "In another week Dinari sells fruit and vegetables for $\\$1738$. He makes a profit of 10%." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the amount he paid for the fruit and vegetables in that week." }], "answer": { "type": "number", "prefix": "$\\$$" } }
+      ],
+      "meta": { "s": "1.8", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 2, "marks": 12,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 5, "content": [{ "type": "text", "content": "$A$ is the point $(3, 7)$ and $B$ is the point $(-1, 5)$." }],
+          "subparts": [
+            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Find the coordinates of the midpoint of the line $AB$." }], "answer": { "type": "coordinate" } },
+            { "label": "(ii)", "marks": 1, "content": [{ "type": "text", "content": "Write $\\vec{AB}$ as a column vector." }], "answer": { "type": "vector" } },
+            { "label": "(iii)", "marks": 2, "content": [{ "type": "text", "content": "$\\vec{AC} = 3\\vec{BA}$. Find the coordinates of $C$." }], "answer": { "type": "coordinate" } }
+          ]
+        },
+        { "label": "(b)", "marks": 7, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper43/Q02/Q02_Subb_Fig1.png" }],
+          "subparts": [
+            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Rotate shape $P$ through $180°$ about the point $(4, 1)$." }], "answer": { "type": "none" } },
+            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Reflect shape $P$ in the line $y = x + 2$." }], "answer": { "type": "none" } },
+            { "label": "(iii)", "marks": 3, "content": [{ "type": "text", "content": "Describe fully the **single** transformation that maps shape $P$ onto shape $Q$." }], "answer": { "type": "expression" } }
+          ]
+        }
+      ],
+      "meta": { "s": "4.3", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 3, "marks": 9,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "Ed invests $\\$500$ in an account paying $r\\%$ per year simple interest. At the end of 14 years the total amount in Ed's account is $\\$675$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the value of $r$." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Eva invests $\\$400$ at a rate of 2.2% per year compound interest." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the total interest earned at the end of 11 years." }], "answer": { "type": "number", "prefix": "$\\$$" } },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Erin invests $\\$700$ at a rate of $p\\%$ per **month** compound interest. At the end of 21 years the value of Erin's investment is $\\$1074$, correct to the nearest dollar." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the value of $p$." }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "1.12", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 4, "marks": 15,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "A box contains 50 cuboids. Each cuboid has a mass of 135 g. The total mass of the cuboids and the box is 7 kg." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the mass of the box. Give your answer in grams." }], "answer": { "type": "number", "suffix": "g" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "A solid cube of side 4 cm is fixed to the base inside an empty cube of side 6 cm. Water is poured into the larger cube until it reaches the top of the smaller cube." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the amount of water poured into the larger cube." }], "answer": { "type": "number", "suffix": "$\\text{cm}^3$" } },
+        { "label": "(c)", "marks": 4, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper43/Q04/Q04_Subc_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a solid triangular prism of length 20 cm. The cross-section is an equilateral triangle with side length 4 cm. The prism is made of wood with a density of $0.85\\text{ g/cm}^3$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the mass of the prism. [Density = mass $\\div$ volume]" }], "answer": { "type": "number", "suffix": "g" } },
+        { "label": "(d)", "marks": 7, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper43/Q04/Q04_Subd_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a solid cone with base radius 10 cm and height 24 cm." }],
+          "subparts": [
+            { "label": "(i)", "marks": 4, "content": [{ "type": "text", "content": "Show that the **total** surface area of the cone is $1131\\text{ cm}^2$, correct to the nearest $\\text{cm}^2$." }, { "type": "text", "content": "[The curved surface area, $A$, of a cone with base radius $r$ and slant height $l$ is $A = \\pi rl$.]" }], "answer": { "type": "none" } },
+            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "The total surface area of the cone is painted." }],
+              "subparts": [
+                { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "The cost to paint the cone is $\\$1.71$. Calculate the cost to paint $1\\text{ cm}^2$ of the cone. Give your answer in cents." }], "answer": { "type": "number", "suffix": "cents" } },
+                { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "One tin of paint has enough paint to cover $2.5\\text{ m}^2$. Calculate the number of these cones that can be painted completely using one tin of paint." }], "answer": { "type": "number" } }
+              ]
+            }
+          ]
+        }
+      ],
+      "meta": { "s": "4.6", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 5, "marks": 8,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Naomi runs 100 m in 15 seconds." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate Naomi's average speed in kilometres per hour." }], "answer": { "type": "number", "suffix": "km/h" } },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Olav runs for 45 minutes at a speed of 9.5 km/h. He then runs 8.1 km at a speed of 7.5 km/h." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate Olav's average speed for the whole run." }], "answer": { "type": "number", "suffix": "km/h" } },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "A train has length $p$ metres. The train passes through a station of length $q$ metres. The speed of the train is $v$ kilometres per hour." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find an expression for the time the train takes to completely pass through the station. Give your answer in seconds, in terms of $p$, $q$ and $v$." }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "1.12", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 6, "marks": 9,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Simplify $\\dfrac{24u}{5y} \\times \\dfrac{10}{3u}$." }], "answer": { "type": "expression" } },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Expand and simplify $(x - 1)(x + 2)(x + 3)$." }], "answer": { "type": "expression" } },
+        { "label": "(c)", "marks": 4, "content": [{ "type": "text", "content": "Solve the equation $2x^2 + x - 5 = 0$. You must show all your working and give your answers correct to 2 decimal places." }], "answer": { "type": "multiline", "lines": [{ "label": "$x=$", "value": "" }, { "label": "$x=$", "value": "" }] } }
+      ],
+      "meta": { "s": "2.4", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "solve" }
+    },
+    {
+      "qnum": 7, "marks": 15,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 8, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper43/Q07/Q07_Suba_Fig1.png" }],
+          "subparts": [
+            { "label": "(i)", "marks": 2, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper43/Q07/Q07_Suba_Fig2.png" }, { "type": "text", "content": "Calculate the area of the trapezium." }], "answer": { "type": "number", "suffix": "$\\text{cm}^2$" } },
+            { "label": "(ii)", "marks": 6, "content": [{ "type": "text", "content": "The area of this trapezium is $264\\text{ cm}^2$." }],
+              "subparts": [
+                { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "Show that $2y^2 + 9y - 518 = 0$." }], "answer": { "type": "none" } },
+                { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Solve $2y^2 + 9y - 518 = 0$ by factorisation to find the value of $y$." }], "answer": { "type": "number" } }
+              ]
+            }
+          ]
+        },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper43/Q07/Q07_Subb_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a sector of a circle with radius 8 cm and angle 75°." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the perimeter of the sector." }], "answer": { "type": "number", "suffix": "cm" } },
+        { "label": "(c)", "marks": 4, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper43/Q07/Q07_Subc_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a shape $ABQP$ made from three straight lines and an arc of a sector of a circle. The sector has centre $O$ and angle $90°$. $POQ$ is a straight line and $AP = PO = OQ = QB = 5$ cm." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the area of $ABQP$. Give your answer in the form $a + k\\pi$." }], "answer": { "type": "expression", "suffix": "$\\text{cm}^2$" } }
+      ],
+      "meta": { "s": "4.5", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 8, "marks": 9,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper43/Q08/Q08_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Guillaume measures the speed of each of 100 cars. The results are shown in the table." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Guillaume draws a pie chart for this data. Calculate the angle for the interval $45 < v \\leq 50$." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "Calculate an estimate of the mean speed." }], "answer": { "type": "number", "suffix": "km/h" } },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper43/Q08/Q08_Subc_Fig1.png" }, { "type": "text", "content": "Complete the histogram to show the data in the table." }], "answer": { "type": "none" } }
+      ],
+      "meta": { "s": "9.2", "cat": "statistics", "d": 2, "topics": ["Statistics"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 9, "marks": 9,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper43/Q09/Q09_Suba_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "A bag contains 5 white balls and 3 black balls." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [],
+          "subparts": [
+            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Marwan picks a ball from the bag at random and then replaces it. Find the probability that the ball is white." }], "answer": { "type": "expression" } },
+            { "label": "(ii)", "marks": 1, "content": [{ "type": "text", "content": "Naomi picks a ball from the bag at random and then replaces it. She repeats this 120 times. Find the number of times the ball is expected to be white." }], "answer": { "type": "number" } }
+          ]
+        },
+        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "Oscar picks a ball from the bag at random. He replaces it and then picks a second ball from the bag at random." }],
+          "subparts": [
+            { "label": "(i)", "marks": 3, "content": [{ "type": "text", "content": "Find the probability that the balls are the same colour." }], "answer": { "type": "expression" } },
+            { "label": "(ii)", "marks": 1, "content": [{ "type": "text", "content": "Find the probability that the balls are not the same colour." }], "answer": { "type": "expression" } }
+          ]
+        },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Priya picks 3 of the 8 balls from the bag at random without replacement." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the probability that she picks two white balls and one black ball." }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "8.3", "cat": "probability", "d": 2, "topics": ["Probability"], "cmd": "find" }
+    },
+    {
+      "qnum": 10, "marks": 11,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper43/Q10/Q10_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows a sketch of the graph of $y = 3 + 2x - x^2$. $A$ is the point $(-1, 0)$ and $B$ is the point $(2, 3)$." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Find the derivative of $3 + 2x - x^2$." }], "answer": { "type": "expression" } },
+        { "label": "(b)", "marks": 6, "content": [],
+          "subparts": [
+            { "label": "(i)", "marks": 3, "content": [{ "type": "text", "content": "Show that the equation of the tangent at $A$ is $y = 4x + 4$." }], "answer": { "type": "none" } },
+            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "The line $L$ is perpendicular to the line $y = 4x + 4$. The line $L$ passes through the point $B$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the equation of the line $L$. Give your answer in the form $y = mx + c$." }], "answer": { "type": "expression" } }
+          ]
+        },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Find the coordinates of the maximum point on the graph of $y = 3 + 2x - x^2$." }], "answer": { "type": "coordinate" } }
+      ],
+      "meta": { "s": "2.11", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 11, "marks": 14,
+      "stem": [
+        { "type": "text", "content": "$\\text{f}(x) = 2x + 5 \\qquad \\text{g}(x) = 1 - 2x \\qquad \\text{h}(x) = \\dfrac{1}{x + 1}, \\; x \\neq -1 \\qquad \\text{j}(x) = 2^x$" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Find $\\text{g}(-3)$." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "Find $\\text{f}(x)\\text{g}(x) + \\text{fg}(x) + 1$. Give your answer in its simplest form." }], "answer": { "type": "expression" } },
+        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "Find $\\text{g}^{-1}(x)$." }], "answer": { "type": "expression" } },
+        { "label": "(d)", "marks": 2, "content": [{ "type": "text", "content": "Find $\\text{hh}(1)$." }], "answer": { "type": "expression" } },
+        { "label": "(e)", "marks": 3, "content": [{ "type": "text", "content": "Simplify $\\dfrac{1}{\\text{f}(x)} - \\text{h}(x)$. Give your answer as a single fraction in its simplest form." }], "answer": { "type": "expression" } },
+        { "label": "(f)", "marks": 1, "content": [{ "type": "text", "content": "Find $x$ when $\\text{j}(x) = \\dfrac{1}{32}$." }], "answer": { "type": "number" } },
+        { "label": "(g)", "marks": 1, "content": [{ "type": "text", "content": "Find $x$ when $\\text{j}^{-1}(x) = 0$." }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "2.9", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 12, "marks": 10,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper43/Q12/Q12_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$ABCD$ is a quadrilateral and $E$ is a point on $CD$. $AB = 8.7$ cm, $BC = 11.4$ cm and $CE = 10.9$ cm. Angle $ADE = 90°$, angle $ABC = 119°$ and angle $CAE = 20°$." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "Show that $AC = 17.37$ cm, correct to 2 decimal places." }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "Angle $AEC$ is obtuse. Calculate angle $ACE$." }], "answer": { "type": "number", "suffix": "$°$" } },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Calculate the perimeter of quadrilateral $ABCD$." }], "answer": { "type": "number", "suffix": "cm" } }
+      ],
+      "meta": { "s": "5.3", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "calculate" }
+    }
+  ]
+}

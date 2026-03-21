@@ -1,0 +1,671 @@
+{
+  "v": "1.0",
+  "paper": "2022March-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "March",
+  "paperNum": "22",
+  "totalMarks": 70,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "answer": "40°",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "answer": "80.50 cao",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for 80.498... or 80.5 or correctly rounding their more accurate decimal to 2 dp"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "answer": "7 [h] 18 [min]",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "answer": "166",
+      "markAllocation": [
+        {
+          "code": "M2",
+          "type": "M",
+          "value": 2,
+          "criterion": "for $[2 \\times] (7 \\times 4 + 4 \\times 5 + 5 \\times 7)$"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M1 for $7 \\times 4$ or $4 \\times 5$ or $5 \\times 7$"
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "5",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "$(0, 7)$",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "answer": "correct triangle with arcs",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for correct triangle with incorrect or no arcs or for two correct arcs or a triangle with arcs but one side not in range"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 7,
+      "marks": 1,
+      "answer": "$n > -1$ oe",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 8,
+      "marks": 6,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "answer": "triangle at $(-1, 1)$ $(-4, 2)$ $(-3, 5)$",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "answer": "triangle at $(-2, -3)$ $(1, -2)$ $(0, 1)$",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "for translation by $\\binom{-3}{k}$ or by $\\binom{k}{-4}$"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "Enlargement\n[sf] $\\frac{1}{2}$\n[centre] $(9, -1)$",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for each"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "answer": "$3a(4a^2 - 7)$ final answer",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for $3(4a^3 - 7a)$ or $a(12a^2 - 21)$ or for $3a(4a^2 - 7)$ seen then spoilt"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 10,
+      "marks": 4,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "8, 11, 16",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for two correct"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "$23 - 8n$ oe final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for $j - 8n$ or $23 - kn$, $k \\neq 0$ or $23 - 8n$ seen then spoilt"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 11,
+      "marks": 1,
+      "answer": "Positive",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 12,
+      "marks": 6,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "805",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "for 105"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or M2 for $\\frac{700 \\times 2.5 \\times 6}{100} + 700$ oe. or M1 for $\\frac{700 \\times 2.5 [\\times 6]}{100}$ oe"
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "2.3[0...]",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for $\\sqrt[17]{\\frac{1030.35}{700}}$ oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or M1 for $1030.35 = 700(k)^{17}$ oe for any $k$"
+        }
+      ]
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "$h^7$ final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "$\\frac{x^3}{343}$ final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "answer": "6",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "answer": "29.5 or 29.53...",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $2 \\times \\pi \\times 4.7$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "answer": "$1\\frac{5}{6}$ cao",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $\\frac{7}{3}$ oe improper fraction"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $\\frac{k}{3} \\times \\frac{11}{14}$ where $k > 3$"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "A1 for $\\frac{77}{42}$ or $\\frac{11}{6}$ or $1\\frac{35}{42}$"
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "$[y =] -2x - 7$ final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for $-2x + c$ or $kx - 7$, $k \\neq 0$ final answer"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "$y = \\frac{1}{2}x [\\pm 0]$ final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "FT $-\\frac{1}{\\text{their gradient in (a)}}$"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or for $y = kx [\\pm 0]$ oe, $k \\neq 0$. or $y =$ their $\\frac{1}{2}x + c$ for any $c$. or their $\\frac{1}{2}x [\\pm 0]$ oe"
+        }
+      ]
+    },
+    {
+      "qnum": 17,
+      "marks": 5,
+      "answer": "77.8 or 77.77 to 77.80",
+      "markAllocation": [
+        {
+          "code": "B4",
+          "type": "B",
+          "value": 4,
+          "criterion": "for answer 22.2[%] or 22.20 to 22.23[%]"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "OR M1 for $\\tan^{-1} \\frac{11}{4}$ oe or $\\tan^{-1} \\frac{4}{11}$ oe. M2 for $4 \\times 11 - \\frac{\\text{their acute angle}}{360} \\times \\pi \\times 4^2$ oe. or M1 for $\\frac{\\text{their acute angle}}{360} \\pi \\times 4^2$ oe. M1 for $\\frac{\\text{their shaded area}}{4 \\times 11} [\\times 100]$ oe or $\\frac{\\text{their sector area}}{4 \\times 11} \\times 100$ oe"
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "answer": "41",
+      "markAllocation": [
+        {
+          "code": "M2",
+          "type": "M",
+          "value": 2,
+          "criterion": "for $4x = 164$"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M1 for $x + 2(x - 24) + x - 16 = 100$ oe. or M1 for correctly simplifying their equation to the form $kx = c$ provided at least one part correct from $[2](x - 24)$ oe or $x - 16$. or B1 for answer 41 without an equation in $x$ shown"
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "answer": "$\\frac{2}{3}$ oe",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $y = \\frac{k}{\\sqrt{x + 4}}$"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $y = \\frac{\\text{their } k}{\\sqrt{77 + 4}}$"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "answer": "$x = 4$, $y = -1$\n$x = -10$, $y = 41$",
+      "markAllocation": [
+        {
+          "code": "M2",
+          "type": "M",
+          "value": 2,
+          "criterion": "for $x^2 + 6x - 40 [= 0]$ or $y^2 - 40y - 41 [= 0]$"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $(x - 4)(x + 10) [= 0]$ or $(y - 41)(y + 1) [= 0]$ or for correct use of quadratic formula or completing the square for their quadratic"
+        },
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "B1 for $x = 4$, $x = -10$ or for $y = -1$, $y = 41$ or for a correct pair of $x$ and $y$ values"
+        }
+      ],
+      "guidance": "M1 for correct method to eliminate one variable e.g. $x^2 - 2(11 - 3x) = 18$ or $\\frac{(11 - y)^2}{3^2} - 2y = 18$. If B0 scored and at least 1 method mark scored SC1 for correct substitution shown of both their $x$ values or their $y$ values into $3x + y = 11$ or $x^2 - 2y = 18$"
+    },
+    {
+      "qnum": 21,
+      "marks": 7,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "answer": "35.1 or 35.05 to 35.06",
+          "markAllocation": [
+            {
+              "code": "M3",
+              "type": "M",
+              "value": 3,
+              "criterion": "for $\\tan = \\frac{14.5}{\\sqrt{18.6^2 + 9^2}}$ oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or M2 for $[AC^2 =] 18.6^2 + 9^2$ oe or better or $[AG^2 =] 18.6^2 + 9^2 + 14.5^2$. or M1 for recognising the angle $GAC$"
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "4.75 to 4.78...",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for $30 - \\sqrt{18.6^2 + 9^2 + 14.5^2}$ or $30 - \\frac{14.5}{\\sin(\\text{their (a)})}$ or $30 - \\frac{\\sqrt{18.6^2 + 9^2}}{\\cos(\\text{their (a)})}$"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "M1 for $AG^2 = 18.6^2 + 9^2 + 14.5^2$ oe or better or $\\sin(\\text{their (a)}) = \\frac{14.5}{AG}$ or $\\cos(\\text{their (a)}) = \\frac{\\sqrt{18.6^2 + 9^2}}{AG}$"
+        }
+      ]
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "$\\mathbf{a} - \\frac{2}{5}\\mathbf{b}$ oe simplified",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for $-\\mathbf{b} + \\mathbf{a} + \\frac{3}{5}\\mathbf{b}$ or a correct route"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "$\\frac{5}{2}\\mathbf{a}$ oe",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for $k\\mathbf{a}$ where $k > 1$ or $\\frac{5}{2}\\overrightarrow{OR}$"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    }
+  ]
+}

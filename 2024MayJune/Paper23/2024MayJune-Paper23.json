@@ -1,0 +1,360 @@
+{
+  "v": "1.0",
+  "paper": "2024MayJune-Paper23",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "MayJune",
+  "paperNum": "23",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1, "marks": 1,
+      "stem": [
+        { "type": "text", "content": "Write the number two million two thousand and two in figures." }
+      ],
+      "parts": [], "answer": { "type": "number" },
+      "meta": { "s": "1.1", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 2, "marks": 1,
+      "stem": [
+        { "type": "text", "content": "Put one pair of brackets into this calculation to make it correct." },
+        { "type": "text", "content": "$$5 - 4 \\times 3 - 9 - 2 = 0$$" }
+      ],
+      "parts": [], "answer": { "type": "none" },
+      "meta": { "s": "1.4", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 3, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Simplify." },
+        { "type": "text", "content": "$$7x - 8y - x - y$$" }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "2.2", "cat": "algebra", "d": 1, "topics": ["Algebra"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 4, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "The base of a cuboid measures 10 cm by 7 cm." },
+        { "type": "text", "content": "The volume of the cuboid is $280 \\text{ cm}^3$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the height of the cuboid." }
+      ],
+      "parts": [], "answer": { "type": "number", "suffix": "$\\text{cm}$" },
+      "meta": { "s": "5.2", "cat": "geometry", "d": 1, "topics": ["Mensuration"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 5, "marks": 1,
+      "stem": [
+        { "type": "text", "content": "In a city, the probability that it will rain today is $0.15$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the probability that it will not rain today in this city." }
+      ],
+      "parts": [], "answer": { "type": "number" },
+      "meta": { "s": "8.1", "cat": "probability", "d": 1, "topics": ["Probability"], "cmd": "find" }
+    },
+    {
+      "qnum": 6, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Factorise completely." },
+        { "type": "text", "content": "$$4x^2y - 5xy^2$$" }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "factorise" }
+    },
+    {
+      "qnum": 7, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "The scale of a map is $1 : 40\\,000$." },
+        { "type": "text", "content": "On the map the distance between two villages is 37 cm." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the actual distance between the two villages." },
+        { "type": "text", "content": "Give your answer in kilometres." }
+      ],
+      "parts": [], "answer": { "type": "number", "suffix": "$\\text{km}$" },
+      "meta": { "s": "4.3", "cat": "geometry", "d": 2, "topics": ["Ratio and Proportion"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 8, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "**Without using a calculator**, work out $\\dfrac{3}{7} - \\dfrac{1}{14}$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "You must show all your working and give your answer as a fraction in its simplest form." }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "1.6", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 9, "marks": 2,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper23/Q09/Q09_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows a right-angled triangle." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate $AB$." }
+      ],
+      "parts": [], "answer": { "type": "number", "prefix": "$AB$ =", "suffix": "$\\text{cm}$" },
+      "meta": { "s": "6.2", "cat": "geometry", "d": 2, "topics": ["Trigonometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 10, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Find the gradient of the line joining the points $(-2, 7)$ and $(3, 1)$." }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "4.5", "cat": "algebra", "d": 2, "topics": ["Coordinate Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 11, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Solve the simultaneous equations." },
+        { "type": "text", "content": "$$5t - 2w = 19$$" },
+        { "type": "text", "content": "$$3t + 2w = 5$$" }
+      ],
+      "parts": [],
+      "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$t$ =" }, { "prefix": "$w$ =" }] },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "solve" }
+    },
+    {
+      "qnum": 12, "marks": 4,
+      "stem": [
+        { "type": "text", "content": "Simplify." }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 2,
+          "content": [{ "type": "text", "content": "$$\\dfrac{32g^{16}}{16g^8}$$" }],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [{ "type": "text", "content": "$$\\left(625k^8\\right)^{\\frac{1}{4}}$$" }],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "2.4", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 13, "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)", "marks": 1,
+          "content": [
+            { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper23/Q13/Q13_Suba_Fig1.png" },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Shade the region $A \\cup B'$." }
+          ],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(b)", "marks": 1,
+          "content": [
+            { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper23/Q13/Q13_Subb_Fig1.png" },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Use set notation to describe the shaded region." }
+          ],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "1.2", "cat": "number", "d": 2, "topics": ["Sets"], "cmd": "find" }
+    },
+    {
+      "qnum": 14, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper23/Q14/Q14_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$P$, $Q$, $R$ and $T$ are points on the circle." },
+        { "type": "text", "content": "$AB$ is a tangent to the circle at $T$." },
+        { "type": "text", "content": "Angle $ATP = 50°$, angle $PTR = 48°$ and $PQ = QR$." }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 1,
+          "content": [{ "type": "text", "content": "Find angle $PRT$." }],
+          "answer": { "type": "number", "prefix": "Angle $PRT$ =" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [{ "type": "text", "content": "Find angle $QPR$." }],
+          "answer": { "type": "number", "prefix": "Angle $QPR$ =" }
+        }
+      ],
+      "meta": { "s": "4.6", "cat": "geometry", "d": 3, "topics": ["Circle Theorems"], "cmd": "find" }
+    },
+    {
+      "qnum": 15, "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper23/Q15/Q15_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The time taken for each of 200 students to complete a calculation is measured." },
+        { "type": "text", "content": "The cumulative frequency diagram shows the results." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Use the diagram to find an estimate for" }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 2,
+          "content": [{ "type": "text", "content": "the interquartile range" }],
+          "answer": { "type": "number", "suffix": "$\\text{s}$" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [{ "type": "text", "content": "the number of students taking more than 40 seconds to complete the calculation." }],
+          "answer": { "type": "number" }
+        }
+      ],
+      "meta": { "s": "9.6", "cat": "statistics", "d": 2, "topics": ["Statistics"], "cmd": "find" }
+    },
+    {
+      "qnum": 16, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "$$A = \\pi r^2 + \\pi dh$$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Rearrange the formula to make $h$ the subject." }
+      ],
+      "parts": [], "answer": { "type": "expression", "prefix": "$h$ =" },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "rearrange" }
+    },
+    {
+      "qnum": 17, "marks": 4,
+      "stem": [
+        { "type": "text", "content": "Work out, giving each answer in standard form." }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 2,
+          "content": [{ "type": "text", "content": "$$\\left(2.1 \\times 10^{101}\\right) \\times \\left(8 \\times 10^{101}\\right)$$" }],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [{ "type": "text", "content": "$$\\left(2.1 \\times 10^{101}\\right) + \\left(2.1 \\times 10^{100}\\right)$$" }],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "1.7", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 18, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper23/Q18/Q18_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows two sides, $VA$ and $VB$, of a regular polygon." },
+        { "type": "text", "content": "$AVX$ is a straight line." },
+        { "type": "text", "content": "Angle $BVX = y°$ and angle $AVB = 11.5y°$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the number of sides of this polygon." }
+      ],
+      "parts": [], "answer": { "type": "number" },
+      "meta": { "s": "4.1", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 19, "marks": 5,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper23/Q19/Q19_Stem_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 3,
+          "content": [{ "type": "text", "content": "Describe fully the **single** transformation that maps triangle $T$ onto triangle $W$." }],
+          "answer": { "type": "structured", "answerBlocks": [{}, {}] }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [{ "type": "text", "content": "Draw the enlargement of triangle $T$ with scale factor $-2$ and centre of enlargement $(-1, 1)$." }],
+          "answer": { "type": "none" }
+        }
+      ],
+      "meta": { "s": "7.1", "cat": "geometry", "d": 3, "topics": ["Transformations"], "cmd": "describe" }
+    },
+    {
+      "qnum": 20, "marks": 4,
+      "stem": [
+        { "type": "text", "content": "$$\\text{f}(x) = 3^x + 2$$" }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 2,
+          "content": [{ "type": "text", "content": "Find $x$ when $\\text{f}(x) = 245$." }],
+          "answer": { "type": "number", "prefix": "$x$ =" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [{ "type": "text", "content": "Find $x$ when $\\text{f}^{-1}(x) = 7$." }],
+          "answer": { "type": "number", "prefix": "$x$ =" }
+        }
+      ],
+      "meta": { "s": "2.8", "cat": "algebra", "d": 3, "topics": ["Functions"], "cmd": "find" }
+    },
+    {
+      "qnum": 21, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Write the recurring decimal $0.4\\dot{1}$ as a fraction in its simplest form." },
+        { "type": "text", "content": "You must show all your working." }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "1.6", "cat": "number", "d": 3, "topics": ["Number"], "cmd": "convert" }
+    },
+    {
+      "qnum": 22, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Solve the equation $\\tan x + \\sqrt{3} = 0$ for $0° \\leqslant x \\leqslant 360°$." }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "6.3", "cat": "geometry", "d": 3, "topics": ["Trigonometry"], "cmd": "solve" }
+    },
+    {
+      "qnum": 23, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Simplify." },
+        { "type": "text", "content": "$$\\dfrac{2}{y+1} - \\dfrac{3}{y}$$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Give your answer as a single fraction in its simplest form." }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 24, "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper23/Q24/Q24_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows a triangular prism with cross-section triangle $BCV$." },
+        { "type": "text", "content": "Angle $BCV = 90°$, $BC = 5 \\text{ cm}$, $CV = 4 \\text{ cm}$ and $AB = 15 \\text{ cm}$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the angle between $AV$ and the base $ABCD$." }
+      ],
+      "parts": [], "answer": { "type": "number" },
+      "meta": { "s": "6.4", "cat": "geometry", "d": 4, "topics": ["Trigonometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 25, "marks": 4,
+      "stem": [
+        { "type": "text", "content": "Simplify." },
+        { "type": "text", "content": "$$\\dfrac{pt - p - t + 1}{1 - t^2}$$" }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 4, "topics": ["Algebra"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 26, "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper23/Q26/Q26_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "In the diagram, $O$ is the origin." },
+        { "type": "text", "content": "$\\overrightarrow{OP} = \\mathbf{p}$ and $\\overrightarrow{OQ} = \\mathbf{q}$." },
+        { "type": "text", "content": "$R$ is the point of intersection of $PQ$ and $OS$, with $PR : RQ = 1 : 2$ and $OR = RS$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the position vector of $S$ in terms of $\\mathbf{p}$ and $\\mathbf{q}$." },
+        { "type": "text", "content": "Give your answer in its simplest form." }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "7.2", "cat": "geometry", "d": 4, "topics": ["Vectors"], "cmd": "find" }
+    }
+  ]
+}

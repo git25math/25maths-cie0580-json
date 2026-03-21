@@ -1,0 +1,348 @@
+{
+  "v": "1.0",
+  "paper": "2025OctNov-Paper12",
+  "board": "cie",
+  "code": "0580",
+  "year": 2025,
+  "session": "OctNov",
+  "paperNum": "12",
+  "type": "core-nocalc",
+  "totalMarks": 80,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1, "marks": 1,
+      "stem": [{ "type": "text", "content": "Write down the value of the 3 in the number $23\\,679$." }],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "1.1", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 2, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Tom buys 2 books costing $\\$8.20$ each." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out how much change he receives from $\\$20$." }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "prefix": "$\\$$" },
+      "meta": { "s": "1.5", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 3, "marks": 2,
+      "stem": [{ "type": "text", "content": "Write" }],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "$17\\,469$ correct to the nearest ten." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "$5.073$ correct to 1 decimal place." }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "1.9", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 4, "marks": 2,
+      "stem": [{ "type": "text", "content": "Write down the value of" }],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "$\\sqrt{144}$." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "$5^3$." }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "1.3", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 5, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "The diagram is made from equilateral triangles." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper12/Q05/Q05_Stem_Fig1.png" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "On the diagram, draw all the lines of symmetry." }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "Write down the order of rotational symmetry." }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "4.3", "cat": "geometry", "d": 1, "topics": ["Geometry"], "cmd": "draw" }
+    },
+    {
+      "qnum": 6, "marks": 3,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Write $\\frac{3}{4}$ as a decimal." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "Write $\\frac{9}{100}$ as a percentage." }], "answer": { "type": "number", "suffix": "$\\%$" } },
+        { "label": "(c)", "marks": 1, "content": [{ "type": "text", "content": "Write $143\\%$ as a decimal." }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "1.6", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 7, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "A bag contains 8 discs numbered 1 to 8." },
+        { "type": "text", "content": "A disc is picked at random from the bag." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper12/Q07/Q07_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "On the probability scale, draw an arrow ($\\downarrow$) to show the probability that the number is" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "an even number, label the arrow A" }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "9, label the arrow B" }], "answer": { "type": "none" } },
+        { "label": "(c)", "marks": 1, "content": [{ "type": "text", "content": "less than 3, label the arrow C." }], "answer": { "type": "none" } }
+      ],
+      "meta": { "s": "8.1", "cat": "probability", "d": 1, "topics": ["Probability"], "cmd": "draw" }
+    },
+    {
+      "qnum": 8, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "A number, $n$, is a factor of 144 and a multiple of 9." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find all the values of $n$." }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "1.2", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 9, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "The temperature at midday on Monday is $-3\\,^{\\circ}\\text{C}$." },
+        { "type": "text", "content": "The temperature at 10 pm on Monday is $-15\\,^{\\circ}\\text{C}$." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Calculate the difference between these two temperatures." }], "answer": { "type": "number", "suffix": "$^{\\circ}\\text{C}$" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "The temperature at midday on Tuesday is $23\\,^{\\circ}\\text{C}$ higher than the temperature at 10 pm on Monday." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the temperature at midday on Tuesday." }], "answer": { "type": "number", "suffix": "$^{\\circ}\\text{C}$" } }
+      ],
+      "meta": { "s": "1.4", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 10, "marks": 1,
+      "stem": [
+        { "type": "text", "content": "A bag contains red balls and green balls." },
+        { "type": "text", "content": "They are in the ratio red balls : green balls $= 2 : 3$." },
+        { "type": "text", "content": "A ball is picked at random." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the probability that it is a red ball." }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "8.2", "cat": "probability", "d": 1, "topics": ["Probability"], "cmd": "find" }
+    },
+    {
+      "qnum": 11, "marks": 6,
+      "stem": [
+        { "type": "text", "content": "The stem-and-leaf diagram shows the number of customers entering a shop each day for 20 days." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper12/Q11/Q11_Stem_Fig1.png" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Find the range." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "Find the mode." }], "answer": { "type": "number" } },
+        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "Work out the percentage of these 20 days when more than 55 customers enter the shop." }], "answer": { "type": "number", "suffix": "$\\%$" } },
+        {
+          "label": "(d)", "marks": 2,
+          "content": [],
+          "subparts": [
+            { "label": "(d)(i)", "marks": 1, "content": [{ "type": "text", "content": "Find the median." }], "answer": { "type": "number" } },
+            { "label": "(d)(ii)", "marks": 1, "content": [{ "type": "text", "content": "On the next day 48 customers enter the shop." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Will the median increase or decrease? Give a reason for your answer." }], "answer": { "type": "expression" } }
+          ]
+        }
+      ],
+      "meta": { "s": "9.3", "cat": "statistics", "d": 2, "topics": ["Statistics"], "cmd": "find" }
+    },
+    {
+      "qnum": 12, "marks": 5,
+      "stem": [
+        { "type": "text", "content": "The diagram shows a parallelogram." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper12/Q12/Q12_Stem_Fig1.png" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 4, "content": [{ "type": "text", "content": "Use the information in the diagram to write an equation and solve it to find the value of $x$." }], "answer": { "type": "number", "prefix": "$x = $" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "Find the value of the largest angle in this parallelogram." }], "answer": { "type": "number", "suffix": "$^{\\circ}$" } }
+      ],
+      "meta": { "s": "4.2", "cat": "geometry", "d": 3, "topics": ["Geometry", "Algebra"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 13, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper12/Q13/Q13_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows a right-angled triangular prism." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Complete the net of this prism on the $1\\text{ cm}^2$ grid." },
+        { "type": "text", "content": "One face has been drawn for you." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper12/Q13/Q13_Stem_Fig2.png" }
+      ],
+      "parts": [],
+      "answer": { "type": "none" },
+      "meta": { "s": "5.1", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "draw" }
+    },
+    {
+      "qnum": 14, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "The diagram shows a smaller triangle $DEF$ which has vertices on the sides of a larger triangle $ABC$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper12/Q14/Q14_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the value of $x$." }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "prefix": "$x = $" },
+      "meta": { "s": "4.2", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 15, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Three sisters share $\\$n$ in the ratio $10 : 3 : 2$." },
+        { "type": "text", "content": "The smallest share is $\\$120$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the value of $n$." }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "prefix": "$n = $" },
+      "meta": { "s": "1.11", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 16, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "$$9.857 \\times 10^{-2} \\qquad 3.5 \\times 10^{2} \\qquad 1.54 \\times 10^{1} \\qquad 6.5 \\times 10^{-2}$$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Write these numbers in order, starting with the smallest." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": ".......... $<$ .......... $<$ .......... $<$ .........." },
+        { "type": "newline", "lines": 0 },
+        { "type": "text", "content": "\\textit{smallest}" }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "1.7", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 17, "marks": 2,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper12/Q17/Q17_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the area of this trapezium." }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "suffix": "$\\text{cm}^2$" },
+      "meta": { "s": "5.2", "cat": "geometry", "d": 2, "topics": ["Mensuration"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 18, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Work out." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$2\\frac{5}{6} \\div 4\\frac{1}{4}$$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Write your answer as a fraction in its simplest form." }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "1.6", "cat": "number", "d": 3, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 19, "marks": 6,
+      "stem": [
+        { "type": "text", "content": "The grid shows two flags, $F$ and $A$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper12/Q19/Q19_Stem_Fig1.png" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "On the grid, draw the image of flag $F$ after a reflection in the line $x = -1$." }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "On the grid, draw the image of flag $F$ after a rotation of $180^{\\circ}$ about $(0, 0)$." }], "answer": { "type": "none" } },
+        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "Describe fully the **single** transformation that maps flag $F$ onto flag $A$." }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "3.5", "cat": "geometry", "d": 2, "topics": ["Transformations"], "cmd": "draw" }
+    },
+    {
+      "qnum": 20, "marks": 4,
+      "stem": [
+        { "type": "text", "content": "$\\mathscr{E} = \\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\\}$" },
+        { "type": "text", "content": "$A = \\{1, 3, 5, 7, 9\\}$" },
+        { "type": "text", "content": "$B = \\{1, 3, 6, 10\\}$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper12/Q20/Q20_Stem_Fig1.png" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Use this information to complete the Venn diagram." }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "List the elements of $A \\cap B$." }], "answer": { "type": "expression" } },
+        { "label": "(c)", "marks": 1, "content": [{ "type": "text", "content": "Find $\\text{n}(B')$." }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "1.2", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 21, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Simplify." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$\\frac{18x^8}{9x^2}$$" }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "2.2", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 22, "marks": 2,
+      "stem": [{ "type": "text", "content": "Work out the size of one interior angle of a regular hexagon." }],
+      "parts": [],
+      "answer": { "type": "number", "suffix": "$^{\\circ}$" },
+      "meta": { "s": "4.2", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 23, "marks": 6,
+      "stem": [
+        { "type": "text", "content": "There are two charges for crossing a bridge." },
+        { "type": "newline", "lines": 1 },
+        { "type": "table", "content": "\\begin{tabular}{ll} Cars & $\\$a$ \\\\ Other vehicles & $\\$b$ \\end{tabular}" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "On Monday 4 cars and 20 other vehicles pay a total of $\\$130$." },
+        { "type": "text", "content": "On Tuesday 6 cars and 15 other vehicles pay a total of $\\$105$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Write down two equations and solve them to find the value of $a$ and the value of $b$." }
+      ],
+      "parts": [],
+      "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$a = $" }, { "prefix": "$b = $" }] },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "solve" }
+    },
+    {
+      "qnum": 24, "marks": 1,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper12/Q24/Q24_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$B$ is a point on the circle, centre $O$." },
+        { "type": "text", "content": "$ABC$ is a tangent to the circle at $B$ and angle $OAB = 36^{\\circ}$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out the size of angle $AOB$." }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "prefix": "Angle $AOB = $", "suffix": "$^{\\circ}$" },
+      "meta": { "s": "4.6", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 25, "marks": 4,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Expand and simplify." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$(x - 5)(x + 2)$$" }], "answer": { "type": "expression" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Factorise." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$5x^3 + 10x$$" }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "2.2", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 26, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "The length, $l$ metres, of a rope is $16.32$ metres, correct to 2 decimal places." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Complete this statement about the value of $l$." }
+      ],
+      "parts": [],
+      "answer": { "type": "structured", "answerBlocks": [{ "suffix": "$\\leqslant l <$" }] },
+      "meta": { "s": "1.9", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 27, "marks": 4,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "These are the first four terms of a sequence." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$2 \\qquad 8 \\qquad 14 \\qquad 20$$" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the $n$th term of this sequence." }], "answer": { "type": "expression" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "The $n$th term of a different sequence is $n^2 + 10$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the first three terms of this sequence." }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "2.7", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "find" }
+    }
+  ]
+}

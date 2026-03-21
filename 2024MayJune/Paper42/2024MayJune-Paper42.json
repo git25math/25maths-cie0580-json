@@ -1,0 +1,193 @@
+{
+  "v": "1.0",
+  "paper": "2024MayJune-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "MayJune",
+  "paperNum": "42",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1, "marks": 12,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "A fruit drink is made using 1.5 litres of apple juice and 450 millilitres of mango juice." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Write the ratio apple juice : mango juice in its simplest form." }], "answer": { "type": "expression" } },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "One litre of fruit drink is shared between three cups. The amount in the cups is in the ratio $9 : 6 : 10$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the number of millilitres in each cup." }], "answer": { "type": "expression" } },
+        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "A shop buys bottles of the fruit drink for $\\$3.20$ each. It sells them at a profit of 15%." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the selling price of each bottle of fruit drink." }], "answer": { "type": "number", "prefix": "$\\$$" } },
+        { "label": "(d)", "marks": 2, "content": [{ "type": "text", "content": "The number of bottles of fruit drink sold has grown exponentially at a constant rate of 2.5% per year. 5 years ago, the shop sold 16 620 bottles." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the number of bottles sold this year." }], "answer": { "type": "number" } },
+        { "label": "(e)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper42/Q01/Q01_Sube_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The bottles of juice are 18.5 cm tall, correct to the nearest millimetre. They are stored on shelves. The distance between the shelves is 23 cm, correct to the nearest centimetre." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the lower bound for the distance, $d$ cm, between the top of a bottle and the shelf above it." }], "answer": { "type": "number", "suffix": "cm" } }
+      ],
+      "meta": { "s": "1.8", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 2, "marks": 9,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper42/Q02/Q02_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a straight line intersecting two parallel lines." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the value of $a$ and the value of $b$." }], "answer": { "type": "multiline", "lines": [{ "label": "$a=$", "value": "142" }, { "label": "$b=$", "value": "38" }] } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Calculate the interior angle of a regular 12-sided polygon." }], "answer": { "type": "number" } },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper42/Q02/Q02_Subc_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a circle, centre $O$. The points $M$, $N$ and $P$ lie on the circumference of the circle. $AMB$ is a tangent to the circle at $M$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the value of $f$ and the value of $g$." }], "answer": { "type": "multiline", "lines": [{ "label": "$f=$", "value": "" }, { "label": "$g=$", "value": "" }] } },
+        { "label": "(d)", "marks": 2, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper42/Q02/Q02_Subd_Fig2.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a cyclic quadrilateral." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the value of $k$." }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "4.7", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 3, "marks": 15,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 10, "content": [{ "type": "text", "content": "The table shows the time that each of 40 students takes to travel to school." }],
+          "subparts": [
+            { "label": "(i)", "marks": 4, "content": [{ "type": "text", "content": "Calculate an estimate of the mean." }], "answer": { "type": "number", "suffix": "min" } },
+            { "label": "(ii)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper42/Q03/Q03_Suba_Fig1.png" }, { "type": "text", "content": "On the grid, draw a histogram to show the information in the table." }], "answer": { "type": "none" } },
+            { "label": "(iii)", "marks": 3, "content": [{ "type": "text", "content": "Two students are selected at random from the 40 students. Calculate the probability that one student takes more than 25 minutes and the other student takes 10 minutes or less to travel to school." }], "answer": { "type": "expression" } }
+          ]
+        },
+        { "label": "(b)", "marks": 5, "content": [{ "type": "text", "content": "This is some information about the time that 200 people took to fill in a questionnaire: longest time 30 min, median 22 min, lower quartile 8 min, interquartile range 19 min, range 25 min." }],
+          "subparts": [
+            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Write down the shortest time taken." }], "answer": { "type": "number", "suffix": "minutes" } },
+            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "On the grid, draw a box-and-whisker plot to show this information." }], "answer": { "type": "none" } },
+            { "label": "(iii)", "marks": 1, "content": [{ "type": "text", "content": "George says that 101 of the 200 people took more than 22 minutes to fill in the questionnaire. Explain why he is wrong." }], "answer": { "type": "expression" } }
+          ]
+        }
+      ],
+      "meta": { "s": "9.2", "cat": "statistics", "d": 2, "topics": ["Statistics"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 4, "marks": 15,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 8, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper42/Q04/Q04_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a tank in the shape of a half-cylinder of radius 12 cm and length 1 metre. The tank is fixed horizontally and is completely filled with water." }],
+          "subparts": [
+            { "label": "(i)", "marks": 3, "content": [{ "type": "text", "content": "Calculate the volume of water in the tank. Give your answer correct to the nearest $10\\text{ cm}^3$." }], "answer": { "type": "number", "suffix": "$\\text{cm}^3$" } },
+            { "label": "(ii)", "marks": 5, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper42/Q04/Q04_Suba_Fig2.png" }, { "type": "text", "content": "Water is removed from the tank until the level of water is 6 cm below the top of the tank. The diagram shows the cross-section of the tank." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the volume of water that is now in the tank." }], "answer": { "type": "number", "suffix": "$\\text{cm}^3$" } }
+          ]
+        },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "A rectangular fish tank with length 42 cm and width 35 cm is full of water. A stone lies at the bottom of the tank. When the stone is removed from the tank, the depth of the water decreases by 0.2 cm. The density of the stone is $2.2\\text{ g/cm}^3$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the mass of the stone in grams. [Density = mass $\\div$ volume.]" }], "answer": { "type": "number", "suffix": "g" } },
+        { "label": "(c)", "marks": 4, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper42/Q04/Q04_Subc_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a cuboid, $ABCDEFGH$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the angle that $AG$ makes with the base of the cuboid." }], "answer": { "type": "number", "suffix": "$°$" } }
+      ],
+      "meta": { "s": "4.6", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 5, "marks": 18,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Simplify $(25x^6)^{\\frac{3}{2}}$." }], "answer": { "type": "expression" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "These are the first five terms of a sequence." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$\\dfrac{1}{6}, \\quad 1, \\quad 6, \\quad 36, \\quad 216$" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the $n$th term of the sequence." }], "answer": { "type": "expression" } },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Expand and simplify." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$(x + 4)(x - 3)(3x - 1)$" }], "answer": { "type": "expression" } },
+        { "label": "(d)", "marks": 7, "content": [],
+          "subparts": [
+            { "label": "(i)", "marks": 4, "content": [{ "type": "text", "content": "Show that $(3x + 5) + \\dfrac{7}{x - 2} = x$ simplifies to $2x^2 + x - 3 = 0$." }], "answer": { "type": "none" } },
+            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "Solve by factorisation $2x^2 + x - 3 = 0$." }], "answer": { "type": "multiline", "lines": [{ "label": "$x=$", "value": "-1.5" }, { "label": "$x=$", "value": "1" }] } }
+          ]
+        },
+        { "label": "(e)", "marks": 4, "content": [{ "type": "text", "content": "A solid cylinder has base radius $x$ and height $3x$. The **total** surface area of the cylinder is the same as the **total** surface area of a solid hemisphere of radius $5y$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Show that $x^2 = \\dfrac{75y^2}{8}$." }, { "type": "text", "content": "[The surface area, $A$, of a sphere with radius $r$ is $A = 4\\pi r^2$.]" }], "answer": { "type": "none" } }
+      ],
+      "meta": { "s": "2.4", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 6, "marks": 10,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper42/Q06/Q06_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$ABCD$ is a quadrilateral with $AB = 10.4$ cm and $AD = 6.5$ cm. Angle $DAB = 64°$, angle $BDC = 26°$ and angle $DBC = 42°$." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "Show that $BD = 9.55$ cm, correct to 2 decimal places." }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 4, "content": [],
+          "subparts": [
+            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Show that angle $BCD = 112°$." }], "answer": { "type": "none" } },
+            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "Calculate $CD$." }], "answer": { "type": "number" } }
+          ]
+        },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Find the shortest distance from $D$ to $AB$." }], "answer": { "type": "number", "suffix": "cm" } }
+      ],
+      "meta": { "s": "5.3", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 7, "marks": 11,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Solve $3x - 8 = 6 - 4x$." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Factorise fully $10a^2 + 5a$." }], "answer": { "type": "expression" } },
+        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "Factorise fully $(2x - 3)^2 - 9$." }], "answer": { "type": "expression" } },
+        { "label": "(d)", "marks": 5, "content": [{ "type": "text", "content": "$\\text{f}(x) = \\dfrac{1}{4x - 1}, \\; x \\neq \\dfrac{1}{4} \\qquad \\text{g}(x) = 3^x$" }],
+          "subparts": [
+            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Find $\\text{f}(4)$." }], "answer": { "type": "expression" } },
+            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Find $\\text{gg}(2)$." }], "answer": { "type": "number" } },
+            { "label": "(iii)", "marks": 2, "content": [{ "type": "text", "content": "Find $k$ when $\\text{g}(k) = \\text{f}(7)$." }], "answer": { "type": "number" } }
+          ]
+        }
+      ],
+      "meta": { "s": "2.9", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "solve" }
+    },
+    {
+      "qnum": 8, "marks": 11,
+      "stem": [
+        { "type": "text", "content": "A baker decorates $x$ small cakes and $y$ large cakes. In one day, he decorates: not more than 16 small cakes, less than 10 large cakes, more small cakes than large cakes, a total of not more than 24 cakes." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "One of the inequalities that shows this information is $x \\leq 16$." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "Write down the other three inequalities in $x$ and/or $y$." }], "answer": { "type": "expression" } },
+        { "label": "(b)", "marks": 6, "content": [{ "type": "text", "content": "On the grid, draw four straight lines and shade the unwanted regions to show these inequalities. Label the region, R, which satisfies the four inequalities." }], "answer": { "type": "none" } },
+        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "The baker earns $\\$8$ for decorating a small cake and $\\$12$ for decorating a large cake. Use your diagram to find the largest amount the baker can earn in one day by decorating cakes." }], "answer": { "type": "number", "prefix": "$\\$$" } }
+      ],
+      "meta": { "s": "2.8", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "write" }
+    },
+    {
+      "qnum": 9, "marks": 10,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper42/Q09/Q09_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$OAB$ is a sector of a circle, centre $O$, radius 17 cm. $OCD$ is a sector of a circle, centre $O$, radius 10 cm. $OCA$ and $ODB$ are straight lines and angle $AOB = 60°$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The perimeter of the shaded shape $ABDC$ can be written in the form $(a\\pi + b)$ cm. Find the value of $a$ and the value of $b$." }], "answer": { "type": "multiline", "lines": [{ "label": "$a=$", "value": "9" }, { "label": "$b=$", "value": "14" }] } },
+        { "label": "(b)", "marks": 7, "content": [],
+          "subparts": [
+            { "label": "(i)", "marks": 4, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper42/Q09/Q09_Subb_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a regular hexagon. The area of the hexagon is $127.3\\text{ cm}^2$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Show that the length of one side of the hexagon is 7.0 cm, correct to 1 decimal place." }], "answer": { "type": "none" } },
+            { "label": "(ii)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper42/Q09/Q09_Subb_Fig2.png" }, { "type": "text", "content": "The hexagon is the cross-section of a prism of length 10 cm." }],
+              "subparts": [
+                { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Find the volume of the prism." }], "answer": { "type": "number", "suffix": "$\\text{cm}^3$" } },
+                { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Calculate the surface area of the prism." }], "answer": { "type": "number", "suffix": "$\\text{cm}^2$" } }
+              ]
+            }
+          ]
+        }
+      ],
+      "meta": { "s": "4.5", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 10, "marks": 12,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 5, "content": [{ "type": "text", "content": "$A$ is the point $(6, 2)$ and $B$ is the point $(3, -4)$." }],
+          "subparts": [
+            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Find the coordinates of the midpoint of $AB$." }], "answer": { "type": "coordinate" } },
+            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "Calculate the length $AB$." }], "answer": { "type": "number" } }
+          ]
+        },
+        { "label": "(b)", "marks": 7, "content": [{ "type": "text", "content": "The equation of line $l$ is $4x + 3y - 12 = 0$." }],
+          "subparts": [
+            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Find the gradient of $l$." }], "answer": { "type": "expression" } },
+            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Find the coordinates of the point where $l$ crosses the $y$-axis." }], "answer": { "type": "coordinate" } },
+            { "label": "(iii)", "marks": 3, "content": [{ "type": "text", "content": "Line $p$ is perpendicular to $l$ and passes through $(6, 5)$. Find the equation of $p$ in the form $y = mx + c$." }], "answer": { "type": "expression" } }
+          ]
+        }
+      ],
+      "meta": { "s": "3.5", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 11, "marks": 7,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "The point $(-1, 6)$ lies on a curve. This curve has the derived function $\\dfrac{\\text{d}y}{\\text{d}x} = -4x^3 - 9x^2 + 5$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Show that $(-1, 6)$ is a stationary point of the curve." }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 5, "content": [{ "type": "text", "content": "A different curve has equation $y = 2x^3 - 6x + 8$." }],
+          "subparts": [
+            { "label": "(i)", "marks": 3, "content": [{ "type": "text", "content": "Calculate the gradient of the tangent to this curve at the point $(-2, 2)$." }], "answer": { "type": "number" } },
+            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Find the $x$-coordinates of the stationary points of this curve." }], "answer": { "type": "multiline", "lines": [{ "label": "$x=$", "value": "1" }, { "label": "$x=$", "value": "-1" }] } }
+          ]
+        }
+      ],
+      "meta": { "s": "2.11", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "calculate" }
+    }
+  ]
+}

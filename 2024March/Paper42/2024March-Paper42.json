@@ -1,0 +1,110 @@
+{
+  "v": "1.0",
+  "paper": "2024March-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "March",
+  "paperNum": "42",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    { "qnum": 1, "marks": 12, "stem": [{ "type": "text", "content": "A grocer sells potatoes, mushrooms and carrots." }], "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "A customer buys $3$ kg of mushrooms at $\\$1.04$ per kg and $4$ kg of carrots at $\\$1.28$ per kg." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the total cost." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$\\$$" } },
+        { "label": "(b)", "marks": 7, "content": [{ "type": "text", "content": "In one week, the ratio of the masses of vegetables sold by the grocer is" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$\\text{potatoes : mushrooms : carrots} = 11 : 8 : 6.$$" }], "subparts": [
+            { "label": "(b)(i)", "marks": 2, "content": [{ "type": "text", "content": "Work out the mass of mushrooms sold as a percentage of the total mass." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "suffix": "$\\%$" } },
+            { "label": "(b)(ii)", "marks": 2, "content": [{ "type": "text", "content": "The total mass of potatoes, mushrooms and carrots sold is $1500$ kg." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the mass of carrots the grocer sells this week." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "suffix": "kg" } },
+            { "label": "(b)(iii)", "marks": 1, "content": [{ "type": "text", "content": "The profit the grocer makes selling $1$ kg of carrots is $\\$0.75$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the total profit the grocer makes selling carrots this week." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$\\$$" } },
+            { "label": "(b)(iv)", "marks": 2, "content": [{ "type": "text", "content": "On the last day of the week, the grocer reduces the price of $1$ kg of potatoes by $8\\%$ to $\\$1.15$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the original price of $1$ kg of potatoes." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$\\$$" } }
+          ] },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "The grocer buys $620$ kg of onions, correct to the nearest $20$ kg." }, { "type": "text", "content": "He packs them into bags each containing $5$ kg of onions, correct to the nearest $1$ kg." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the upper bound for the number of bags of onions that he packs." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number" } }
+      ], "meta": { "s": "1.11", "cat": "number", "d": 2, "topics": ["Number", "Ratio"], "cmd": "calculate" } },
+    { "qnum": 2, "marks": 8, "stem": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper42/Q02/Q02_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$A$, $B$, $C$ and $D$ are points on a circle." }, { "type": "text", "content": "$ADX$ and $BCX$ are straight lines." }, { "type": "text", "content": "Angle $BAD = x°$ and angle $DCX = y°$." }], "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Explain why $x = y$." }, { "type": "text", "content": "Give a geometrical reason for each statement you make." }], "answer": { "type": "structured", "answerBlocks": [{}, {}] } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Show that triangle $ABX$ is similar to triangle $CDX$." }], "answer": { "type": "structured", "answerBlocks": [{}, {}] } },
+        { "label": "(c)", "marks": 4, "content": [{ "type": "text", "content": "$AD = 15$ cm, $DX = 9$ cm and $CX = 12$ cm." }], "subparts": [
+            { "label": "(c)(i)", "marks": 3, "content": [{ "type": "text", "content": "Find $BC$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$BC$ =", "suffix": "$\\text{cm}$" } },
+            { "label": "(c)(ii)", "marks": 1, "content": [{ "type": "text", "content": "Complete the statement." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The ratio $\\,$ area of triangle $ABX$ : area of triangle $CDX$ = .......... : $1$." }], "answer": { "type": "number" } }
+          ] }
+      ], "meta": { "s": "4.6", "cat": "geometry", "d": 3, "topics": ["Circle Theorems", "Similarity"], "cmd": "explain" } },
+    { "qnum": 3, "marks": 13, "stem": [], "parts": [
+        { "label": "(a)", "marks": 6, "content": [{ "type": "text", "content": "The table shows information about the marks gained by each of $10$ students in a test." }, { "type": "newline", "lines": 1 }, { "type": "table", "content": "\\begin{tabular}{|c|c|c|c|c|c|c|}\\hline Mark & 15 & 16 & 17 & 18 & 19 & 20 \\\\\\hline Frequency & 4 & 1 & 2 & 1 & 0 & 2 \\\\\\hline\\end{tabular}" }], "subparts": [
+            { "label": "(a)(i)", "marks": 1, "content": [{ "type": "text", "content": "Calculate the range." }], "answer": { "type": "number" } },
+            { "label": "(a)(ii)", "marks": 3, "content": [{ "type": "text", "content": "Calculate the mean." }], "answer": { "type": "number" } },
+            { "label": "(a)(iii)", "marks": 1, "content": [{ "type": "text", "content": "Find the median." }], "answer": { "type": "number" } },
+            { "label": "(a)(iv)", "marks": 1, "content": [{ "type": "text", "content": "Write down the mode." }], "answer": { "type": "number" } }
+          ] },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Paulo's mean mark for $7$ homework tasks is $17$." }, { "type": "text", "content": "After completing the 8th task, his mean mark is $17.5$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate Paulo's mark for the 8th task." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number" } },
+        { "label": "(c)", "marks": 4, "content": [{ "type": "text", "content": "The table shows the percentage scored by each of $100$ students in their final exam." }, { "type": "newline", "lines": 1 }, { "type": "table", "content": "\\begin{tabular}{|c|c|c|c|c|c|}\\hline Percentage ($p$) & $0 < p \\leqslant 30$ & $30 < p \\leqslant 50$ & $50 < p \\leqslant 60$ & $60 < p \\leqslant 70$ & $70 < p \\leqslant 100$ \\\\\\hline Frequency & 12 & 18 & 35 & 20 & 15 \\\\\\hline\\end{tabular}" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "On the grid, draw a histogram to show this information." }, { "type": "newline", "lines": 1 }, { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper42/Q03/Q03_Subc_Fig1.png" }], "answer": { "type": "none" } }
+      ], "meta": { "s": "9.3", "cat": "statistics", "d": 2, "topics": ["Statistics"], "cmd": "calculate" } },
+    { "qnum": 4, "marks": 11, "stem": [], "parts": [
+        { "label": "(a)", "marks": 7, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper42/Q04/Q04_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a pyramid with a square base $BCDE$." }, { "type": "text", "content": "The diagonals $CE$ and $BD$ intersect at $M$, and the vertex $F$ is directly above $M$." }, { "type": "text", "content": "$BE = 12$ cm and $FM = 9$ cm." }], "subparts": [
+            { "label": "(a)(i)", "marks": 2, "content": [{ "type": "text", "content": "Calculate the volume of the pyramid." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "[The volume, $V$, of a pyramid with base area $A$ and height $h$ is $V = \\frac{1}{3}Ah$.]" }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "suffix": "$\\text{cm}^3$" } },
+            { "label": "(a)(ii)", "marks": 5, "content": [{ "type": "text", "content": "Calculate the total surface area of the pyramid." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "suffix": "$\\text{cm}^2$" } }
+          ] },
+        { "label": "(b)", "marks": 4, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper42/Q04/Q04_Subb_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a toy made from a cone and a hemisphere." }, { "type": "text", "content": "The base radius of the cone and the radius of the hemisphere are both $r$ cm." }, { "type": "text", "content": "The slant height of the cone is $3r$ cm." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The total surface area of the toy is $304$ $\\text{cm}^2$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the value of $r$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "[The curved surface area, $A$, of a cone with radius $r$ and slant height $l$ is $A = \\pi r l$.]" }, { "type": "text", "content": "[The curved surface area, $A$, of a sphere with radius $r$ is $A = 4\\pi r^2$.]" }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$r$ =" } }
+      ], "meta": { "s": "5.2", "cat": "geometry", "d": 3, "topics": ["Mensuration"], "cmd": "calculate" } },
+    { "qnum": 5, "marks": 20, "stem": [], "parts": [
+        { "label": "(a)", "marks": 4, "content": [{ "type": "text", "content": "Factorise." }], "subparts": [
+            { "label": "(a)(i)", "marks": 2, "content": [{ "type": "text", "content": "$$x^2 - x - 12$$" }], "answer": { "type": "expression" } },
+            { "label": "(a)(ii)", "marks": 2, "content": [{ "type": "text", "content": "Simplify." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$\\frac{x^2 - 16}{x^2 - x - 12}$$" }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } }
+          ] },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Simplify." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$(2x - 3)^2 - (x + 1)^2$$" }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } },
+        { "label": "(c)", "marks": 4, "content": [{ "type": "text", "content": "Write as a single fraction in its simplest form." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$\\frac{2x + 4}{x + 1} - \\frac{x}{x - 3}$$" }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } },
+        { "label": "(d)", "marks": 3, "content": [{ "type": "text", "content": "Expand and simplify." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$(x - 3)(x - 5)(2x + 1)$$" }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } },
+        { "label": "(e)", "marks": 6, "content": [{ "type": "text", "content": "Solve the simultaneous equations." }, { "type": "text", "content": "You must show all your working." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$x - 3y = 13$$" }, { "type": "text", "content": "$$2x^2 - 9y = 116$$" }, { "type": "space", "height": "1cm" }], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$x$ =", "suffix": "$y$ =" }, { "prefix": "$x$ =", "suffix": "$y$ =" }] } }
+      ], "meta": { "s": "2.5", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "simplify" } },
+    { "qnum": 6, "marks": 9, "stem": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper42/Q06/Q06_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows triangle $ABC$ with $AB = 17.2$ cm." }, { "type": "text", "content": "Angle $ABC = 54°$ and angle $ACB = 68°$." }], "parts": [
+        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "Calculate $AC$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$AC$ =", "suffix": "$\\text{cm}$" } },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "$M$ lies on $BC$ and $MC = 12.8$ cm." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate $AM$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$AM$ =", "suffix": "$\\text{cm}$" } },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Calculate the shortest distance from $A$ to $BC$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "suffix": "$\\text{cm}$" } }
+      ], "meta": { "s": "6.3", "cat": "geometry", "d": 3, "topics": ["Trigonometry"], "cmd": "calculate" } },
+    { "qnum": 7, "marks": 7, "stem": [], "parts": [
+        { "label": "(a)", "marks": 4, "content": [{ "type": "text", "content": "$$\\mathbf{p} = \\begin{pmatrix} 8 \\\\ -5 \\end{pmatrix} \\qquad \\mathbf{q} = \\begin{pmatrix} -4 \\\\ 5 \\end{pmatrix}$$" }], "subparts": [
+            { "label": "(a)(i)", "marks": 1, "content": [{ "type": "text", "content": "Find $3\\mathbf{q}$." }], "answer": { "type": "vector", "fields": 2 } },
+            { "label": "(a)(ii)", "marks": 3, "content": [], "subparts": [
+                { "label": "(a)(ii)(a)", "marks": 1, "content": [{ "type": "text", "content": "Find $\\mathbf{p} - \\mathbf{q}$." }], "answer": { "type": "vector", "fields": 2 } },
+                { "label": "(a)(ii)(b)", "marks": 2, "content": [{ "type": "text", "content": "Find $|\\mathbf{p} - \\mathbf{q}|$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number" } }
+              ] }
+          ] },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper42/Q07/Q07_Subb_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "In triangle $OMN$, $O$ is the origin, $\\overrightarrow{OM} = \\mathbf{a}$ and $\\overrightarrow{ON} = \\mathbf{b}$." }, { "type": "text", "content": "$S$ is a point on $MN$ such that $MS : SN = 5 : 3$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find, in terms of $\\mathbf{a}$ and/or $\\mathbf{b}$, the position vector of $S$." }, { "type": "text", "content": "Give your answer in its simplest form." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } }
+      ], "meta": { "s": "8.1", "cat": "geometry", "d": 3, "topics": ["Vectors"], "cmd": "find" } },
+    { "qnum": 8, "marks": 12, "stem": [], "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "On the axes, sketch the graph of $y = 4 - 3x$." }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "On the axes, sketch the graph of $y = -x^2$." }], "answer": { "type": "none" } },
+        { "label": "(c)", "marks": 8, "content": [], "subparts": [
+            { "label": "(c)(i)", "marks": 5, "content": [{ "type": "text", "content": "Find the coordinates of the turning points of the graph of $y = 10 + 9x^2 - 2x^3$." }, { "type": "text", "content": "You must show all your working." }, { "type": "space", "height": "1cm" }], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "(", "suffix": ", ............) and (" }, { "suffix": ", ............)" }] } },
+            { "label": "(c)(ii)", "marks": 3, "content": [{ "type": "text", "content": "Determine whether each turning point is a maximum or a minimum." }, { "type": "text", "content": "Show how you decide." }], "answer": { "type": "structured", "answerBlocks": [{}, {}] } }
+          ] }
+      ], "meta": { "s": "3.4", "cat": "algebra", "d": 4, "topics": ["Algebra", "Differentiation"], "cmd": "find" } },
+    { "qnum": 9, "marks": 9, "stem": [], "parts": [
+        { "label": "(a)", "marks": 6, "content": [{ "type": "text", "content": "Janna and Kamal each invest $\\$8000$." }, { "type": "text", "content": "At the end of $12$ years, they each have $\\$12\\,800$." }], "subparts": [
+            { "label": "(a)(i)", "marks": 3, "content": [{ "type": "text", "content": "Janna invests in an account that pays simple interest at a rate of $r\\%$ per year." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the value of $r$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$r$ =" } },
+            { "label": "(a)(ii)", "marks": 3, "content": [{ "type": "text", "content": "Kamal invests in an account that pays compound interest at a rate of $R\\%$ per year." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the value of $R$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$R$ =" } }
+          ] },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "The population of a city is growing exponentially at a rate of $1.8\\%$ per year." }, { "type": "text", "content": "The population now is $260\\,000$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the number of complete years from now when the population will first be more than $300\\,000$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "suffix": "years" } }
+      ], "meta": { "s": "1.12", "cat": "number", "d": 3, "topics": ["Number"], "cmd": "calculate" } },
+    { "qnum": 10, "marks": 12, "stem": [{ "type": "text", "content": "The table shows some values for $y = 2x^3 + 6x^2 - 2.5$." }, { "type": "newline", "lines": 1 }, { "type": "table", "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}\\hline $x$ & $-3$ & $-2.5$ & $-2$ & $-1.5$ & $-1$ & $-0.5$ & 0 & 0.5 & 1 \\\\\\hline $y$ & & 3.75 & 5.5 & 4.25 & 1.5 & & $-2.5$ & $-0.75$ & \\\\\\hline\\end{tabular}" }, { "type": "newline", "lines": 1 }, { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper42/Q10/Q10_Stem_Fig1.png" }], "parts": [
+        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "Complete the table." }], "answer": { "type": "table_input" } },
+        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "On the grid, draw the graph of $y = 2x^3 + 6x^2 - 2.5$ for $-3 \\leqslant x \\leqslant 1$." }], "answer": { "type": "none" } },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "By drawing a suitable line on the graph, solve the equation $2x^3 + 6x^2 = 4.5$." }], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$x$ =" }, { "prefix": "or $x$ =" }, { "prefix": "or $x$ =" }] } },
+        { "label": "(d)", "marks": 2, "content": [{ "type": "text", "content": "The equation $2x^3 + 6x^2 - 2.5 = k$ has exactly two solutions." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Write down the two possible values of $k$." }], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$k$ =" }, { "prefix": "or $k$ =" }] } }
+      ], "meta": { "s": "3.3", "cat": "algebra", "d": 3, "topics": ["Algebra", "Coordinate Geometry"], "cmd": "draw" } },
+    { "qnum": 11, "marks": 10, "stem": [{ "type": "text", "content": "$$\\text{f}(x) = \\frac{1}{x}, \\, x \\neq 0 \\qquad \\text{g}(x) = 3x - 5 \\qquad \\text{h}(x) = 2^x$$" }], "parts": [
+        { "label": "(a)", "marks": 4, "content": [{ "type": "text", "content": "Find." }], "subparts": [
+            { "label": "(a)(i)", "marks": 2, "content": [{ "type": "text", "content": "$\\text{gf}(2)$" }, { "type": "space", "height": "1cm" }], "answer": { "type": "number" } },
+            { "label": "(a)(ii)", "marks": 2, "content": [{ "type": "text", "content": "$\\text{g}^{-1}(x)$" }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression", "prefix": "$\\text{g}^{-1}(x)$ =" } }
+          ] },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Find in its simplest form $\\text{g}(x - 2)$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } },
+        { "label": "(c)", "marks": 4, "content": [{ "type": "text", "content": "Find the value of $x$ when" }], "subparts": [
+            { "label": "(c)(i)", "marks": 2, "content": [{ "type": "text", "content": "$\\text{fg}(x) = 0.1$" }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$x$ =" } },
+            { "label": "(c)(ii)", "marks": 2, "content": [{ "type": "text", "content": "$\\text{h}(x) - \\text{g}(7) = 0$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$x$ =" } }
+          ] }
+      ], "meta": { "s": "2.9", "cat": "algebra", "d": 3, "topics": ["Functions"], "cmd": "find" } },
+    { "qnum": 12, "marks": 7, "stem": [], "parts": [
+        { "label": "(a)", "marks": 4, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper42/Q12/Q12_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a circle of radius $12$ cm, with a sector removed." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the perimeter of the remaining shaded shape." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "suffix": "$\\text{cm}$" } },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "The diagram in part(a) shows the top of a cylindrical cake with a slice removed." }, { "type": "text", "content": "The volume of cake that remains is $3510$ $\\text{cm}^3$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the height of the cake." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "suffix": "$\\text{cm}$" } }
+      ], "meta": { "s": "5.1", "cat": "geometry", "d": 3, "topics": ["Mensuration"], "cmd": "calculate" } }
+  ]
+}

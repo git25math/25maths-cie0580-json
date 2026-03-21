@@ -1,0 +1,196 @@
+{
+  "v": "1.0",
+  "paper": "2023March-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2023,
+  "session": "March",
+  "paperNum": "42",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1, "marks": 16,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 8, "content": [],
+          "subparts": [
+            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Alain and Beatrice share $\\$750$ in the ratio Alain : Beatrice $= 8 : 7$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Show that Alain receives $\\$400$." }], "answer": { "type": "none" } },
+            { "label": "(ii)", "marks": 4, "content": [{ "type": "text", "content": "Alain spends $\\$150$." }],
+              "subparts": [
+                { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Write $\\$150$ as a percentage of $\\$400$." }], "answer": { "type": "number", "suffix": "%" } },
+                { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "He invests the remaining $\\$250$ at a rate of 2% per year simple interest. Calculate the amount Alain has at the end of 5 years." }], "answer": { "type": "number", "prefix": "$\\$$" } }
+              ]
+            },
+            { "label": "(iii)", "marks": 3, "content": [{ "type": "text", "content": "Beatrice invests her $\\$350$ at a rate of 0.25% per **month** compound interest. Calculate the amount Beatrice has at the end of 5 years. Give your answer correct to the nearest dollar." }], "answer": { "type": "number", "prefix": "$\\$$" } }
+          ]
+        },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Carl, Dina and Eva share 100 oranges. The ratio Carl's oranges : Dina's oranges $= 3 : 5$. The ratio Carl's oranges : Eva's oranges $= 2 : 3$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the number of oranges Carl receives." }], "answer": { "type": "number" } },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Fred buys a house. At the end of the first year, the value of the house increases by 5%. At the end of the second year, the value increases by 3% of its value at the end of the first year. The value at the end of the second year is $\\$60\\,564$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate how much Fred paid for the house." }], "answer": { "type": "number", "prefix": "$\\$$" } },
+        { "label": "(d)", "marks": 3, "content": [{ "type": "text", "content": "Gabrielle invests $\\$500$ at a rate of $r\\%$ per year compound interest. At the end of 8 years the value of Gabrielle's investment is $\\$609.20$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the value of $r$." }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "1.12", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 2, "marks": 15,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 7, "content": [{ "type": "text", "content": "100 students take part in a reaction test. The table shows the results." }, { "type": "newline", "lines": 1 }, { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper42/Q02/Q02_Suba_Fig1.png" }],
+          "subparts": [
+            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Write down the mode." }], "answer": { "type": "number", "suffix": "s" } },
+            { "label": "(ii)", "marks": 1, "content": [{ "type": "text", "content": "Find the median." }], "answer": { "type": "number", "suffix": "s" } },
+            { "label": "(iii)", "marks": 3, "content": [{ "type": "text", "content": "Calculate the mean." }], "answer": { "type": "number", "suffix": "s" } },
+            { "label": "(iv)", "marks": 2, "content": [{ "type": "text", "content": "Two students are chosen at random. Find the probability that both their reaction times are greater than or equal to 9 seconds." }], "answer": { "type": "expression" } }
+          ]
+        },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper42/Q02/Q02_Subb_Fig2.png" }, { "type": "text", "content": "The box-and-whisker plot shows the heights, $h$ cm, of some students." }],
+          "subparts": [
+            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Find the range." }], "answer": { "type": "number", "suffix": "cm" } },
+            { "label": "(ii)", "marks": 1, "content": [{ "type": "text", "content": "Find the interquartile range." }], "answer": { "type": "number", "suffix": "cm" } }
+          ]
+        },
+        { "label": "(c)", "marks": 6, "content": [{ "type": "text", "content": "The mass of each of 200 potatoes is measured. The table shows the results." }, { "type": "newline", "lines": 1 }, { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper42/Q02/Q02_Subc_Fig1.png" }],
+          "subparts": [
+            { "label": "(i)", "marks": 4, "content": [{ "type": "text", "content": "Calculate an estimate of the mean." }], "answer": { "type": "number", "suffix": "g" } },
+            { "label": "(ii)", "marks": 2, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper42/Q02/Q02_Subc_Fig2.png" }, { "type": "text", "content": "Complete the histogram to show the information in the table." }], "answer": { "type": "none" } }
+          ]
+        }
+      ],
+      "meta": { "s": "9.2", "cat": "statistics", "d": 2, "topics": ["Statistics"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 3, "marks": 9,
+      "stem": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper42/Q03/Q03_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a cylinder containing water. There is a solid metal sphere touching the base of the cylinder. Half of the sphere is in the water. The radius of the cylinder is 12 cm and the radius of the sphere is 3 cm." }],
+      "parts": [
+        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "The sphere is removed from the cylinder and the level of the water decreases by $h$ cm." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Show that $h = 0.125$." }, { "type": "text", "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\dfrac{4}{3}\\pi r^3$.]" }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "The water in the cylinder is poured into another cylinder of radius $R$ cm. The depth of the water in this cylinder is 18 cm." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the value of $R$." }], "answer": { "type": "number" } },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "The sphere is melted down and some of the metal is used to make 30 cubes with edge length 1.5 cm." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the percentage of metal **not** used." }, { "type": "text", "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\dfrac{4}{3}\\pi r^3$.]" }], "answer": { "type": "number", "suffix": "%" } }
+      ],
+      "meta": { "s": "4.6", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 4, "marks": 12,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 9, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper42/Q04/Q04_Suba_Fig1.png" }],
+          "subparts": [
+            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Enlarge triangle $T$ by scale factor 3, centre $(0, 2)$." }], "answer": { "type": "none" } },
+            { "label": "(ii)", "marks": 7, "content": [],
+              "subparts": [
+                { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Rotate triangle $T$ about $(4, 2)$ by $90°$ clockwise. Label the image $P$." }], "answer": { "type": "none" } },
+                { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Reflect triangle $T$ in the line $x + y = 6$. Label the image $Q$." }], "answer": { "type": "none" } },
+                { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "Describe fully the **single** transformation that maps triangle $P$ onto triangle $Q$." }], "answer": { "type": "expression" } }
+              ]
+            }
+          ]
+        },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper42/Q04/Q04_Subb_Fig2.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows triangle $OHK$, where $O$ is the origin. The position vector of $H$ is $\\mathbf{a}$ and the position vector of $K$ is $\\mathbf{b}$. $Z$ is the point on $HK$ such that $HZ : ZK = 2 : 5$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the position vector of $Z$, in terms of $\\mathbf{a}$ and $\\mathbf{b}$. Give your answer in its simplest form." }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "4.3", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "draw" }
+    },
+    {
+      "qnum": 5, "marks": 12,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Expand and simplify." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$(2p^2 - 3)(3p^2 - 2)$" }], "answer": { "type": "expression" } },
+        { "label": "(b)", "marks": 5, "content": [{ "type": "text", "content": "$s = \\dfrac{1}{2}(u + v)t$" }],
+          "subparts": [
+            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Find the value of $s$ when $u = 20$, $v = 30$ and $t = 7$." }], "answer": { "type": "number" } },
+            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "Rearrange the formula to write $v$ in terms of $s$, $u$ and $t$." }], "answer": { "type": "expression" } }
+          ]
+        },
+        { "label": "(c)", "marks": 5, "content": [{ "type": "text", "content": "Factorise completely." }],
+          "subparts": [
+            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "$2qt - 3t - 6 + 4q$" }], "answer": { "type": "expression" } },
+            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "$x^3 - 25x$" }], "answer": { "type": "expression" } }
+          ]
+        }
+      ],
+      "meta": { "s": "2.4", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "expand" }
+    },
+    {
+      "qnum": 6, "marks": 11,
+      "stem": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper42/Q06/Q06_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$A$ is the point $(0, 4)$ and $B$ is the point $(8, 0)$. The line $L_1$ is parallel to the $x$-axis. The line $L_2$ passes through $A$ and $B$." }],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Write down the equation of $L_1$." }], "answer": { "type": "expression" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Find the equation of $L_2$. Give your answer in the form $y = mx + c$." }], "answer": { "type": "expression" } },
+        { "label": "(c)", "marks": 8, "content": [{ "type": "text", "content": "$C$ is the point $(2, 3)$. The line $L_3$ passes through $C$ and is perpendicular to $L_2$." }],
+          "subparts": [
+            { "label": "(i)", "marks": 3, "content": [{ "type": "text", "content": "Show that the equation of $L_3$ is $y = 2x - 1$." }], "answer": { "type": "none" } },
+            { "label": "(ii)", "marks": 5, "content": [{ "type": "text", "content": "$L_3$ crosses the $x$-axis at $D$. Find the length of $CD$." }], "answer": { "type": "number" } }
+          ]
+        }
+      ],
+      "meta": { "s": "3.5", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 7, "marks": 9,
+      "stem": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper42/Q07/Q07_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$\\mathcal{E} = \\{\\text{students in a class}\\}$, $P = \\{\\text{students who study Physics}\\}$, $C = \\{\\text{students who study Chemistry}\\}$. $\\text{n}(\\mathcal{E}) = 24$, $\\text{n}(P) = 17$, $\\text{n}(C) = 14$, $\\text{n}(P \\cap C) = 9$." }],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Complete the Venn diagram." }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 2, "content": [],
+          "subparts": [
+            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Find $\\text{n}(P \\cap C')$." }], "answer": { "type": "number" } },
+            { "label": "(ii)", "marks": 1, "content": [{ "type": "text", "content": "Find $\\text{n}(P \\cup C')$." }], "answer": { "type": "number" } }
+          ]
+        },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Two students are picked from the class at random. Find the probability that one student studies both subjects and one student studies Chemistry but not Physics." }], "answer": { "type": "expression" } },
+        { "label": "(d)", "marks": 2, "content": [{ "type": "text", "content": "Two of the students who study Physics are picked at random. Find the probability that they both study Chemistry." }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "8.3", "cat": "probability", "d": 2, "topics": ["Probability"], "cmd": "find" }
+    },
+    {
+      "qnum": 8, "marks": 8,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper42/Q08/Q08_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the area of the triangle." }], "answer": { "type": "number", "suffix": "$\\text{cm}^2$" } },
+        { "label": "(b)", "marks": 6, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper42/Q08/Q08_Subb_Fig2.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$AB = (2x + 3)$ cm and $h = (x + 5)$ cm. The area of triangle $ABC = 50\\text{ cm}^2$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the value of $x$, giving your answer correct to 2 decimal places. You must show all your working." }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "2.7", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 9, "marks": 9,
+      "stem": [{ "type": "text", "content": "$\\text{f}(x) = x^3 - 3x^2 - 4$" }],
+      "parts": [
+        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "Find the gradient of the graph of $y = \\text{f}(x)$ where $x = 1$." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "Find the coordinates of the turning points of the graph of $y = \\text{f}(x)$." }], "answer": { "type": "expression" } },
+        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "Sketch the graph of $y = \\text{f}(x)$." }], "answer": { "type": "none" } }
+      ],
+      "meta": { "s": "2.11", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 10, "marks": 15,
+      "stem": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper42/Q10/Q10_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a quadrilateral $ABCD$. $AC = 12.3$ cm and $AD = 16.5$ cm. Angle $BAC = 31°$, angle $ABC = 90°$ and angle $ACD = 90°$." }],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Show that $AB = 10.54$ cm, correct to 2 decimal places." }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Show that angle $DAC = 41.80°$ correct to 2 decimal places." }], "answer": { "type": "none" } },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Calculate $BD$." }], "answer": { "type": "number", "suffix": "cm" } },
+        { "label": "(d)", "marks": 4, "content": [{ "type": "text", "content": "Calculate angle $CBD$." }], "answer": { "type": "number", "suffix": "$°$" } },
+        { "label": "(e)", "marks": 4, "content": [{ "type": "text", "content": "Calculate the shortest distance from $C$ to $BD$." }], "answer": { "type": "number", "suffix": "cm" } }
+      ],
+      "meta": { "s": "5.3", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 11, "marks": 10,
+      "stem": [{ "type": "text", "content": "$\\text{f}(x) = 2x - 1 \\qquad \\text{g}(x) = 3x + 2 \\qquad \\text{h}(x) = \\dfrac{1}{x}, \\; x \\neq 0 \\qquad \\text{j}(x) = x^2$" }],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Find $\\text{j}(-1)$." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Find $x$ when $\\text{f}(x) + \\text{g}(x) = 0$." }], "answer": { "type": "number" } },
+        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "Find $\\text{gg}(x)$, giving your answer in its simplest form." }], "answer": { "type": "expression" } },
+        { "label": "(d)", "marks": 4, "content": [{ "type": "text", "content": "Find $\\text{hf}(x) + \\text{gh}(x)$, giving your answer as a single fraction in its simplest form." }], "answer": { "type": "expression" } },
+        { "label": "(e)", "marks": 1, "content": [{ "type": "text", "content": "When $\\text{pp}(x) = x$, $\\text{p}(x)$ is a function such that $\\text{p}^{-1}(x) = \\text{p}(x)$. Draw a ring around the function that has this property." }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "2.9", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 12, "marks": 4,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Sketch the graph of $y = \\tan x$ for $0° \\leq x \\leq 360°$." }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Find $x$ when $\\tan x = \\dfrac{1}{\\sqrt{3}}$ and $0° \\leq x \\leq 360°$." }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "5.2", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "sketch" }
+    }
+  ]
+}

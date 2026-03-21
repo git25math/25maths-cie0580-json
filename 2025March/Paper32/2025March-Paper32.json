@@ -1,0 +1,1384 @@
+{
+  "v": "1.0",
+  "paper": "2025March-Paper32",
+  "board": "cie",
+  "code": "0580",
+  "year": 2025,
+  "session": "March",
+  "paperNum": "32",
+  "type": "core-calc",
+  "totalMarks": 80,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Taj is $3\\frac{1}{4}$ years old."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Work out her age in months."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "months"
+      },
+      "meta": {
+        "s": "1.5",
+        "cat": "number",
+        "d": 1,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Div has $\\$25$ to buy some cups which cost $\\$4.25$ each."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the maximum number of cups he can buy and the change he receives."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          { "prefix": "Number of cups" },
+          { "prefix": "Change $\\$$" }
+        ]
+      },
+      "meta": {
+        "s": "1.5",
+        "cat": "number",
+        "d": 2,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper32/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure angle $A$."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name of this type of angle."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "4.1",
+        "cat": "geometry",
+        "d": 1,
+        "topics": ["Geometry"],
+        "cmd": "measure"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}\\hline 30 & 31 & 32 & 33 & 34 & 35 & 36 & 37 & 38 & 39 \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "From this list, write down the number that is"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a multiple of 13"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a factor of 140"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the largest prime number"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "divisible by an even cube number"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$20\\%$ of 190."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "1.3",
+        "cat": "number",
+        "d": 1,
+        "topics": ["Number"],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A farmer plants $t$ trees each day."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Write an expression for the number of trees he plants in $d$ days."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A train has $p$ passengers."
+            },
+            {
+              "type": "text",
+              "content": "$x$ passengers get off the train and $y$ passengers get on the train."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Write an expression for the number of passengers on the train now."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.1",
+        "cat": "algebra",
+        "d": 1,
+        "topics": ["Algebra"],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Raj thinks of a negative number, $n$."
+        },
+        {
+          "type": "text",
+          "content": "He adds 10 to $n$ and then multiplies by 5."
+        },
+        {
+          "type": "text",
+          "content": "The answer is 30."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $n$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$n$ ="
+      },
+      "meta": {
+        "s": "2.5",
+        "cat": "algebra",
+        "d": 2,
+        "topics": ["Algebra"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a straight line crossing a pair of parallel lines."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper32/Q07/Q07_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Complete these statements."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Angle $A$ and angle .......... are corresponding angles."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              { "prefix": "Angle $A$ and angle", "suffix": "are corresponding angles." }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Angle $A$ and angle $e$ are .......... angles."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              { "prefix": "Angle $A$ and angle $e$ are", "suffix": "angles." }
+            ]
+          }
+        }
+      ],
+      "meta": {
+        "s": "4.2",
+        "cat": "geometry",
+        "d": 1,
+        "topics": ["Geometry"],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "These are the first four terms of a sequence."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$$31 \\quad 24 \\quad 17 \\quad 10$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the term-to-term rule for continuing this sequence."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the next two terms in this sequence."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the $n$th term."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.7",
+        "cat": "algebra",
+        "d": 2,
+        "topics": ["Algebra"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A cuboid measures 3 cm by 7 cm by 11 cm."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the surface area of the cuboid."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      },
+      "meta": {
+        "s": "5.2",
+        "cat": "geometry",
+        "d": 2,
+        "topics": ["Mensuration"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows an ordered stem-and-leaf diagram."
+        },
+        {
+          "type": "text",
+          "content": "$A$, $B$ and $C$ are missing numbers."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper32/Q10/Q10_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Key : $1 | 3$ represents $13$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "For the ten numbers"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "the range is 27",
+            "the median is 16",
+            "the mean is 16.5"
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the values of $A$, $B$ and $C$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              { "prefix": "$A$ =" },
+              { "prefix": "$B$ =" },
+              { "prefix": "$C$ =" }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete this statement."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              { "prefix": "There is no mode because" },
+              {}
+            ]
+          }
+        }
+      ],
+      "meta": {
+        "s": "9.3",
+        "cat": "statistics",
+        "d": 3,
+        "topics": ["Statistics"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows the positions of two lighthouses, $P$ and $Q$."
+        },
+        {
+          "type": "text",
+          "content": "The scale is 1 centimetre represents 0.8 kilometres."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper32/Q11/Q11_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the actual distance between $P$ and $Q$."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Measure the bearing of $Q$ from $P$."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A boat, $B$, is on a bearing of $127°$ from $P$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the bearing of $P$ from $B$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "4.4",
+        "cat": "geometry",
+        "d": 2,
+        "topics": ["Geometry"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Mo asks some people if they prefer sun, rain or wind."
+        },
+        {
+          "type": "text",
+          "content": "The pie chart shows the results."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper32/Q12/Q12_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "45 more people prefer wind than rain."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Work out how many people prefer sun."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": "9.2",
+        "cat": "statistics",
+        "d": 3,
+        "topics": ["Statistics"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Xie changes 2000 dollars into krona."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$$1 \\text{ dollar} = 0.615 \\text{ euros}$$"
+        },
+        {
+          "type": "text",
+          "content": "$$1 \\text{ krona} = 0.087 \\text{ euros}$$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Use the exchange rates to calculate how many krona she receives."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest krona."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "krona"
+      },
+      "meta": {
+        "s": "1.11",
+        "cat": "number",
+        "d": 3,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$8x^2 - 2x$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand the brackets and simplify."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$5(2m - 1) + 3(m + 7)$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.2",
+        "cat": "algebra",
+        "d": 2,
+        "topics": ["Algebra"],
+        "cmd": "simplify"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A car travels 95 km in 2 hours and 15 minutes."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the average speed of the car in km/h."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km/h}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Convert 8 m/s into km/h."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km/h}$"
+          }
+        }
+      ],
+      "meta": {
+        "s": "1.11",
+        "cat": "number",
+        "d": 2,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Chi shares $\\$480$ in the ratio $2 : 3 : 7$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of the largest share."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify these ratios."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$98 : 147$"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$2^{450} : 2^{452}$"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "s": "1.10",
+        "cat": "number",
+        "d": 2,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{x}{3} = 18$$"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$\\frac{6^9}{6^y} = 6^{11}$$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $y$."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{a^6 b^{-2}}{a^4 b^3}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.4",
+        "cat": "algebra",
+        "d": 2,
+        "topics": ["Algebra"],
+        "cmd": "simplify"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Clare invests $\\$12\\,000$ for 3 years at a rate of $8\\%$ per year compound interest."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of her investment at the end of the 3 years."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to the nearest $\\$10$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Zak invests $\\$560$ for one year."
+            },
+            {
+              "type": "text",
+              "content": "After one year his investment is worth $\\$630$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the percentage increase."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        }
+      ],
+      "meta": {
+        "s": "1.12",
+        "cat": "number",
+        "d": 3,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 2025 as the product of its prime factors."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 2025 as a product of two square numbers that are both greater than one."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "1.3",
+        "cat": "number",
+        "d": 2,
+        "topics": ["Number"],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows three shapes, $A$, $B$ and $C$, on a $1 \\text{ cm}^2$ grid."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper32/Q20/Q20_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the image of shape $A$ after a rotation, $90°$ clockwise, centre $(0, 3)$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "shape $A$ onto shape $B$."
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {},
+                  {}
+                ]
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "shape $A$ onto shape $C$."
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {},
+                  {}
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the size of the smallest angle in triangle $C$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "7.1",
+        "cat": "geometry",
+        "d": 3,
+        "topics": ["Transformations"],
+        "cmd": "describe"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that the sum of the interior angles of a pentagon is $540°$."
+            },
+            {
+              "type": "space",
+              "height": "3cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "In this part, all angles are in degrees."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper32/Q21/Q21_Stem_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows the five interior angles of a pentagon, written in terms of $x$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down an expression, in terms of $x$, for the sum of the interior angles of the pentagon."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the value of $x$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "s": "4.3",
+        "cat": "geometry",
+        "d": 3,
+        "topics": ["Geometry"],
+        "cmd": "calculate"
+      }
+    }
+  ]
+}

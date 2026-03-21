@@ -1,0 +1,306 @@
+{
+  "v": "1.0",
+  "paper": "2025MayJune-Paper21",
+  "board": "cie",
+  "code": "0580",
+  "year": 2025,
+  "session": "MayJune",
+  "paperNum": "21",
+  "type": "ext-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1, "marks": 2,
+      "stem": [{ "type": "text", "content": "Simplify." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$7c - 5d + c + 3d$$" }, { "type": "space", "height": "1cm" }],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "2.2", "cat": "algebra", "d": 1, "topics": ["Algebra"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 2, "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper21/Q02/Q02_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows two parallel lines intersecting two straight lines." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the values of $w$, $x$ and $y$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$w$ =" }, { "prefix": "$x$ =" }, { "prefix": "$y$ =" }] },
+      "meta": { "s": "4.2", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 3, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Sally invests $\\$1500$ at $3\\%$ per year simple interest." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out the total value of her investment at the end of 6 years." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number", "prefix": "$\\$$" },
+      "meta": { "s": "1.12", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 4, "marks": 3,
+      "stem": [{ "type": "text", "content": "Work out." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$\\frac{5}{6} - \\frac{2}{3} \\times \\frac{3}{8}$$" }, { "type": "space", "height": "1cm" }],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "1.6", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 5, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "The interior angle of a regular polygon is $150°$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the number of sides of this polygon." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number" },
+      "meta": { "s": "4.3", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 6, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper21/Q06/Q06_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The line $x + y = 7$ is drawn on the grid." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "On the grid, draw the line $y = 2x + 1$." }], "answer": { "type": "none" } },
+        {
+          "label": "(b)", "marks": 1,
+          "content": [
+            { "type": "text", "content": "Use your graph to solve these simultaneous equations." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "$$x + y = 7$$" },
+            { "type": "text", "content": "$$y = 2x + 1$$" }
+          ],
+          "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$x$ =" }, { "prefix": "$y$ =" }] }
+        }
+      ],
+      "meta": { "s": "2.5", "cat": "algebra", "d": 2, "topics": ["Algebra", "Coordinate Geometry"], "cmd": "solve" }
+    },
+    {
+      "qnum": 7, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Write the recurring decimal $0.2\\dot{6}$ as a fraction." },
+        { "type": "text", "content": "Give your answer in its simplest form." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "1.6", "cat": "number", "d": 3, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 8, "marks": 4,
+      "stem": [{ "type": "text", "content": "$$\\mathbf{m} = \\binom{11}{5} \\qquad \\mathbf{n} = \\binom{8}{-3}$$" }],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Find $2\\mathbf{m} - \\mathbf{n}$." }], "answer": { "type": "vector", "fields": 2 } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "The vector $\\binom{5}{\\sqrt{y}}$ has a magnitude of 7." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the value of $y$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$y$ =" } }
+      ],
+      "meta": { "s": "7.2", "cat": "geometry", "d": 2, "topics": ["Vectors"], "cmd": "find" }
+    },
+    {
+      "qnum": 9, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "The table shows some information about the marks scored by a group of students in a test." },
+        { "type": "newline", "lines": 1 },
+        { "type": "table", "content": "\\begin{tabular}{|c|c|c|c|}\\hline Test mark & 4 & 5 & 8 \\\\\\hline Frequency & 2 & 4 & $n$ \\\\\\hline\\end{tabular}" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The mean mark is 6." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out the value of $n$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number", "prefix": "$n$ =" },
+      "meta": { "s": "9.3", "cat": "statistics", "d": 2, "topics": ["Statistics"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 10, "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper21/Q10/Q10_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$A$, $B$ and $C$ are three points on a circle, centre $O$." },
+        { "type": "text", "content": "$DE$ is a tangent to the circle at $A$." },
+        { "type": "text", "content": "Angle $ACO = 35°$ and angle $BCO = 40°$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "angle $AOC$" }], "answer": { "type": "number", "prefix": "Angle $AOC$ =" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "angle $ABC$" }], "answer": { "type": "number", "prefix": "Angle $ABC$ =" } },
+        { "label": "(c)", "marks": 1, "content": [{ "type": "text", "content": "angle $DAC$" }], "answer": { "type": "number", "prefix": "Angle $DAC$ =" } },
+        { "label": "(d)", "marks": 1, "content": [{ "type": "text", "content": "angle $OAB$." }], "answer": { "type": "number", "prefix": "Angle $OAB$ =" } }
+      ],
+      "meta": { "s": "4.6", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 11, "marks": 5,
+      "stem": [
+        { "type": "text", "content": "The diagram shows the graph of $y = \\text{f}(x)$ and the point $P(-2, 11)$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper21/Q11/Q11_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The tangent from $P$ touches the graph of $y = \\text{f}(x)$ at the point $(a, b)$." },
+        { "type": "text", "content": "The values of $a$ and $b$ are integers." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "By drawing this tangent, find the value of $a$ and the value of $b$." }], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$a$ =", "suffix": ", $b$ =" }, {}] } },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Find the equation of the tangent." }, { "type": "text", "content": "Give your answer in the form $y = mx + c$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression", "prefix": "$y$ =" } }
+      ],
+      "meta": { "s": "3.3", "cat": "algebra", "d": 3, "topics": ["Coordinate Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 12, "marks": 4,
+      "stem": [
+        { "type": "text", "content": "The time spent on the internet by each of 120 adults is recorded for one day." },
+        { "type": "text", "content": "The cumulative frequency diagram shows this information." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper21/Q12/Q12_Stem_Fig1.png" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Use the cumulative frequency diagram to find an estimate of the interquartile range." }], "answer": { "type": "number", "suffix": "h" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "$70\\%$ of the adults spent less than $k$ hours on the internet." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Use the cumulative frequency diagram to find an estimate of the value of $k$." }], "answer": { "type": "number", "prefix": "$k$ =" } }
+      ],
+      "meta": { "s": "9.6", "cat": "statistics", "d": 3, "topics": ["Statistics"], "cmd": "find" }
+    },
+    {
+      "qnum": 13, "marks": 8,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper21/Q13/Q13_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows solid $A$ and solid $B$." },
+        { "type": "text", "content": "Solid $A$ is made from a hemisphere and a cone each with radius 6 cm." },
+        { "type": "text", "content": "The cone has sloping edge 10 cm." },
+        { "type": "text", "content": "Solid $B$ is a cylinder with radius 4 cm and height $h$ cm." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The total surface area of solid $A$ is equal to the total surface area of solid $B$." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 5, "content": [{ "type": "text", "content": "Work out the value of $h$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$h$ =" } },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Work out the height of solid $A$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "suffix": "$\\text{cm}$" } }
+      ],
+      "meta": { "s": "5.3", "cat": "geometry", "d": 4, "topics": ["Mensuration"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 14, "marks": 8,
+      "stem": [{ "type": "text", "content": "$$\\text{f}(x) = 3x - 4 \\qquad \\text{g}(x) = 4x + 1$$" }],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Find $\\text{f}(-2)$." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Find $\\text{f}^{-1}(x)$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression", "prefix": "$\\text{f}^{-1}(x)$ =" } },
+        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "$\\text{fg}(x) = ax + b$" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the value of $a$, and the value of $b$." }], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$a$ =", "suffix": ", $b$ =" }, {}] } },
+        { "label": "(d)", "marks": 3, "content": [{ "type": "text", "content": "Simplify." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$\\frac{2}{\\text{f}(x)} - \\frac{5}{\\text{g}(x)}$$" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Give your answer as a single fraction in terms of $x$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "2.6", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 15, "marks": 4, "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Expand and simplify." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$(2 - \\sqrt{5})(1 - 3\\sqrt{5})$$" }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Rationalise the denominator." }, { "type": "text", "content": "Give your answer in its simplest form." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$\\frac{6}{\\sqrt{10}}$$" }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "1.7", "cat": "number", "d": 3, "topics": ["Number"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 16, "marks": 3,
+      "stem": [{ "type": "text", "content": "Expand and simplify." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$(x + 4)(x - 3)(3x + 2)$$" }, { "type": "space", "height": "1cm" }],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "2.2", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 17, "marks": 7,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "A bag contains 6 red marbles, 3 green marbles and 1 blue marble." }, { "type": "text", "content": "Two marbles are picked at random from the bag with replacement." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the probability that both marbles are green." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } },
+        {
+          "label": "(b)", "marks": 5,
+          "content": [
+            { "type": "text", "content": "Another bag contains 4 red counters and 2 yellow counters." },
+            { "type": "text", "content": "Two counters are picked at random from this bag without replacement." }
+          ],
+          "subparts": [
+            { "label": "(b)(i)", "marks": 2, "content": [{ "type": "text", "content": "Complete the tree diagram." }, { "type": "newline", "lines": 1 }, { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper21/Q17/Q17_Subi_Fig1.png" }], "answer": { "type": "none" } },
+            { "label": "(b)(ii)", "marks": 3, "content": [{ "type": "text", "content": "Find the probability that one of the two counters is yellow." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } }
+          ]
+        }
+      ],
+      "meta": { "s": "8.3", "cat": "statistics", "d": 3, "topics": ["Probability"], "cmd": "find" }
+    },
+    {
+      "qnum": 18, "marks": 10,
+      "stem": [
+        { "type": "text", "content": "One day, Anya runs 12 km at a speed of $x$ km/h." },
+        { "type": "text", "content": "The next day she walks 10 km at a speed of $(x - 4)$ km/h." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Write down an expression, in terms of $x$, for the time she spends running." }], "answer": { "type": "expression", "suffix": "h" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "Write down an expression, in terms of $x$, for the time she spends walking." }], "answer": { "type": "expression", "suffix": "h" } },
+        { "label": "(c)", "marks": 4, "content": [{ "type": "text", "content": "The time Anya spends walking is 1 hour more than the time she spends running." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Write an equation in terms of $x$ and show that it simplifies to $x^2 - 2x - 48 = 0$." }, { "type": "space", "height": "3cm" }], "answer": { "type": "none" } },
+        { "label": "(d)", "marks": 3, "content": [{ "type": "text", "content": "Use factorisation to solve the equation $x^2 - 2x - 48 = 0$." }], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$x$ =" }, { "prefix": "or $x$ =" }] } },
+        { "label": "(e)", "marks": 1, "content": [{ "type": "text", "content": "Find the time Anya spends running." }], "answer": { "type": "number", "suffix": "h" } }
+      ],
+      "meta": { "s": "2.5", "cat": "algebra", "d": 4, "topics": ["Algebra"], "cmd": "solve" }
+    },
+    {
+      "qnum": 19, "marks": 2,
+      "stem": [{ "type": "text", "content": "Find the value of $27^{-\\frac{2}{3}}$." }, { "type": "space", "height": "1cm" }],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "2.4", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 20, "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper21/Q20/Q20_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the exact value of $x$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "expression", "prefix": "$x$ =" },
+      "meta": { "s": "6.2", "cat": "geometry", "d": 4, "topics": ["Trigonometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 21, "marks": 5,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper21/Q21/Q21_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$OABC$ is a rhombus and $O$ is the origin." },
+        { "type": "text", "content": "The diagonals of the rhombus intersect at $P$." },
+        { "type": "text", "content": "$\\overrightarrow{OP} = 2\\mathbf{m}$ and $\\overrightarrow{AP} = \\mathbf{n}$." }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 2,
+          "content": [{ "type": "text", "content": "Find, in terms of $\\mathbf{m}$ and $\\mathbf{n}$, in its simplest form" }],
+          "subparts": [
+            { "label": "(a)(i)", "marks": 1, "content": [{ "type": "text", "content": "$\\overrightarrow{OA}$." }], "answer": { "type": "expression", "prefix": "$\\overrightarrow{OA}$ =" } },
+            { "label": "(a)(ii)", "marks": 1, "content": [{ "type": "text", "content": "$\\overrightarrow{OC}$." }], "answer": { "type": "expression", "prefix": "$\\overrightarrow{OC}$ =" } }
+          ]
+        },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "$D$ is the point such that $\\overrightarrow{AD} = 10\\mathbf{m} - 3\\mathbf{n}$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Show that $OADC$ is a trapezium." }, { "type": "space", "height": "3cm" }], "answer": { "type": "none" } }
+      ],
+      "meta": { "s": "7.2", "cat": "geometry", "d": 4, "topics": ["Vectors"], "cmd": "find" }
+    },
+    {
+      "qnum": 22, "marks": 6,
+      "stem": [
+        { "type": "text", "content": "A curve has equation $y = x^n + qx^2 + 9x$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$\\frac{\\text{d}y}{\\text{d}x} = 3x^2 - 12x + 9$$" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Find the value of $n$, and the value of $q$." }], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$n$ =", "suffix": "$q$ =" }, {}] } },
+        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "Work out the coordinates of the turning points of the curve." }, { "type": "space", "height": "1cm" }], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "(", "suffix": ") and (" }, { "suffix": ")" }] } }
+      ],
+      "meta": { "s": "3.5", "cat": "algebra", "d": 4, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 23, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Simplify." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$\\frac{2x^2 + 10x}{x^2 - 25}$$" },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "2.2", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "simplify" }
+    }
+  ]
+}

@@ -1,0 +1,1324 @@
+{
+  "v": "1.0",
+  "paper": "2025Specimen-Paper1",
+  "board": "cie",
+  "code": "0580",
+  "year": 2025,
+  "session": "Specimen",
+  "paperNum": "1",
+  "type": "core-nocalc",
+  "totalMarks": 80,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Kim takes part in a race that covers a total distance of $20\\,000$ m. She cycles $17\\,875$ m and runs the remaining distance."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the distance Kim runs."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number $17\\,875$ in words."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {},
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number $17\\,875$ correct to the nearest hundred."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "1.1",
+        "cat": "number",
+        "d": 1,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "work out"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the net of a solid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "What is the mathematical name of the solid?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "For this solid, write down the number of vertices."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "4.7",
+        "cat": "geometry",
+        "d": 1,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The number $N$ is both a multiple of 12 and a square number."
+        },
+        {
+          "type": "text",
+          "content": "Find the smallest possible value of $N$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": "1.6",
+        "cat": "number",
+        "d": 2,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A coin is made from a mixture of tin, copper and zinc. The table shows the percentage of each metal used."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q04/Q04_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $k$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$k$ ="
+      },
+      "meta": {
+        "s": "1.14",
+        "cat": "number",
+        "d": 1,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "work out"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are four number cards."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "Using each card once, write down one number between 3020 and 3200."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": "1.1",
+        "cat": "number",
+        "d": 1,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the ratio $90 : 120$ in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "suffix": "$: $"
+      },
+      "meta": {
+        "s": "1.12",
+        "cat": "number",
+        "d": 1,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a shape with five shaded sections."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q07/Q07_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "Shade one more section on the diagram so that it has rotational symmetry of order 3."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {
+        "s": "4.4",
+        "cat": "geometry",
+        "d": 1,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "draw"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows the position of a rock, $R$. The scale is 1 centimetre represents 30 metres. A lighthouse, $L$, is $210$ m from $R$, on a bearing of $125°$."
+        },
+        {
+          "type": "text",
+          "content": "On the scale drawing, mark the position of $L$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q08/Q08_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {
+        "s": "4.2",
+        "cat": "geometry",
+        "d": 2,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "draw"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A cake has a mass of $600$ g. Joe eats $\\frac{1}{5}$ of the cake."
+        },
+        {
+          "type": "text",
+          "content": "Find the mass of the cake that is left."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{g}$"
+      },
+      "meta": {
+        "s": "1.5",
+        "cat": "number",
+        "d": 1,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q10/Q10_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "Lines $AB$ and $CD$ are parallel. $EF$ and $EG$ are straight lines."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $a$. Give a geometrical reason for your answer."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$a$ =",
+                "suffix": "because"
+              },
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $b$. Give a geometrical reason for your answer."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$b$ =",
+                "suffix": "because"
+              },
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $c$. Give a geometrical reason for your answer."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$c$ =",
+                "suffix": "because"
+              },
+              {}
+            ]
+          }
+        }
+      ],
+      "meta": {
+        "s": "4.1",
+        "cat": "geometry",
+        "d": 2,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$7 + 9 \\times 3$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$-6 - (-12)$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$10^{-2}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "1.4",
+        "cat": "number",
+        "d": 1,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "work out"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise."
+            },
+            {
+              "type": "text",
+              "content": "$$9x + 12$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve."
+            },
+            {
+              "type": "text",
+              "content": "$$6x - 5 = 2x + 13$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.2",
+        "cat": "algebra",
+        "d": 2,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "solve"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A plane flies from London to Colombo. The time in London when the plane leaves is 08 20 on Saturday. The time in Colombo when the plane arrives is 02 15 on Sunday. The flight time is 13 hours 25 minutes."
+        },
+        {
+          "type": "text",
+          "content": "Find the time difference between London and Colombo. State whether the time in Colombo is ahead or behind the time in London."
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {},
+          {}
+        ]
+      },
+      "meta": {
+        "s": "1.13",
+        "cat": "number",
+        "d": 2,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a shape made from two different parallelograms. The shape has a total area of $210\\text{ cm}^2$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q14/Q14_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $x$."
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {
+        "s": "5.2",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Mensuration",
+          "Algebra"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 8,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "As part of a sports competition, 14 athletes run 100 m and complete a swimming race."
+            },
+            {
+              "type": "text",
+              "content": "The scatter diagram shows the times, in seconds, to run 100 m and the times, in seconds, to complete the swimming race, for 11 of these athletes."
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q15/Q15_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "The table shows the times for the other 3 athletes."
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q15/Q15_Suba_Fig2.png"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the scatter diagram, plot these three points."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "State the type of correlation shown in the scatter diagram."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the scatter diagram, draw a line of best fit."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Another athlete completes the swimming race in 23.8 seconds."
+                },
+                {
+                  "type": "text",
+                  "content": "Use your line of best fit to estimate the athlete's time to run 100 m."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{s}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows the diameter, in centimetres, and the mass, in grams, of nine medals."
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q15/Q15_Subb_Fig1.png"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mode of the diameters."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the median of the masses."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{g}$"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "s": "8.4",
+        "cat": "statistics",
+        "d": 2,
+        "topics": [
+          "Statistics"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The line $L$ is shown on the grid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q16/Q16_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of line $L$ in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows some values for $y = x^2 - 2x - 3$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\\hline $x$ & $-2$ & $-1$ & $0$ & $1$ & $2$ & $3$ & $4$ \\\\\\hline $y$ & & $0$ & $-3$ & & $-3$ & $0$ & \\\\\\hline\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the graph of $y = x^2 - 2x - 3$ for $-2 \\leqslant x \\leqslant 4$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the equation of the line of symmetry of the graph of $y = x^2 - 2x - 3$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the negative value of $x$ where the line $L$ and the graph of $y = x^2 - 2x - 3$ intersect."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.10",
+        "cat": "algebra",
+        "d": 3,
+        "topics": [
+          "Algebra",
+          "Graphs"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Two bags, A and B, each contain blue beads and white beads only. The probability of taking a blue bead at random from bag A is $0.8$. The probability of taking a blue bead at random from bag B is $0.3$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the tree diagram."
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q17/Q17_Suba_Fig1.png"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A student takes one bead at random from bag A and one bead at random from bag B."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that both beads are white."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "7.5",
+        "cat": "probability",
+        "d": 2,
+        "topics": [
+          "Probability"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q18/Q18_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps shape $A$ onto shape $B$."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {},
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the image of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "shape $A$ after a translation by the vector $\\begin{pmatrix} -5 \\\\ -6 \\end{pmatrix}$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "shape $A$ after an enlargement by scale factor 3, centre $(1, 4)$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "s": "4.5",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Geometry",
+          "Transformations"
+        ],
+        "cmd": "describe"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Rearrange the formula to make $t$ the subject."
+        },
+        {
+          "type": "text",
+          "content": "$$w = 7t - 5$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$t$ ="
+      },
+      "meta": {
+        "s": "2.5",
+        "cat": "algebra",
+        "d": 2,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "rearrange"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the smallest even integer that satisfies the inequality $y > 2.5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write an inequality, in terms of $x$, to represent the interval shown on this number line."
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q20/Q20_Subb_Fig1.png"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.7",
+        "cat": "algebra",
+        "d": 2,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\mathscr{E} = \\{\\text{a, b, d, e, f, h, i, m, p, t, u}\\}$"
+        },
+        {
+          "type": "text",
+          "content": "$X = \\{\\text{a, e, i, u}\\}$"
+        },
+        {
+          "type": "text",
+          "content": "$Y = \\{\\text{d, e, m, p, t, u}\\}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use this information to complete the Venn diagram."
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper1/Q21/Q21_Suba_Fig1.png"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "List the elements of $X \\cap Y$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\\text{n}(X')$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "7.1",
+        "cat": "probability",
+        "d": 2,
+        "topics": [
+          "Probability",
+          "Sets"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The length, $L$, of a road is $39\\,700$ m, correct to the nearest $50$ m."
+        },
+        {
+          "type": "text",
+          "content": "Complete this statement about the value of $L$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": "$\\leqslant L <$"
+          },
+          {}
+        ]
+      },
+      "meta": {
+        "s": "1.9",
+        "cat": "number",
+        "d": 2,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "complete"
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "$$3x - 5y = 22$$"
+        },
+        {
+          "type": "text",
+          "content": "$$7x + 10y = 8$$"
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$x$ ="
+          },
+          {
+            "prefix": "$y$ ="
+          }
+        ]
+      },
+      "meta": {
+        "s": "2.6",
+        "cat": "algebra",
+        "d": 3,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "solve"
+      }
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "v": "1.0",
+  "paper": "2021OctNov-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "OctNov",
+  "paperNum": "42",
+  "totalMarks": 130,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 14,
+      "parts": [
+        {
+          "label": "1(a)(i)",
+          "marks": 2,
+          "answer": "200",
+          "markAllocation": ["M1", "A1"],
+          "guidance": "M1 for 450/(8+7+3) x 8 oe; A1 for 200"
+        },
+        {
+          "label": "1(a)(ii)",
+          "marks": 1,
+          "answer": "75",
+          "markAllocation": ["B1"],
+          "guidance": "B1 for 75"
+        },
+        {
+          "label": "1(a)(iii)",
+          "marks": 2,
+          "answer": "56",
+          "markAllocation": ["M1", "A1"],
+          "guidance": "M1 for 32/100 x (450-200-their 75) oe. If 0 scored, SC1 for answer 231"
+        },
+        {
+          "label": "1(a)(iv)",
+          "marks": 3,
+          "answer": "59 000 nfww",
+          "markAllocation": ["B2 or M1", "B1"],
+          "guidance": "B2 for 58600 to 58800, or B1 for 293 to 294, or M1 for figs485x200/165 oe"
+        },
+        {
+          "label": "1(b)(i)",
+          "marks": 1,
+          "answer": "3 075 000",
+          "markAllocation": ["B1"],
+          "guidance": "B1 for 3 075 000"
+        },
+        {
+          "label": "1(b)(ii)",
+          "marks": 1,
+          "answer": "3.075 x 10^6",
+          "markAllocation": ["B1"],
+          "guidance": "B1 FT their (b)(i)"
+        },
+        {
+          "label": "1(c)",
+          "marks": 2,
+          "answer": "32.5",
+          "markAllocation": ["M1", "A1"],
+          "guidance": "M1 for x x (1+16/100) = 37.7 or better"
+        },
+        {
+          "label": "1(d)",
+          "marks": 2,
+          "answer": "2460 or 2458...",
+          "markAllocation": ["M1", "A1"],
+          "guidance": "M1 for 1800(1+2.1/100)^15 oe"
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 16,
+      "parts": [
+        {
+          "label": "2(a)(i)",
+          "marks": 1,
+          "answer": "90",
+          "markAllocation": ["B1"],
+          "guidance": "B1 for 90"
+        },
+        {
+          "label": "2(a)(ii)",
+          "marks": 1,
+          "answer": "68",
+          "markAllocation": ["B1"],
+          "guidance": "B1 for 68"
+        },
+        {
+          "label": "2(a)(iii)",
+          "marks": 1,
+          "answer": "52",
+          "markAllocation": ["B1"],
+          "guidance": "B1 FT 120-their(a)(ii)"
+        },
+        {
+          "label": "2(a)(iv)",
+          "marks": 2,
+          "answer": "20",
+          "markAllocation": ["B1", "B1"],
+          "guidance": "B1 for 60 in working or as answer; B1 for 20"
+        },
+        {
+          "label": "2(b)(i)",
+          "marks": 4,
+          "answer": "97.5",
+          "markAllocation": ["M1", "M1", "M1", "A1"],
+          "guidance": "M1 for mid-points soi; M1 for use of Σfm; M1 dep for Σfm÷80; A1 for 97.5"
+        },
+        {
+          "label": "2(b)(ii)",
+          "marks": 4,
+          "answer": "Bars with heights 0.9, 0.5, 0.3, 0.175 and correct widths",
+          "markAllocation": ["B1", "B1", "B1", "B1"],
+          "guidance": "B1 for each correct bar. If 0 scored, SC1 for 3 or 4 correct frequency densities"
+        },
+        {
+          "label": "2(b)(iii)",
+          "marks": 3,
+          "answer": "28/395 oe",
+          "markAllocation": ["M2 or M1", "A1"],
+          "guidance": "M2 for [2x] 16/80 x 14/79 oe, or M1 for 16/80 or 16/79 oe or 14/80 oe or 14/79 oe seen. If 0 scored, SC1 for answer 7/100 oe"
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 12,
+      "parts": [
+        {
+          "label": "3(a)(i)",
+          "marks": 2,
+          "answer": "94.51 to 94.52",
+          "markAllocation": ["M1", "A1"],
+          "guidance": "M1 for AD/46.1 = tan64 oe or better"
+        },
+        {
+          "label": "3(a)(ii)",
+          "marks": 3,
+          "answer": "46[.0] or 45.96... nfww",
+          "markAllocation": ["M2 or M1", "A1"],
+          "guidance": "M2 for 56.5 x sin94/78.4 oe, or M1 for 56.5/sinBAC = 78.4/sin94 oe"
+        },
+        {
+          "label": "3(a)(iii)",
+          "marks": 4,
+          "answer": "102.3 or 102.4 or 102.34 to 102.38",
+          "markAllocation": ["M2 or M1", "A1", "A1"],
+          "guidance": "M2 for cosC = (38.6^2+78.4^2-94.5^2)/(2x38.6x78.4), or M1 for cosine rule. A1 for -0.214 or -0.2144 to -0.2137. If 0 scored, SC2 for CAD=23.5 or CDA=54.1"
+        },
+        {
+          "label": "3(b)",
+          "marks": 3,
+          "answer": "16.2 or 16.15...",
+          "markAllocation": ["M2 or M1", "A1"],
+          "guidance": "M2 for 1/2x21.5x27.6xsin111 = 1/2x34.3xd oe, or M1 for either area expression"
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 9,
+      "parts": [
+        {
+          "label": "4(a)(i)",
+          "marks": 2,
+          "answer": "Image at (-5,6)(-5,8)(-6,7)",
+          "markAllocation": ["B2 or B1"],
+          "guidance": "B2 for correct image. B1 for translation by (-4,k) or (k,5)"
+        },
+        {
+          "label": "4(a)(ii)",
+          "marks": 2,
+          "answer": "Image at (3,1)(3,3)(4,2)",
+          "markAllocation": ["B2 or B1"],
+          "guidance": "B2 for correct image. B1 for reflection in y=1 or x=k"
+        },
+        {
+          "label": "4(a)(iii)",
+          "marks": 2,
+          "answer": "Image at (3,4)(3,8)(1,6)",
+          "markAllocation": ["B2 or B1"],
+          "guidance": "B2 for correct image. B1 for enlargement sf2 in wrong position"
+        },
+        {
+          "label": "4(b)",
+          "marks": 3,
+          "answer": "Rotation, 90° anticlockwise oe, centre (-3,0)",
+          "markAllocation": ["B1", "B1", "B1"],
+          "guidance": "B1 for Rotation; B1 for 90° anticlockwise oe; B1 for (-3,0)"
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 11,
+      "parts": [
+        {
+          "label": "5(a)",
+          "marks": 3,
+          "answer": "-1, -0.375, 3",
+          "markAllocation": ["B1", "B1", "B1"],
+          "guidance": "B1 for each correct value"
+        },
+        {
+          "label": "5(b)",
+          "marks": 4,
+          "answer": "Correct graph",
+          "markAllocation": ["B4 or B3 or B2 or B1"],
+          "guidance": "B3FT for 8 or 9 correct plots; B2FT for 6 or 7; B1FT for 4 or 5"
+        },
+        {
+          "label": "5(c)",
+          "marks": 4,
+          "answer": "y=2-x ruled AND -0.45 to -0.35, 1, 2.35 to 2.45",
+          "markAllocation": ["B2", "B2 or B1"],
+          "guidance": "B2 for y=2-x ruled, or B1 for [y=]2-x soi or y=k-x ruled or y=kx+2 ruled but not y=2. B2 for all three values or B1 for any two"
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 17,
+      "parts": [
+        {
+          "label": "6(a)(i)",
+          "marks": 3,
+          "answer": "4.5 or 9/2",
+          "markAllocation": ["M1", "M1", "A1"],
+          "guidance": "M1 for 8x-12=24 or 2x-3=6; M1 for reaching ax=b"
+        },
+        {
+          "label": "6(a)(ii)",
+          "marks": 2,
+          "answer": "x > -4/3 or x > -1 1/3",
+          "markAllocation": ["M1", "A1"],
+          "guidance": "M1 for 6x > 6-14 or x+14/6 > 1"
+        },
+        {
+          "label": "6(b)",
+          "marks": 3,
+          "answer": "[y=] cube_root((2x^3-V)/3) oe",
+          "markAllocation": ["M1", "M1", "M1"],
+          "guidance": "M1 for isolating term in y; M1 for division; M1 for cube root"
+        },
+        {
+          "label": "6(c)",
+          "marks": 3,
+          "answer": "4(n^2-5n+3) or correct explanation",
+          "markAllocation": ["M2 or B1", "A1"],
+          "guidance": "M2 for 4n^2-20n+12 (B1 for 4n^2-10n-10n+25); A1 for correct conclusion"
+        },
+        {
+          "label": "6(d)(i)",
+          "marks": 3,
+          "answer": "p=-3 and q=23",
+          "markAllocation": ["B2 or M1", "B1"],
+          "guidance": "B2 for 23-2(x-3)^2 OR M1 for [q]-2x^2-4px-2p^2 or -2(x-3)^2 seen; B1 for either p=-3 or q=23"
+        },
+        {
+          "label": "6(d)(ii)",
+          "marks": 1,
+          "answer": "(3, 23)",
+          "markAllocation": ["B1"],
+          "guidance": "B1 FT their (d)(i)"
+        },
+        {
+          "label": "6(e)",
+          "marks": 2,
+          "answer": "69",
+          "markAllocation": ["M1", "A1"],
+          "guidance": "M1 for figs 13^2 oe"
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 13,
+      "parts": [
+        {
+          "label": "7(a)(i)",
+          "marks": 2,
+          "answer": "16pi/3 or 5 1/3 pi",
+          "markAllocation": ["M1", "A1"],
+          "guidance": "M1 for 1/2 x 4/3 x pi x 2^3 oe"
+        },
+        {
+          "label": "7(a)(ii)",
+          "marks": 4,
+          "answer": "2.4[0]",
+          "markAllocation": ["M3 or M2 or M1", "A1"],
+          "guidance": "B3 for answer in range 2.396 to 2.40 OR M3 for their 16pi/3 + pi x 2^2 x 5.2 + 1/3 x pi x 2^2 x h = 88pi/3 oe, or M2, M1"
+        },
+        {
+          "label": "7(a)(iii)",
+          "marks": 3,
+          "answer": "1 hour 38 min or 1 hour 37.8 min to 1 hour 37.9 min",
+          "markAllocation": ["B2 or M1", "B1"],
+          "guidance": "B2 for 1.632... or 98 mins or 97.8 to 97.9, or M1 for (88pi/3 x 620)/35000 [x 60] oe"
+        },
+        {
+          "label": "7(b)",
+          "marks": 4,
+          "answer": "8.5[0] or 8.496 to 8.497",
+          "markAllocation": ["M3 or M2 or M1", "A1"],
+          "guidance": "M3 for r=sqrt(65/(140/360 x pi - 1/2 x sin140)) oe, or M2 for 140/360 x pi x r^2 - 1/2 x r^2 x sin140 [=65] oe, or M1 for either area expression"
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 13,
+      "parts": [
+        {
+          "label": "8(a)(i)",
+          "marks": 1,
+          "answer": "12/x or 12÷x",
+          "markAllocation": ["B1"],
+          "guidance": "B1 for 12/x"
+        },
+        {
+          "label": "8(a)(ii)",
+          "marks": 4,
+          "answer": "Show that x^2-4x-32=0",
+          "markAllocation": ["M1", "M1", "M1", "A1"],
+          "guidance": "M1 for equation setup; M1 for clearing fractions; M1 for expanding brackets; A1 for final step"
+        },
+        {
+          "label": "8(a)(iii)",
+          "marks": 3,
+          "answer": "(x+4)(x-8) leading to x=-4 and x=8",
+          "markAllocation": ["M2 or M1", "B1"],
+          "guidance": "M2 for correct factorisation (M1 for partial); B1 for -4 and 8"
+        },
+        {
+          "label": "8(a)(iv)",
+          "marks": 2,
+          "answer": "3",
+          "markAllocation": ["M1", "A1"],
+          "guidance": "FT 12/(their 8-4). M1 for 12/(their 8-4) or 12/their 8 + 1.5 oe"
+        },
+        {
+          "label": "8(b)",
+          "marks": 3,
+          "answer": "69.6",
+          "markAllocation": ["M2 or M1", "A1"],
+          "guidance": "M2 for (430 to 440)/(6+0.25) or (440-5)/(6 to 6.5) oe, or M1 for 440+5 oe or 440-5 oe or 6+0.25 oe or 6-0.25 oe seen"
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 9,
+      "parts": [
+        {
+          "label": "9(a)(i)",
+          "marks": 1,
+          "answer": "(3,1)",
+          "markAllocation": ["B1"],
+          "guidance": "B1 for (3,1)"
+        },
+        {
+          "label": "9(a)(ii)",
+          "marks": 1,
+          "answer": "(-10, 15) column vector",
+          "markAllocation": ["B1"],
+          "guidance": "B1 for (-10, 15)"
+        },
+        {
+          "label": "9(a)(iii)",
+          "marks": 2,
+          "answer": "3.61 or 3.605 to 3.606",
+          "markAllocation": ["M1", "A1"],
+          "guidance": "M1 for (-2)^2+3^2 oe"
+        },
+        {
+          "label": "9(b)(i)(a)",
+          "marks": 1,
+          "answer": "1/2 c",
+          "markAllocation": ["B1"],
+          "guidance": "B1 for 1/2 c"
+        },
+        {
+          "label": "9(b)(i)(b)",
+          "marks": 1,
+          "answer": "a + 1/2 c oe",
+          "markAllocation": ["B1"],
+          "guidance": "B1 FT a + their(b)(i)(a)"
+        },
+        {
+          "label": "9(b)(ii)(a)",
+          "marks": 2,
+          "answer": "OP = 1/3(2a+c) and OQ = 1/2(2a+c) with correct comment about collinearity",
+          "markAllocation": ["B1", "B1"],
+          "guidance": "B1 for OP or PQ factorised or correct multiplicative statement"
+        },
+        {
+          "label": "9(b)(ii)(b)",
+          "marks": 1,
+          "answer": "1.5 oe",
+          "markAllocation": ["B1"],
+          "guidance": "B1 for 1.5 oe"
+        }
+      ]
+    },
+    {
+      "qnum": 10,
+      "marks": 8,
+      "parts": [
+        {
+          "label": "10(a)",
+          "marks": 5,
+          "answer": "(2,-10) and (-2,22)",
+          "markAllocation": ["B2 or B1", "M1", "B1", "A1"],
+          "guidance": "B2 for 3x^2-12 isw or B1 for 3x^2+k or px^2-12; M1 for setting derivative=0; B1 for x=±2 or one correct pair"
+        },
+        {
+          "label": "10(b)",
+          "marks": 3,
+          "answer": "(2,-10) minimum with correct reason, (-2,22) maximum with correct reason",
+          "markAllocation": ["B2 or M1", "B1"],
+          "guidance": "B2 for 1 correct with reasoning, or M1 for 2nd derivative=6x or gradients"
+        }
+      ]
+    },
+    {
+      "qnum": 11,
+      "marks": 8,
+      "parts": [
+        {
+          "label": "11(a)(i)",
+          "marks": 2,
+          "answer": "10.2",
+          "markAllocation": ["M1", "A1"],
+          "guidance": "M1 for YZ/13.6 = 15.3/20.4 oe or better"
+        },
+        {
+          "label": "11(a)(ii)",
+          "marks": 3,
+          "answer": "143.1",
+          "markAllocation": ["M2 or M1", "A1"],
+          "guidance": "M2 for (20.4/13.6)^2 x 63.6 oe, or M1 for (20.4/13.6)^2 or (13.6/20.4)^2 oe"
+        },
+        {
+          "label": "11(b)",
+          "marks": 3,
+          "answer": "0.55",
+          "markAllocation": ["M2 or M1", "A1"],
+          "guidance": "M2 for [ratio of areas] = (cube_root(37.5/64.8))^2 oe, or M1 for ratio of lengths = cube_root(37.5/64.8) oe"
+        }
+      ]
+    }
+  ]
+}

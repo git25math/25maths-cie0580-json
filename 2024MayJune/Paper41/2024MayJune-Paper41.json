@@ -1,0 +1,104 @@
+{
+  "v": "1.0",
+  "paper": "2024MayJune-Paper41",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "MayJune",
+  "paperNum": "41",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    { "qnum": 1, "marks": 15, "stem": [{ "type": "text", "content": "The table shows the areas, in $\\text{km}^2$, of the four largest rainforests in the world." }, { "type": "newline", "lines": 1 }, { "type": "table", "content": "\\begin{tabular}{|c|c|}\\hline Rainforest & Area ($\\text{km}^2$) \\\\\\hline Amazon & 5\\,500\\,000 \\\\\\hline Congo & 2\\,000\\,000 \\\\\\hline Atlantic & 1\\,315\\,000 \\\\\\hline Valdivian & 250\\,000 \\\\\\hline\\end{tabular}" }], "parts": [
+        { "label": "(a)", "marks": 12, "content": [], "subparts": [
+            { "label": "(a)(i)", "marks": 1, "content": [{ "type": "text", "content": "Find the area of the Valdivian rainforest as a percentage of the area of the Amazon rainforest." }], "answer": { "type": "number", "suffix": "$\\%$" } },
+            { "label": "(a)(ii)", "marks": 2, "content": [{ "type": "text", "content": "Write, in its simplest form, the ratio of the areas of the rainforests Valdivian : Atlantic : Congo." }], "answer": { "type": "expression" } },
+            { "label": "(a)(iii)", "marks": 3, "content": [{ "type": "text", "content": "The Amazon rainforest has $60\\%$ of its area in Brazil and $10\\%$ of its area in Colombia." }, { "type": "text", "content": "$43\\frac{1}{3}\\%$ of the remaining area of the rainforest is in Peru." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the percentage of the Amazon rainforest that is in Brazil, Colombia and Peru." }], "answer": { "type": "number", "suffix": "$\\%$" } },
+            { "label": "(a)(iv)", "marks": 3, "content": [{ "type": "text", "content": "The area of the Amazon rainforest represents $\\frac{27}{50}$ of the total area of rainforest in the world." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the total area of rainforest in the world." }, { "type": "text", "content": "Give your answer correct to the nearest $100\\,000\\;\\text{km}^2$." }], "answer": { "type": "number", "suffix": "$\\text{km}^2$" } },
+            { "label": "(a)(v)", "marks": 3, "content": [{ "type": "text", "content": "In the world, $60.7$ hectares of rainforest are lost every minute." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the total area, in hectares, of rainforest that is lost in $365$ days." }, { "type": "text", "content": "Give your answer in standard form." }], "answer": { "type": "number", "suffix": "hectares" } }
+          ] },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "The Amazon river has a length of $6440$ km, correct to the nearest $10$ km." }, { "type": "text", "content": "The Congo river has a length of $4400$ km, correct to the nearest $100$ km." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the upper bound of the difference between the lengths of the Amazon river and the Congo river." }], "answer": { "type": "number", "suffix": "km" } }
+      ], "meta": { "s": "1.11", "cat": "number", "d": 2, "topics": ["Number", "Ratio", "Percentages", "Standard Form", "Bounds"], "cmd": "calculate" } },
+    { "qnum": 2, "marks": 8, "stem": [], "parts": [
+        { "label": "(a)", "marks": 5, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper41/Q02/Q02_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "On the grid, draw the image of" }], "subparts": [
+            { "label": "(a)(i)", "marks": 1, "content": [{ "type": "text", "content": "triangle $T$ after a reflection in the $x$-axis" }], "answer": { "type": "none" } },
+            { "label": "(a)(ii)", "marks": 2, "content": [{ "type": "text", "content": "triangle $T$ after a translation by the vector $\\begin{pmatrix} -5 \\\\ -2 \\end{pmatrix}$" }], "answer": { "type": "none" } },
+            { "label": "(a)(iii)", "marks": 2, "content": [{ "type": "text", "content": "triangle $T$ after an enlargement by scale factor $-\\frac{1}{2}$ with centre $(-1, 1)$." }], "answer": { "type": "none" } }
+          ] },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "A shape $P$ is enlarged by scale factor $3$ to give shape $Q$." }, { "type": "text", "content": "Shape $Q$ is then enlarged by scale factor $\\frac{2}{5}$ to give shape $R$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The area of shape $P$ is $10\\;\\text{cm}^2$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the area of shape $R$." }], "answer": { "type": "number", "suffix": "$\\text{cm}^2$" } }
+      ], "meta": { "s": "7.1", "cat": "geometry", "d": 2, "topics": ["Transformations", "Similarity"], "cmd": "draw" } },
+    { "qnum": 3, "marks": 13, "stem": [], "parts": [
+        { "label": "(a)", "marks": 4, "content": [{ "type": "text", "content": "$$C = \\frac{1}{4}xy^2$$" }], "subparts": [
+            { "label": "(a)(i)", "marks": 2, "content": [{ "type": "text", "content": "Find $C$ when $x = 5$ and $y = 8$." }], "answer": { "type": "number", "prefix": "$C$ =" } },
+            { "label": "(a)(ii)", "marks": 2, "content": [{ "type": "text", "content": "Find the positive value of $y$ when $C = 15$ and $x = 2.4$." }], "answer": { "type": "number", "prefix": "$y$ =" } }
+          ] },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Write as a single fraction in its simplest form." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$\\frac{4}{x - 1} - \\frac{3}{2x + 5}$$" }], "answer": { "type": "expression" } },
+        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Expand and simplify." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$(2x + 3)(4 - x)^2$$" }], "answer": { "type": "expression" } },
+        { "label": "(d)", "marks": 3, "content": [{ "type": "text", "content": "Simplify." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$$\\left(\\frac{y^8}{16x^{16}}\\right)^{-\\frac{3}{4}}$$" }], "answer": { "type": "expression" } }
+      ], "meta": { "s": "2.5", "cat": "algebra", "d": 3, "topics": ["Algebra", "Indices"], "cmd": "simplify" } },
+    { "qnum": 4, "marks": 18, "stem": [], "parts": [
+        { "label": "(a)", "marks": 7, "content": [{ "type": "text", "content": "Jianyu records the time, in seconds, that some cars take to travel $195$ m." }, { "type": "text", "content": "The box and whisker plot shows this information." }, { "type": "newline", "lines": 1 }, { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper41/Q04/Q04_Suba_Fig1.png" }], "subparts": [
+            { "label": "(a)(i)", "marks": 1, "content": [{ "type": "text", "content": "Find the median time." }], "answer": { "type": "number", "suffix": "s" } },
+            { "label": "(a)(ii)", "marks": 1, "content": [{ "type": "text", "content": "Find the interquartile range." }], "answer": { "type": "number", "suffix": "s" } },
+            { "label": "(a)(iii)", "marks": 5, "content": [{ "type": "text", "content": "Find the difference between the average speed of the fastest car and the average speed of the slowest car." }, { "type": "text", "content": "Give your answer in kilometres per hour." }], "answer": { "type": "number", "suffix": "km/h" } }
+          ] },
+        { "label": "(b)", "marks": 11, "content": [{ "type": "text", "content": "Matilda records the distances that $80$ different cars can travel with a full tank of fuel." }, { "type": "text", "content": "The table shows this information." }, { "type": "newline", "lines": 1 }, { "type": "table", "content": "\\begin{tabular}{|c|c|c|c|c|c|}\\hline Distance ($d$ km) & $250 < d \\leqslant 300$ & $300 < d \\leqslant 400$ & $400 < d \\leqslant 420$ & $420 < d \\leqslant 450$ & $450 < d \\leqslant 500$ \\\\\\hline Frequency & 7 & 13 & 19 & 21 & 20 \\\\\\hline\\end{tabular}" }], "subparts": [
+            { "label": "(b)(i)", "marks": 1, "content": [{ "type": "text", "content": "Write down the class interval that contains the median." }], "answer": { "type": "expression" } },
+            { "label": "(b)(ii)", "marks": 4, "content": [{ "type": "text", "content": "Calculate an estimate of the mean." }], "answer": { "type": "number", "suffix": "km" } },
+            { "label": "(b)(iii)", "marks": 3, "content": [{ "type": "text", "content": "A histogram is drawn to show the information in the table." }, { "type": "text", "content": "The height of the bar for the interval $250 < d \\leqslant 300$ is $2.8$ cm." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the height of the bar for each of the following intervals." }], "answer": { "type": "multiline", "lines": 3, "template": ["$300 < d \\leqslant 400$ ......... cm", "$400 < d \\leqslant 420$ ......... cm", "$420 < d \\leqslant 450$ ......... cm"] } },
+            { "label": "(b)(iv)", "marks": 3, "content": [{ "type": "text", "content": "Two of the $80$ cars are chosen at random." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the probability that, with a full tank of fuel, one of the cars can travel more than $450$ km and the other car can travel not more than $300$ km." }], "answer": { "type": "expression" } }
+          ] }
+      ], "meta": { "s": "9.3", "cat": "statistics", "d": 3, "topics": ["Statistics", "Histograms", "Probability"], "cmd": "calculate" } },
+    { "qnum": 5, "marks": 17, "stem": [], "parts": [
+        { "label": "(a)", "marks": 13, "content": [{ "type": "text", "content": "$P$ is the point $(1, 7)$." }, { "type": "text", "content": "$Q$ is the point $(5, -5)$." }, { "type": "newline", "lines": 1 }, { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper41/Q05/Q05_Suba_Fig1.png" }], "subparts": [
+            { "label": "(a)(i)", "marks": 2, "content": [{ "type": "text", "content": "Find $\\overrightarrow{PQ}$." }], "answer": { "type": "vector", "fields": 2 } },
+            { "label": "(a)(ii)", "marks": 3, "content": [{ "type": "text", "content": "Show that $|\\overrightarrow{OP}| = |\\overrightarrow{OQ}|$." }], "answer": { "type": "structured", "answerBlocks": [{}] } },
+            { "label": "(a)(iii)", "marks": 2, "content": [{ "type": "text", "content": "$PQ$ is a chord of a circle with centre $O$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the circumference of this circle." }], "answer": { "type": "number" } },
+            { "label": "(a)(iv)", "marks": 2, "content": [{ "type": "text", "content": "$PQ$ is the diameter of a different circle with centre $R$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the coordinates of $R$." }], "answer": { "type": "coordinate", "fields": 2 } },
+            { "label": "(a)(v)", "marks": 4, "content": [{ "type": "text", "content": "Find the equation of the perpendicular bisector of $PQ$." }, { "type": "text", "content": "Give your answer in the form $y = mx + c$." }], "answer": { "type": "expression", "prefix": "$y$ =" } }
+          ] },
+        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "The position vector of $A$ is $\\mathbf{a}$." }, { "type": "text", "content": "The position vector of $B$ is $\\mathbf{b}$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$M$ is a point on $AB$ such that $AM : MB = 2 : 3$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find, in terms of $\\mathbf{a}$ and $\\mathbf{b}$, the position vector of $M$." }, { "type": "text", "content": "Give your answer in its simplest form." }], "answer": { "type": "expression" } }
+      ], "meta": { "s": "8.1", "cat": "geometry", "d": 3, "topics": ["Vectors", "Coordinate Geometry", "Circle Properties"], "cmd": "find" } },
+    { "qnum": 6, "marks": 17, "stem": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper41/Q06/Q06_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows the positions of two lighthouses $A$ and $B$, a boat $C$ and a harbour $H$." }, { "type": "text", "content": "$C$ is due east of $B$." }], "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Find the bearing of the harbour from boat $C$." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 4, "content": [], "subparts": [
+            { "label": "(b)(i)", "marks": 1, "content": [{ "type": "text", "content": "Show that angle $CBH = 100°$." }], "answer": { "type": "structured", "answerBlocks": [{}] } },
+            { "label": "(b)(ii)", "marks": 3, "content": [{ "type": "text", "content": "Show that $BH = 13.7$ km, correct to $1$ decimal place." }], "answer": { "type": "structured", "answerBlocks": [{}] } }
+          ] },
+        { "label": "(c)", "marks": 5, "content": [{ "type": "text", "content": "Calculate the bearing of $A$ from $B$." }], "answer": { "type": "number" } },
+        { "label": "(d)", "marks": 7, "content": [{ "type": "text", "content": "At 1 pm boat $C$ sails $32$ km directly to the harbour at a speed of $10$ knots." }], "subparts": [
+            { "label": "(d)(i)", "marks": 4, "content": [{ "type": "text", "content": "Calculate the time when boat $C$ arrives at the harbour." }, { "type": "text", "content": "Give this time correct to the nearest minute." }, { "type": "text", "content": "[$1$ knot $= 1.852$ km/h]" }], "answer": { "type": "expression" } },
+            { "label": "(d)(ii)", "marks": 3, "content": [{ "type": "text", "content": "Calculate the distance of boat $C$ to the harbour when boat $C$ is at the shortest distance from lighthouse $B$." }], "answer": { "type": "number", "suffix": "km" } }
+          ] }
+      ], "meta": { "s": "6.3", "cat": "geometry", "d": 4, "topics": ["Trigonometry", "Bearings", "Sine Rule", "Cosine Rule"], "cmd": "calculate" } },
+    { "qnum": 7, "marks": 15, "stem": [], "parts": [
+        { "label": "(a)", "marks": 6, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper41/Q07/Q07_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a box in the shape of a cuboid." }, { "type": "text", "content": "The box is open at the top." }], "subparts": [
+            { "label": "(a)(i)", "marks": 3, "content": [{ "type": "text", "content": "Work out the surface area of the inside of the open box." }], "answer": { "type": "number", "suffix": "$\\text{cm}^2$" } },
+            { "label": "(a)(ii)", "marks": 3, "content": [{ "type": "text", "content": "Cylinders with height $20$ cm and diameter $15$ cm are placed in the box." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Work out the maximum number of these cylinders that can completely fit inside the box." }], "answer": { "type": "number" } }
+          ] },
+        { "label": "(b)", "marks": 9, "content": [{ "type": "text", "content": "A solid bronze cone has a mass of $750$ g." }, { "type": "text", "content": "The density of the bronze is $8.9\\;\\text{g/cm}^3$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The ratio $\\,$ radius of cone : height of cone $= 1 : 3$." }], "subparts": [
+            { "label": "(b)(i)", "marks": 4, "content": [{ "type": "text", "content": "Show that the radius of the cone is $2.99$ cm, correct to $3$ significant figures." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "[Density $=$ mass $\\div$ volume]" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "[The volume, $V$, of a cone with radius $r$ and height $h$ is $V = \\frac{1}{3}\\pi r^2 h$.]" }], "answer": { "type": "structured", "answerBlocks": [{}] } },
+            { "label": "(b)(ii)", "marks": 5, "content": [{ "type": "text", "content": "Calculate the total surface area of the cone." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "[The curved surface area, $A$, of a cone with radius $r$ and slant height $l$ is $A = \\pi r l$.]" }], "answer": { "type": "number", "suffix": "$\\text{cm}^2$" } }
+          ] }
+      ], "meta": { "s": "5.2", "cat": "geometry", "d": 3, "topics": ["Mensuration", "Volume", "Surface Area"], "cmd": "calculate" } },
+    { "qnum": 8, "marks": 15, "stem": [], "parts": [
+        { "label": "(a)", "marks": 4, "content": [{ "type": "text", "content": "On the axes, sketch the graph of $y = x^2 + 7x - 18$." }, { "type": "text", "content": "On your sketch, write the values where the graph meets the $x$-axis and the $y$-axis." }, { "type": "newline", "lines": 1 }, { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper41/Q08/Q08_Suba_Fig1.png" }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 5, "content": [{ "type": "text", "content": "$$y = x^2 - 3x - 28$$" }], "subparts": [
+            { "label": "(b)(i)", "marks": 2, "content": [{ "type": "text", "content": "Find the derivative of $y = x^2 - 3x - 28$." }], "answer": { "type": "expression" } },
+            { "label": "(b)(ii)", "marks": 3, "content": [{ "type": "text", "content": "Find the coordinates of the turning point of $y = x^2 - 3x - 28$." }], "answer": { "type": "coordinate", "fields": 2 } }
+          ] },
+        { "label": "(c)", "marks": 6, "content": [{ "type": "text", "content": "The line $y = 5 - 2x$ intersects the graph of $y = x^2 - 3x - 28$ at point $P$ and point $Q$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the coordinates of $P$ and $Q$." }, { "type": "text", "content": "You must show all your working and give your answers correct to $2$ decimal places." }], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "(" }, { "prefix": "(" }] } }
+      ], "meta": { "s": "3.4", "cat": "algebra", "d": 4, "topics": ["Algebra", "Differentiation", "Quadratic Equations"], "cmd": "find" } },
+    { "qnum": 9, "marks": 12, "stem": [{ "type": "text", "content": "$$\\text{f}(x) = 4x + 1 \\qquad \\text{g}(x) = 6 - 2x \\qquad \\text{h}(x) = 3^{x-2}$$" }], "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Find" }], "subparts": [
+            { "label": "(a)(i)", "marks": 1, "content": [{ "type": "text", "content": "$\\text{f}(3)$" }], "answer": { "type": "number" } },
+            { "label": "(a)(ii)", "marks": 1, "content": [{ "type": "text", "content": "$\\text{gf}(3)$." }], "answer": { "type": "number" } }
+          ] },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Find $\\text{g}^{-1}(x)$." }], "answer": { "type": "expression", "prefix": "$\\text{g}^{-1}(x)$ =" } },
+        { "label": "(c)", "marks": 4, "content": [{ "type": "text", "content": "Find $x$ when $\\text{f}(x) = \\text{g}(2x - 7)$." }], "answer": { "type": "number", "prefix": "$x$ =" } },
+        { "label": "(d)", "marks": 2, "content": [{ "type": "text", "content": "Find the value of $\\text{hh}(2)$." }], "answer": { "type": "number" } },
+        { "label": "(e)", "marks": 2, "content": [{ "type": "text", "content": "Find $x$ when $\\text{h}^{-1}(x) = 10$." }], "answer": { "type": "number", "prefix": "$x$ =" } }
+      ], "meta": { "s": "2.9", "cat": "algebra", "d": 3, "topics": ["Functions"], "cmd": "find" } }
+  ]
+}

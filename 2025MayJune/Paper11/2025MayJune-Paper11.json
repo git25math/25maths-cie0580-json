@@ -1,0 +1,612 @@
+{
+  "v": "1.0",
+  "paper": "2025MayJune-Paper11",
+  "board": "cie",
+  "code": "0580",
+  "year": 2025,
+  "session": "MayJune",
+  "paperNum": "11",
+  "type": "core-nocalc",
+  "totalMarks": 80,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [{ "type": "text", "content": "Write the number 10 069 in words." }],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [{ "type": "text", "content": "Write 10 069 correct to the nearest ten." }],
+          "answer": { "type": "number" }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [{ "type": "text", "content": "Convert 10 069 centimetres into metres." }],
+          "answer": { "type": "number", "suffix": "$\\text{m}$" }
+        }
+      ],
+      "meta": { "s": "1.1", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        { "type": "text", "content": "A bag of sweets costs $\\$0.34$." },
+        { "type": "text", "content": "Arun buys 10 bags of sweets." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out how much change he receives from $\\$5$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "prefix": "$\\$$" },
+      "meta": { "s": "1.5", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Two numbers have a sum of $-2$ and a product of $-15$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out the two numbers." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          { "suffix": "and" },
+          {}
+        ]
+      },
+      "meta": { "s": "1.1", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 4,
+      "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper11/Q04/Q04_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "From the list of numbers, write down" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "an even number" }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "a square number" }], "answer": { "type": "number" } },
+        { "label": "(c)", "marks": 1, "content": [{ "type": "text", "content": "a factor of 56" }], "answer": { "type": "number" } },
+        { "label": "(d)", "marks": 1, "content": [{ "type": "text", "content": "a prime number." }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "1.3", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        { "type": "text", "content": "Write down the reciprocal of 5." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "1.5", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Put one pair of brackets into each calculation to make it correct." }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [{ "type": "text", "content": "$$7 - 5 \\times 4 + 8 = 16$$" }],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [{ "type": "text", "content": "$$7 - 5 \\times 4 + 8 = -21$$" }],
+          "answer": { "type": "none" }
+        }
+      ],
+      "meta": { "s": "1.4", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            { "type": "text", "content": "A ticket costs $\\$18$." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Write down an expression, in dollars, for the cost of $t$ tickets." }
+          ],
+          "answer": { "type": "expression", "prefix": "$\\$$" }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            { "type": "text", "content": "A bag contains $n$ red balls and 16 green balls." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Write down an expression for the total number of balls in the bag." }
+          ],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "2.1", "cat": "algebra", "d": 1, "topics": ["Algebra"], "cmd": "write" }
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [{ "type": "text", "content": "Write $90\\%$ as a fraction in its simplest form." }],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [{ "type": "text", "content": "Write $\\frac{3}{100}$ as a decimal." }],
+          "answer": { "type": "number" }
+        }
+      ],
+      "meta": { "s": "1.6", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 9,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            { "type": "text", "content": "These are the first four terms of a sequence." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "$$33 \\quad 26 \\quad 19 \\quad 12$$" }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [{ "type": "text", "content": "Write down the term-to-term rule for this sequence." }],
+              "answer": { "type": "expression" }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [{ "type": "text", "content": "Work out the next two terms in this sequence." }],
+              "answer": { "type": "expression" }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "These are the first four terms of another sequence." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "$$19 \\quad 23 \\quad 27 \\quad 31$$" },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Find the $n$th term." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "2.7", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 10,
+      "marks": 5,
+      "stem": [
+        { "type": "text", "content": "Ky cycles from his office to a meeting and back again." },
+        { "type": "text", "content": "The travel graph shows his time at the meeting and his journey back." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper11/Q10/Q10_Stem_Fig1.png" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "How far is the meeting from his office?" }], "answer": { "type": "number", "suffix": "$\\text{km}$" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "How long is Ky at the meeting?" }], "answer": { "type": "number", "suffix": "min" } },
+        { "label": "(c)", "marks": 1, "content": [{ "type": "text", "content": "Write down the time Ky arrives back at his office after the meeting." }], "answer": { "type": "expression" } },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Ky cycles from his office to the meeting at a constant speed of 21 km/h." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Complete the travel graph." }
+          ],
+          "answer": { "type": "none" }
+        }
+      ],
+      "meta": { "s": "3.4", "cat": "algebra", "d": 2, "topics": ["Coordinate Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 11,
+      "marks": 1,
+      "stem": [
+        { "type": "text", "content": "Calculate the volume of a cube with side length 3 cm." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "suffix": "$\\text{cm}^3$" },
+      "meta": { "s": "5.2", "cat": "geometry", "d": 1, "topics": ["Mensuration"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Solve." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$5x + 8 = 3x - 2$$" },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "prefix": "$x$ =" },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "solve" }
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Work out." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "$-5 \\times -4$" }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "$-8 + (-3)$" }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "1.1", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 14,
+      "marks": 1,
+      "stem": [
+        { "type": "text", "content": "$$3^p \\times 3^4 = 3^{10}$$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the value of $p$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "prefix": "$p$ =" },
+      "meta": { "s": "2.4", "cat": "algebra", "d": 1, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper11/Q15/Q15_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Complete a net of this cuboid on the $1 \\text{ cm}^2$ grid." },
+        { "type": "text", "content": "One face has been drawn for you." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper11/Q15/Q15_Stem_Fig2.png" }
+      ],
+      "parts": [],
+      "answer": { "type": "none" },
+      "meta": { "s": "4.1", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "draw" }
+    },
+    {
+      "qnum": 16,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Simplify." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "$$6a + 4b - a - 5b$$" },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [{ "type": "text", "content": "Factorise." }],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [{ "type": "text", "content": "$6x + 15y$" }],
+              "answer": { "type": "expression" }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [{ "type": "text", "content": "$x^2y - 5xy$" }, { "type": "space", "height": "1cm" }],
+              "answer": { "type": "expression" }
+            }
+          ]
+        }
+      ],
+      "meta": { "s": "2.2", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        { "type": "text", "content": "By writing each number in the calculation correct to 1 significant figure, find an estimate for the value of" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$\\frac{42.8 + 17.4}{1.97 \\times 5.79}$$" },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "1.9", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 18,
+      "marks": 6,
+      "stem": [
+        { "type": "text", "content": "The diagram shows two straight lines intersecting two parallel lines." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper11/Q18/Q18_Stem_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Find the value of $x$." },
+            { "type": "text", "content": "Give a geometrical reason for your answer." }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              { "prefix": "$x$ =", "suffix": "because" },
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Find the value of $y$." },
+            { "type": "text", "content": "Give a geometrical reason for your answer." }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              { "prefix": "$y$ =", "suffix": "because" },
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Find the value of $z$." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "number", "prefix": "$z$ =" }
+        }
+      ],
+      "meta": { "s": "4.2", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 19,
+      "marks": 5,
+      "stem": [
+        { "type": "text", "content": "A box contains 10 counters." },
+        { "type": "text", "content": "The counters are either red or green." },
+        { "type": "text", "content": "The ratio $\\quad$ red counters : green counters $= 1 : 4$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Shareen picks a counter at random, notes its colour and puts it back in the box." },
+        { "type": "text", "content": "She then picks a second counter at random." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper11/Q19/Q19_Suba_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [{ "type": "text", "content": "Complete the tree diagram." }],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Find the probability that both counters are green." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "8.3", "cat": "statistics", "d": 2, "topics": ["Probability"], "cmd": "find" }
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        { "type": "text", "content": "The scatter diagram shows the price of petrol per litre and the number of litres sold at a petrol station on each of ten days." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper11/Q20/Q20_Stem_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            { "type": "text", "content": "These are the results for two more days." },
+            { "type": "newline", "lines": 1 },
+            { "type": "table", "content": "\\begin{tabular}{|c|c|c|}\\hline Price per litre ($\\$$) & 1.68 & 1.47 \\\\\\hline Number of litres sold & 90 & 380 \\\\\\hline\\end{tabular}" },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Plot this information on the scatter diagram." }
+          ],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [{ "type": "text", "content": "What type of correlation is shown in the scatter diagram?" }],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [{ "type": "text", "content": "On the scatter diagram, draw a line of best fit." }],
+              "answer": { "type": "none" }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                { "type": "text", "content": "One day the price of petrol was $\\$1.55$ per litre." },
+                { "type": "newline", "lines": 1 },
+                { "type": "text", "content": "Use your line of best fit to estimate the number of litres sold." }
+              ],
+              "answer": { "type": "number", "suffix": "litres" }
+            }
+          ]
+        }
+      ],
+      "meta": { "s": "9.4", "cat": "statistics", "d": 2, "topics": ["Statistics"], "cmd": "draw" }
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Points $A$, $B$ and $C$ lie on the circle, centre $O$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper11/Q21/Q21_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out angle $BCA$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "prefix": "Angle $BCA$ =" },
+      "meta": { "s": "4.6", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        { "type": "text", "content": "$$A = 2^3 \\times 3 \\qquad B = 3^2 \\times 5$$" }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [{ "type": "text", "content": "Find the highest common factor (HCF) of $A$ and $B$." }],
+          "answer": { "type": "number" }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Find the lowest common multiple (LCM) of $A$ and $B$." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "number" }
+        }
+      ],
+      "meta": { "s": "1.3", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 23,
+      "marks": 7,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper11/Q23/Q23_Stem_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [{ "type": "text", "content": "On the grid, draw the image of triangle $T$ after a rotation, $90°$ clockwise, centre $(0, 0)$." }],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [{ "type": "text", "content": "Describe fully the single transformation that maps triangle $T$ onto triangle $A$." }],
+          "answer": { "type": "structured", "answerBlocks": [{}, {}] }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [{ "type": "text", "content": "Describe fully the single transformation that maps triangle $T$ onto triangle $B$." }],
+          "answer": { "type": "structured", "answerBlocks": [{}, {}] }
+        }
+      ],
+      "meta": { "s": "7.1", "cat": "geometry", "d": 3, "topics": ["Transformations"], "cmd": "describe" }
+    },
+    {
+      "qnum": 24,
+      "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Work out $1\\frac{1}{3} + 1\\frac{3}{4}$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Give your answer as a mixed number in its simplest form." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "1.6", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 25,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [{ "type": "text", "content": "Write 32 500 in standard form." }],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [{ "type": "text", "content": "Write $5.6 \\times 10^{-3}$ as an ordinary number." }],
+          "answer": { "type": "number" }
+        }
+      ],
+      "meta": { "s": "1.7", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 26,
+      "marks": 4,
+      "stem": [
+        { "type": "text", "content": "Solve the simultaneous equations." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$2x + 5y = 5$$" },
+        { "type": "text", "content": "$$3x + 4y = 11$$" },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          { "prefix": "$x$ =" },
+          { "prefix": "$y$ =" }
+        ]
+      },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "solve" }
+    }
+  ]
+}

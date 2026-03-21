@@ -1,0 +1,1206 @@
+{
+  "v": "1.0",
+  "paper": "2021March-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "March",
+  "paperNum": "42",
+  "totalMarks": 130,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 7,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "245",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "8",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for $40+26.5x = 252$ oe or B1 for 212 seen"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "answer": "6",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for $(224-2\\times 48)\\div 32$ oe or $2\\times 48+32(x-2) = 224$ soi"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "answer": "$35 : 36 : 32$ final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for their (a) $: 252 : 224$ or equivalent ratio"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 10,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 3,
+              "answer": "Rotation, $90°$ anticlockwise oe, $(-3, 2)$",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "for each"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "answer": "Enlargement, $-\\frac{1}{2}$, $(-2, -1)$",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "for each"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "Image at $(-3, -5)$ $(1, -5)$ $(1, 3)$",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for translation by $\\binom{-5}{k}$ or $\\binom{k}{-10}$"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "answer": "Image at $(2, 3)$ $(6, 3)$ $(6, -5)$",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for reflection in $y = k$ or $x = 4$"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 8,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "126, 54, 117",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for each"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "32",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "angle [in a] semicircle is 90"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "allied, co-interior [add to 180] or angles in triangle $[=180]$ and alternate oe"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "answer": "109",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for 218 or 71 in correct places or correctly labelled"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 9,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "462",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 8,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "answer": "$\\frac{7}{15}$ oe",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "answer": "$\\frac{37}{105}$ oe",
+              "markAllocation": [
+                {
+                  "code": "M2",
+                  "type": "M",
+                  "value": 2,
+                  "criterion": "for addition of two of $\\frac{7}{15}\\times\\frac{6}{14}\\times\\frac{5}{14}$, $\\frac{6}{15}\\times\\frac{5}{14}$, $\\frac{2}{15}\\times\\frac{1}{14}$ or M1 for one of the products seen"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(iii)",
+              "marks": 4,
+              "answer": "$\\frac{29}{65}$ oe",
+              "markAllocation": [
+                {
+                  "code": "M3",
+                  "type": "M",
+                  "value": 3,
+                  "criterion": "for $\\frac{7}{15}\\times\\frac{6}{14}\\times\\frac{5}{13}+3\\times\\frac{7}{15}\\times\\frac{6}{14}\\times\\frac{6}{13}+3\\times\\frac{7}{15}\\times\\frac{6}{14}\\times\\frac{2}{13}$ oe or M2 for sum of at least two such triple products or for $\\frac{7}{15}\\times\\frac{6}{14}\\times\\frac{13}{13}$ or $\\frac{7}{15}\\times\\frac{6}{14}+N\\times\\frac{7}{15}\\times\\frac{6}{14}\\times\\frac{k}{13}$ seen or M1 for $\\frac{7}{15}\\times\\frac{6}{14}\\times\\frac{5}{13}$ or $N\\times\\frac{7}{15}\\times\\frac{6}{14}\\times\\frac{6}{13}$ or $N\\times\\frac{7}{15}\\times\\frac{6}{14}\\times\\frac{2}{13}$ seen"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": "If 0 scored SC1 for $\\frac{1519}{3375}$ oe"
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 10,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "27[.0] or 26.97... nfww",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for $[\\cos =] \\frac{8.6^2+9.7^2-4.4^2}{2\\times 8.6\\times 9.7}$ or M1 for implicit form"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "answer": "9.19 or 9.192 to 9.193",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for [angle $BCD =$] 73 seen"
+            },
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for $\\frac{9.7\\times\\sin 65}{\\sin(180-65-42)}$ or M1 for $\\frac{\\sin(180-65-42)}{9.7} = \\frac{\\sin 65}{DC}$ oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "answer": "6.15 or 6.149 to 6.151...",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for $\\frac{d}{\\text{their }9.19} = \\sin 42$ oe or M1 for right angle between line from $C$ to $BD$ and $BD$ soi"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 18,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "answer": "$[a =] 4$, $[b =] -3$ nfww",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "for $[a =] 4$"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "for $[b =] -3$ nfww"
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "answer": "$y = 4$ oe",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "answer": "$y = -6x+7$ oe final answer",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "for answer $-6x+7$ or answers $y = -6x+c$ or $y = kx+7$ ($k < 0$)"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 7,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 3,
+              "answer": "2.25, 2.67, 3.5",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "for each"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(ii)",
+              "marks": 4,
+              "answer": "Correct curve",
+              "markAllocation": [
+                {
+                  "code": "B3",
+                  "type": "B",
+                  "value": 3,
+                  "criterion": "FT for 7 or 8 points; B2FT for 5 or 6; B1FT for 3 or 4"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "answer": "$-0.78$ to $-0.72$ and $0.55$ to $0.59$",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "for each"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(ii)",
+              "marks": 4,
+              "answer": "$3x^3-9x^2-3x+4[=0]$ final answer",
+              "markAllocation": [
+                {
+                  "code": "B3",
+                  "type": "B",
+                  "value": 3,
+                  "criterion": "FT for 3 out of 4 correct terms or for $bx^3-3bx^2+(a-1)x+8-3a[=0]$ oe or B2FT for 2 out of 4 correct terms or for 3 out of 4 terms from $bx^3-3bx^2+(a-1)x+8-3a[=0]$"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "or M1 for $1+\\frac{5}{3-x} =$ their $4+($ their $(-3))x^2$ oe"
+                }
+              ],
+              "guidance": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 11,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "answer": "70",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "answer": "78",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(iii)",
+              "marks": 1,
+              "answer": "Value in range $86 < V \\leqslant 90$",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(iv)",
+              "marks": 1,
+              "answer": "One general comment interpreting the median comparison nfww oe or one general comment interpreting IQR/range comparison nfww oe",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "answer": "31.2",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for mid-values soi"
+            },
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for $\\Sigma fm$ where $m$ is any value in interval including boundaries"
+            },
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "dep on second M1 for their $\\Sigma fm\\div 50$"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "answer": "38",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "answer": "Blocks of heights 4.4 and 3.4 with correct widths",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "for each correct block"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": "If B0 scored SC1 for both correct frequency densities soi"
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 12,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "answer": "41.74 to 41.75",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "for $\\frac{53}{360}\\times\\pi\\times 9.5^2$"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(ii)",
+              "marks": 4,
+              "answer": "5.9[0] or 5.899 to 5.903...",
+              "markAllocation": [
+                {
+                  "code": "M3",
+                  "type": "M",
+                  "value": 3,
+                  "criterion": "for $[OA^2 =] \\frac{\\frac{1}{3}\\times 41.7}{\\frac{1}{2}\\sin 53}$ oe or M2 for $\\frac{1}{2}\\times OA^2\\times\\sin 53 = \\frac{1}{3}\\times 41.7$ oe or M1 for $\\frac{1}{2}\\times OA\\times OB\\times\\sin 53$ seen or better"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "answer": "396 or 397 or 396.4 to 396.6",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for $[r =] \\left(\\frac{60}{360}\\times 2\\times\\pi\\times 24\\right)\\div 2\\pi$ oe or better or M1 for $2\\pi r = \\frac{60}{360}\\times 2\\times\\pi\\times 24$ oe"
+            },
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for $\\sqrt{24^2-a^2}$ or M1 for $h^2+a^2 = 24^2$"
+            },
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for $\\frac{1}{3}\\pi\\times$ their $r^2\\times$ their $h$"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 11,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "answer": "$(5a-b)(m+2p)$ final answer",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "for $5a(m+2p)-b(m+2p)$ or $m(5a-b)+2p(5a-b)$ or B1 for correct answer seen"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "answer": "$5(k+g)(3k+3g-4)$ final answer",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "for correct partial factorisation by 5 or $(k+g)$ isw e.g. $5(3k^2+6kg+3g^2-4k-4g)$ or $5(3(k+g)^2-4(k+g))$ or $(k+g)(15(k+g)-20)$ or $(5k+5g)(3k+3g-4)$ or B1 for correct answer seen"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "answer": "$(2x-y^2)(2x+y^2)$ final answer",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "for answer in form $(a+b)(a-b)$ or B1 for correct answer seen"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "$3x^3-10x^2-x+12$ final answer",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "for correct unsimplified expansion or simplified expression with 3 terms correct in a 4-term expression of required form or B1 for correct expansion of two of the brackets with at least 3 terms correct"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "answer": "$[a =] 11$, $[b =] 121$",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for each"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 10,
+      "marks": 11,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "1600",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "for answer figs 16 or M2 for $90.72\\div(\\text{figs}45\\times\\text{figs}3\\times\\text{figs}42)$ or M1 for volume $=$ figs $45\\times$ figs $3\\times$ figs $42$ isw"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "62.8 or 62.83 to 62.84",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for $\\frac{\\pi\\times 10^2\\times 30}{15000}\\times 100$ or M1 for $\\pi\\times 10^2\\times 30$"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "answer": "12.9[0]",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "for 86 or M2 for $\\frac{98.9}{1+\\frac{15}{100}}\\times 0.15$ oe or $98.9-\\frac{98.9}{1+\\frac{15}{100}}$ oe or M1 for $\\left(1+\\frac{15}{100}\\right)a = 98.9$ oe isw"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "answer": "50",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for $3540\\div 70.8$"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 11,
+      "marks": 9,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "$\\frac{48}{x}$ final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "accept $48\\div x$"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "answer": "Leading to $x^2+5x-24 = 0$",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for their$(a)-\\frac{60}{x+2} = 4$ oe FT their (a) provided expression in $x$"
+            },
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "FT their 3-term eqn with algebraic denominators $x$ and $x+2$; M1 for common denominator $x(x+2)$ oe seen or any two terms in a 3 term equation from $\\pm 48(x+2)$, $\\pm 60x$, $\\pm 4x(x+2)$ oe seen"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "with brackets expanded and no errors or omissions seen"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "answer": "3 and $-8$",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "for $(x-3)(x+8)$; B1 for $x(x+8)-3(x+8)$ or $x(x-3)+8(x-3)$ or $(x+a)(x+b)[=0]$ where $ab = -24$ or $a+b = 5$ [$a, b$ integers]"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "answer": "12",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 12,
+      "marks": 14,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "17",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for $3\\times 2x^2-7$ or better isw or M1 for $3\\times 2x^2$ oe or $kx^2-7$ seen"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 11,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 3,
+              "answer": "13.4 or 13.41 to 13.42",
+              "markAllocation": [
+                {
+                  "code": "M2",
+                  "type": "M",
+                  "value": 2,
+                  "criterion": "for $\\sqrt{(-5-7)^2+(8-2)^2}$ oe or M1 for $(-5-7)^2$ or $(8-2)^2$ oe"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(ii)",
+              "marks": 4,
+              "answer": "$[y =] 2x+5$ final answer",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "for [gradient of $AB =$] $\\frac{8-2}{-5-7}$ oe"
+                },
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "dep for gradient $p = -1\\div$ their $-\\frac{1}{2}$ oe"
+                },
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "dep on previous M1 for substituting $(-1, 3)$ into $y =$ their $p\\,x+c$ oe where their $p\\neq 0$"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            },
+            {
+              "label": "(iii)",
+              "marks": 4,
+              "answer": "$(5, 0)$",
+              "markAllocation": [
+                {
+                  "code": "B3",
+                  "type": "B",
+                  "value": 3,
+                  "criterion": "for $\\overrightarrow{AD} = \\binom{-2}{-2}$ or $\\overrightarrow{DA} = \\binom{2}{2}$ or coordinates of $C$ $(-7, 6)$ and $[\\overrightarrow{CD} =] \\binom{12}{-6}$ oe seen or B2 for $a = b = 2$ soi or coordinates of $C$ $(-7, 6)$ or M1 for $a = b$ oe soi or for $a^2+b^2 = (\\sqrt{8})^2$ oe or $\\cos 45 = \\frac{a}{\\sqrt{8}}$ oe or for $[\\overrightarrow{DC} =] \\binom{-12}{6}$ or $[\\overrightarrow{CD} =] \\binom{12}{-6}$ seen or $\\frac{y-8}{x-(-5)} = 1$ oe or $\\frac{y-2}{x-7} = 1$ oe"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    }
+  ]
+}

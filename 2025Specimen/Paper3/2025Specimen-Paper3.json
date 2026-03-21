@@ -1,0 +1,1432 @@
+{
+  "v": "1.0",
+  "paper": "2025Specimen-Paper3",
+  "board": "cie",
+  "code": "0580",
+  "year": 2025,
+  "session": "Specimen",
+  "paperNum": "3",
+  "type": "core-calc",
+  "totalMarks": 80,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The pictogram shows the number of text messages sent by five students in one day."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper3/Q01/Q01_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Key: a circle represents .......... text messages"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Kira sent 15 text messages."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Complete the key."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the number of text messages sent by Hana."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "9.1",
+        "cat": "statistics",
+        "d": 1,
+        "topics": ["Statistics"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down all the factors of 68."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "1.3",
+        "cat": "number",
+        "d": 1,
+        "topics": ["Number"],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Insert one pair of brackets to make this statement correct."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$$4 \\times 6 - 2 + 1 = 17$$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {
+        "s": "1.4",
+        "cat": "number",
+        "d": 1,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the reciprocal of 4."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": "1.5",
+        "cat": "number",
+        "d": 1,
+        "topics": ["Number"],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the value of"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$24^2$"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\sqrt[3]{2197}$."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "1.5",
+        "cat": "number",
+        "d": 1,
+        "topics": ["Number"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The lowest temperature recorded at Scott Base in Antarctica is $-57.0\\,°\\text{C}$."
+        },
+        {
+          "type": "text",
+          "content": "The highest temperature recorded at Scott Base is $63.8\\,°\\text{C}$ more than this."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the highest temperature recorded at Scott Base."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°\\text{C}$"
+      },
+      "meta": {
+        "s": "1.1",
+        "cat": "number",
+        "d": 1,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Lee changes $\\$450$ into euros."
+        },
+        {
+          "type": "text",
+          "content": "The exchange rate is $\\$1 = 0.8476$ euros."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the amount in euros that Lee receives."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "euros"
+      },
+      "meta": {
+        "s": "1.11",
+        "cat": "number",
+        "d": 1,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$W = \\frac{t}{2}(7t - 4)$$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $W$ when $t = 18$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$W$ ="
+      },
+      "meta": {
+        "s": "2.1",
+        "cat": "algebra",
+        "d": 2,
+        "topics": ["Algebra"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A triangle has sides 6 cm, 7 cm and 8 cm."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "**Using a ruler and compasses only**, construct the triangle."
+        },
+        {
+          "type": "text",
+          "content": "The 6 cm line has been drawn for you."
+        },
+        {
+          "type": "text",
+          "content": "Show all your construction arcs."
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {
+        "s": "4.5",
+        "cat": "geometry",
+        "d": 2,
+        "topics": ["Geometry"],
+        "cmd": "construct"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{13.7 + 14.02}{-0.31 + \\sqrt[3]{15.625}}$$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 2 decimal places."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": "1.5",
+        "cat": "number",
+        "d": 2,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper3/Q11/Q11_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The line $XY$ touches the circle at the point $R$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Write down the mathematical name for the line $XY$."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Points $P$ and $Q$ lie on the circle."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Write down the mathematical name for the line $PQ$."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The area of the circle is $43.5\\,\\text{cm}^2$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the radius of the circle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diameter of a different circle is 6.4 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the circumference of this circle."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in millimetres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{mm}$"
+          }
+        }
+      ],
+      "meta": {
+        "s": "5.1",
+        "cat": "geometry",
+        "d": 2,
+        "topics": ["Geometry", "Mensuration"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The stem-and-leaf diagram shows the scores of each of 27 students in a test."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper3/Q12/Q12_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Key: $2 | 8$ represents a score of 28"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the range of the scores."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "When the score for another student is included in the diagram the new range is 38."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the two possible scores for this student."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "9.3",
+        "cat": "statistics",
+        "d": 2,
+        "topics": ["Statistics"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Jason leaves Town A at 09 00 and cycles to Town C."
+        },
+        {
+          "type": "text",
+          "content": "The travel graph shows Jason's journey."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper3/Q13/Q13_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find Jason's average speed, in kilometres per hour, from Town A to Town B."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km/h}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Jason leaves Town C at 12 00."
+            },
+            {
+              "type": "text",
+              "content": "Jason continues to Town D at a constant speed of 15 kilometres per hour."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the time Jason takes to travel from Town C to Town D."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in hours and minutes."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  { "suffix": "$\\text{h}$" },
+                  { "suffix": "$\\text{min}$" }
+                ]
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the travel graph, complete Jason's journey."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the total time, in minutes, that Jason stopped between Town A and Town D."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{min}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate Jason's overall average speed, in kilometres per hour, from Town A to Town D."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km/h}$"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Lisa leaves Town C at 11 00 and arrives at Town A at 13 42."
+            },
+            {
+              "type": "text",
+              "content": "Lisa cycles at a constant speed on the same road as Jason, without stopping."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(e)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Draw a line on the travel graph to show Lisa's journey."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(e)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the distance from Town A when Lisa and Jason pass each other."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km}$"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "s": "8.1",
+        "cat": "number",
+        "d": 3,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 9,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper3/Q14/Q14_Suba_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows the net of a cuboid."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the volume of the cuboid."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^3$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that the total surface area of the cuboid is $148\\,\\text{cm}^2$."
+                },
+                {
+                  "type": "space",
+                  "height": "3cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the total length of the edges of the cuboid."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "In this part, all measurements are in centimetres."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper3/Q14/Q14_Subb_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "This is the net of a cuboid with edges of length $x$, $y$ and $(x - 1)$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find an expression, in terms of $x$ and $y$, for the perimeter of the net."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "5.2",
+        "cat": "geometry",
+        "d": 2,
+        "topics": ["Mensuration", "Algebra"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A sphere has a surface area of $177\\,\\text{cm}^2$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the radius of the sphere."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the volume of the sphere."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        }
+      ],
+      "meta": {
+        "s": "5.2",
+        "cat": "geometry",
+        "d": 2,
+        "topics": ["Mensuration"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Jo and Mira buy a shop."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "They pay for the shop in the ratio Jo : Mira $= 7 : 15$."
+            },
+            {
+              "type": "text",
+              "content": "Mira pays $\\$84\\,000$ more than Jo."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Work out how much they each pay."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              { "prefix": "Jo $\\$$" },
+              { "prefix": "Mira $\\$$" }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The shop makes a profit of $\\$56\\,000$."
+            },
+            {
+              "type": "text",
+              "content": "Jo receives $12\\%$ of the profit."
+            },
+            {
+              "type": "text",
+              "content": "Mira receives $\\$14\\,000$ of the profit."
+            },
+            {
+              "type": "text",
+              "content": "The rest of the profit is put into a bank account."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate how much money Jo receives."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the amount put into the bank account as a percentage of the profit."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Mira invests $\\$14\\,000$ at a rate of $2.4\\%$ per year compound interest."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the value of this investment at the end of 4 years."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "s": "1.10",
+        "cat": "number",
+        "d": 2,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The number, $N$, is written as a product of its prime factors."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$$N = 2^4 \\times 3^2$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of $N$."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the highest common factor (HCF) of 120 and $N$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the lowest common multiple (LCM) of 120 and $N$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "1.3",
+        "cat": "number",
+        "d": 2,
+        "topics": ["Number"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first five terms of a sequence."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$7 \\quad a \\quad b \\quad c \\quad 31$$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "In the sequence, the same number is added each time to obtain the next term."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the value of each of the terms $a$, $b$ and $c$."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              { "prefix": "$a$ =" },
+              { "prefix": "$b$ =" },
+              { "prefix": "$c$ =" }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first five terms of another sequence."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$4 \\quad 11 \\quad 18 \\quad 25 \\quad 32$$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the $n$th term of the sequence."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that 361 is a term in the sequence."
+                },
+                {
+                  "type": "space",
+                  "height": "3cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "s": "2.7",
+        "cat": "algebra",
+        "d": 2,
+        "topics": ["Algebra"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In a quiz, the mean score of each of 12 adults is 43.25."
+        },
+        {
+          "type": "text",
+          "content": "In the same quiz, the mean score of each of 16 children is 39.75."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the mean score of the 28 people."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": "9.3",
+        "cat": "statistics",
+        "d": 2,
+        "topics": ["Statistics"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Luca walks at a speed of 5.4 kilometres per hour."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Write this speed in metres per second."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{m/s}$"
+      },
+      "meta": {
+        "s": "1.11",
+        "cat": "number",
+        "d": 2,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper3/Q21/Q21_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a circle, centre $O$, with diameter $PQ$."
+        },
+        {
+          "type": "text",
+          "content": "$R$ is a point on the circumference."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Give a geometrical reason why angle $PRQ$ is $90°$."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the length of $PQ$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$PQ$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ],
+      "meta": {
+        "s": "4.6",
+        "cat": "geometry",
+        "d": 3,
+        "topics": ["Geometry"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper3/Q22/Q22_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "A ladder of length 5.6 m rests against a vertical wall."
+        },
+        {
+          "type": "text",
+          "content": "The bottom of the ladder is 1.5 m from the bottom of the wall, on horizontal ground."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the distance from the top of the ladder to the base of the wall."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{m}$"
+      },
+      "meta": {
+        "s": "6.1",
+        "cat": "geometry",
+        "d": 2,
+        "topics": ["Geometry"],
+        "cmd": "calculate"
+      }
+    }
+  ]
+}

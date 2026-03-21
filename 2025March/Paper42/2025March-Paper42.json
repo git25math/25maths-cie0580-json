@@ -1,0 +1,579 @@
+{
+  "v": "1.0",
+  "paper": "2025March-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2025,
+  "session": "March",
+  "paperNum": "42",
+  "type": "ext-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        { "type": "text", "content": "Write down a factor of 28 that is a prime number." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "1.3", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Simplify." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$4y^2 + 3y - y^2 + 2y$$" },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "2.2", "cat": "algebra", "d": 1, "topics": ["Algebra"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper42/Q03/Q03_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Shade two more small squares to make a pattern with two lines of symmetry." }
+      ],
+      "parts": [],
+      "answer": { "type": "none" },
+      "meta": { "s": "4.1", "cat": "geometry", "d": 1, "topics": ["Geometry"], "cmd": "draw" }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Calculate $\\dfrac{20.24 - \\sqrt[3]{30}}{6.5}$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Give your answer correct to 1 decimal place." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "1.5", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper42/Q05/Q05_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "A pattern is formed by 3 congruent rectangles." },
+        { "type": "text", "content": "Each rectangle is a rotation of $90°$ around one vertex of the rectangle next to it." },
+        { "type": "text", "content": "The point $A$ has coordinates $(2, 5)$." },
+        { "type": "text", "content": "The point $B$ has coordinates $(4, 1.5)$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out the coordinates of point $C$ and point $D$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          { "prefix": "$C$ (" , "suffix": ")" },
+          { "prefix": "$D$ (" , "suffix": ")" }
+        ]
+      },
+      "meta": { "s": "3.1", "cat": "geometry", "d": 3, "topics": ["Coordinate Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Each week Nisha is paid $\\$12$ per hour for the first 40 hours that she works." },
+        { "type": "text", "content": "She is paid $30\\%$ more per hour for any extra hours that she works." },
+        { "type": "text", "content": "One week Nisha works for 45.5 hours." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate how much she is paid that week." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "prefix": "$\\$$" },
+      "meta": { "s": "1.12", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 7,
+      "marks": 5,
+      "stem": [
+        { "type": "text", "content": "The table shows the age and mass of each of 10 babies." },
+        { "type": "newline", "lines": 1 },
+        { "type": "table", "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\\hline Age (weeks) & 9 & 12 & 15 & 2 & 5 & 6 & 9 & 7 & 1 & 11 \\\\\\hline Mass (kg) & 4.3 & 5.8 & 6.2 & 3.0 & 3.9 & 4.0 & 4.6 & 4.5 & 2.5 & 5.3 \\\\\\hline\\end{tabular}" },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper42/Q07/Q07_Stem_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Complete the scatter diagram." },
+            { "type": "text", "content": "The first six points have been plotted for you." }
+          ],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            { "type": "text", "content": "What type of correlation is shown in the scatter diagram?" }
+          ],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            { "type": "text", "content": "On the scatter diagram, draw a line of best fit." }
+          ],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            { "type": "text", "content": "Use your line of best fit to find an estimate of the mass of a 14-week old baby." }
+          ],
+          "answer": { "type": "number", "suffix": "$\\text{kg}$" }
+        }
+      ],
+      "meta": { "s": "9.4", "cat": "statistics", "d": 2, "topics": ["Statistics"], "cmd": "draw" }
+    },
+    {
+      "qnum": 8,
+      "marks": 5,
+      "stem": [
+        { "type": "text", "content": "The scale drawing shows the positions of boat $A$ and boat $B$." },
+        { "type": "text", "content": "The scale is 1 cm represents 0.5 km." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper42/Q08/Q08_Stem_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Find the actual distance between boat $A$ and boat $B$." }
+          ],
+          "answer": { "type": "number", "suffix": "$\\text{km}$" }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            { "type": "text", "content": "Lighthouse $L$ lies to the east of boats $A$ and $B$." },
+            { "type": "text", "content": "$L$ is 4.4 km from boat $A$ and 3.3 km from boat $B$." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Using a ruler and compasses only, construct and label the position of $L$." }
+          ],
+          "answer": { "type": "none" }
+        }
+      ],
+      "meta": { "s": "4.4", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            { "type": "text", "content": "Write 0.00709 in standard form." }
+          ],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Work out $(4 \\times 10^4)^2$." },
+            { "type": "text", "content": "Give your answer in standard form." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "1.7", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 10,
+      "marks": 7,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper42/Q10/Q10_Stem_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            { "type": "text", "content": "Draw the image of" }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                { "type": "text", "content": "triangle $A$ after a reflection in the line $y = 1$." }
+              ],
+              "answer": { "type": "none" }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                { "type": "text", "content": "triangle $A$ after a translation by the vector $\\binom{-6}{1}$." }
+              ],
+              "answer": { "type": "none" }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            { "type": "text", "content": "Describe fully the single transformation that maps triangle $A$ onto triangle $B$." }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [ {}, {} ]
+          }
+        }
+      ],
+      "meta": { "s": "7.1", "cat": "geometry", "d": 3, "topics": ["Transformations"], "cmd": "describe" }
+    },
+    {
+      "qnum": 11,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Midhil invests $\\$1500$ at a rate of $4.2\\%$ per year compound interest." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Calculate the value of the investment at the end of 5 years." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "number", "prefix": "$\\$$" }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            { "type": "text", "content": "Hitanshi invests some money at a rate of $x\\%$ per year compound interest." },
+            { "type": "text", "content": "At the end of 11 years the value of the investment has doubled." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Calculate the value of $x$." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "number", "prefix": "$x$ =" }
+        }
+      ],
+      "meta": { "s": "1.12", "cat": "number", "d": 3, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        { "type": "text", "content": "A cone has sloping edge 12 cm and base radius 5 cm." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the total surface area of the cone." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "suffix": "$\\text{cm}^2$" },
+      "meta": { "s": "5.3", "cat": "geometry", "d": 2, "topics": ["Mensuration"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 13,
+      "marks": 6,
+      "stem": [
+        { "type": "text", "content": "The table shows the first 5 terms of sequences $A$, $B$ and $C$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper42/Q13/Q13_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Complete the table to show the $n$th term of each sequence." }
+      ],
+      "parts": [],
+      "answer": { "type": "table_input" },
+      "meta": { "s": "2.7", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 14,
+      "marks": 5,
+      "stem": [
+        { "type": "text", "content": "$$\\text{f}(x) = 5 - 4x$$" }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            { "type": "text", "content": "Find $\\text{f}(-3)$." }
+          ],
+          "answer": { "type": "number" }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Find $\\text{f}(3 - 2x)$." },
+            { "type": "text", "content": "Give your answer in its simplest form." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Find $\\text{f}^{-1}(x)$." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "expression", "prefix": "$\\text{f}^{-1}(x)$ =" }
+        }
+      ],
+      "meta": { "s": "2.6", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 15,
+      "marks": 7,
+      "stem": [
+        { "type": "text", "content": "Virat records the height of each of 80 sunflowers." },
+        { "type": "text", "content": "The results are shown in the table." },
+        { "type": "newline", "lines": 1 },
+        { "type": "table", "content": "\\begin{tabular}{|c|c|c|c|c|}\\hline Height ($h$ m) & $1.2 < h \\leqslant 1.5$ & $1.5 < h \\leqslant 1.6$ & $1.6 < h \\leqslant 1.7$ & $1.7 < h \\leqslant 1.9$ \\\\\\hline Frequency & 12 & 20 & 34 & 14 \\\\\\hline\\end{tabular}" }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            { "type": "text", "content": "Calculate an estimate of the mean height." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "number", "suffix": "$\\text{m}$" }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            { "type": "text", "content": "Draw a histogram to show the information in the table." },
+            { "type": "newline", "lines": 1 },
+            { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper42/Q15/Q15_Stem_Fig1.png" }
+          ],
+          "answer": { "type": "none" }
+        }
+      ],
+      "meta": { "s": "9.6", "cat": "statistics", "d": 3, "topics": ["Statistics"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 16,
+      "marks": 6,
+      "stem": [
+        { "type": "text", "content": "The graph shows the speed of a cyclist during a journey of 30 seconds." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper42/Q16/Q16_Stem_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            { "type": "text", "content": "Write down the acceleration of the cyclist between 15 seconds and 25 seconds." }
+          ],
+          "answer": { "type": "number", "suffix": "$\\text{m/s}^2$" }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "By drawing a tangent, find an estimate for the acceleration of the cyclist at 7.5 seconds." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "number", "suffix": "$\\text{m/s}^2$" }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            { "type": "text", "content": "Work out the average speed of the cyclist between 15 seconds and 30 seconds." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "number", "suffix": "$\\text{m/s}$" }
+        }
+      ],
+      "meta": { "s": "3.4", "cat": "algebra", "d": 3, "topics": ["Coordinate Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 17,
+      "marks": 9,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper42/Q17/Q17_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows three points $A$, $B$ and $C$ on horizontal ground." },
+        { "type": "text", "content": "The bearing of $C$ from $A$ is $145°$ and angle $ACB = 38°$." },
+        { "type": "text", "content": "$AC = 65$ m and $BC = 95$ m." }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Find the bearing of $B$ from $C$." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "number" }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            { "type": "text", "content": "Show that $AB = 59.3$ m, correct to 1 decimal place." },
+            { "type": "space", "height": "3cm" }
+          ],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            { "type": "text", "content": "Angle $BAC$ is obtuse." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Work out the bearing of $B$ from $A$." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "number" }
+        }
+      ],
+      "meta": { "s": "6.3", "cat": "geometry", "d": 4, "topics": ["Trigonometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 18,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            { "type": "text", "content": "Factorise." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "$$18a^2 - 98$$" },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            { "type": "text", "content": "Expand and simplify." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "$$(x + 4)(2x - 1)(x - 2)$$" },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "2.2", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Solve the equation $2 + 5\\cos x = 0$ for $0° \\leqslant x \\leqslant 360°$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          { "prefix": "$x$ =" },
+          { "prefix": "or $x$ =" }
+        ]
+      },
+      "meta": { "s": "6.4", "cat": "algebra", "d": 3, "topics": ["Trigonometry"], "cmd": "solve" }
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        { "type": "text", "content": "A piece of metal has volume $1240 \\text{ cm}^3$, correct to the nearest $20 \\text{ cm}^3$." },
+        { "type": "text", "content": "The mass of the piece of metal is 7800 g, correct to the nearest 100 g." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the lower bound of the density of the metal." },
+        { "type": "text", "content": "[Density $=$ mass $\\div$ volume.]" },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "suffix": "$\\text{g/cm}^3$" },
+      "meta": { "s": "1.9", "cat": "number", "d": 3, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper42/Q21/Q21_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$OAB$ is a triangle." },
+        { "type": "text", "content": "$C$ is the midpoint of $OA$." },
+        { "type": "text", "content": "$\\overrightarrow{OC} = \\mathbf{m}$ and $\\overrightarrow{CB} = \\mathbf{n}$." },
+        { "type": "text", "content": "$E$ lies on $AB$ and $AE : EB = 4 : 5$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find, in terms of $\\mathbf{m}$ and $\\mathbf{n}$, the position vector of $E$." },
+        { "type": "text", "content": "Give your answer in its simplest form." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "7.2", "cat": "geometry", "d": 4, "topics": ["Vectors"], "cmd": "find" }
+    },
+    {
+      "qnum": 22,
+      "marks": 6,
+      "stem": [
+        { "type": "text", "content": "The line $y = 4x + 12$ intersects the curve $y = 2x^2 - x - 3$ at point $P$ and point $Q$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the coordinates of $P$ and $Q$." },
+        { "type": "text", "content": "You must show all your working and give your answers correct to 2 decimal places." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          { "prefix": "(", "suffix": ")" },
+          { "prefix": "(", "suffix": ")" }
+        ]
+      },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 4, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 23,
+      "marks": 7,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper42/Q23/Q23_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows the major segment of a circle, centre $O$, radius 2.5 m." },
+        { "type": "text", "content": "The segment is the cross section of a tunnel with height 3 m." },
+        { "type": "text", "content": "The length of the tunnel is 800 m and it has the same cross section throughout its length." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the volume of the tunnel." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "suffix": "$\\text{m}^3$" },
+      "meta": { "s": "5.3", "cat": "geometry", "d": 4, "topics": ["Mensuration"], "cmd": "calculate" }
+    }
+  ]
+}

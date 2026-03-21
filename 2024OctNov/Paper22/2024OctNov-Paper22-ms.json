@@ -1,0 +1,651 @@
+{
+  "v": "1.0",
+  "paper": "2024OctNov-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "OctNov",
+  "paperNum": "22",
+  "totalMarks": 70,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "answer": "$[c =] 3$\n$[k =] -39$",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for each"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or SC1 for $c = -39$ and $k = 3$. If correct in working e.g. written next to sequence and reversed on answer line then allow 2 marks with a TE"
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "answer": "94",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $x + 2 \\times 43 = 180$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "e.g. $180 - 2 \\times 43$"
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "answer": "24, $\\sqrt{3}$, 0.25",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for each"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "Do not allow $\\frac{1}{4}$"
+    },
+    {
+      "qnum": 4,
+      "marks": 5,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "76",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "Point correctly plotted at (42, 33)",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "Tolerance within half a small square i.e. must be between 32 and 34 lines not on them"
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "answer": "Correct ruled line of best fit",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                }
+              ],
+              "guidance": "Use template. Pass through (30, 8) to (30, 24) and (72, 50) to (72, 66). Condone good freehand"
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "answer": "27 to 33",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "FT their line of best fit provided line shows positive correlation and answer is an integer"
+                }
+              ],
+              "guidance": "Tolerance $\\pm$ half a square from their value at 45 people"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "answer": "positive",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "Allow +ve but not +. Ignore embellishments e.g. strong"
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "answer": "75 100",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "Allow answer $7.51 \\times 10^4$ as standard form"
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "answer": "4.5 oe",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $\\frac{1}{2} \\times 6 \\times (x + 9.5) = 42$ oe or better or for $42 \\times \\frac{2}{6} - 9.5$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "Allow $\\frac{9}{2}$ for 2 marks. Answer $\\frac{27}{6}$ scores max M1. Method can be done in stages without referring to x"
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "answer": "$\\frac{11}{21}$ cao",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $\\frac{2}{7} \\times \\frac{11}{6}$ or $\\frac{22}{77} \\div \\frac{42}{77}$ oe with common denominator"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "oe e.g. $\\frac{22}{77} \\times \\frac{77}{42}$"
+    },
+    {
+      "qnum": 8,
+      "marks": 4,
+      "answer": "70",
+      "markAllocation": [
+        {
+          "code": "B3",
+          "type": "B",
+          "value": 3,
+          "criterion": "for $x = 11$"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "OR M1 for $132 - 2x + 15 + 5x = 180$ oe. M1 for collecting x terms on one side and number terms on the other. M1 for $15 + 5 \\times their\\ x$ oe where $-3 < their\\ x < 15$ or for $132 - 2 \\times their\\ x$ oe where $21 < their\\ x < 66$"
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "answer": "$36\\pi$ cao",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for answer 113 or 113.0 to 113.1... or an answer in terms of $\\pi$ which rounds to 113"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M1 for correct first step for finding $d$ or $r$. e.g. $72 + 72 = d^2$ oe or $72 = r^2 + r^2$ oe or $\\sqrt{72} = \\frac{r}{\\sin 45}$ oe or $\\frac{1}{2} \\times r \\times r = \\frac{72}{4}$ oe. Ignore inaccurate values for 6 or 12 if recovered by accurate 36"
+    },
+    {
+      "qnum": 10,
+      "marks": 1,
+      "answer": "1.4 oe",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "Allow $\\frac{7}{5}$"
+    },
+    {
+      "qnum": 11,
+      "marks": 5,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "$3x(8x - 3y)$ final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for $3(8x^2 - 3xy)$ or $x(24x - 9y)$ or $3x(8x - 3y)$ seen then spoilt"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "Condone omission of final bracket for 1 or 2 marks"
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "$7(3x + 2y)(3x - 2y)$ final answer",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "for $(21x + 14y)(3x - 2y)$ or $(3x + 2y)(21x - 14y)$ or $7(3x + 2y)(3x - 2y)$ seen then spoilt"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or M1 for $7(9x^2 - 4y^2)$ or $[...](3x + 2y)(3x - 2y)$. Condone omission of final bracket for all marks"
+        }
+      ]
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "answer": "5.6 oe",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $y = k\\sqrt{x + 1}$ oe"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $y = their\\ k \\sqrt{1.56 + 1}$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "Allow $\\frac{28}{5}$ for 3 marks. e.g. $10.5 = k\\sqrt{8 + 1}$, implied by $k = 3.5$. Method may be in one step e.g. $\\frac{10.5}{\\sqrt{8+1}} = \\frac{y}{\\sqrt{1.56+1}}$ oe"
+    },
+    {
+      "qnum": 13,
+      "marks": 4,
+      "answer": "Correct region R shaded",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for $y = 2$ solid line"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for $y = x - 1$ solid line"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for $y = -3$ dashed line"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for correct region identified satisfying the given inequalities"
+        }
+      ],
+      "guidance": "Penalise first occurrence of dashed/solid error. Lines can be any length and condone good freehand. Mark R first, if no R mark unshaded region"
+    },
+    {
+      "qnum": 14,
+      "marks": 4,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "2",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "240",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for correct complete area statement e.g. $\\frac{1}{2} \\times 20 \\times 10 + 7 \\times 20$ oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or M1 for one correct area. Implied by 100 or 140. e.g. M1 for $20 \\times 17 - k$ or $340 - k$ where $k \\neq 0$"
+        }
+      ]
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "answer": "60 835",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $40\\,000 \\times (1 + \\frac{15}{100})^3$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "Answers 60800, 60830 or 60840 without 60835 in the working score M1 only. For M1 isw if 40 000 subtracted. $40\\,000 \\times (1 + 15\\%)^3$ is not sufficient for M1"
+    },
+    {
+      "qnum": 16,
+      "marks": 1,
+      "answer": "$\\frac{17}{20}$ oe",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "Allow any equivalent e.g. $\\frac{51}{60}$, 0.85, 85%. Not ratio 17:20"
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "answer": "52",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $360 - 90 - 90 - 128$ oe or B1 for [obtuse angle] $AOC = 128$ or $AOD$ or $COD = 64$ or $DAO$ or $DCO = 90$"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "Angles may be marked on diagram. Allow right angle symbol between radius and tangent on either side"
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "Correct Venn diagram with $\\sqrt{0.08}$, $8 \\times 10^{-1}$, $0.\\overline{8}$ placed correctly",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "for three correctly placed"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or B1 for two correctly placed or correct conversion of $8 \\times 10^{-1}$, 8% and $\\sqrt{0.08}$ to 0.8, 0.08, 0.2[8...] or 0.3. Allow equivalent values in the diagram"
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "Correct Venn diagram shading for $(A \\cup B) \\cap C'$ or similar",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 19,
+      "marks": 7,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "858 or 857.7 to 857.9",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for $[\\frac{1}{2} \\times] \\frac{4}{3} \\times \\pi \\times 4.3^3 + \\pi \\times 4.3^2 \\times 11.9$ oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or M1 for $[\\frac{1}{2} \\times] \\frac{4}{3} \\times \\pi \\times 4.3^3$ or $\\pi \\times 4.3^2 \\times 11.9$ oe. Award 3 marks for answers $273.03\\pi$ to $273.04\\pi$ but M2 only for $273\\pi$. For M marks, allow multiples of $\\pi$"
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "answer": "496 or 495.7 to 495.8...",
+          "markAllocation": [
+            {
+              "code": "M3",
+              "type": "M",
+              "value": 3,
+              "criterion": "for $\\frac{1}{2} \\times 4 \\times \\pi \\times 4.3^2 + \\pi \\times 4.3^2 + 2 \\times \\pi \\times 4.3 \\times 11.9$ oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "OR M1 for $\\pi \\times 4.3^2 \\times k$ where $k$ is a whole number. M1 for $2 \\times \\pi \\times 4.3 \\times 11.9$. Award 4 marks for $157.8[1]\\pi$ or $\\frac{15781}{100}\\pi$. Award M3 only for answer $158\\pi$"
+        }
+      ]
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "answer": "$7^{n-2}$ oe final answer",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for recognition of terms being powers of 7"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "Allow unsimplified for 2 marks e.g. $\\frac{7^n}{49}$, $\\frac{1}{7} \\times 7^{n-1}$, $(\\frac{1}{7})^{2-n}$. e.g. any power of 7 shown e.g. $7^2$, or $n$th term $7^{an+b}$ or a correct answer seen then spoilt"
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "answer": "$2x^3 + 17x^2 + 38x + 15$ final answer",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for correct expansion of the three brackets unsimplified or for simplified four-term expression of correct form with three terms correct"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or B1 for correct expansion of two of the given brackets with at least three terms out of four correct. e.g. $x^2 + 3x + 5x + 15$, $8x$ is two terms correct. $2x^2 + 10x + x + 5$, $11x$ is two terms correct"
+    },
+    {
+      "qnum": 22,
+      "marks": 5,
+      "answer": "$[y =] -\\frac{1}{5}x + 28$ final answer",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for midpoint (20, 24) soi"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $[gradient =] \\frac{39 - 9}{23 - 17}$ oe"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $\\frac{-1}{their\\ gradient}$"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for substitution of their midpoint into their $y = mx + c$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "Allow equivalent final answers e.g. $y = -0.2x + 28$, $[y =] -\\frac{6}{30}x + 28$. M1 implied by $[y =] 5x + k$, $m = 5$. M1M1 implied by $[y =] -\\frac{1}{5}x + k$ oe. Do not allow their gradient of AB or substitution of A or B."
+    },
+    {
+      "qnum": 23,
+      "marks": 3,
+      "answer": "4.2 oe",
+      "markAllocation": [
+        {
+          "code": "M2",
+          "type": "M",
+          "value": 2,
+          "criterion": "for $\\sqrt[3]{1 + \\frac{72.8}{100}} \\times 3.5$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "Allow $\\frac{21}{5}$ for 3 marks. M2 implied by $\\sqrt[3]{74.088}$. or M1 for $\\frac{\\sqrt[3]{172.8}}{\\sqrt[3]{100}}$ oe or $\\frac{\\sqrt[3]{100}}{\\sqrt[3]{172.8}}$ oe or $\\frac{x^3}{3.5^3} = \\frac{172.8}{100}$ oe"
+    }
+  ]
+}

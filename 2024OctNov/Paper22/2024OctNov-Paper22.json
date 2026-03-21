@@ -1,0 +1,377 @@
+{
+  "v": "1.0",
+  "paper": "2024OctNov-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "OctNov",
+  "paperNum": "22",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "These are the first eight terms of a sequence." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$c \\qquad -3 \\qquad -9 \\qquad -15 \\qquad -21 \\qquad -27 \\qquad -33 \\qquad k$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the value of $c$ and the value of $k$." }
+      ],
+      "parts": [],
+      "answer": { "type": "multiline", "lines": [{ "label": "$c=$", "value": "3" }, { "label": "$k=$", "value": "-39" }] },
+      "meta": { "s": "6.1", "cat": "algebra", "d": 1, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 2, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "The diagram shows an isosceles triangle." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q02/Q02_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the value of $x$." }
+      ],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "4.1", "cat": "geometry", "d": 1, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 3, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "$\\begin{array}{cccccccc} 0.25 & 3.142 & \\sqrt{3} & -3 & 24 & -0.4 & 1.2 & -\\dfrac{1}{4} \\end{array}$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Complete each statement with a number from the list." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots is a natural number." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots is an irrational number." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots is the reciprocal of 4." }
+      ],
+      "parts": [],
+      "answer": { "type": "multiline", "lines": [{ "label": "natural", "value": "24" }, { "label": "irrational", "value": "\\sqrt{3}" }, { "label": "reciprocal of 4", "value": "0.25" }] },
+      "meta": { "s": "1.1", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "complete" }
+    },
+    {
+      "qnum": 4, "marks": 5,
+      "stem": [
+        { "type": "text", "content": "The scatter diagram shows the number of rooms and the number of people in each of eight buildings." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q04/Q04_Stem_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 1,
+          "content": [{ "type": "text", "content": "One of the buildings has 67 rooms. Write down the number of people in this building." }],
+          "answer": { "type": "number" }
+        },
+        {
+          "label": "(b)", "marks": 1,
+          "content": [{ "type": "text", "content": "In another building there are 42 people and 33 rooms. On the scatter diagram, plot this point." }],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(c)", "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)", "marks": 1,
+              "content": [{ "type": "text", "content": "On the scatter diagram, draw a line of best fit." }],
+              "answer": { "type": "none" }
+            },
+            {
+              "label": "(ii)", "marks": 1,
+              "content": [{ "type": "text", "content": "There are 45 people in a different building. Find an estimate for the number of rooms in this building." }],
+              "answer": { "type": "number" }
+            }
+          ]
+        },
+        {
+          "label": "(d)", "marks": 1,
+          "content": [{ "type": "text", "content": "What type of correlation is shown in the scatter diagram?" }],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "9.3", "cat": "statistics", "d": 1, "topics": ["Statistics"], "cmd": "read" }
+    },
+    {
+      "qnum": 5, "marks": 1,
+      "stem": [
+        { "type": "text", "content": "Convert $7.51\\text{ m}^2$ into $\\text{cm}^2$." }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "suffix": "$\\text{cm}^2$" },
+      "meta": { "s": "1.6", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "convert" }
+    },
+    {
+      "qnum": 6, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "The diagram shows a trapezium." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q06/Q06_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The area of the trapezium is $42\\text{ cm}^2$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the value of $x$." }
+      ],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "4.4", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 7, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "**Without using a calculator**, work out $\\dfrac{2}{7} \\div \\dfrac{6}{11}$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "You must show all your working and give your answer as a fraction in its simplest form." }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "1.5", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 8, "marks": 4,
+      "stem": [
+        { "type": "text", "content": "The diagram shows a parallelogram." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q08/Q08_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out the size of the smallest interior angle of the parallelogram." }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "suffix": "$°$" },
+      "meta": { "s": "4.1", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 9, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q09/Q09_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Points $A$, $B$, $C$ and $D$ lie on a circle. $ABCD$ is a square with area $72\\text{ cm}^2$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the area of the circle. Give your answer as a multiple of $\\pi$." }
+      ],
+      "parts": [],
+      "answer": { "type": "expression", "suffix": "$\\text{cm}^2$" },
+      "meta": { "s": "4.5", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 10, "marks": 1,
+      "stem": [
+        { "type": "text", "content": "Calculate $\\sqrt[3]{1 + 10.9 \\times 0.4^2}$." }
+      ],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "1.2", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 11, "marks": 5,
+      "stem": [
+        { "type": "text", "content": "Factorise fully." }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 2,
+          "content": [{ "type": "text", "content": "$24x^2 - 9xy$" }],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(b)", "marks": 3,
+          "content": [{ "type": "text", "content": "$63x^2 - 28y^2$" }],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "2.5", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "factorise" }
+    },
+    {
+      "qnum": 12, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "$y$ is directly proportional to the square root of $x + 1$." },
+        { "type": "text", "content": "$y = 10.5$ when $x = 8$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find $y$ when $x = 1.56$." }
+      ],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "1.11", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 13, "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q13/Q13_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The region $R$ satisfies these inequalities." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$-3 < y \\leq 2 \\qquad y \\leq x - 1$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "By drawing suitable straight lines and shading **unwanted** regions, find and label the region $R$." }
+      ],
+      "parts": [],
+      "answer": { "type": "none" },
+      "meta": { "s": "2.8", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "draw" }
+    },
+    {
+      "qnum": 14, "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q14/Q14_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows the speed–time graph for 17 seconds of a car journey." }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 1,
+          "content": [{ "type": "text", "content": "Find the acceleration of the car during the first 10 seconds." }],
+          "answer": { "type": "number", "suffix": "$\\text{m/s}^2$" }
+        },
+        {
+          "label": "(b)", "marks": 3,
+          "content": [{ "type": "text", "content": "Calculate the total distance travelled by the car during the 17 seconds." }],
+          "answer": { "type": "number", "suffix": "$\\text{m}$" }
+        }
+      ],
+      "meta": { "s": "4.9", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 15, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "At the start of an experiment there are 40 000 bacteria. The number of bacteria increases at a rate of 15% per hour." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the number of bacteria after 3 hours." }
+      ],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "1.12", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 16, "marks": 1,
+      "stem": [
+        { "type": "text", "content": "75 people are asked if they have a car, $C$, and if they have a job, $J$. The Venn diagram shows the results." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q16/Q16_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "A person is chosen at random from those who have a car." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the probability that this person also has a job." }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "8.3", "cat": "probability", "d": 1, "topics": ["Probability"], "cmd": "find" }
+    },
+    {
+      "qnum": 17, "marks": 2,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q17/Q17_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$A$, $B$ and $C$ are points on the circumference of a circle with centre $O$. $DA$ and $DC$ are tangents to the circle. Angle $ABC = 64°$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out the value of $x$." }
+      ],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "4.7", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 18, "marks": 4,
+      "stem": [
+        { "type": "text", "content": "$\\mathcal{E} = \\{8 \\times 10^{-1}, \\; 0.8, \\; 8\\%, \\; \\sqrt{0.08}\\}$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$A = \\{a : 0.08 < a \\leq 0.8\\}$" },
+        { "type": "text", "content": "$B = \\{b : b \\geq 0.8\\}$" }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 3,
+          "content": [
+            { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q18/Q18_Suba_Fig1.png" },
+            { "type": "text", "content": "Complete the Venn diagram." }
+          ],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(b)", "marks": 1,
+          "content": [
+            { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q18/Q18_Subb_Fig2.png" },
+            { "type": "text", "content": "Shade the region $(A \\cup C) \\cap B'$ in the Venn diagram." }
+          ],
+          "answer": { "type": "none" }
+        }
+      ],
+      "meta": { "s": "8.2", "cat": "probability", "d": 2, "topics": ["Probability"], "cmd": "complete" }
+    },
+    {
+      "qnum": 19, "marks": 7,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q19/Q19_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "A solid is made from a cylinder and a hemisphere, both of radius 4.3 cm. The cylinder has length 11.9 cm." }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 3,
+          "content": [
+            { "type": "text", "content": "Calculate the volume of the solid." },
+            { "type": "text", "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\dfrac{4}{3}\\pi r^3$.]" }
+          ],
+          "answer": { "type": "number", "suffix": "$\\text{cm}^3$" }
+        },
+        {
+          "label": "(b)", "marks": 4,
+          "content": [
+            { "type": "text", "content": "Calculate the total surface area of the solid." },
+            { "type": "text", "content": "[The surface area, $A$, of a sphere with radius $r$ is $A = 4\\pi r^2$.]" }
+          ],
+          "answer": { "type": "number", "suffix": "$\\text{cm}^2$" }
+        }
+      ],
+      "meta": { "s": "4.6", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 20, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Find an expression for the $n$th term of this sequence." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$\\dfrac{1}{7}, \\quad 1, \\quad 7, \\quad 49, \\quad 343, \\quad 2401, \\quad \\ldots$" }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "6.2", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 21, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Expand and simplify." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$(x + 3)(x + 5)(2x + 1)$" }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "2.4", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "expand" }
+    },
+    {
+      "qnum": 22, "marks": 5,
+      "stem": [
+        { "type": "text", "content": "$A$ is the point $(17, 9)$ and $B$ is the point $(23, 39)$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the equation of the perpendicular bisector of line $AB$. Give your answer in the form $y = mx + c$." }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "3.5", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 23, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q23/Q23_Stem_Fig1.png" },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper22/Q23/Q23_Stem_Fig2.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The small box is mathematically similar to the large box. The volume of the large box is 72.8% greater than the volume of the small box. The small box has length 3.5 cm and the large box has length $x$ cm." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the value of $x$." }
+      ],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "4.8", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "calculate" }
+    }
+  ]
+}

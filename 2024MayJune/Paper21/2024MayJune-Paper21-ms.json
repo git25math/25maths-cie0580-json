@@ -1,0 +1,626 @@
+{
+  "v": "1.0",
+  "paper": "2024MayJune-Paper21",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "MayJune",
+  "paperNum": "21",
+  "totalMarks": 70,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "answer": "($-3$, 7)",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for correct diagram or correct coordinates for their point D or for ($-3$, $k$) or ($k$, 7)"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "0.4 oe",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "42\n0.2  0.2",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for 42"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for 0.2 and 0.2"
+            }
+          ],
+          "guidance": "If B0 scored SC1 for their two probabilities being half their (a)"
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 4,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "40\n$-275$",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for each"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "24",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for 324 or 289 or $\\sqrt{300}$ or 17.3..."
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "answer": "35",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for answer 5, 7 or 70"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M1 for $2 \\times 2 \\times 5 \\times 7$ and $2 \\times 3 \\times 5 \\times 7$ or two correct factor trees or tables or $5 \\times 7 \\times k$ seen"
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "0.6 or $\\frac{3}{5}$",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "1024",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "answer": "145",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $180 \\div 6$ or any angle congruent to $BCD = 30$"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $(360 - 40 -$ their $30) \\div 2$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 7,
+      "marks": 7,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "146 or 146.2 to 146.3",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for $\\frac{1}{2} \\times 12.8 \\times 12.8$"
+            },
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for $[\\frac{1}{2} \\times] \\pi \\times (\\frac{12.8}{2})^2$"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "answer": "51[.0] or 51.00 to 51.01...",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for $\\frac{1}{2} \\times \\pi \\times 12.8$"
+            },
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for $\\sqrt{12.8^2 + 12.8^2}$ or $\\frac{12.8}{\\sin 45}$ oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or M1 for $12.8^2 + 12.8^2$ oe or $\\sin 45 = \\frac{12.8}{KL}$ oe"
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "answer": "$7n + 4$ oe final answer",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for $7n + j$ or $kn + 4$ ($k \\neq 0$), or $7n + 4$ seen then spoilt"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "answer": "3375",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $8000 \\times (1 - \\frac{25}{100})^3$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "answer": "1.25 or 1.250...",
+      "markAllocation": [
+        {
+          "code": "M2",
+          "type": "M",
+          "value": 2,
+          "criterion": "for $\\sqrt[8]{\\frac{1656.73}{1500}}$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M1 for $1656.73 = 1500(k)^8$ oe for any $k$"
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "answer": "$y < x$\n$x < 6$\n$1 \\leqslant y \\leqslant 5$ oe",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for $y < x$"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for $x < 6$"
+        },
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for $1 \\leqslant y \\leqslant 5$"
+        }
+      ],
+      "guidance": "or B1 for $y \\geqslant 1$ or $y \\leqslant 5$. If B0 scored, SC2 for $y \\leqslant x$, $x \\leqslant 6$ and $1 < y < 5$ oe or SC1 for three correct from $y = x$, $x = 6$, $y = 1$ and $y = 5$"
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "answer": "$x = 10$, $y = -2$",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for correctly equating one set of coefficients"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for correct method to eliminate one variable"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": "for $x = 10$"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": "for $y = -2$"
+        }
+      ],
+      "guidance": "If M0 scored SC1 for 2 values satisfying one of the original equations"
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "answer": "62",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for $m = 20$"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M1 for $5m + 4m = 180$ soi or $p + 4m + 38 = 180$ soi"
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "answer": "221 or 220.5 to 220.6",
+      "markAllocation": [
+        {
+          "code": "M2",
+          "type": "M",
+          "value": 2,
+          "criterion": "for $\\frac{360 - 48}{360} \\times \\pi \\times 9^2$"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M1 for $\\frac{k}{360} \\times \\pi \\times 9^2$ where $k < 360$. or B1 for 312"
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "answer": "$\\frac{29}{198}$ cao",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $146.\\dot{4}\\dot{6} - 1.\\dot{4}\\dot{6}$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": "for $\\frac{145}{990}$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "If M0 scored SC1 for $\\frac{k}{990}$ with insufficient working"
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "Correct Venn diagram shading",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "17",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "answer": "19.5 or 19.52...",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $\\frac{1}{2} \\times 6.7 \\times 5.9 \\times \\sin 81$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "answer": "$y = 2x$ ruled\n$x = -0.5$ to $-0.55$\n$x = 0.85$ to $0.9$",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for $y = 2x$ ruled"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for $-0.5$ to $-0.55$"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for $0.85$ to $0.9$"
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 19,
+      "marks": 5,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "$3(2m + 5t)(2m - 5t)$ final answer",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "for $(6m + 15t)(2m - 5t)$ or $(2m + 5t)(6m - 15t)$"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or B1 for $3(4m^2 - 25t^2)$ or $(2m + 5t)(2m - 5t)$"
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "$(x + 3)(y + 5)$ final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for $x(y + 5) + 3(y + 5)$ or $y(x + 3) + 5(x + 3)$"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "answer": "218.7, 321.3",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for one correct"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M1 for $\\sin x = -\\frac{5}{8}$ oe. If M1 or 0 scored, SC1 for two reflex angles with a sum of 540 or two non-reflex angles with a sum of 180"
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "answer": "33.2 or 33.18...",
+      "markAllocation": [
+        {
+          "code": "M3",
+          "type": "M",
+          "value": 3,
+          "criterion": "for $\\tan = \\frac{6.5}{\\sqrt{4^2 + 9.1^2}}$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M2 for $4^2 + 9.1^2$ oe or $4^2 + 9.1^2 + 6.5^2$ oe. or M1 for recognising the angle $ECH$"
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "answer": "0.225 oe",
+      "markAllocation": [
+        {
+          "code": "M3",
+          "type": "M",
+          "value": 3,
+          "criterion": "for $(1 - \\frac{0.25}{0.4}) \\times (1 - 0.4)$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "OR M2 for $\\frac{0.25}{0.4}$. or M1 for $0.4 \\times p = 0.25$ oe. M1 for $(1 -$ their $P(\\text{Jen red})) \\times (1 - 0.4)$ oe"
+    }
+  ]
+}

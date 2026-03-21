@@ -1,0 +1,1196 @@
+{
+  "v": "1.0",
+  "paper": "2020MayJune-Paper41",
+  "board": "cie",
+  "code": "0580",
+  "year": 2020,
+  "session": "MayJune",
+  "paperNum": "41",
+  "totalMarks": 130,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 16,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "answer": "7680",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "0.24x32000 oe"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "7680"
+                }
+              ]
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "answer": "34240",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "32000x(100+7)/100 oe"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "34240"
+                }
+              ]
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "5306.04",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "5000x(1+2/100)^3 oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "5306.04"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "answer": "26.7 or 26.66... to 26.67",
+          "markAllocation": [
+            {
+              "code": "B3",
+              "type": "B",
+              "value": 3,
+              "criterion": "96 or 96/360 oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "26.7 or 26.66 to 26.67"
+            }
+          ],
+          "guidance": "OR M3 for (1-1/5)x(1-2/3)x100 oe or M2 for (1-1/5) and (1-2/3) oe OR M1 for 360/5[x4] oe, M1 for their 288/3[x2]"
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "answer": "33500",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "36515/(100+9)/100 oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "33500"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(e)",
+          "marks": 4,
+          "answer": "6525",
+          "markAllocation": [
+            {
+              "code": "M3",
+              "type": "M",
+              "value": 3,
+              "criterion": "(65/45-63/45)[A]=290 oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "6525"
+            }
+          ],
+          "guidance": "or M2 for (13/9-7/5)[A]=290 oe or M1 for correct attempt at common ratio or 13/9-7/5 oe"
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 18,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "answer": "1.5<h<=1.6",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "cao"
+                }
+              ]
+            },
+            {
+              "label": "(ii)",
+              "marks": 4,
+              "answer": "1.62 or 1.623... nfww",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "1.35,1.45,1.55,1.65,1.75,1.85 soi"
+                },
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "Sigma fx"
+                },
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "their Sigma fx/120 dep"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "1.62 or 1.623..."
+                }
+              ]
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "answer": "14/120 oe",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "cao"
+                }
+              ]
+            },
+            {
+              "label": "(ii)",
+              "marks": 4,
+              "answer": "21/20060 oe",
+              "markAllocation": [
+                {
+                  "code": "M3",
+                  "type": "M",
+                  "value": 3,
+                  "criterion": "3(14/120 x 7/119 x 6/118)"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "21/20060 oe"
+                }
+              ],
+              "guidance": "or M2 for 14/120x7/119x6/118 isw or M1 for 14/120,7/119,6/118. SC1 for 343/864000 or 343/288000 oe"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "answer": "55, 79, 106, 120",
+              "markAllocation": [
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
+                  "criterion": "cao"
+                }
+              ],
+              "guidance": "B1 for 2 or 3 correct"
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "answer": "Correct diagram",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "correct horizontal plots"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "correct vertical plots FT"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "increasing curve/polygon through their 6 points dep"
+                }
+              ],
+              "guidance": "SC1 for 5/6 correct"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "answer": "1.62 to 1.63",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "cao"
+                }
+              ]
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "answer": "1.57 to 1.58",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "48 soi"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "1.57 to 1.58"
+                }
+              ]
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 14,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "75.6",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "5.2x7+1/2x1.6x7^2"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "75.6"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "answer": "2a-3b final answer",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "2a+kb or ka-3b or 2a-3b in working"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "2a-3b"
+                }
+              ]
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "answer": "3/4",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "45x/60x oe single fraction"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "3/4"
+                }
+              ]
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "answer": "-5",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "cao"
+                }
+              ]
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "answer": "-0.25 or -1/4",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "20-12x=23 or 5-3x=23/4"
+                },
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "correct completion to ax=b FT"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "-0.25 or -1/4"
+                }
+              ]
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "answer": "9x^6",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "9x^k or kx^6"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "9x^6"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "answer": "6x^2-7xy-5y^2",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "3 terms from 6x^2,-10xy,+3xy,-5y^2"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "6x^2-7xy-5y^2"
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 6,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "Triangle at (-4,-4)(-1,-3)(-4,-3)",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "cao"
+            }
+          ],
+          "guidance": "B1 for correct points not joined or reflection in y=k or x=-1"
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "Triangle at (1,1)(1,4)(2,4)",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "cao"
+            }
+          ],
+          "guidance": "B1 for correct points not joined or rotation 90 CW any point or 90 ACW (0,0)"
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "answer": "Translation (5,-6)",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "translation or correct vector oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "Translation (5,-6)"
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 6,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "Correct Venn diagram",
+          "markAllocation": [
+            {
+              "code": "B3",
+              "type": "B",
+              "value": 3,
+              "criterion": "cao"
+            }
+          ],
+          "guidance": "B2 for 8-9 correct, B1 for 6-7 correct"
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "answer": "41, 43, 47",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "FT their Venn diagram"
+                }
+              ]
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "answer": "44, 46, 49, 50",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "FT their Venn diagram"
+                }
+              ]
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "answer": "0",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "FT their Venn diagram"
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 10,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "y>=x oe",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "cao"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "3x+2y<=30",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "2.25x+1.5y<=22.5 oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "3x+2y<=30"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "answer": "Correct region indicated",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "y=10 ruled broken line"
+            },
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "3x+2y=30 ruled solid line"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "y=x ruled solid line"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "correct region indicated"
+            }
+          ],
+          "guidance": "B1 for line through (0,15) or (10,0)"
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "answer": "412",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "(4,9) identified or evaluation of 40x+28y for integer point in region"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "412"
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 17,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "118.06...",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "BC^2=80^2+115^2-2x80x115xcos72 oe"
+            },
+            {
+              "code": "A2",
+              "type": "A",
+              "value": 2,
+              "criterion": "118.06..."
+            }
+          ],
+          "guidance": "A1 for 13939..."
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "67.8 or 67.9 or 67.83 to 67.88",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "[sinB=]115xsin72/118.1 oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "67.8 or 67.9 or 67.83 to 67.88"
+            }
+          ],
+          "guidance": "or M1 for 115/sinB=118.1/sin72 oe"
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 3,
+              "answer": "255",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "bearing of B from A is 75 soi"
+                },
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "180+75 oe"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "255"
+                }
+              ]
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "answer": "[00]7.2",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "their(c)(i)-their(b)-180"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "[00]7.2"
+                }
+              ]
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "answer": "11.8 or 11.82 to 11.83",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "115/35 oe"
+            },
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "their speed in m/s x 60x60/1000"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "11.8 or 11.82 to 11.83"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "answer": "76.1 or 76.08 to 76.09",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "distance=80xsin72 oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "76.1 or 76.08 to 76.09"
+            }
+          ],
+          "guidance": "or M1 for distance required is perpendicular to AC soi"
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 12,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "answer": "Correct sketch",
+              "markAllocation": [
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
+                  "criterion": "cao"
+                }
+              ],
+              "guidance": "B1 for correct shape but inaccurate"
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "answer": "Rotational [symmetry] order 2, [centre] (180, 0)",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "rotational [symmetry]"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "order 2 and (180,0)"
+                }
+              ]
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "48.6 or 48.59 to 48.60 and 131.4 or 131.40 to 131.41",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "sinx=0.75 or better"
+            },
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "both correct"
+            }
+          ],
+          "guidance": "B2 for one correct. SC1 for two answers adding to 180"
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "answer": "(x+5)^2-11",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "(x+5)^2+k or (x+their5)^2+14-(their5)^2 or a=5"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "(x+5)^2-11"
+                }
+              ]
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "answer": "Sketch of U-shaped parabola min at (-5,-11) no part in 4th quadrant",
+              "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "U shape curve"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "turning point at (-5,k) or (k,-11) FT"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "no part in 4th quadrant"
+                }
+              ],
+              "guidance": "FT their (x+5)^2-11"
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 13,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "39[.0] or 39.03 to 39.04...",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "165/360 x 2pi x 8 + 16"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "39 or 39.03 to 39.04"
+            }
+          ],
+          "guidance": "or M1 for 165/360 x 2pi x 8"
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "answer": "2.71 or 2.708...",
+          "markAllocation": [
+            {
+              "code": "M3",
+              "type": "M",
+              "value": 3,
+              "criterion": "sqrt((165/360[xpi]x8^2)/(4[xpi])) oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": "2.71 or 2.708..."
+            }
+          ],
+          "guidance": "or M2 for r^2=... or M1 for 165/360 x pi x 8^2 oe seen"
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "answer": "3.67 or 3.666 to 3.667",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "165/360 x 2[xpi]x8=2[xpi]xr or better"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "3.67 or 3.666 to 3.667"
+                }
+              ]
+            },
+            {
+              "label": "(ii)",
+              "marks": 4,
+              "answer": "100 or 100.0 to 100.1... final answer",
+              "markAllocation": [
+                {
+                  "code": "M3",
+                  "type": "M",
+                  "value": 3,
+                  "criterion": "1/3 x pi x their(c)(i)^2 x sqrt(8^2-their radius^2)"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "100 or 100.0 to 100.1"
+                }
+              ],
+              "guidance": "or M2 for sqrt(8^2-their radius^2) or M1 for (their(c)(i))^2+h^2=8^2"
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 10,
+      "marks": 18,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 9,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 3,
+              "answer": "15.7 or 15.65...",
+              "markAllocation": [
+                {
+                  "code": "M2",
+                  "type": "M",
+                  "value": 2,
+                  "criterion": "sqrt((-4-10)^2+(4--3)^2) oe"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "15.7 or 15.65..."
+                }
+              ],
+              "guidance": "or M1 for (-4-10)^2+(4--3)^2 oe"
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "answer": "y=-2x+4",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "(-10-4)/(4--3)[=-2] oe"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "y=-2x+4"
+                }
+              ]
+            },
+            {
+              "label": "(iii)",
+              "marks": 4,
+              "answer": "y=1/2 x+11/4 oe",
+              "markAllocation": [
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "grad=1/2 soi"
+                },
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "[midpoint=](1/2,3)"
+                },
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "substitution of (1/2,3) into their y=mx+c oe"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "y=1/2 x+11/4 oe"
+                }
+              ]
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 9,
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 6,
+              "answer": "(-1/3,-22/27) oe and (-5,50)",
+              "markAllocation": [
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
+                  "criterion": "3x^2+16x+5"
+                },
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "derivative=0 or their derivative=0"
+                },
+                {
+                  "code": "M1",
+                  "type": "M",
+                  "value": 1,
+                  "criterion": "[x=]-1/3 and [x=]-5"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "-22/27 and 50"
+                },
+                {
+                  "code": "A1",
+                  "type": "A",
+                  "value": 1,
+                  "criterion": "both coordinate pairs"
+                }
+              ],
+              "guidance": "or B1 for one correct"
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "answer": "(-1/3,-22/27) minimum, (-5,50) maximum with reasons",
+              "markAllocation": [
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
+                  "criterion": "one correct with reason"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": "other correct with reason"
+                }
+              ],
+              "guidance": "or M1 for correct attempt e.g. 2nd derivatives, gradients or sketching"
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    }
+  ]
+}

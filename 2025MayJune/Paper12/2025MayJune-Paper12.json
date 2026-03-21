@@ -1,0 +1,452 @@
+{
+  "v": "1.0",
+  "paper": "2025MayJune-Paper12",
+  "board": "cie",
+  "code": "0580",
+  "year": 2025,
+  "session": "MayJune",
+  "paperNum": "12",
+  "type": "core-nocalc",
+  "totalMarks": 80,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1, "marks": 1,
+      "stem": [{ "type": "text", "content": "Write the number sixteen thousand and sixty-two in figures." }, { "type": "space", "height": "1cm" }],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "1.1", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 2, "marks": 2,
+      "stem": [{ "type": "text", "content": "Write three-quarters as" }],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "a decimal" }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "a percentage." }], "answer": { "type": "number", "suffix": "$\\%$" } }
+      ],
+      "meta": { "s": "1.6", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 3, "marks": 2,
+      "stem": [{ "type": "text", "content": "Write down the value of" }],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "$\\sqrt{36}$" }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "$10^3$." }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "1.3", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 4, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "The diagram shows a line $AB$ and a point $P$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper12/Q04/Q04_Stem_Fig1.png" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Measure the length of line $AB$ in millimetres." }], "answer": { "type": "number", "suffix": "$\\text{mm}$" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "Draw a line through point $P$ that is perpendicular to line $AB$." }], "answer": { "type": "none" } }
+      ],
+      "meta": { "s": "4.1", "cat": "geometry", "d": 1, "topics": ["Geometry"], "cmd": "measure" }
+    },
+    {
+      "qnum": 5, "marks": 1,
+      "stem": [{ "type": "text", "content": "Complete this statement." }, { "type": "newline", "lines": 1 }],
+      "parts": [],
+      "answer": { "type": "structured", "answerBlocks": [{ "prefix": "10 weeks is", "suffix": "days." }] },
+      "meta": { "s": "1.8", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 6, "marks": 1,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper12/Q06/Q06_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Shade $\\frac{2}{5}$ of the rectangle." }
+      ],
+      "parts": [],
+      "answer": { "type": "none" },
+      "meta": { "s": "1.6", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "draw" }
+    },
+    {
+      "qnum": 7, "marks": 2,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Find the value of the reciprocal of $\\frac{1}{3}$." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "Write $2^{-3}$ as a fraction." }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "1.5", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 8, "marks": 2,
+      "stem": [{ "type": "text", "content": "Put one pair of brackets into each calculation to make it correct." }],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "$$-12 + 4 \\div 2 - 3 = -16$$" }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "$$-3 - 4 + 5 - 7 = -5$$" }], "answer": { "type": "none" } }
+      ],
+      "meta": { "s": "1.4", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 9, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Write these fractions in order, starting with the smallest." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$\\frac{5}{8} \\quad \\frac{11}{12} \\quad \\frac{2}{3} \\quad \\frac{3}{4} \\quad \\frac{13}{24}$$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": ".......... $<$ .......... $<$ .......... $<$ .......... $<$ .........." },
+        { "type": "text", "content": "\\textit{smallest}" }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "1.6", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 10, "marks": 5,
+      "stem": [{ "type": "text", "content": "A cuboid has length 5 cm, width 2 cm and height 3 cm." }],
+      "parts": [
+        {
+          "label": "(a)", "marks": 3,
+          "content": [
+            { "type": "text", "content": "Draw a net of the cuboid on the $1 \\text{ cm}^2$ grid." },
+            { "type": "newline", "lines": 1 },
+            { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper12/Q10/Q10_Suba_Fig1.png" }
+          ],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [
+            { "type": "text", "content": "Work out the volume of the cuboid." },
+            { "type": "text", "content": "Give the units of your answer." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "5.2", "cat": "geometry", "d": 2, "topics": ["Mensuration"], "cmd": "draw" }
+    },
+    {
+      "qnum": 11, "marks": 5,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper12/Q11/Q11_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "For these six numbers" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "write down the mode" }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "work out the range" }], "answer": { "type": "number" } },
+        { "label": "(c)", "marks": 1, "content": [{ "type": "text", "content": "work out the median" }], "answer": { "type": "number" } },
+        { "label": "(d)", "marks": 2, "content": [{ "type": "text", "content": "work out the mean." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number" } }
+      ],
+      "meta": { "s": "9.3", "cat": "statistics", "d": 1, "topics": ["Statistics"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 12, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Tim has a method for multiplying a number by 99." },
+        { "type": "text", "content": "He shows his method for $53 \\times 99$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper12/Q12/Q12_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out $85 \\times 99$ using Tim's method." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "1.5", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 13, "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)", "marks": 1,
+          "content": [
+            { "type": "text", "content": "A quadrilateral has the geometrical properties" },
+            { "type": "list", "style": "bullet", "items": ["4 equal length sides", "2 lines of symmetry", "rotational symmetry of order 2."] },
+            { "type": "text", "content": "Write down the mathematical name of this quadrilateral." }
+          ],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [{ "type": "text", "content": "Write down two geometrical properties of a rectangle." }],
+          "answer": { "type": "structured", "answerBlocks": [{ "prefix": "1." }, { "prefix": "2." }] }
+        },
+        {
+          "label": "(c)", "marks": 3,
+          "content": [
+            { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper12/Q13/Q13_Subc_Fig1.png" },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "The parallel sides of a trapezium have lengths 6 cm and 4 cm." },
+            { "type": "text", "content": "The area of the trapezium is $15 \\text{ cm}^2$." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "On the $1 \\text{ cm}^2$ grid, draw a trapezium with these lengths and area." }
+          ],
+          "answer": { "type": "none" }
+        }
+      ],
+      "meta": { "s": "4.1", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "write" }
+    },
+    {
+      "qnum": 14, "marks": 11,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)", "marks": 3,
+          "content": [
+            { "type": "text", "content": "Complete the table of values for $y = (x + 3)(x - 2)$." },
+            { "type": "newline", "lines": 1 },
+            { "type": "table", "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\\hline $x$ & $-4$ & $-3$ & $-2$ & $-1$ & 0 & 1 & 2 & 3 \\\\\\hline $y$ & 6 & & $-4$ & & & $-4$ & & 6 \\\\\\hline\\end{tabular}" }
+          ],
+          "answer": { "type": "table_input" }
+        },
+        {
+          "label": "(b)", "marks": 4,
+          "content": [
+            { "type": "text", "content": "On the grid, draw the graph of $y = (x + 3)(x - 2)$ for $-4 \\leqslant x \\leqslant 3$." },
+            { "type": "newline", "lines": 1 },
+            { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper12/Q14/Q14_Suba_Fig1.png" }
+          ],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(c)", "marks": 1,
+          "content": [{ "type": "text", "content": "Write down the coordinates of the lowest point of the graph." }],
+          "answer": { "type": "coordinate", "fields": 2 }
+        },
+        {
+          "label": "(d)", "marks": 1,
+          "content": [{ "type": "text", "content": "Write down the equation of the line of symmetry of the graph." }],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(e)", "marks": 2,
+          "content": [{ "type": "text", "content": "Use your graph to solve the equation $(x + 3)(x - 2) = 3$." }],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [{ "prefix": "$x$ =" }, { "prefix": "or $x$ =" }]
+          }
+        }
+      ],
+      "meta": { "s": "3.2", "cat": "algebra", "d": 2, "topics": ["Algebra", "Coordinate Geometry"], "cmd": "draw" }
+    },
+    {
+      "qnum": 15, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Beth thinks of a positive number, $n$." },
+        { "type": "text", "content": "She squares $n$ then subtracts 55." },
+        { "type": "text", "content": "The answer is 9." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out the value of $n$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number", "prefix": "$n$ =" },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 16, "marks": 11,
+      "stem": [
+        { "type": "text", "content": "The diagram shows a point $P$ and three triangles, $A$, $B$ and $C$, on a $1 \\text{ cm}^2$ grid." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper12/Q16/Q16_Stem_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 1,
+          "content": [{ "type": "text", "content": "Find the area of triangle $B$." }],
+          "answer": { "type": "number", "suffix": "$\\text{cm}^2$" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)", "marks": 1,
+              "content": [{ "type": "text", "content": "Write down the coordinates of point $P$." }],
+              "answer": { "type": "coordinate", "fields": 2 }
+            },
+            {
+              "label": "(b)(ii)", "marks": 1,
+              "content": [{ "type": "text", "content": "Work out the coordinates of point $P$ after a translation by the vector $\\binom{-20}{12}$." }],
+              "answer": { "type": "coordinate", "fields": 2 }
+            }
+          ]
+        },
+        {
+          "label": "(c)", "marks": 2,
+          "content": [{ "type": "text", "content": "Draw the image of triangle $A$ after a reflection in the line $y = -1$." }],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(d)", "marks": 6,
+          "content": [{ "type": "text", "content": "Describe fully the single transformation that maps" }],
+          "subparts": [
+            {
+              "label": "(d)(i)", "marks": 3,
+              "content": [{ "type": "text", "content": "triangle $A$ onto triangle $B$." }],
+              "answer": { "type": "structured", "answerBlocks": [{}, {}] }
+            },
+            {
+              "label": "(d)(ii)", "marks": 3,
+              "content": [{ "type": "text", "content": "triangle $A$ onto triangle $C$." }],
+              "answer": { "type": "structured", "answerBlocks": [{}, {}] }
+            }
+          ]
+        }
+      ],
+      "meta": { "s": "7.1", "cat": "geometry", "d": 3, "topics": ["Transformations"], "cmd": "describe" }
+    },
+    {
+      "qnum": 17, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "By writing each number in the calculation correct to 1 significant figure, find an estimate for the value of" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$\\frac{17.8 + 10.3}{5.5}$$" },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "1.9", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 18, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Find the highest common factor (HCF) of 66 and 110." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "number" },
+      "meta": { "s": "1.3", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 19, "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)", "marks": 1,
+          "content": [
+            { "type": "text", "content": "$P$ is a prime number." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Write down the value of $P$ that satisfies the inequality $13 < P < 19$." }
+          ],
+          "answer": { "type": "number", "prefix": "$P$ =" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [
+            { "type": "text", "content": "Write down the inequality represented on the number line." },
+            { "type": "newline", "lines": 1 },
+            { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper12/Q19/Q19_Subb_Fig1.png" }
+          ],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "2.3", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "write" }
+    },
+    {
+      "qnum": 20, "marks": 1,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper12/Q20/Q20_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Use set notation to describe the shaded region." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "1.2", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 21, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Work out $2\\frac{7}{9} \\times 1\\frac{1}{5}$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Give your answer as a mixed number in its simplest form." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "expression" },
+      "meta": { "s": "1.6", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 22, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "The mass, $m$ kg, of a stone is 3.2 kg, correct to the nearest 100 g." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Complete this statement about the value of $m$." }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          { "suffix": "$\\leqslant m <$" },
+          {}
+        ]
+      },
+      "meta": { "s": "1.9", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 23, "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)", "marks": 2,
+          "content": [
+            { "type": "text", "content": "Factorise." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "$$9x - 6xy$$" },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [
+            { "type": "text", "content": "Expand and simplify." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "$$(2x + 3)(x - 4)$$" },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "2.2", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 24, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Solve the simultaneous equations." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$5x + 2y = 3$$" },
+        { "type": "text", "content": "$$3x + 4y = 27$$" },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          { "prefix": "$x$ =" },
+          { "prefix": "$y$ =" }
+        ]
+      },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "solve" }
+    },
+    {
+      "qnum": 25, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "The diagram shows a shape made from two different semicircles, with the same centre." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025MayJune/Paper12/Q25/Q25_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The radius of the large semicircle is 7 cm." },
+        { "type": "text", "content": "The radius of the small semicircle is 4 cm." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out the perimeter of the shape." },
+        { "type": "text", "content": "Give your answer in terms of $\\pi$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": { "type": "expression", "suffix": "$\\text{cm}$" },
+      "meta": { "s": "5.1", "cat": "geometry", "d": 3, "topics": ["Mensuration"], "cmd": "calculate" }
+    }
+  ]
+}

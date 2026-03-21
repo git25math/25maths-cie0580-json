@@ -1,0 +1,53 @@
+{
+  "v": "1.0",
+  "paper": "2023MayJune-Paper11",
+  "board": "cie",
+  "code": "0580",
+  "year": 2023,
+  "session": "MayJune",
+  "paperNum": "11",
+  "totalMarks": 56,
+  "questions": [
+    { "qnum": 1, "marks": 1, "answer": "60", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 2, "marks": 2, "parts": [
+      { "label": "(a)", "marks": 1, "answer": "3750 cao", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
+      { "label": "(b)", "marks": 1, "answer": "3800 cao", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" }
+    ]},
+    { "qnum": 3, "marks": 3, "answer": "4    1.4[0]", "markAllocation": [{ "code": "B2", "type": "B", "value": 2, "criterion": "for 4" }, { "code": "A1", "type": "A", "value": 1, "criterion": "for 1.4[0]" }], "guidance": "or M1 for $15 \\div 3.4$" },
+    { "qnum": 4, "marks": 1, "answer": "Parallelogram", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 5, "marks": 2, "answer": "20", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "for sum of the nine numbers $\\div 9$" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 6, "marks": 1, "answer": "06 15 or 6:15am", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 7, "marks": 2, "answer": "7%  $\\frac{15}{213}$  0.071  0.7", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for 3 in correct order" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "or M1 for 0.0704... (for $\\frac{15}{213}$) and 0.07 (for 7%)" },
+    { "qnum": 8, "marks": 1, "answer": "$\\frac{2}{7}$ cao", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 9, "marks": 2, "answer": "$2a - 11b$ final answer", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for $2a$ or $-11b$ in final answer or for $2a - 11b$ seen then spoilt" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 10, "marks": 2, "answer": "7", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "for $36.5[0] - 12 = 3.5y$ or better" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 11, "marks": 2, "answer": "$\\begin{pmatrix} 7 \\\\ -3 \\end{pmatrix}$", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for $\\begin{pmatrix} 7 \\\\ a \\end{pmatrix}$ or $\\begin{pmatrix} b \\\\ -3 \\end{pmatrix}$ as answer or $\\begin{pmatrix} -4 \\\\ 10 \\end{pmatrix}$ or $\\begin{pmatrix} 4 \\\\ -10 \\end{pmatrix}$ in working" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 12, "marks": 3, "parts": [
+      { "label": "(a)", "marks": 1, "answer": "Alternate angles", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
+      { "label": "(b)", "marks": 2, "answer": "196\nAngles at a point sum to 360", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for each" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" }
+    ]},
+    { "qnum": 13, "marks": 2, "answer": "57.9 or 57.90 to 57.91...", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "for $\\frac{4}{3} \\times \\pi \\times \\left(\\frac{4.8}{2}\\right)^3$" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 14, "marks": 2, "answer": "1 nfww", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "for $\\frac{7 \\times 2}{20 - 6}$" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "If 0 scored, SC1 for 3 correct roundings or for all correct but with any trailing zeros" },
+    { "qnum": 15, "marks": 2, "answer": "0.22 oe", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "for $1 - (0.3 + 0.35 + 0.13)$ oe" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "or B1 for 0.78 oe" },
+    { "qnum": 16, "marks": 2, "answer": "$4x(2x - 5)$ final answer", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for $x(8x - 20)$ or $4(2x^2 - 5x)$ or $2x(4x - 10)$ or $4x(2x - 5)$ seen and then spoilt" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 17, "marks": 4, "parts": [
+      { "label": "(a)", "marks": 2, "answer": "9  6  1", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for 2 correct" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
+      { "label": "(b)", "marks": 2, "answer": "$3n + 4$ oe final answer", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for $3n + j$ or $kn + 4$ ($k \\neq 0$) or $3n + 4$ seen and spoilt" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" }
+    ]},
+    { "qnum": 18, "marks": 2, "answer": "3.55  3.65", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for each" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "If 0 scored, SC1 for correct but reversed or for $355 \\leqslant l < 365$" },
+    { "qnum": 19, "marks": 2, "answer": "$1.5625 \\times 10^4$", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for $1.56 \\times 10^4$ or $1.562 \\times 10^4$ or $1.563 \\times 10^4$ or figs 15625" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 20, "marks": 3, "answer": "$3\\frac{6}{7}$ cao", "markAllocation": [{ "code": "M2", "type": "M", "value": 2, "criterion": "for $\\frac{15}{7} \\times \\frac{9}{5}$ oe or $\\frac{135}{63} \\div \\frac{35}{63}$ oe with common denominator" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "B1 for $\\frac{15}{7}$ oe or M1 for $\\frac{\\text{their}15}{7} \\times \\frac{9}{5}$ oe" },
+    { "qnum": 21, "marks": 3, "answer": "13", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for $4x + 3x - 1 + 90 = 180$ oe" }, { "code": "M1", "type": "M", "value": 1, "criterion": "for $4x + 3x = 90 + 1$ or better" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 22, "marks": 2, "answer": "30.4 or 30.36 to 30.37", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "for $\\tan [y =] \\frac{7.5}{12.8}$ or better" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 23, "marks": 2, "answer": "6.3", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "for $\\frac{5.6}{h} = \\frac{7.2}{8.1}$ oe or better" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "" },
+    { "qnum": 24, "marks": 3, "parts": [
+      { "label": "(a)", "marks": 2, "answer": "Correct Venn diagram", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for 4 letters in correct regions" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
+      { "label": "(b)", "marks": 1, "answer": "6", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "FT their Venn diagram" }
+    ]},
+    { "qnum": 25, "marks": 5, "parts": [
+      { "label": "(a)", "marks": 1, "answer": "38.5", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
+      { "label": "(b)", "marks": 1, "answer": "$6a + 5c = 65$", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "If 0 scored in part(a) and part(b), SC1 for 3850 in part(a) and $6a + 5c = 6500$ in part(b)" },
+      { "label": "(c)", "marks": 3, "answer": "$[a =] 7.5$\n$[c =] 4$", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "for correctly eliminating one variable" }, { "code": "A1", "type": "A", "value": 1, "criterion": "for $a = 7.5$" }, { "code": "A1", "type": "A", "value": 1, "criterion": "for $c = 4$" }], "guidance": "Follow through their linear equations. If M0 or M0 FT scored, SC1 for 2 values which satisfy one correct equation or one of their equations" }
+    ]}
+  ]
+}

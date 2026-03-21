@@ -1,0 +1,309 @@
+{
+  "v": "1.0",
+  "paper": "2025OctNov-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2025,
+  "session": "OctNov",
+  "paperNum": "22",
+  "type": "ext-nocalc",
+  "totalMarks": 100,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1, "marks": 1,
+      "stem": [
+        { "type": "text", "content": "The temperature at 4 am is $-12\\,°\\text{C}$." },
+        { "type": "text", "content": "The temperature at 4 pm is $21\\,°\\text{C}$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the increase in temperature from 4 am to 4 pm." }
+      ],
+      "parts": [], "answer": { "type": "number", "suffix": "$°\\text{C}$" },
+      "meta": { "s": "1.1", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 2, "marks": 1,
+      "stem": [{ "type": "text", "content": "Find all the common factors of 8 and 12." }],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "1.3", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 3, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "A cuboid has length 6 cm, width 5 cm and height 2.5 cm." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out the volume of the cuboid." }
+      ],
+      "parts": [], "answer": { "type": "number", "suffix": "$\\text{cm}^3$" },
+      "meta": { "s": "5.2", "cat": "geometry", "d": 1, "topics": ["Mensuration"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 4, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "A computer costs $\\$560$." },
+        { "type": "text", "content": "In a sale, this cost is reduced by $20\\%$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the cost of the computer in the sale." }
+      ],
+      "parts": [], "answer": { "type": "number", "prefix": "$\\$$" },
+      "meta": { "s": "1.12", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 5, "marks": 5,
+      "stem": [
+        { "type": "text", "content": "The pie chart shows some information about the way 600 students travel to school." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper22/Q05/Q05_Stem_Fig1.png" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Work out the number of students that walk to school." }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "120 of the students travel to school by car." }, { "type": "text", "content": "The remaining students travel by bus." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Complete the pie chart." }], "answer": { "type": "none" } }
+      ],
+      "meta": { "s": "9.2", "cat": "statistics", "d": 2, "topics": ["Statistics"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 6, "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper22/Q06/Q06_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$ABCD$ is a quadrilateral." },
+        { "type": "text", "content": "$E$ lies on $CD$ and $AE$ is parallel to $BC$." },
+        { "type": "text", "content": "$EA = ED$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "angle $ABC$" }], "answer": { "type": "number", "prefix": "Angle $ABC$ =" } },
+        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "angle $AED$" }], "answer": { "type": "number", "prefix": "Angle $AED$ =" } },
+        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "angle $DAB$." }], "answer": { "type": "number", "prefix": "Angle $DAB$ =" } }
+      ],
+      "meta": { "s": "4.2", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 7, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Represent the inequality $-4 < x \\leqslant 3$ on the number line." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper22/Q07/Q07_Stem_Fig1.png" }
+      ],
+      "parts": [], "answer": { "type": "none" },
+      "meta": { "s": "2.6", "cat": "algebra", "d": 1, "topics": ["Algebra"], "cmd": "draw" }
+    },
+    {
+      "qnum": 8, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Kemi buys $p$ pens that each cost 40 cents." },
+        { "type": "text", "content": "She pays with $\\$20$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Write an expression, in terms of $p$, for the change, in cents, Kemi receives from the $\\$20$." }
+      ],
+      "parts": [], "answer": { "type": "expression", "suffix": "cents" },
+      "meta": { "s": "2.1", "cat": "algebra", "d": 1, "topics": ["Algebra"], "cmd": "write" }
+    },
+    {
+      "qnum": 9, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Rajid has a full bottle of juice." },
+        { "type": "text", "content": "He drinks $\\frac{1}{3}$ of the full bottle on Monday." },
+        { "type": "text", "content": "He drinks $\\frac{3}{7}$ of the full bottle on Tuesday." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the fraction of the bottle of juice remaining." }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "1.4", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 10, "marks": 5,
+      "stem": [{ "type": "text", "content": "$$b = dm + 2mk$$" }],
+      "parts": [
+        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "$d = 3.14$, $m = 7.92$ and $k = 10.16$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "By rounding each value correct to 1 significant figure, work out an estimate for $b$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Rearrange the formula to make $m$ the subject." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression", "prefix": "$m$ =" } }
+      ],
+      "meta": { "s": "2.5", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 11, "marks": 7,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper22/Q11/Q11_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "In the diagram, $S$ lies on $PQ$ and $T$ lies on $PR$." },
+        { "type": "text", "content": "$ST$ is parallel to $QR$." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "Explain why triangle $PQR$ is mathematically similar to triangle $PST$." }, { "type": "text", "content": "Give a geometrical reason for each statement you make." }], "answer": { "type": "structured", "answerBlocks": [{}, {}, {}, {}] } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "$ST = 3$ cm, $QR = 9$ cm and $PS = 5$ cm." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Work out $PQ$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$PQ$ =", "suffix": "$\\text{cm}$" } },
+        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "The area of triangle $PST$ is $2k$ $\\text{cm}^2$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find, in terms of $k$, the area of quadrilateral $QRTS$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression", "suffix": "$\\text{cm}^2$" } }
+      ],
+      "meta": { "s": "4.5", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "explain" }
+    },
+    {
+      "qnum": 12, "marks": 6,
+      "stem": [
+        { "type": "text", "content": "A fitness club has 100 members." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "60 swim ($S$)." },
+        { "type": "text", "content": "70 cycle ($C$)." },
+        { "type": "text", "content": "25 do not swim or cycle." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper22/Q12/Q12_Stem_Fig1.png" }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "Complete the Venn diagram." }], "answer": { "type": "none" } },
+        {
+          "label": "(b)", "marks": 3,
+          "content": [
+            { "type": "text", "content": "One member of the fitness club is chosen at random." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "For this member, find" }
+          ],
+          "subparts": [
+            { "label": "(b)(i)", "marks": 1, "content": [{ "type": "text", "content": "$\\text{P}(C)$" }], "answer": { "type": "expression" } },
+            { "label": "(b)(ii)", "marks": 1, "content": [{ "type": "text", "content": "$\\text{P}(S \\cap C)$" }], "answer": { "type": "expression" } },
+            { "label": "(b)(iii)", "marks": 1, "content": [{ "type": "text", "content": "$\\text{P}(S \\cup C')$." }], "answer": { "type": "expression" } }
+          ]
+        }
+      ],
+      "meta": { "s": "8.2", "cat": "statistics", "d": 2, "topics": ["Probability"], "cmd": "find" }
+    },
+    {
+      "qnum": 13, "marks": 4,
+      "stem": [{ "type": "text", "content": "$$M = 2^7 \\times 3^3 \\times 5^2$$" }],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Write $14M$ as a product of its prime factors." }, { "type": "text", "content": "Give your answer in index form." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "$R$ is an integer." }, { "type": "text", "content": "$\\frac{M}{R}$ is a cube number." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the smallest possible value of $R$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "number", "prefix": "$R$ =" } }
+      ],
+      "meta": { "s": "1.3", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 14, "marks": 4,
+      "stem": [{ "type": "text", "content": "Find the value of" }],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "$3^2 \\div 3^{-2}$" }, { "type": "space", "height": "1cm" }], "answer": { "type": "number" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "$16^{-\\frac{3}{4}}$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "2.4", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 15, "marks": 3,
+      "stem": [{ "type": "text", "content": "Factorise." }],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "$x^2 - 64$" }], "answer": { "type": "expression" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "$5x(x - 2y) + 6(x - 2y)^2$" }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } }
+      ],
+      "meta": { "s": "2.2", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "factorise" }
+    },
+    {
+      "qnum": 16, "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper22/Q16/Q16_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$AB$ and $BD$ are two sides of a regular 15-sided polygon." },
+        { "type": "text", "content": "$AB$ and $BC$ are two sides of a regular $n$-sided polygon." },
+        { "type": "text", "content": "Angle $DBC = 14°$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out the value of $n$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number", "prefix": "$n$ =" },
+      "meta": { "s": "4.1", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 17, "marks": 11,
+      "stem": [
+        { "type": "text", "content": "$B$ is the point $(-3, 1)$ and $D$ is the point $(-5, 9)$." },
+        { "type": "text", "content": "$BD$ is a diagonal of the kite $ABCD$." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 5, "content": [{ "type": "text", "content": "The ratio of the lengths of the diagonals $BD : AC = 2 : 3$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Work out the length of $AC$." }, { "type": "text", "content": "Give your answer as a surd in its simplest form." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression" } },
+        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Find the coordinates of the midpoint of $BD$." }], "answer": { "type": "coordinate", "fields": 2 } },
+        { "label": "(c)", "marks": 4, "content": [{ "type": "text", "content": "The diagonal $AC$ of the kite passes through the midpoint of $BD$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find an equation of $AC$." }, { "type": "text", "content": "Give your answer in the form $y = mx + c$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression", "prefix": "$y$ =" } }
+      ],
+      "meta": { "s": "3.1", "cat": "algebra", "d": 3, "topics": ["Coordinate Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 18, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Rationalise the denominator and simplify." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$\\frac{20}{4 + \\sqrt{6}}$$" }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "1.7", "cat": "number", "d": 3, "topics": ["Number"], "cmd": "simplify" }
+    },
+    {
+      "qnum": 19, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper22/Q19/Q19_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows a box in the shape of a cuboid." },
+        { "type": "text", "content": "Mala has a straight rod of length 10 cm." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Show that this rod does not fit completely inside the box." }
+      ],
+      "parts": [], "answer": { "type": "none" },
+      "meta": { "s": "6.2", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "show" }
+    },
+    {
+      "qnum": 20, "marks": 11,
+      "stem": [
+        { "type": "text", "content": "$$\\text{f}(x) = \\frac{21}{2x - 1}, \\, x \\neq \\frac{1}{2} \\qquad \\text{g}(x) = 3x + 4$$" }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 6,
+          "content": [{ "type": "text", "content": "Find" }],
+          "subparts": [
+            { "label": "(a)(i)", "marks": 1, "content": [{ "type": "text", "content": "$\\text{g}(2)$" }], "answer": { "type": "number" } },
+            { "label": "(a)(ii)", "marks": 2, "content": [{ "type": "text", "content": "$\\text{gf}(-1)$" }, { "type": "space", "height": "1cm" }], "answer": { "type": "number" } },
+            { "label": "(a)(iii)", "marks": 3, "content": [{ "type": "text", "content": "$\\text{f}^{-1}(x)$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression", "prefix": "$\\text{f}^{-1}(x)$ =" } }
+          ]
+        },
+        { "label": "(b)", "marks": 5, "content": [{ "type": "text", "content": "Solve $\\text{f}(x) = \\text{g}(x)$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$x$ =" }, { "prefix": "or $x$ =" }] } }
+      ],
+      "meta": { "s": "2.9", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 21, "marks": 5,
+      "stem": [],
+      "parts": [
+        { "label": "(a)", "marks": 2, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper22/Q21/Q21_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "On the diagram, sketch the graph of $y = \\cos x$ for $0° \\leqslant x \\leqslant 360°$." }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Solve the equation $2\\cos x + \\sqrt{3} = 0$ for $0° \\leqslant x \\leqslant 360°$." }, { "type": "space", "height": "1cm" }], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$x$ =" }, { "prefix": "or $x$ =" }] } }
+      ],
+      "meta": { "s": "6.3", "cat": "geometry", "d": 3, "topics": ["Trigonometry"], "cmd": "solve" }
+    },
+    {
+      "qnum": 22, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "A graph with equation $y = x^2 + bx + c$ has a minimum point at $(-5, 12)$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the value of $b$ and the value of $c$." }
+      ],
+      "parts": [], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$b$ =" }, { "prefix": "$c$ =" }] },
+      "meta": { "s": "2.10", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+    },
+    {
+      "qnum": 23, "marks": 7,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2025OctNov/Paper22/Q23/Q23_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows a major sector, $AOB$, of a circle." },
+        { "type": "text", "content": "The sector angle is $240°$ and the radius is 12 cm." }
+      ],
+      "parts": [
+        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Show that the length of the major arc $AB$ is $16\\pi$ cm." }], "answer": { "type": "none" } },
+        { "label": "(b)", "marks": 6, "content": [{ "type": "text", "content": "$OA$ is joined to $OB$ to form a cone." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Work out the volume of the cone." }, { "type": "text", "content": "Give your answer in the form $\\frac{(a\\sqrt{b})\\pi}{3}$ where $a$ is an integer and $b$ is a prime number." }, { "type": "space", "height": "1cm" }], "answer": { "type": "expression", "suffix": "$\\text{cm}^3$" } }
+      ],
+      "meta": { "s": "5.3", "cat": "geometry", "d": 4, "topics": ["Mensuration"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 24, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "$$27^{nx} = (9^x)^2$$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the value of $n$." }
+      ],
+      "parts": [], "answer": { "type": "expression", "prefix": "$n$ =" },
+      "meta": { "s": "2.4", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+    }
+  ]
+}

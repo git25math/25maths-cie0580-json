@@ -1,0 +1,97 @@
+{
+  "v": "1.0",
+  "paper": "2025MayJune-Paper41",
+  "board": "cie",
+  "code": "0580",
+  "year": 2025,
+  "session": "MayJune",
+  "paperNum": "41",
+  "totalMarks": 100,
+  "questions": [
+    {"qnum": 1, "marks": 2, "answer": "5.5 or 5 1/2 or 11/2", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for a correct first step 4c = 13 + 9 or c - 9/4 = 13/4 or better"}, {"code": "A1", "type": "A", "value": 1, "criterion": ""}], "guidance": ""},
+    {"qnum": 2, "marks": 2, "answer": "8.0 cao", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for 7.99[9...] or for their answer seen to 3 or more sf and rounded correctly"}], "guidance": ""},
+    {"qnum": 3, "marks": 3, "answer": "UK by [$]0.69 or [$]0.692...", "markAllocation": [{"code": "B2", "type": "B", "value": 2, "criterion": "for 1.96[8...] or 1.97 and 1.27[6...] or 1.28"}], "guidance": "or M2 for 1.62 x 1.215 - 4.83/3.785 oe; or M1 for 1.62 x 1.215 or 4.83/3.785"},
+    {
+      "qnum": 4,
+      "marks": 7,
+      "parts": [
+        {"label": "(a)(i)", "marks": 2, "answer": "Translation, (8, -3)", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for translation or for correct vector oe"}], "guidance": ""},
+        {"label": "(a)(ii)", "marks": 3, "answer": "Rotation, 90 [anticlockwise], [centre] (0, 0)", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for each"}], "guidance": ""},
+        {"label": "(b)", "marks": 2, "answer": "Image drawn at (0, 5) (0, 6) (2, 6) (2, 2) (1, 2) (1, 5)", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for reflection in x = k"}], "guidance": "If 0 scored, SC1 for reflection in y = -2"}
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 6,
+      "parts": [
+        {"label": "(a)", "marks": 1, "answer": "1000 or 10^3", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
+        {"label": "(b)", "marks": 2, "answer": "n^2 + 4 final answer oe", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for second difference = 2 or for answer as a quadratic expression or for a correct expression shown in the working and then spoilt"}], "guidance": ""},
+        {"label": "(c)(i)", "marks": 1, "answer": "9", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
+        {"label": "(c)(ii)", "marks": 2, "answer": "12", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for 21"}], "guidance": ""}
+      ]
+    },
+    {"qnum": 6, "marks": 2, "answer": "15x^3 - 10x^2 final answer", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for 15x^3 or -10x^2 or correct answer seen in working and spoilt"}], "guidance": ""},
+    {"qnum": 7, "marks": 2, "answer": "-1.5 <= y < 4 final answer", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for -1.5 <= y or y < 4"}], "guidance": ""},
+    {
+      "qnum": 8,
+      "marks": 4,
+      "parts": [
+        {"label": "(a)", "marks": 2, "answer": "1099", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for 20/100 x 980"}], "guidance": ""},
+        {"label": "(b)", "marks": 2, "answer": "12.1 or 12.14...", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for (their 1099 - 980)/980 [x 100] oe or (their 1099/980 - 1) [x 100] oe or their 1099/980 x 100 [- 100] oe"}], "guidance": "FT for 2 marks evaluated to at least 3sf"}
+      ]
+    },
+    {"qnum": 9, "marks": 2, "answer": "475", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for x x 8/100 = 38 or for 38/8 x 100 oe"}], "guidance": ""},
+    {
+      "qnum": 10,
+      "marks": 6,
+      "parts": [
+        {"label": "(a)", "marks": 2, "answer": "1, 2, 3, 6, 9, 18", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for a list with one error or one omission"}], "guidance": ""},
+        {"label": "(b)", "marks": 2, "answer": "(y + 5)(3 - x) final answer", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for y(3 - x) + 5(3 - x) or for 3(y + 5) - x(y + 5) or for correct answer seen and spoilt"}], "guidance": ""},
+        {"label": "(c)", "marks": 2, "answer": "x = 2, y = 13 or x = 1, y = 4", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for their 3 - x = a and their y + 5 = b where ab = 18 and a, b integers"}], "guidance": "FT their (b) for M1"}
+      ]
+    },
+    {"qnum": 11, "marks": 3, "answer": "3200", "markAllocation": [{"code": "M2", "type": "M", "value": 2, "criterion": "for 800 / 50^2 [x 10^n] oe"}], "guidance": "or B1 for 50^2 or 800 x 100^2"},
+    {"qnum": 12, "marks": 3, "answer": "8.36 or 8.364...", "markAllocation": [{"code": "M2", "type": "M", "value": 2, "criterion": "for dist/12.5 = sin 42 oe or better"}], "guidance": "or M1 for recognition of shortest distance soi"},
+    {"qnum": 13, "marks": 3, "answer": "[+-] sqrt((A - w^2)/5) oe final answer", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for A - w^2 = 5x^2 or for A/5 = w^2/5 + x^2"}, {"code": "M1", "type": "M", "value": 1, "criterion": "for x^2 = ... FT their first step"}, {"code": "M1", "type": "M", "value": 1, "criterion": "for correct square root, FT their x^2 ="}], "guidance": "An incorrect answer scores a maximum of M1 M1"},
+    {
+      "qnum": 14,
+      "marks": 11,
+      "parts": [
+        {"label": "(a)", "marks": 3, "answer": "2, 0, 12", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for each correct value"}], "guidance": ""},
+        {"label": "(b)", "marks": 4, "answer": "Correct curve", "markAllocation": [{"code": "B3", "type": "B", "value": 3, "criterion": "FT for 7 or 8 correct points"}], "guidance": "or B2FT for 5 or 6 correct points or B1FT for 3 or 4 correct points"},
+        {"label": "(c)", "marks": 4, "answer": "y = 10 - x ruled; x = -1.7 to -1.4, x = 2, x = 4.4 to 4.7", "markAllocation": [{"code": "M2", "type": "M", "value": 2, "criterion": "for [y =] 10 - x soi or y = k - x ruled or y = 10 + kx ruled, but not y = 10"}, {"code": "A2", "type": "A", "value": 2, "criterion": "for any two values"}], "guidance": "If 0 scored, SC1 for 3 correct values"}
+      ]
+    },
+    {
+      "qnum": 15,
+      "marks": 9,
+      "parts": [
+        {"label": "(a)", "marks": 4, "answer": "192 or 192.4... nfww", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for midpoints soi (170, 182.5, 187.5, 195, 205)"}, {"code": "M1", "type": "M", "value": 1, "criterion": "for use of sum(fm) with m in correct interval including both boundaries"}, {"code": "M1", "type": "M", "value": 1, "criterion": "(dep on second M1) for sum(fm) / 140"}, {"code": "A1", "type": "A", "value": 1, "criterion": ""}], "guidance": ""},
+        {"label": "(b)", "marks": 2, "answer": "69/278 oe", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for 70/140 x 69/139"}], "guidance": ""},
+        {"label": "(c)", "marks": 3, "answer": "Correct histogram", "markAllocation": [{"code": "B2", "type": "B", "value": 2, "criterion": "for three correct blocks"}], "guidance": "or B1 for two correct blocks. If 0 scored, SC1 for three of 7/20, 12/5, 31/5, 70/10 or 0.35, 2.4, 6.2, 7"}
+      ]
+    },
+    {"qnum": 16, "marks": 3, "answer": "2.9[0] or 2.901...", "markAllocation": [{"code": "M2", "type": "M", "value": 2, "criterion": "for 6th root of (1484/1250)"}], "guidance": "or M1 for 1250 x k^6 = 1484"},
+    {
+      "qnum": 17,
+      "marks": 10,
+      "parts": [
+        {"label": "(a)", "marks": 3, "answer": "10.4 or 10.42...", "markAllocation": [{"code": "M2", "type": "M", "value": 2, "criterion": "for sqrt(9.6^2 + 12.1^2 - 2 x 9.6 x 12.1 x cos56)"}], "guidance": "OR M1 for 9.6^2 + 12.1^2 - 2 x 9.6 x 12.1 x cos 56. A1 for 108.6 to 108.7"},
+        {"label": "(b)", "marks": 4, "answer": "107.2 to 107.3", "markAllocation": [{"code": "B3", "type": "B", "value": 3, "criterion": "for 72.7[4...]"}], "guidance": "OR M3 for 180 - sin^(-1)(15.8 x sin47/12.1); M2 for [sinBDC =] 15.8 x sin47/12.1; or M1 for sinBDC/15.8 = sin47/12.1"},
+        {"label": "(c)", "marks": 3, "answer": "89.59 to 89.80...", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for 1/2 x 9.6 x 12.1 x sin56"}, {"code": "M1", "type": "M", "value": 1, "criterion": "for 1/2 x 15.8 x 12.1 x sin(133 - their angle BDC)"}], "guidance": ""}
+      ]
+    },
+    {"qnum": 18, "marks": 3, "answer": "a = 2, b = 3, c = 20", "markAllocation": [{"code": "B2", "type": "B", "value": 2, "criterion": "for any two correct"}], "guidance": "For c, FT 2 + their a x their (b)^2. or B1 for b = 3 nfww. OR B2 for 2(x + 3)^2 - 20; or M1 for (x + 3)^2 seen or for ax^2 + 2abx + ab^2 - c or for a = 2 and one of 2ab = 12 and ab^2 - c = -2"},
+    {"qnum": 19, "marks": 4, "answer": "45.6 or 45.63...", "markAllocation": [{"code": "B3", "type": "B", "value": 3, "criterion": "for 30.6 or 30.63..."}], "guidance": "OR M3 for (360 - 126)/360 x 2 x pi x 7.5 + 15; or M2 for (360 - 126)/360 x 2 x pi x 7.5; or M1 for 126/360 x 2 x pi x 7.5; or B1 for major sector angle = 234"},
+    {
+      "qnum": 20,
+      "marks": 9,
+      "parts": [
+        {"label": "(a)", "marks": 4, "answer": "72.8 or 72.81...", "markAllocation": [{"code": "M3", "type": "M", "value": 3, "criterion": "for 24/(1/2 x sqrt(10.5^2 + 10.5^2)) oe or better"}], "guidance": "or M2 for AM = 1/2 x sqrt(10.5^2 + 10.5^2) oe or AM = 10.5cos45 oe; or M1 for AC^2 = 10.5^2 + 10.5^2 or AM^2 = 5.25^2 + 5.25^2 or AM/10.5 = cos45 oe. If 0 scored, SC1 for identifying angle OAM"},
+        {"label": "(b)", "marks": 5, "answer": "849 1/3 or 849 or 849.3...", "markAllocation": [{"code": "B2", "type": "B", "value": 2, "criterion": "for side of small square = 3.5"}], "guidance": "or M1 for 10.5/x = 24/(24-16) or better. M2 for 1/3 x 10.5^2 x 24 - 1/3 x (their 3.5)^2 x (24 - 16); or M1 for 1/3 x 10.5^2 x 24 or for 1/3 x (their 3.5)^2 x (24 - 16). OR B2 for 1/27 or 26/27; or M1 for volume scale factor = ((24 - 16)/24)^3. M2 for (1 - their 1/27) x 1/3 x 10.5^2 x 24 oe; or M1 for 1/3 x 10.5^2 x 24 or their 1/27 x 1/3 x 10.5^2 x 24 oe"}
+      ]
+    },
+    {"qnum": 21, "marks": 3, "answer": "[m =] (6n + 1)/10 oe", "markAllocation": [{"code": "M2", "type": "M", "value": 2, "criterion": "for 2(5m) - 1 = 3(2n) oe or better"}], "guidance": "or M1 for 42(5m) or for 43(2n) oe or better"},
+    {"qnum": 22, "marks": 3, "answer": "4.4 nfww", "markAllocation": [{"code": "M2", "type": "M", "value": 2, "criterion": "for (50 to 60)/(13 - 0.5) or (50 + 5)/(12 to 13) oe"}], "guidance": "or M1 for 50 + 5, 50 - 5, 13 + 0.5 or 13 - 0.5 seen"}
+  ]
+}

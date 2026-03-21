@@ -1,0 +1,341 @@
+{
+  "v": "1.0",
+  "paper": "2024MayJune-Paper21",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "MayJune",
+  "paperNum": "21",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1, "marks": 2,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper21/Q01/Q01_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows two sides of a parallelogram $ABCD$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the coordinates of point $D$." }
+      ],
+      "parts": [], "answer": { "type": "coordinate", "fields": 2 },
+      "meta": { "s": "4.1", "cat": "geometry", "d": 1, "topics": ["Coordinate Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 2, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Geetha has a box of toys." },
+        { "type": "text", "content": "She picks a toy at random from the box." },
+        { "type": "text", "content": "The probability that she picks a wooden toy is $0.6$." }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 1,
+          "content": [{ "type": "text", "content": "Work out the probability that she does not pick a wooden toy." }],
+          "answer": { "type": "number" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [
+            { "type": "text", "content": "The box contains three types of toys, wooden, plastic or metal." },
+            { "type": "newline", "lines": 1 },
+            { "type": "table", "content": "\\begin{tabular}{|c|c|c|c|}\\hline Type of toy & Wooden & Plastic & Metal \\\\\\hline Number of toys & & 14 & 14 \\\\\\hline Probability & 0.6 & & \\\\\\hline\\end{tabular}" },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Complete the table." }
+          ],
+          "answer": { "type": "table_input" }
+        }
+      ],
+      "meta": { "s": "8.1", "cat": "probability", "d": 1, "topics": ["Probability"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 3, "marks": 4,
+      "stem": [
+        { "type": "text", "content": "The table shows some information about two sequences." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper21/Q03/Q03_Stem_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 2,
+          "content": [
+            { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper21/Q03/Q03_Suba_Fig1.png" },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Complete the table." }
+          ],
+          "answer": { "type": "table_input" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [{ "type": "text", "content": "Find the smallest positive number in sequence $B$." }],
+          "answer": { "type": "number" }
+        }
+      ],
+      "meta": { "s": "2.7", "cat": "algebra", "d": 2, "topics": ["Sequences"], "cmd": "find" }
+    },
+    {
+      "qnum": 4, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "Find the greatest odd number that is a factor of $140$ and a factor of $210$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number" },
+      "meta": { "s": "1.4", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 5, "marks": 2,
+      "stem": [{ "type": "text", "content": "Calculate." }],
+      "parts": [
+        {
+          "label": "(a)", "marks": 1,
+          "content": [{ "type": "text", "content": "$$\\sqrt[3]{343} - \\sqrt{40.96}$$" }],
+          "answer": { "type": "number" }
+        },
+        {
+          "label": "(b)", "marks": 1,
+          "content": [{ "type": "text", "content": "$$(192 + 4 \\times 16)^{1.25}$$" }],
+          "answer": { "type": "number" }
+        }
+      ],
+      "meta": { "s": "1.7", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 6, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper21/Q06/Q06_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows 5 kites that are congruent to kite $ABCD$." },
+        { "type": "text", "content": "Each kite is joined to the next kite along one edge." },
+        { "type": "text", "content": "Angle $DAB = 40°$ and $DCE$ is a straight line." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the value of $x$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number", "prefix": "$x$ =" },
+      "meta": { "s": "4.3", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 7, "marks": 7,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper21/Q07/Q07_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows a shape made from a triangle $JKL$ and a semicircle with diameter $JL$." },
+        { "type": "text", "content": "$JKL$ is an isosceles right-angled triangle with $JK = JL = 12.8$ cm." }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 3,
+          "content": [{ "type": "text", "content": "Calculate the area of this shape." }, { "type": "space", "height": "1cm" }],
+          "answer": { "type": "number", "suffix": "$\\text{cm}^2$" }
+        },
+        {
+          "label": "(b)", "marks": 4,
+          "content": [{ "type": "text", "content": "Calculate the perimeter of this shape." }, { "type": "space", "height": "1cm" }],
+          "answer": { "type": "number", "suffix": "$\\text{cm}$" }
+        }
+      ],
+      "meta": { "s": "5.2", "cat": "geometry", "d": 3, "topics": ["Mensuration"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 8, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "These are the first five terms of a sequence." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$11, \\, \\, 18, \\, \\, 25, \\, \\, 32, \\, \\, 39$$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find an expression for the $n$th term of the sequence." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "2.7", "cat": "algebra", "d": 2, "topics": ["Sequences"], "cmd": "find" }
+    },
+    {
+      "qnum": 9, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "The value of a car is $\\$8000$." },
+        { "type": "text", "content": "Each year the value of the car decreases exponentially by $25\\%$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the value of this car after 3 years." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number", "prefix": "$\\$$" },
+      "meta": { "s": "1.12", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 10, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Amir invests $\\$1500$ in an account." },
+        { "type": "text", "content": "The account pays compound interest at a rate of $r\\%$ per year." },
+        { "type": "text", "content": "At the end of 8 years the value of his investment is $\\$1656.73$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the value of $r$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number", "prefix": "$r$ =" },
+      "meta": { "s": "1.12", "cat": "number", "d": 3, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 11, "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper21/Q11/Q11_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the inequalities that define the unshaded region, R." }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 3, "topics": ["Algebra", "Coordinate Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 12, "marks": 4,
+      "stem": [
+        { "type": "text", "content": "Solve the simultaneous equations." },
+        { "type": "text", "content": "You must show all your working." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$\\frac{3x}{2} + 5y = 5$$" },
+        { "type": "text", "content": "$$4x - 3y = 46$$" },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$x$ =" }, { "prefix": "$y$ =" }] },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "solve" }
+    },
+    {
+      "qnum": 13, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper21/Q13/Q13_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows a cyclic quadrilateral." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the value of $p$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number", "prefix": "$p$ =" },
+      "meta": { "s": "4.6", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 14, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper21/Q14/Q14_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows a circle with radius $9$ cm." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the area of the shaded major sector." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number", "suffix": "$\\text{cm}^2$" },
+      "meta": { "s": "5.2", "cat": "geometry", "d": 2, "topics": ["Mensuration"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 15, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Write $0.1\\dot{4}\\dot{6}$ as a fraction in its simplest form." },
+        { "type": "text", "content": "You must show all your working." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "1.6", "cat": "number", "d": 3, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 16, "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)", "marks": 1,
+          "content": [
+            { "type": "text", "content": "In the Venn diagram, shade the region $M' \\cap N'$." },
+            { "type": "newline", "lines": 1 },
+            { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper21/Q16/Q16_Suba_Fig1.png" }
+          ],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(b)", "marks": 1,
+          "content": [
+            { "type": "text", "content": "Find $\\text{n}(B \\cap (A' \\cup C))$." },
+            { "type": "newline", "lines": 1 },
+            { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper21/Q16/Q16_Subb_Fig1.png" }
+          ],
+          "answer": { "type": "number" }
+        }
+      ],
+      "meta": { "s": "8.2", "cat": "probability", "d": 2, "topics": ["Sets"], "cmd": "find" }
+    },
+    {
+      "qnum": 17, "marks": 2,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper21/Q17/Q17_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the area of triangle $ABC$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number", "suffix": "$\\text{cm}^2$" },
+      "meta": { "s": "6.3", "cat": "geometry", "d": 2, "topics": ["Trigonometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 18, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper21/Q18/Q18_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows the graph of $y = x^3 + 4x^2 - 2$ for $-3 \\leqslant x \\leqslant 1.5$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "By drawing a suitable straight line, solve the equation $x^3 + 4x^2 - 2 = 2x$ for $-3 \\leqslant x \\leqslant 1.5$." }
+      ],
+      "parts": [], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$x$ =", "suffix": "or $x$ =" }, {}] },
+      "meta": { "s": "2.10", "cat": "algebra", "d": 3, "topics": ["Algebra", "Coordinate Geometry"], "cmd": "solve" }
+    },
+    {
+      "qnum": 19, "marks": 5,
+      "stem": [{ "type": "text", "content": "Factorise completely." }],
+      "parts": [
+        {
+          "label": "(a)", "marks": 3,
+          "content": [{ "type": "text", "content": "$$12m^2 - 75t^2$$" }, { "type": "space", "height": "1cm" }],
+          "answer": { "type": "expression" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [{ "type": "text", "content": "$$xy + 15 + 3y + 5x$$" }, { "type": "space", "height": "1cm" }],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "2.2", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "factorise" }
+    },
+    {
+      "qnum": 20, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Solve the equation $8\\sin x + 6 = 1$ for $0° \\leqslant x \\leqslant 360°$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$x$ =", "suffix": "or $x$ =" }, {}] },
+      "meta": { "s": "6.2", "cat": "geometry", "d": 3, "topics": ["Trigonometry"], "cmd": "solve" }
+    },
+    {
+      "qnum": 21, "marks": 4,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper21/Q21/Q21_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows a cuboid." },
+        { "type": "text", "content": "$HD = 4$ cm, $EH = 6.5$ cm and $EF = 9.1$ cm." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the angle between $CE$ and the base $CDHG$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number", "suffix": "$°$" },
+      "meta": { "s": "6.4", "cat": "geometry", "d": 4, "topics": ["Trigonometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 22, "marks": 4,
+      "stem": [
+        { "type": "text", "content": "Bag $A$ and bag $B$ each contain red counters and blue counters only." },
+        { "type": "text", "content": "Stephan picks a counter at random from bag $A$ and Jen picks a counter at random from bag $B$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The probability that Stephan picks a red counter is $0.4$." },
+        { "type": "text", "content": "The probability that Stephan and Jen both pick a red counter is $0.25$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the probability that Stephan and Jen both pick a blue counter." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number" },
+      "meta": { "s": "8.4", "cat": "probability", "d": 3, "topics": ["Probability"], "cmd": "find" }
+    }
+  ]
+}

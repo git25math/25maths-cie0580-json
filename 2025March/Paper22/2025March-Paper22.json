@@ -1,0 +1,1446 @@
+{
+  "v": "1.0",
+  "paper": "2025March-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2025,
+  "session": "March",
+  "paperNum": "22",
+  "type": "ext-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Oranges cost 220 rupees per kilogram."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Work out the cost of 9 kg of these oranges."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{rupees}$"
+      },
+      "meta": {
+        "s": "1.5",
+        "cat": "number",
+        "d": 1,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Aryan goes on a journey."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "He leaves home at 11 40 and arrives at 14 18."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find how many hours and minutes the journey took."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": "h"
+          },
+          {
+            "suffix": "min"
+          }
+        ]
+      },
+      "meta": {
+        "s": "1.11",
+        "cat": "number",
+        "d": 1,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A quadrilateral has one line of symmetry."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The diagonals of the quadrilateral cross at right angles."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Write down the mathematical name of the quadrilateral."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "4.1",
+        "cat": "geometry",
+        "d": 1,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$V = 4mp^2$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $V$ when $m = 10$ and $p = -3$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$V$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the positive value of $p$ when $V = 3200$ and $m = 2$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$p$ ="
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.2",
+        "cat": "algebra",
+        "d": 2,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write these lengths in order of size, starting with the smallest."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$$0.03 \\text{ m}, \\quad 2.9 \\text{ cm}, \\quad 32 \\text{ mm}, \\quad 0.00002 \\text{ km}$$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "\\textit{smallest}"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "1.8",
+        "cat": "number",
+        "d": 2,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper22/Q06/Q06_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "Work out the area of the trapezium."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      },
+      "meta": {
+        "s": "5.2",
+        "cat": "geometry",
+        "d": 2,
+        "topics": [
+          "Mensuration"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper22/Q07/Q07_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "Write down the inequality for $x$ represented on the number line."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "2.3",
+        "cat": "algebra",
+        "d": 2,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Pryanka plays a game in which she can win, lose or draw."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The table shows the probability of her winning or losing a game."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper22/Q08/Q08_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Pryanka plays this game 120 times."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Work out the expected number of games she wins."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "8.3",
+        "cat": "statistics",
+        "d": 2,
+        "topics": [
+          "Probability"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$D = \\sqrt{\\frac{1.95 \\times 9.92^2}{8.07}}$$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "By writing each number correct to 1 significant figure, work out an estimate for $D$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$D$ ="
+      },
+      "meta": {
+        "s": "1.7",
+        "cat": "number",
+        "d": 3,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper22/Q10/Q10_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "Three regular polygons $A$, $B$ and $C$ meet at a point."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The interior angles of the polygons are in the ratio $a : b : c = 3 : 4 : 5$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Show that polygon $C$ has twice the number of sides as polygon $B$."
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {
+        "s": "4.2",
+        "cat": "geometry",
+        "d": 4,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "show"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A company sells items either on a website or in shops."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The composite bar chart shows the percentage of sales on the website and in shops for January, February and March."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper22/Q11/Q11_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In April, $\\frac{17}{20}$ of the company's sales were on the website."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "On the grid, draw the bar for April."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "In February, the company had sales of $\\$3.5$ million."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of sales in shops in February."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$",
+            "suffix": "million"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "In May, the company had sales of $\\$6$ million."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "In June, the company had sales of $\\$7.5$ million."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the percentage increase in sales from May to June."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In 2024, the company had total sales of $\\$52$ million."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "This was an increase of $30\\%$ on the total sales for 2023."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Work out the total sales in 2023."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$",
+            "suffix": "million"
+          }
+        }
+      ],
+      "meta": {
+        "s": "9.1",
+        "cat": "statistics",
+        "d": 3,
+        "topics": [
+          "Statistics"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write as a single fraction in its simplest form."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{x}{4} + \\frac{3x}{8} - \\frac{x + 2}{12}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$3x(a + 4y) - ay - 4y^2$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.4",
+        "cat": "algebra",
+        "d": 3,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "simplify"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper22/Q13/Q13_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a cylinder with radius $r$ cm and height 16 cm."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "A sphere has radius 3 cm."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The volume of the cylinder is equal to the volume of the sphere."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $r$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$r$ ="
+      },
+      "meta": {
+        "s": "5.3",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Mensuration"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper22/Q14/Q14_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "$A$, $B$, $C$, $D$ and $E$ lie on a circle."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$FG$ is a tangent to the circle at $C$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Angle $BAD = 110°$, angle $ADB = 20°$ and angle $BEC = 45°$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find angle $BCD$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Give a geometrical reason for your answer."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "Angle $BCD$ =",
+                "suffix": "because"
+              },
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find angle $DBC$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $DBC$ ="
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find angle $DCG$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $DCG$ ="
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "s": "4.6",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Point $A$ has coordinates $(-4, 1)$ and $\\overrightarrow{BA} = \\binom{-5}{-12}$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of point $B$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Point $C$ has coordinates $(5, -2)$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the vector $\\overrightarrow{CA}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2,
+            "prefix": "$\\overrightarrow{CA}$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\overrightarrow{EF} = 3\\overrightarrow{BA}$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find $|\\overrightarrow{EF}|$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "4.8",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Geometry",
+          "Vectors"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The stem-and-leaf diagram shows the mass of each of 13 packets."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper22/Q16/Q16_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "Key: $3 \\mid 1$ represents 31 g"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the interquartile range."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "g"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two of these packets are chosen at random."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that the one packet has a mass of more than 50 g and the other packet has a mass of less than 50 g."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "9.4",
+        "cat": "statistics",
+        "d": 3,
+        "topics": [
+          "Statistics",
+          "Probability"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{5}{9} + 0.2\\dot{8}$$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "1.4",
+        "cat": "number",
+        "d": 4,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper22/Q18/Q18_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "The quadrilateral $ACDE$ is formed by two right-angled triangles $ABE$ and $BCD$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$AC = 17$ cm, $AE = 18$ cm and $BD = 6$ cm."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that $CD = 10$ cm."
+            },
+            {
+              "type": "space",
+              "height": "3cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the perimeter of the quadrilateral $ACDE$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in the form $p + k\\sqrt{q}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ],
+      "meta": {
+        "s": "6.1",
+        "cat": "geometry",
+        "d": 5,
+        "topics": [
+          "Trigonometry"
+        ],
+        "cmd": "show"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025March/Paper22/Q19/Q19_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "In the Venn diagram, shade the region $(A \\cup B \\cup C)'$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {
+        "s": "1.9",
+        "cat": "statistics",
+        "d": 2,
+        "topics": [
+          "Sets"
+        ],
+        "cmd": "shade"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$\\sqrt{300} + \\sqrt{48}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rationalise the denominator and simplify."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{9}{2 + \\sqrt{7}}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "1.6",
+        "cat": "number",
+        "d": 4,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "simplify"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the coordinates of the point where the graph of $y = 5x - 3$ crosses the $y$-axis."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A$ is the point $(1, 7)$ and $B$ is the point $(5, 15)$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the equation of the perpendicular bisector of the line $AB$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        }
+      ],
+      "meta": {
+        "s": "3.4",
+        "cat": "algebra",
+        "d": 4,
+        "topics": [
+          "Coordinate Geometry"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A curve has equation $y = x^3 + x^2 - x$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The curve has a stationary point at $\\left(\\frac{1}{3}, -\\frac{5}{27}\\right)$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the other stationary point."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "By sketching the graph of $y = x^3 + x^2 - x$, determine whether the stationary point $\\left(\\frac{1}{3}, -\\frac{5}{27}\\right)$ is a maximum or a minimum."
+            },
+            {
+              "type": "space",
+              "height": "3cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$\\left(\\frac{1}{3}, -\\frac{5}{27}\\right)$ is a"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The equation $x^3 + x^2 - x = k$ has fewer than 3 solutions."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the range of possible values for $k$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "7.1",
+        "cat": "algebra",
+        "d": 5,
+        "topics": [
+          "Differentiation"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $\\left(\\frac{x^2}{4}\\right)^{\\frac{3}{2}}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$16^x \\times \\left(\\frac{1}{2}\\right)^x = 4^{x+3}$$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.6",
+        "cat": "algebra",
+        "d": 5,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "calculate"
+      }
+    }
+  ]
+}

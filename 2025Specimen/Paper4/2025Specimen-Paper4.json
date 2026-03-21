@@ -1,0 +1,1308 @@
+{
+  "v": "1.0",
+  "paper": "2025Specimen-Paper4",
+  "board": "cie",
+  "code": "0580",
+  "year": 2025,
+  "session": "Specimen",
+  "paperNum": "4",
+  "type": "ext-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the integer values of $x$ that satisfy the inequality $-2 \\leqslant x < 2$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "2.6",
+        "cat": "algebra",
+        "d": 1,
+        "topics": ["Algebra"],
+        "cmd": "write"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper4/Q02/Q02_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "In triangle $PQR$, $QR = 10\\,\\text{cm}$ and $PR = 11\\,\\text{cm}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "**Using a ruler and compasses only**, construct triangle $PQR$."
+        },
+        {
+          "type": "text",
+          "content": "The line $PQ$ has been drawn for you."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {
+        "s": "4.5",
+        "cat": "geometry",
+        "d": 1,
+        "topics": ["Geometry"],
+        "cmd": "construct"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$$(x^8 y^7) \\div (x^{-1} y^3)$$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "2.4",
+        "cat": "algebra",
+        "d": 1,
+        "topics": ["Algebra"],
+        "cmd": "simplify"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$\\text{f}(x) = 3x - 5$$"
+        },
+        {
+          "type": "text",
+          "content": "The domain of $\\text{f}(x)$ is $\\{-3, 0, 2\\}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the range of $\\text{f}(x)$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$\\{$",
+        "suffix": "$\\}$"
+      },
+      "meta": {
+        "s": "2.9",
+        "cat": "algebra",
+        "d": 1,
+        "topics": ["Algebra"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper4/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Two towns, $A$ and $B$, are shown on a map."
+        },
+        {
+          "type": "text",
+          "content": "The scale of the map is 1 cm to 3 km."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the actual distance between $A$ and $B$."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure the bearing of $B$ from $A$."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the bearing of $A$ from $B$."
+            },
+            {
+              "type": "text",
+              "content": "You must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "4.4",
+        "cat": "geometry",
+        "d": 2,
+        "topics": ["Geometry"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A solid metal cuboid has a volume of $600\\,\\text{cm}^3$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The base of the cuboid is 10 cm by 12 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the height of the cuboid."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The solid metal cuboid is melted and made into 1120 spheres, each with radius 0.45 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the volume of metal **not** used in making these spheres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        }
+      ],
+      "meta": {
+        "s": "5.2",
+        "cat": "geometry",
+        "d": 2,
+        "topics": ["Mensuration"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On any day the probability that it rains is $\\frac{1}{3}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "When it rains the probability that Amira goes fishing is $\\frac{3}{5}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "When it does not rain the probability that Amira goes fishing is $\\frac{3}{4}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper4/Q07/Q07_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "In a period of 60 days on how many days is it expected to rain?"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the tree diagram."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the probability that on any day Amira goes fishing."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "10.2",
+        "cat": "probability",
+        "d": 2,
+        "topics": ["Probability"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper4/Q08/Q08_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the lines $y = x$ and $x + y = 7$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Region R satisfies the three inequalities $y \\geqslant 0$, $y \\leqslant x$ and $x + y \\geqslant 7$."
+            },
+            {
+              "type": "text",
+              "content": "On the grid, label the region R."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.6",
+        "cat": "algebra",
+        "d": 2,
+        "topics": ["Algebra"],
+        "cmd": "draw"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper4/Q09/Q09_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows the speed-time graph of part of a car journey."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the deceleration of the car between 10 and 13 seconds."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m/s}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the total distance travelled during the 13 seconds."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        }
+      ],
+      "meta": {
+        "s": "8.1",
+        "cat": "number",
+        "d": 2,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$$2x + 6 - 3xy - 9y$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "2.2",
+        "cat": "algebra",
+        "d": 2,
+        "topics": ["Algebra"],
+        "cmd": "factorise"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper4/Q11/Q11_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$\\text{n}(\\mathcal{E}) = 20$, $\\text{n}(A \\cup B)' = 3$, $\\text{n}(A) = 10$ and $\\text{n}(B) = 13$."
+        },
+        {
+          "type": "text",
+          "content": "The Venn diagram shows some of this information."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\text{n}(A \\cap B)$"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\text{n}(A' \\cap B)$."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "10.1",
+        "cat": "probability",
+        "d": 2,
+        "topics": ["Probability"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The height, $h$ cm, of each of 100 students is measured."
+        },
+        {
+          "type": "text",
+          "content": "The table shows the results."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper4/Q12/Q12_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate an estimate of the mean."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      },
+      "meta": {
+        "s": "9.6",
+        "cat": "statistics",
+        "d": 2,
+        "topics": ["Statistics"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper4/Q13/Q13_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a quadrilateral, $ABCD$, formed from two triangles, $ABC$ and $ACD$."
+        },
+        {
+          "type": "text",
+          "content": "$ABC$ is a right-angled triangle."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate angle $BAC$."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $BAC$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $BD$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$BD$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the shortest distance from $D$ to $AC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ],
+      "meta": {
+        "s": "6.2",
+        "cat": "geometry",
+        "d": 3,
+        "topics": ["Geometry"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 13,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": "Hong has $\\$4000$ to invest."
+            },
+            {
+              "type": "text",
+              "content": "She invests $\\$2000$ at a rate of $2.5\\%$ per year **simple** interest."
+            },
+            {
+              "type": "text",
+              "content": "She also invests $\\$2000$ at a rate of $2\\%$ per year **compound** interest."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 5,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of each investment at the end of 8 years."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  { "prefix": "Simple interest investment $\\$$" },
+                  { "prefix": "Compound interest investment $\\$$" }
+                ]
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the overall percentage increase in the $\\$4000$ investment at the end of 8 years."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the number of complete years it takes for the compound interest investment of $\\$2000$ to become greater than $\\$2500$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Alain invests $\\$5000$ at a rate of $r\\%$ per year compound interest."
+            },
+            {
+              "type": "text",
+              "content": "At the end of 15 years, the value of the investment is $\\$7566$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $r$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$r$ ="
+          }
+        }
+      ],
+      "meta": {
+        "s": "1.12",
+        "cat": "number",
+        "d": 3,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$y = \\sqrt{u^2 x}$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $y$ when $u = 7$ and $x = 25$."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rearrange the formula to write $x$ in terms of $u$ and $y$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.5",
+        "cat": "algebra",
+        "d": 2,
+        "topics": ["Algebra"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$A$ is the point $(7, 2)$ and $B$ is the point $(-5, 8)$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the length of $AB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of the line that is perpendicular to $AB$ and that passes through the point $(-1, 3)$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        }
+      ],
+      "meta": {
+        "s": "3.2",
+        "cat": "algebra",
+        "d": 3,
+        "topics": ["Algebra", "Coordinate Geometry"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper4/Q17/Q17_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The area of the triangle is $50\\,\\text{cm}^2$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of $\\sin x$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$\\sin x$ ="
+      },
+      "meta": {
+        "s": "6.3",
+        "cat": "geometry",
+        "d": 2,
+        "topics": ["Geometry"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{3y}{2y - 1} = \\frac{3}{4}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$y$ ="
+      },
+      "meta": {
+        "s": "2.5",
+        "cat": "algebra",
+        "d": 3,
+        "topics": ["Algebra"],
+        "cmd": "solve"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The cross-section of a prism is an equilateral triangle of side 6 cm."
+        },
+        {
+          "type": "text",
+          "content": "The length of the prism is 20 cm."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the total surface area of the prism."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      },
+      "meta": {
+        "s": "5.2",
+        "cat": "geometry",
+        "d": 2,
+        "topics": ["Mensuration"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$y = 2x^k + ux^7 \\quad \\text{and} \\quad \\frac{\\text{d}y}{\\text{d}x} = 18x^{k-1} + 21x^6$$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $k$ and the value of $u$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          { "prefix": "$k$ =" },
+          { "prefix": "$u$ =" }
+        ]
+      },
+      "meta": {
+        "s": "2.13",
+        "cat": "algebra",
+        "d": 2,
+        "topics": ["Algebra"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{5p^2 - 20p}{2p^2 - 32}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "2.2",
+        "cat": "algebra",
+        "d": 3,
+        "topics": ["Algebra"],
+        "cmd": "simplify"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows triangle $OPT$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2025Specimen/Paper4/Q22/Q22_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "In the diagram $\\overrightarrow{OT} = \\mathbf{t}$ and $\\overrightarrow{OP} = \\mathbf{p}$."
+        },
+        {
+          "type": "text",
+          "content": "$OK : KT = 2 : 1$ and $TL : LP = 2 : 1$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find, in terms of $\\mathbf{t}$ and $\\mathbf{p}$, in its simplest form"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\overrightarrow{PL}$"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\overrightarrow{KL}$."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$KL$ is extended to the point $M$."
+            },
+            {
+              "type": "text",
+              "content": "$\\overrightarrow{KM} = -\\frac{2}{3}\\mathbf{t} + \\frac{4}{3}\\mathbf{p}$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Show that $M$ lies on $OP$ extended."
+            },
+            {
+              "type": "space",
+              "height": "3cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "meta": {
+        "s": "8.2",
+        "cat": "geometry",
+        "d": 3,
+        "topics": ["Geometry", "Vectors"],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Serge walks 7.9 km, correct to the nearest 100 metres."
+        },
+        {
+          "type": "text",
+          "content": "The walk takes 133 minutes, correct to the nearest minute."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the maximum possible average speed of Serge's walk."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in kilometres per hour."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{km/h}$"
+      },
+      "meta": {
+        "s": "1.9",
+        "cat": "number",
+        "d": 3,
+        "topics": ["Number"],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 24,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The straight line $y = 2x + 1$ intersects the curve $y = x^2 + 3x - 4$ at the points $A$ and $B$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the coordinates of $A$ and $B$."
+        },
+        {
+          "type": "text",
+          "content": "Give your answers correct to 2 decimal places."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          { "prefix": "$A$ (" },
+          { "prefix": "$B$ (" }
+        ]
+      },
+      "meta": {
+        "s": "2.8",
+        "cat": "algebra",
+        "d": 3,
+        "topics": ["Algebra"],
+        "cmd": "find"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1010 @@
+{
+  "v": "1.0",
+  "paper": "2018MayJune-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2018,
+  "session": "MayJune",
+  "paperNum": "22",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "One morning, Marcia works from 08 20 to 11 15."
+        },
+        {
+          "type": "text",
+          "content": "Find how long she works for."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in hours and minutes."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": "h"
+          },
+          {
+            "suffix": "min"
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand."
+        },
+        {
+          "type": "text",
+          "content": "$$7(x - 8)$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a sequence."
+        },
+        {
+          "type": "text",
+          "content": "$$a, \\quad 13, \\quad 9, \\quad 3, \\quad -5, \\quad -15, \\quad b, \\quad \\ldots$$"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $a$ and the value of $b$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$a$ ="
+          },
+          {
+            "prefix": "$b$ ="
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Complete these statements."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "When $w = \\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots$ , $10w = 70$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "When $5x = 15$, $12x = \\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$22 \\quad 17 \\quad 25 \\quad 41 \\quad 39 \\quad 4$$"
+        },
+        {
+          "type": "text",
+          "content": "Work out the difference between the two prime numbers in the list above."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using your calculator, work out $\\frac{2}{3} - \\frac{1}{12}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A and B are two towns on a map."
+        },
+        {
+          "type": "text",
+          "content": "The bearing of A from B is $140^{\\circ}$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the bearing of B from A."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are some numbers written in standard form."
+        },
+        {
+          "type": "text",
+          "content": "$$3.4 \\times 10^{-1} \\quad 1.36 \\times 10^6 \\quad 7.9 \\times 10^0 \\quad 2.4 \\times 10^5 \\quad 5.21 \\times 10^{-3} \\quad 4.3 \\times 10^{-2}$$"
+        },
+        {
+          "type": "text",
+          "content": "From these numbers, write down"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the largest number,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the smallest number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Using a straight edge and compasses only, construct the locus of points that are equidistant from $A$ and $B$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper22/Q09/Q09_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise completely."
+        },
+        {
+          "type": "text",
+          "content": "$$xy + 2y + 3x + 6$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two mathematically similar triangles, $T$ and $U$."
+        },
+        {
+          "type": "text",
+          "content": "Two corresponding side lengths are $3\\text{ cm}$ and $12\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "The area of triangle $T$ is $5\\text{ cm}^2$."
+        },
+        {
+          "type": "text",
+          "content": "Find the area of triangle $U$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper22/Q11/Q11_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Anna walks $31\\text{ km}$ at a speed of $5\\text{ km/h}$."
+        },
+        {
+          "type": "text",
+          "content": "Both values are correct to the nearest whole number."
+        },
+        {
+          "type": "text",
+          "content": "Work out the upper bound of the time taken for Anna's walk."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "hours"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The histogram shows information about the time, $t$ minutes, spent in a shop by each of 80 people."
+        },
+        {
+          "type": "text",
+          "content": "Complete the frequency table."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hlineTime ($t$ minutes) & $0 < t \\leqslant 5$ & $5 < t \\leqslant 15$ & $15 < t \\leqslant 30$ & $30 < t \\leqslant 50$ & $50 < t \\leqslant 70$ \\\\\\hlineNumber of people & 6 & 27 & 10 & & \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper22/Q13/Q13_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper22/Q13/Q13_Stem_Fig2.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a solid cuboid with base area $7\\text{ cm}^2$."
+        },
+        {
+          "type": "text",
+          "content": "The volume of this cuboid is $21\\text{ cm}^3$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the total surface area."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper22/Q14/Q14_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the volume of a cylinder of radius $5\\text{ cm}$ and height $8\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Give the units of your answer."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {},
+          {}
+        ]
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a circle, centre $O$."
+        },
+        {
+          "type": "text",
+          "content": "$AB$ is a chord of length $12\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "$M$ is the mid-point of $AB$ and $OM = 4.5\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the radius of the circle."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper22/Q16/Q16_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows information about the first 8 seconds of a car journey."
+        },
+        {
+          "type": "text",
+          "content": "The car travels with constant acceleration reaching a speed of $v\\text{ m/s}$ after 6 seconds."
+        },
+        {
+          "type": "text",
+          "content": "The car then travels at a constant speed of $v\\text{ m/s}$ for a further 2 seconds."
+        },
+        {
+          "type": "text",
+          "content": "The car travels a total distance of 150 metres."
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $v$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper22/Q17/Q17_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$v$ ="
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A ball falls $d$ metres in $t$ seconds."
+        },
+        {
+          "type": "text",
+          "content": "$d$ is directly proportional to the square of $t$."
+        },
+        {
+          "type": "text",
+          "content": "The ball falls $44.1\\text{ m}$ in 3 seconds."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find a formula for $d$ in terms of $t$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$d$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the distance the ball falls in 2 seconds."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the two inequalities that define the region on the grid that is not shaded."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper22/Q19/Q19_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {},
+          {}
+        ]
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$ \\mathbf{A} = \\begin{pmatrix} 1 & 1 \\\\ 9 & 9 \\end{pmatrix} \\quad \\mathbf{B} = \\begin{pmatrix} 0 & 1 \\\\ 9 & 8 \\end{pmatrix} \\quad \\mathbf{C} = \\begin{pmatrix} 1 & 1 \\\\ 3 & 3 \\end{pmatrix} \\quad \\mathbf{I} = \\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix} $$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here are four matrix calculations."
+            },
+            {
+              "type": "text",
+              "content": "$$ \\mathbf{AI} \\quad \\mathbf{IA} \\quad \\mathbf{C}^2 \\quad \\mathbf{B} + \\mathbf{I} $$"
+            },
+            {
+              "type": "text",
+              "content": "Work out which matrix calculation does not give the answer $\\begin{pmatrix} 1 & 1 \\\\ 9 & 9 \\end{pmatrix}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\\mathbf{B}^{-1}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Explain why matrix $\\mathbf{A}$ has no inverse."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scatter diagram shows the value, in thousands of dollars, of eight houses in 1996 and the value of the same houses in 2016."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper22/Q21/Q21_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of these eight houses had a value of $\\$70 000$ in 1996.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Write down the value of this house in 2016."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper22/Q21/Q21_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "The values of two more houses are shown in the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|}\\hlineValue in 1996 (\\$ thousands) & 40 & 80 \\\\\\hlineValue in 2016 (\\$ thousands) & 80 & 150 \\\\\\hline\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "On the scatter diagram, plot these values."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the scatter diagram, draw a line of best fit."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Another house had a value of $\\$50 000$ in 1996.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Find an estimate of the value of this house in 2016."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In the diagram, $O$ is the origin, $\\overrightarrow{OC} = -2\\mathbf{a} + 3\\mathbf{b}$ and $\\overrightarrow{OD} = 4\\mathbf{a} + \\mathbf{b}$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper22/Q22/Q22_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\\overrightarrow{CD}$, in terms of $\\mathbf{a}$ and $\\mathbf{b}$, in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$\\overrightarrow{CD} =$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\overrightarrow{DE} = \\mathbf{a} - 2\\mathbf{b}$"
+            },
+            {
+              "type": "text",
+              "content": "Find the position vector of $E$, in terms of $\\mathbf{a}$ and $\\mathbf{b}$, in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The Venn diagram shows information about the number of elements in sets $A$, $B$ and $\\mathscr{E}$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper22/Q23/Q23_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$n(A \\cup B) = 23$$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "An element is chosen at random from $\\mathscr{E}$."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that this element is in $(A \\cup B)'$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 24,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Box $A$ and box $B$ each contain blue and green pens only."
+        },
+        {
+          "type": "text",
+          "content": "Raphael picks a pen at random from box $A$ and Paulo picks a pen at random from box $B$."
+        },
+        {
+          "type": "text",
+          "content": "The probability that Raphael picks a blue pen is $\\frac{2}{3}$."
+        },
+        {
+          "type": "text",
+          "content": "The probability that both Raphael and Paulo pick a blue pen is $\\frac{8}{15}$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the probability that Paulo picks a blue pen."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the probability that both Raphael and Paulo pick a green pen."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 25,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$P$ is the point $(16, 9)$ and $Q$ is the point $(22, 24)$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of the line perpendicular to $PQ$ that passes through the point $(5, 1)$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$N$ is the point on $PQ$ such that $PN = 2NQ$."
+            },
+            {
+              "type": "text",
+              "content": "Find the co-ordinates of $N$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        }
+      ]
+    }
+  ]
+}

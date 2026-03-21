@@ -1,0 +1,443 @@
+{
+  "v": "1.0",
+  "paper": "2024MayJune-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "MayJune",
+  "paperNum": "22",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1, "marks": 1,
+      "stem": [
+        { "type": "text", "content": "The temperature at midnight is $-4$ °C." },
+        { "type": "text", "content": "The temperature at noon is $25$ °C." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out the difference between these two temperatures." }
+      ],
+      "parts": [], "answer": { "type": "number", "suffix": "$°\\text{C}$" },
+      "meta": { "s": "1.1", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 2, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "A gardener charges $\\$6.55$ for each hour he works plus a fixed charge of $\\$15.50$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the total amount he charges when he works for 4 hours." }
+      ],
+      "parts": [], "answer": { "type": "number", "prefix": "$\\$$" },
+      "meta": { "s": "1.12", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 3, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "A delivery driver records the number of pizzas she delivers each month for one year." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q03/Q03_Suba_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 2,
+          "content": [{ "type": "text", "content": "Complete the stem-and-leaf diagram." }],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(b)", "marks": 1,
+          "content": [{ "type": "text", "content": "Find the median." }],
+          "answer": { "type": "number" }
+        }
+      ],
+      "meta": { "s": "9.2", "cat": "statistics", "d": 1, "topics": ["Statistics"], "cmd": "find" }
+    },
+    {
+      "qnum": 4, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Jonah has $\\$750$." },
+        { "type": "text", "content": "He spends $\\frac{1}{4}$ of this money on travel and some of this money on food." },
+        { "type": "text", "content": "He now has $\\$437.50$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Work out the fraction of the $\\$750$ he spends on food." }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "1.5", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 5, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "The table shows part of a tram timetable." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q05/Q05_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "All the trams take the same number of minutes to complete the journey from Newpoint to Westhill." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Complete the table." }
+      ],
+      "parts": [], "answer": { "type": "table_input" },
+      "meta": { "s": "1.12", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "complete" }
+    },
+    {
+      "qnum": 6, "marks": 1,
+      "stem": [
+        { "type": "text", "content": "Write $0.04628$ correct to 2 significant figures." }
+      ],
+      "parts": [], "answer": { "type": "number" },
+      "meta": { "s": "1.9", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 7, "marks": 1,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q07/Q07_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "On the Venn diagram, shade the region $A \\cup B$." }
+      ],
+      "parts": [], "answer": { "type": "none" },
+      "meta": { "s": "8.2", "cat": "probability", "d": 1, "topics": ["Sets"], "cmd": "shade" }
+    },
+    {
+      "qnum": 8, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Kai invests $\\$5000$ in an account paying simple interest at a rate of $r\\%$ per year." },
+        { "type": "text", "content": "At the end of 8 years, the value of his investment is $\\$5700$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the value of $r$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number", "prefix": "$r$ =" },
+      "meta": { "s": "1.12", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "find" }
+    },
+    {
+      "qnum": 9, "marks": 5,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q09/Q09_Stem_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 3,
+          "content": [
+            { "type": "text", "content": "Describe fully the single transformation that maps triangle $A$ onto triangle $B$." }
+          ],
+          "answer": { "type": "structured", "answerBlocks": [{}, {}] }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [
+            { "type": "text", "content": "On the grid, draw the image of triangle $A$ after a translation by the vector $\\binom{-4}{3}$." }
+          ],
+          "answer": { "type": "none" }
+        }
+      ],
+      "meta": { "s": "7.1", "cat": "geometry", "d": 2, "topics": ["Transformations"], "cmd": "describe" }
+    },
+    {
+      "qnum": 10, "marks": 1,
+      "stem": [
+        { "type": "text", "content": "Write $174\\,000$ in standard form." }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "1.7", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "write" }
+    },
+    {
+      "qnum": 11, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "A company surveys 40 of its employees." },
+        { "type": "text", "content": "In the survey, 3 employees say they walk to work." },
+        { "type": "text", "content": "The company has a total of 1240 employees." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the expected number of employees in the company who walk to work." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number" },
+      "meta": { "s": "8.1", "cat": "probability", "d": 2, "topics": ["Probability"], "cmd": "find" }
+    },
+    {
+      "qnum": 12, "marks": 2,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q12/Q12_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The diagram shows a right-angled triangle." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the value of $x$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number", "prefix": "$x$ =" },
+      "meta": { "s": "6.1", "cat": "geometry", "d": 2, "topics": ["Trigonometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 13, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Without using a calculator, work out $2\\frac{1}{4} \\div 1\\frac{7}{8}$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "You must show all your working and give your answer as a mixed number in its simplest form." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "expression" },
+      "meta": { "s": "1.5", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 14, "marks": 2,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q14/Q14_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$A$ is the point $(0, 2)$ and $B$ is the point $(8, 6)$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Find the equation of line $AB$." },
+        { "type": "text", "content": "Give your answer in the form $y = mx + c$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "expression", "prefix": "$y$ =" },
+      "meta": { "s": "4.1", "cat": "algebra", "d": 2, "topics": ["Coordinate Geometry"], "cmd": "find" }
+    },
+    {
+      "qnum": 15, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q15/Q15_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Three towns, $A$, $B$ and $C$, are equidistant from each other." },
+        { "type": "text", "content": "The bearing of $C$ from $A$ is $104°$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the bearing of $B$ from $C$." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number" },
+      "meta": { "s": "6.2", "cat": "geometry", "d": 3, "topics": ["Geometry", "Trigonometry"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 16, "marks": 4,
+      "stem": [
+        { "type": "text", "content": "The speed–time graph shows information about a car journey." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q16/Q16_Stem_Fig1.png" }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 1,
+          "content": [{ "type": "text", "content": "Find the deceleration of the car between 240 and 320 seconds." }],
+          "answer": { "type": "number", "suffix": "$\\text{m/s}^2$" }
+        },
+        {
+          "label": "(b)", "marks": 3,
+          "content": [
+            { "type": "text", "content": "Calculate the total distance the car travels during the 320 seconds." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "number", "suffix": "$\\text{m}$" }
+        }
+      ],
+      "meta": { "s": "10.1", "cat": "algebra", "d": 2, "topics": ["Algebra", "Graphs"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 17, "marks": 2,
+      "stem": [
+        { "type": "text", "content": "$W = \\{\\text{students who walk to school}\\}$" },
+        { "type": "text", "content": "$G = \\{\\text{students who wear glasses}\\}$" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "There are 20 students in a class." },
+        { "type": "newline", "lines": 1 },
+        { "type": "list", "style": "bullet", "items": ["8 walk to school", "3 wear glasses and walk to school", "2 do not wear glasses and do not walk to school."] },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Complete the Venn diagram." },
+        { "type": "newline", "lines": 1 },
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q17/Q17_Stem_Fig1.png" }
+      ],
+      "parts": [], "answer": { "type": "none" },
+      "meta": { "s": "8.2", "cat": "probability", "d": 2, "topics": ["Sets"], "cmd": "complete" }
+    },
+    {
+      "qnum": 18, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q18/Q18_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The graph of $y = \\text{f}(x)$ is drawn on the grid." }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 1,
+          "content": [{ "type": "text", "content": "Draw the tangent to the graph at the point $x = 3$." }],
+          "answer": { "type": "none" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [{ "type": "text", "content": "Use your tangent to find an estimate for the gradient of the curve at the point $x = 3$." }],
+          "answer": { "type": "number" }
+        }
+      ],
+      "meta": { "s": "3.4", "cat": "algebra", "d": 3, "topics": ["Algebra", "Graphs"], "cmd": "find" }
+    },
+    {
+      "qnum": 19, "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)", "marks": 3,
+          "content": [
+            { "type": "text", "content": "$y$ is directly proportional to $(x - 1)^2$." },
+            { "type": "text", "content": "When $x = 4$, $y = 3$." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Find $y$ when $x = 7$." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "number", "prefix": "$y$ =" }
+        },
+        {
+          "label": "(b)", "marks": 1,
+          "content": [
+            { "type": "text", "content": "$m$ is inversely proportional to the square root of $p$." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Explain what happens to the value of $m$ when the value of $p$ is multiplied by 9." }
+          ],
+          "answer": { "type": "structured", "answerBlocks": [{}] }
+        }
+      ],
+      "meta": { "s": "2.6", "cat": "algebra", "d": 3, "topics": ["Algebra", "Proportion"], "cmd": "find" }
+    },
+    {
+      "qnum": 20, "marks": 3,
+      "stem": [
+        { "type": "text", "content": "Two parcels are mathematically similar." },
+        { "type": "text", "content": "The larger parcel has volume $80\\text{ cm}^3$ and height $5.2$ cm." },
+        { "type": "text", "content": "The smaller parcel has volume $33.75\\text{ cm}^3$." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "Calculate the height of the smaller parcel." },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [], "answer": { "type": "number", "suffix": "$\\text{cm}$" },
+      "meta": { "s": "4.5", "cat": "geometry", "d": 3, "topics": ["Geometry", "Similarity"], "cmd": "calculate" }
+    },
+    {
+      "qnum": 21, "marks": 5,
+      "stem": [
+        { "type": "text", "content": "Solve the simultaneous equations." },
+        { "type": "text", "content": "You must show all your working." },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$$4y + 3x = 13$$" },
+        { "type": "text", "content": "$$y = x^2 - 18$$" },
+        { "type": "space", "height": "1cm" }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          { "prefix": "$x$ =", "suffix": "$y$ =" },
+          { "prefix": "or $x$ =", "suffix": "$y$ =" }
+        ]
+      },
+      "meta": { "s": "2.5", "cat": "algebra", "d": 4, "topics": ["Algebra"], "cmd": "solve" }
+    },
+    {
+      "qnum": 22, "marks": 7,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)", "marks": 2,
+          "content": [{ "type": "text", "content": "For each sketch, put a ring around the correct type of function shown." }],
+          "subparts": [
+            {
+              "label": "(i)", "marks": 1,
+              "content": [
+                { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q22/Q22_Subi_Fig1.png" },
+                { "type": "newline", "lines": 1 },
+                { "type": "text", "content": "$$\\text{linear} \\qquad \\text{cubic} \\qquad \\text{quadratic} \\qquad \\text{reciprocal} \\qquad \\text{exponential}$$" }
+              ],
+              "answer": { "type": "expression" }
+            },
+            {
+              "label": "(ii)", "marks": 1,
+              "content": [
+                { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q22/Q22_Subii_Fig1.png" },
+                { "type": "newline", "lines": 1 },
+                { "type": "text", "content": "$$\\text{linear} \\qquad \\text{cubic} \\qquad \\text{quadratic} \\qquad \\text{reciprocal} \\qquad \\text{exponential}$$" }
+              ],
+              "answer": { "type": "expression" }
+            }
+          ]
+        },
+        {
+          "label": "(b)", "marks": 5,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)", "marks": 2,
+              "content": [
+                { "type": "text", "content": "On the grid, sketch the curve $y = \\sin x$ for $0° \\leqslant x \\leqslant 360°$." },
+                { "type": "newline", "lines": 1 },
+                { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q22/Q22_Subb_Fig1.png" }
+              ],
+              "answer": { "type": "none" }
+            },
+            {
+              "label": "(ii)", "marks": 3,
+              "content": [
+                { "type": "text", "content": "Solve the equation $\\sin x + 0.4 = 0$ for $0° \\leqslant x \\leqslant 360°$." },
+                { "type": "space", "height": "1cm" }
+              ],
+              "answer": { "type": "structured", "answerBlocks": [{ "prefix": "$x$ =" }, { "prefix": "or $x$ =" }] }
+            }
+          ]
+        }
+      ],
+      "meta": { "s": "3.3", "cat": "algebra", "d": 3, "topics": ["Algebra", "Graphs", "Trigonometry"], "cmd": "identify" }
+    },
+    {
+      "qnum": 23, "marks": 3,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q23/Q23_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "The Venn diagram shows information about the number of students in a class." },
+        { "type": "text", "content": "Some study English ($E$), some study French ($F$), some study Spanish ($S$) and some do not study any of these languages." }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 1,
+          "content": [{ "type": "text", "content": "Find $\\text{n}((E \\cup F)' \\cup S)$." }],
+          "answer": { "type": "number" }
+        },
+        {
+          "label": "(b)", "marks": 2,
+          "content": [
+            { "type": "text", "content": "One student is picked at random from those who study Spanish." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Find the probability that this student studies exactly two languages." }
+          ],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "8.2", "cat": "probability", "d": 3, "topics": ["Sets", "Probability"], "cmd": "find" }
+    },
+    {
+      "qnum": 24, "marks": 5,
+      "stem": [
+        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper22/Q24/Q24_Stem_Fig1.png" },
+        { "type": "newline", "lines": 1 },
+        { "type": "text", "content": "$O$ is the origin and $OPQR$ is a parallelogram." },
+        { "type": "text", "content": "$M$ is the midpoint of $PQ$ and $N$ divides $QR$ in the ratio $2 : 1$." },
+        { "type": "text", "content": "$\\overrightarrow{OP} = \\mathbf{a}$ and $\\overrightarrow{OR} = \\mathbf{b}$." }
+      ],
+      "parts": [
+        {
+          "label": "(a)", "marks": 2,
+          "content": [
+            { "type": "text", "content": "Find $\\overrightarrow{MN}$." },
+            { "type": "text", "content": "Give your answer in terms of $\\mathbf{a}$ and/or $\\mathbf{b}$ and in its simplest form." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "expression", "prefix": "$\\overrightarrow{MN}$ =" }
+        },
+        {
+          "label": "(b)", "marks": 3,
+          "content": [
+            { "type": "text", "content": "The lines $MN$ and $OR$ are extended to meet at $S$." },
+            { "type": "newline", "lines": 1 },
+            { "type": "text", "content": "Find the position vector of $S$." },
+            { "type": "text", "content": "Give your answer in terms of $\\mathbf{a}$ and/or $\\mathbf{b}$ and in its simplest form." },
+            { "type": "space", "height": "1cm" }
+          ],
+          "answer": { "type": "expression" }
+        }
+      ],
+      "meta": { "s": "7.2", "cat": "geometry", "d": 4, "topics": ["Vectors"], "cmd": "find" }
+    }
+  ]
+}

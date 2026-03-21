@@ -1,0 +1,584 @@
+{
+  "v": "1.0",
+  "paper": "2018OctNov-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2018,
+  "session": "OctNov",
+  "paperNum": "22",
+  "totalMarks": 70,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "answer": "2.3 \\times 10^4",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "correct answer"
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "answer": "5",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "correct answer"
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "answer": "4",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "correct answer"
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "answer": "6x - 2x^3",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "correct answer"
+        }
+      ],
+      "guidance": "B1 for 6x or -2x^3"
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "answer": "\\frac{7}{15} cao",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for \\frac{1}{6} + \\frac{5}{15} or better"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": "cao"
+        }
+      ],
+      "guidance": "Allow any correct common denominator 15k"
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "answer": "m \\geqslant 3",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "correct answer"
+        }
+      ],
+      "guidance": "M1 for correct first step e.g. 7m \\geqslant 19 + 2"
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "C \\cap D = \\{10\\}",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "correct answer"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "7",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "correct answer"
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "answer": "(x + 5)(y + 2)",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "correct answer"
+        }
+      ],
+      "guidance": "B1 for y(x + 5) + 2(x + 5) or x(y + 2) + 5(y + 2)"
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "answer": "26600 cao",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "correct answer"
+        }
+      ],
+      "guidance": "M1 for 30000 \\times (1 - \\frac{2}{100})^6 oe"
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "answer": "\\frac{r+t}{2w}",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "correct answer"
+        }
+      ],
+      "guidance": "B1 for 2w oe nfww or \\frac{r+t}{2} oe"
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "answer": "34.5 and 37.5",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "correct answers"
+        }
+      ],
+      "guidance": "B1 for 11.5 or 12.5 seen or M1 for (12 - 0.5) \\times 3 or (12 + 0.5) \\times 3"
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "answer": "154.5 or 154.5...",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "correct answer"
+        }
+      ],
+      "guidance": "B1 for 25.5 or 25.46 to 25.47 or M1 for 180 - \\sin^{-1}(0.43) oe"
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "answer": "6n - 10 oe",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "correct answer"
+        }
+      ],
+      "guidance": "B1 for 6n + c or kn - 10 (k \\neq 0)"
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "answer": "Correct region identified",
+      "markAllocation": [
+        {
+          "code": "B3",
+          "type": "B",
+          "value": 3,
+          "criterion": "correct region"
+        }
+      ],
+      "guidance": "B marks"
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "\\begin{pmatrix} 15 & 9 \\\\ -3 & -6 \\end{pmatrix} oe isw",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "correct answer"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "\\begin{pmatrix} 2 & 3 \\\\ 1 & 1 \\end{pmatrix} \\begin{pmatrix} 5 \\\\ 7 \\end{pmatrix}",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "correct answer"
+            }
+          ],
+          "guidance": "B1 for one correct part"
+        }
+      ]
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "answer": "a = 36, b = -6",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for a = 36"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for b = -6 or x^2 + bx + b^2 or better or b^2 = a"
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "answer": "-2x + 5",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for \\frac{7 - 9}{-1 - -2} oe"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for gradient of perpendicular = -1/their m"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for (1, 3) correctly substituted into their y = -2x + c"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": "correct final equation"
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "answer": "Correct pie chart e.g. 54^{\\circ}",
+      "markAllocation": [
+        {
+          "code": "B4",
+          "type": "B",
+          "value": 4,
+          "criterion": "correct chart"
+        }
+      ],
+      "guidance": "B3 for correct chart no labels or for 2 correct sectors with or without labels. B2 for 3 correct percentages (54^{\\circ}) or 3 correct angles seen (171^{\\circ}, 135^{\\circ} and 54^{\\circ}). M1 for method e.g. \\frac{57}{120} \\times 360, \\frac{57}{120} \\times 100 oe or one correct sector on the pie chart"
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "Correct ruled bisector with pairs of arcs",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "correct bisector"
+            }
+          ],
+          "guidance": "B1 for correct ruled bisector with no/wrong arcs"
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "Correct arc centre E radius 3 cm inside pentagon",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "correct arc"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "answer": "Correct region R shaded",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "correct region"
+            }
+          ],
+          "guidance": "Dependent on at least B1 in part (a) and 1 mark in part (b) and a closed region"
+        }
+      ]
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "answer": "\\frac{x+3}{x} oe",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for correctly clearing the denominator and expanding bracket"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for correctly collecting terms in m on one side and terms not in m on the other"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for correct factorising"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": "for correct division dependent on m appearing only once in a factorised expression"
+        }
+      ],
+      "guidance": "M1 for correct division dependent on m appearing only once"
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "answer": "30.2 or 30.20 to 30.21...",
+      "markAllocation": [
+        {
+          "code": "M3",
+          "type": "M",
+          "value": 3,
+          "criterion": "for 2 \\times (\\frac{60}{360} \\times \\pi \\times 10^2 - \\frac{1}{2} \\times 10 \\times 10 \\sin 60)"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": "correct answer"
+        }
+      ],
+      "guidance": "or M1 for \\frac{k}{360} \\times \\pi \\times 10^2 oe, and M1 for \\frac{1}{2} \\times 10 \\times 10 \\sin 60 oe"
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "answer": "25.1 or 25.06...",
+      "markAllocation": [
+        {
+          "code": "M3",
+          "type": "M",
+          "value": 3,
+          "criterion": "for \\tan = \\frac{8}{\\sqrt{16.2^2 + 5.5^2}} oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": "correct answer"
+        }
+      ],
+      "guidance": "or M2 for \\sqrt{16.2^2 + 5.5^2} or M1 for 16.2^2 + 5.5^2 or B1 for identifying correct angle"
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "2^3 \\times 7 or 2 \\times 2 \\times 2 \\times 7",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "correct answer"
+            }
+          ],
+          "guidance": "B1 for identifying 2 and 7 as the only prime factors"
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "168",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "correct answer"
+            }
+          ],
+          "guidance": "B1 for 168k or 2 \\times 2 \\times 2 \\times 3 \\times 7 oe or for listing multiples of each up to 168"
+        }
+      ]
+    },
+    {
+      "qnum": 24,
+      "marks": 5,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "25",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "correct answer"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "12",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "correct answer"
+            }
+          ],
+          "guidance": "B1 for 16 or 28"
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "answer": "5",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "correct answer"
+            }
+          ],
+          "guidance": "B1 for 75"
+        }
+      ]
+    },
+    {
+      "qnum": 25,
+      "marks": 5,
+      "parts": [
+        {
+          "label": "(a)(i)",
+          "marks": 1,
+          "answer": "5x^3 + 2",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "correct answer"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(a)(ii)",
+          "marks": 2,
+          "answer": "\\frac{x-2}{5}",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "correct answer"
+            }
+          ],
+          "guidance": "M1 for correct first step e.g. y - 2 = 5x, x = 5y + 2, 5y = x + 2"
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "5",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "correct answer"
+            }
+          ],
+          "guidance": "M1 for a \\times (-2)^2 + 1 = 21"
+        }
+      ]
+    }
+  ]
+}
