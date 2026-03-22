@@ -1,0 +1,1385 @@
+{
+  "v": "1.0",
+  "paper": "2020March-Paper32",
+  "board": "cie",
+  "code": "0580",
+  "year": 2020,
+  "session": "March",
+  "paperNum": "32",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Navja works in a post office."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q01/Q01_Subi_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q01/Q01_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q01/Q01_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows the costs of sending parcels by post.\nThe cost depends on the mass, $m$ grams, of the parcel."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Sai sends each of these four parcels by post.\n$$55\\text{ g} \\qquad 0.3\\text{ kg} \\qquad 875\\text{ g} \\qquad 250\\text{ g}$$"
+                },
+                {
+                  "type": "text",
+                  "content": "He pays with a $\\$20$ note.\nWork out how much change he receives.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On 1 April, the cost of sending any parcel increases by $5\\%$."
+                }
+              ],
+              "subparts": [
+                {
+                  "label": "(a)(ii)(a)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Show that the increase in the cost of sending an Extra large parcel is $\\$0.28$."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "none"
+                  }
+                },
+                {
+                  "label": "(a)(ii)(b)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Avani says\n\n\"As the cost of an Extra large parcel increases by $\\$0.28$ then the cost of a Large parcel will also increase by $\\$0.28$ to $\\$2.48$.\"\n\nExplain why Avani is incorrect."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "none"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Navja weighs a parcel with mass $w\\text{ kg}$ on her scales.\nShe uses the masses shown to balance the scales."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the value of $w$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$w =$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Sometimes Navja uses an electronic weighing machine.\nThe machine gives the mass, $p\\text{ kg}$, of a parcel as $12.4\\text{ kg}$, correct to the nearest $100\\text{ g}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Complete this statement about the value of $p$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "suffix": "$\\le p <$"
+                  },
+                  {}
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "66 football players each take five penalties.\nThe number of penalties that each player scores is recorded.\nThe results are shown in the bar chart."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q02/Q02_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mode."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the mean."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The attendance at a football match is 11 678."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write 11 678 in words."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write 11 678 correct to the nearest 100."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "In a football stadium there are 15 000 seats.\n10 650 of these seats are occupied.\nFind the percentage of the 15 000 seats that are occupied."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A ticket to a football match costs $\\$20$.\nCalculate the cost of the ticket in rupees when the exchange rate is $1\\text{ rupee} = \\$0.016$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "rupees"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q03/Q03_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q03/Q03_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name for this type of angle."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Measure this angle."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name for an 8-sided polygon."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the size of an interior angle of a regular 24-sided polygon."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a circle, centre $O$, with diameter $CE$.\n$A, B, C, D$ and $E$ lie on the circumference of the circle."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of $x$.\nGive a reason for your answer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$x =$"
+                  },
+                  {
+                    "prefix": "because"
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of $y$.\nGive a reason for your answer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$y =$"
+                  },
+                  {
+                    "prefix": "because"
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Draw a tangent to the circle at $A$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q04/Q04_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows the front of Pranav's house."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the total area of the front of his house."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{m}^2$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The door is $0.9\\text{ m}$ wide and $2.1\\text{ m}$ high.\nEach of the four windows are $1.5\\text{ m}$ wide and $1.2\\text{ m}$ high.\nWork out the total area of the door and the four windows."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{m}^2$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Pranav paints the front of his house but not the door and not the four windows.\nWork out the area he paints."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{m}^2$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Pranav paints a wall of area $53\\text{ m}^2$.\nOne litre of paint covers an area of $4.5\\text{ m}^2$.\nPaint is sold in $2.5$ litre tins, each costing $\\$24.75$.\nPranav buys the least number of tins to paint this wall.\nWork out the cost of the paint.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q05/Q05_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 9,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The graph shows the cost, $\\$c$, of travelling a distance, $d\\text{ km}$, with Saanvi's Taxis.",
+                  "_dollar_warning": true
+                }
+              ],
+              "subparts": [
+                {
+                  "label": "(a)(i)(a)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Write down the cost of a $4\\text{ km}$ journey."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "number",
+                    "prefix": "$\\$$"
+                  }
+                },
+                {
+                  "label": "(a)(i)(b)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Complete this statement.\nSaanvi's Taxis cost $\\$ ........................$ for each kilometre travelled."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "number"
+                  }
+                },
+                {
+                  "label": "(a)(i)(c)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Find the equation of the line."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "expression",
+                    "prefix": "$c =$"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 6,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Krishna's Taxis cost $\\$5$ to hire plus $\\$2$ for each kilometre travelled."
+                }
+              ],
+              "subparts": [
+                {
+                  "label": "(a)(ii)(a)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Show that the cost of a $4\\text{ km}$ journey with Krishna's Taxis is $\\$13$."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "none"
+                  }
+                },
+                {
+                  "label": "(a)(ii)(b)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Find an equation for the cost, $\\$c$, of travelling $d$ kilometres with Krishna's Taxis."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "expression",
+                    "prefix": "$c =$"
+                  }
+                },
+                {
+                  "label": "(a)(ii)(c)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "On the grid, draw a line to show the cost of travelling with Krishna's Taxis."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "none"
+                  }
+                },
+                {
+                  "label": "(a)(ii)(d)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Mrs Singh wants to hire a taxi.\nShe says that Saanvi's Taxis are always cheaper than Krishna's Taxis.\nIs Mrs Singh correct?\nGive a reason for your answer. Use your graph to help you."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "structured",
+                    "answerBlocks": [
+                      {
+                        "suffix": "because"
+                      },
+                      {}
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "A minibus can be hired from Dhruv's Minibuses.\nThe cost is $\\$h$ per hour plus $\\$p$ per passenger."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "When the minibus is hired for $3$ hours with $10$ passengers the cost is $\\$61$.\nComplete the equation.\n$$3h + 10p = \\text{.....................}$$",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "When the minibus is hired for $5$ hours with $8$ passengers the cost is $\\$80$.\nWrite this information as an equation.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Solve your two simultaneous equations to find $h$ and $p$.\nYou must show all your working."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "$h = $ ____\n$p = $ ____"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q06/Q06_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q06/Q06_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the image of"
+                }
+              ],
+              "subparts": [
+                {
+                  "label": "(a)(i)(a)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "shape A after an enlargement with scale factor $\\frac{1}{2}$, centre $(-5, 3)$,"
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "none"
+                  }
+                },
+                {
+                  "label": "(a)(i)(b)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "shape B after a reflection in the line $y = -3$."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "none"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Describe fully the single transformation that maps triangle C onto triangle D."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "For the triangles shown on the grid, write down the letter of each triangle that is"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "congruent to triangle X,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "similar to triangle X."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q07/Q07_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q07/Q07_Suba_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q07/Q07_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The scale drawing shows the positions of a rock, $R$, and a statue, $S$, on a map.\nThe scale is $1$ centimetre represents $6$ metres."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the actual distance between $R$ and $S$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{m}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A flagpole, $F$, is on a bearing of $164^\\circ$ from $S$.\nWork out the bearing of $S$ from $F$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Ishaan uses the map to find some treasure, $T$.\n$T$ is on a bearing of $076^\\circ$ from $R$ and on a bearing of $337^\\circ$ from $S$.\nMark the position of $T$ on the map."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q07/Q07_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "The treasure is a bag of coins.\nThe coins are made from three different metals."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|}\\hline Metal & Percentage & Pie chart sector angle \\\\\\hline Copper & $70\\%$ & \\\\\\hline Zinc & $20\\%$ & \\\\\\hline Tin & $10\\%$ & \\\\\\hline\\end{tabular}"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the pie chart."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The grid shows the first three diagrams in a sequence.\nEach diagram is made using small squares that are white or grey."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q08/Q08_Subc_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw Diagram 4."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the term to term rule for the number of grey squares."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline Diagram number & 1 & 2 & 3 & 4 & $n$ \\\\\\hline Number of small white squares & 1 & 4 & 9 & & \\\\\\hline Number of small grey squares & 3 & 5 & 7 & & \\\\\\hline Total number of small squares & 4 & 9 & 16 & & \\\\\\hline\\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the number of small white squares in Diagram 18."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the diagrams has a total of 900 small squares.\nWork out its Diagram number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Diagram"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Another diagram has 43 small grey squares.\nWork out the total number of small squares in this diagram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 11,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 9,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper32/Q09/Q09_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "$$ \\mathscr{E} = \\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14\\} $$\n$$ F = \\{x: x \\text{ is a factor of } 14\\} $$\n$$ P = \\{x: x \\text{ is a prime number less than } 14\\} $$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the elements in set $F$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$F = \\{$",
+                    "suffix": "$\\}$"
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the elements in set $P$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$P = \\{$",
+                    "suffix": "$\\}$"
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 5,
+              "content": [],
+              "subparts": [
+                {
+                  "label": "(a)(iii)(a)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Complete the Venn diagram."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "none"
+                  }
+                },
+                {
+                  "label": "(a)(iii)(b)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Write down $n(F \\cup P)$."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "number"
+                  }
+                },
+                {
+                  "label": "(a)(iii)(c)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "A number is chosen at random from the universal set $\\mathscr{E}$.\nWrite down the probability that the number is in the set $F \\cap P$."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "number"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 195 as a product of its prime factors."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,963 @@
+{
+  "v": "1.0",
+  "paper": "2021MayJune-Paper13",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "MayJune",
+  "paperNum": "13",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "a"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper13/Q01/Q01_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure angle $a$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name for this type of angle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Points $A$ and $B$ lie on a circle, centre $O$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper13/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name for line $AB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The circle has a diameter of $16.8\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "Write down the radius of the circle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the number that is 23 less than $-1.6$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write as a fraction in its simplest form."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$72\\%$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$0.004$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a pair of parallel lines and a straight line."
+        },
+        {
+          "type": "text",
+          "content": "Complete the statement with the correct geometrical reason."
+        },
+        {
+          "type": "text",
+          "content": "$x = 40$ because the angles are ............................................"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper13/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$18 \\quad 28 \\quad 7 \\quad 15 \\quad 41 \\quad 19 \\quad 31 \\quad 53$"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the mean of these numbers."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a box in the shape of a cuboid."
+        },
+        {
+          "type": "text",
+          "content": "The box has an open top."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper13/Q07/Q07_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper13/Q07/Q07_Suba_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "On the $1\\text{ cm}^2$ grid, draw a net of this box."
+            },
+            {
+              "type": "space",
+              "height": "4cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The outside of the box is painted."
+            },
+            {
+              "type": "text",
+              "content": "Work out the total area that is painted."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the value of $y$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper13/Q08/Q08_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$y$ ="
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$12 \\quad 18 \\quad 29 \\quad 49 \\quad 91 \\quad 125$"
+        },
+        {
+          "type": "text",
+          "content": "From the list of numbers, write down"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a cube number,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a prime number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\mathbf{a} = \\begin{pmatrix} -3 \\\\ 4 \\end{pmatrix} \\quad \\mathbf{b} = \\begin{pmatrix} 5 \\\\ 2 \\end{pmatrix}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$8\\mathbf{b}$"
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "vector",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\mathbf{a} - \\mathbf{b}$"
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "vector",
+                "fields": 2
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Point $L$ has coordinates $(-3, 6)$ and $\\overrightarrow{LM} = \\begin{pmatrix} -5 \\\\ 2 \\end{pmatrix}$."
+            },
+            {
+              "type": "text",
+              "content": "Find the coordinates of point $M$."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Maria buys $n$ pencils that cost $p$ cents each."
+        },
+        {
+          "type": "text",
+          "content": "She pays with a $\\$y$ note.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Find, in terms of $n$, $p$ and $y$, the amount of change Maria receives."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in cents."
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "suffix": "cents"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Francesca spins a four-sided spinner numbered 1, 2, 3 and 4."
+        },
+        {
+          "type": "text",
+          "content": "The table shows some of the probabilities of landing on each number."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|}\n\\hline\nNumber & 1 & 2 & 3 & 4 \\\\\n\\hline\nProbability & 0.18 & 0.21 & & 0.37 \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "text",
+          "content": "Complete the table."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper13/Q12/Q12_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Alex changes 190 euros (€) into pounds (£) when $£1 = €1.1723$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the amount Alex receives."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 2 decimal places."
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "£"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The exterior angle of a regular polygon is $36^{\\circ}$."
+        },
+        {
+          "type": "text",
+          "content": "Find how many sides this polygon has."
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand and simplify."
+        },
+        {
+          "type": "text",
+          "content": "$6(t - q) - 2(t - 3q)$"
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $1 \\frac{3}{7} \\div 2 \\frac{1}{2}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "4cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "These are the first four terms of a sequence."
+        },
+        {
+          "type": "text",
+          "content": "$7 \\quad 11 \\quad 15 \\quad 19$"
+        },
+        {
+          "type": "text",
+          "content": "Find the $n$th term."
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate the volume of a cylindrical vase with radius $14.2\\text{ cm}$ and height $18\\text{ cm}$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "space",
+              "height": "3cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Change your answer to part (a) into litres."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "litres"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write $0.00074$ in standard form."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "space",
+              "height": "1.5cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $4.6 \\times 10^2 \\times 6.7 \\times 10^5$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in standard form, correct to 2 significant figures."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A group of 120 students take two tests, mathematics and English."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper13/Q20/Q20_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper13/Q20/Q20_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here is some information about the number of students who pass mathematics ($M$) and who pass English ($E$)."
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "61 students pass mathematics.",
+                "27 students pass both mathematics and English.",
+                "19 students do not pass mathematics and do not pass English."
+              ]
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the Venn diagram."
+                },
+                {
+                  "type": "space",
+                  "height": "4cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use the Venn diagram to find $n(E)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1.5cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use set notation to describe the shaded region."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the equation of line $L$ in the form $y = mx + c$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper13/Q21/Q21_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "space",
+              "height": "3cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of the line which is"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "parallel to the line $y = 3x - 5$ and",
+                "passes through the point $(0, 17)$."
+              ]
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 22,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Triangle $ABC$ is similar to triangle $DEF$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate $DF$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper13/Q22/Q22_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper13/Q22/Q22_Stem_Fig2.png"
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$DF$ =",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify $4x^3 \\times 3x^4$."
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 24,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a right-angled triangle."
+        },
+        {
+          "type": "text",
+          "content": "Show that the value of $x$ is 36.9, correct to 1 decimal place."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper13/Q24/Q24_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "4cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    }
+  ]
+}

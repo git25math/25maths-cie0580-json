@@ -1,0 +1,1521 @@
+{
+  "v": "1.0",
+  "paper": "2018OctNov-Paper43",
+  "board": "cie",
+  "code": "0580",
+  "year": 2018,
+  "session": "OctNov",
+  "paperNum": "43",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 17,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The grid shows triangle T and triangle P."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper43/Q01/Q01_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper43/Q01/Q01_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Describe fully the single transformation that maps triangle T onto triangle P."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "____\n____"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Translate triangle T by the vector $\\begin{pmatrix} -2 \\\\ -5 \\end{pmatrix}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Rotate triangle T through $90^\\circ$ anticlockwise about $(0, 0)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Enlarge triangle T by scale factor $-\\frac{1}{2}$ with centre $(0, 0)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 9,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the column vector $\\mathbf{AB}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "vector",
+                "fields": 2,
+                "prefix": "$\\mathbf{AB} =$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $|\\mathbf{AB}|$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$|\\mathbf{AB}| =$"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "B is the mid-point of the line AC."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the co-ordinates of C."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of the straight line that passes through A and B."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(v)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The straight line that passes through A and B cuts the y-axis at D."
+                },
+                {
+                  "type": "text",
+                  "content": "Write down the co-ordinates of D."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A school has 240 students."
+        },
+        {
+          "type": "text",
+          "content": "The ratio girls : boys = 25 : 23."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that the number of boys is 115."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One day, there are 15 girls absent and 15 boys absent."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the ratio girls : boys in school on this day."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "suffix": ":"
+                  },
+                  {}
+                ]
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Next year, the number of students will increase by 15%."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the number of students next year."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Since the school was opened, the number of students has increased by 60%."
+                },
+                {
+                  "type": "text",
+                  "content": "There are now 240 students."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the number of students when the school was opened."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The population of a city is increasing exponentially at a rate of 2% each year."
+            },
+            {
+              "type": "text",
+              "content": "The population now is 256 000."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the population after 30 years."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to the nearest thousand."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A bacteria population increases exponentially at a rate of $r\\%$ each day."
+            },
+            {
+              "type": "text",
+              "content": "After 32 days, the population has increased by $309\\%$."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $r$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$r =$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a solid cone."
+        },
+        {
+          "type": "text",
+          "content": "The radius is 8 cm and the slant height is 17 cm."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper43/Q03/Q03_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper43/Q03/Q03_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the curved surface area of the cone."
+                },
+                {
+                  "type": "text",
+                  "content": "[The curved surface area, A, of a cone with radius r and slant height l is $A = \\pi r l$.]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the volume of the cone."
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, V, of a cone with radius r and height h is $V = \\frac{1}{3} \\pi r^2 h$.]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^3$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The cone is made of wood and $1 \\text{ cm}^3$ of the wood has a mass of 0.8 g."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the mass of the cone."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{g}$"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The cone is placed in a box."
+                },
+                {
+                  "type": "text",
+                  "content": "The total mass of the cone and the box is 1.2 kg."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the mass of the box."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in grams."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{g}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a solid cylinder and a solid sphere."
+            },
+            {
+              "type": "text",
+              "content": "The cylinder has radius $3r$ and height $8r$."
+            },
+            {
+              "type": "text",
+              "content": "The sphere has radius $r$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the volume of the sphere as a fraction of the volume of the cylinder."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in its lowest terms."
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, V, of a sphere with radius r is $V = \\frac{4}{3} \\pi r^3$.]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The surface area of the sphere is $81\\pi \\text{ cm}^2$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the curved surface area of the cylinder."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in terms of $r$."
+                },
+                {
+                  "type": "text",
+                  "content": "[The surface area, A, of a sphere with radius r is $A = 4 \\pi r^2$.]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "suffix": "$\\text{cm}^2$"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 17,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$f(x) = \\frac{x^2}{4} - \\frac{4}{x}$, $x \\neq 0$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper43/Q04/Q04_Sube_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper43/Q04/Q04_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table for $f(x)$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\n\\hline\n$x$ & $0.5$ & $1$ & $2$ & $3$ & $4$ & $5$ & $6$ \\\\\n\\hline\n$f(x)$ & $-7.9$ & $-3.8$ & & $0.9$ & & $5.5$ & $8.3$ \\\\\n\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The graph of $y = f(x)$ for $-6 \\leqslant x \\leqslant -0.5$ is drawn on the grid."
+            },
+            {
+              "type": "text",
+              "content": "On the same grid, draw the graph of $y = f(x)$ for $0.5 \\leqslant x \\leqslant 6$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "By drawing a suitable tangent, estimate the gradient of the graph of $y = f(x)$ at the point $(-4, 5)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$g(x) = \\frac{9}{x}$, $x \\neq 0$"
+            },
+            {
+              "type": "text",
+              "content": "Complete the table for $g(x)$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\n\\hline\n$x$ & $-4$ & $-3$ & $-2$ & $-1$ & $1$ & $2$ & $3$ & $4$ \\\\\n\\hline\n$g(x)$ & $-2.3$ & & $-4.5$ & $-9$ & $9$ & $4.5$ & & $2.3$ \\\\\n\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the same grid, draw the graph of $y = g(x)$ for $-4 \\leqslant x \\leqslant -1$ and $1 \\leqslant x \\leqslant 4$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(f)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your graphs to find the value of $x$ when $f(x) = g(x)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x =$"
+              }
+            },
+            {
+              "label": "(f)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down an inequality to show the positive values of $x$ for which $f(x) < g(x)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(g)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The exact answer to part (f)(i) is $\\sqrt[3]{k}$."
+            },
+            {
+              "type": "text",
+              "content": "Use algebra to find the value of $k$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k =$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper43/Q05/Q05_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper43/Q05/Q05_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "A factory recycles metal."
+            },
+            {
+              "type": "text",
+              "content": "The mass, $x$ tonnes, of metal is measured each week."
+            },
+            {
+              "type": "text",
+              "content": "The table shows the results for 52 weeks."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|}\n\\hline\nMass ($x$ tonnes) & $100 < x \\leqslant 200$ & $200 < x \\leqslant 250$ & $250 < x \\leqslant 300$ & $300 < x \\leqslant 500$ \\\\\n\\hline\nFrequency & 8 & 20 & 12 & 12 \\\\\n\\hline\n\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate an estimate of the mean."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "tonnes"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw a histogram to show the information in the table."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Another factory also recycles metal."
+            },
+            {
+              "type": "text",
+              "content": "The mass, $x$ tonnes, of metal is measured each day for a number of days."
+            },
+            {
+              "type": "text",
+              "content": "The cumulative frequency diagram shows the results."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "For how many days was the mass measured?"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find an estimate of the median."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "tonnes"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find an estimate of the upper quartile."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "tonnes"
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find an estimate of the interquartile range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "tonnes"
+              }
+            },
+            {
+              "label": "(b)(v)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find an estimate of the number of days when the mass was greater than 20 tonnes."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a quadrilateral ABCD."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper43/Q06/Q06_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate angle ACB."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $ACB$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate angle ACD."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $ACD$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the area of the quadrilateral ABCD."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Bag A contains 3 black balls and 2 white balls."
+        },
+        {
+          "type": "text",
+          "content": "Bag B contains 1 black ball and 3 white balls."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper43/Q07/Q07_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "A ball is taken at random from each bag."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that a black ball is more likely to be taken from bag A than from bag B."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that the two balls have different colours."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The balls are returned to their original bags."
+            },
+            {
+              "type": "text",
+              "content": "Three balls are taken at random from bag A, without replacement."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "they are all black,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "they are all white."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The balls are returned to their original bags."
+            },
+            {
+              "type": "text",
+              "content": "A ball is taken at random from bag A and its colour is recorded."
+            },
+            {
+              "type": "text",
+              "content": "This ball is then placed in bag B."
+            },
+            {
+              "type": "text",
+              "content": "A ball is then taken at random from bag B."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that the ball taken from bag B has a different colour to the ball taken from bag A."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper43/Q08/Q08_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper43/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "In the diagram, AB and CD are parallel."
+            },
+            {
+              "type": "text",
+              "content": "AD and BC intersect at right angles at the point X."
+            },
+            {
+              "type": "text",
+              "content": "AB = 10 cm, CD = 5 cm, AX = 8 cm and BX = 6 cm."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use similar triangles to calculate DX."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$DX =$",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate angle XAB."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $XAB$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "P, Q, R, S and T lie on the circle, centre O."
+            },
+            {
+              "type": "text",
+              "content": "Angle PST = $75^\\circ$ and angle QTS = $85^\\circ$."
+            },
+            {
+              "type": "text",
+              "content": "Find the values of $v$, $w$, $x$ and $y$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 4,
+            "template": "$v =$ ____\n$w =$ ____\n$x =$ ____\n$y =$ ____"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two containers are mathematically similar."
+            },
+            {
+              "type": "text",
+              "content": "The surface area of the larger container is $226 \\text{ cm}^2$ and the surface area of the smaller container is $94 \\text{ cm}^2$."
+            },
+            {
+              "type": "text",
+              "content": "The volume of the larger container is $680 \\text{ cm}^3$."
+            },
+            {
+              "type": "text",
+              "content": "Find the volume of the smaller container."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$f(x) = 3x + 4$"
+        },
+        {
+          "type": "text",
+          "content": "$g(x) = 1 - 2x$"
+        },
+        {
+          "type": "text",
+          "content": "$h(x) = 3^x$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $g\\left(\\frac{1}{2}\\right)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $f^{-1}(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $g^{-1}(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$g^{-1}(x) =$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $ff(x)$ in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $(f(x))^2$ in the form $ax^2 + bx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $x$ when $h(2) = g^{-1}(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 7,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the next term and the nth term of this sequence."
+            },
+            {
+              "type": "text",
+              "content": "$\\frac{3}{5}, \\frac{4}{7}, \\frac{5}{9}, \\frac{6}{11}, \\frac{7}{13}, \\dots$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "Next term = ____\nnth term = ____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the nth term of each sequence."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$-1, -3, -5, -7, -9, \\dots$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$2, 9, 28, 65, 126, \\dots$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {}
+    }
+  ]
+}

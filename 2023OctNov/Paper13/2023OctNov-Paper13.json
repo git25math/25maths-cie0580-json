@@ -1,0 +1,1279 @@
+{
+  "v": "1.0",
+  "paper": "2023OctNov-Paper13",
+  "board": "cie",
+  "code": "0580",
+  "year": 2023,
+  "session": "OctNov",
+  "paperNum": "13",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the letter of the shape that is congruent to the shaded shape."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper13/Q01/Q01_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "all the factors of 32"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the reciprocal of $\\frac{1}{8}$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the value of the 7 in the number $473\\ 285$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Draw the lines of symmetry on this rhombus."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper13/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$61 \\quad 63 \\quad 64 \\quad 66 \\quad 68 \\quad 69$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "From this list, write down"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a cube number"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a prime number."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Tara goes on a journey by train."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The train leaves at 06 48."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The journey takes 12 hours and 35 minutes."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the time when Tara arrives."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Jamie records the masses of two samples of oranges, type A and type B."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The stem-and-leaf diagram shows the mass, in grams, of each of 30 oranges of type A."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Key: 17 6 represents 176 grams"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper13/Q06/Q06_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper13/Q06/Q06_Suba_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table to show the range for type A oranges."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|}\\hline & Type A & Type B \\\\ \\hline Mean (g) & 195.7 & 215.8 \\\\ Range (g) & & 35 \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the information in the table to write down two comments comparing the masses of type A oranges with the masses of type B oranges."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "1. ",
+                "suffix": ""
+              },
+              {
+                "prefix": "2. ",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In triangle LMN, $LN = 7.5 \\text{ cm}$ and $MN = 8 \\text{ cm}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The line LM has been drawn for you."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper13/Q07/Q07_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Using a ruler and compasses only, construct triangle LMN."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Leave in your construction arcs."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name for this type of triangle."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The surface area of a cube is $73.5 \\text{ cm}^2$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the length of one side of the cube."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows an equilateral triangle."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the value of x."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper13/Q09/Q09_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$a = \\begin{pmatrix} 4 \\\\ 9 \\end{pmatrix}$ $b = \\begin{pmatrix} 6 \\\\ -1 \\end{pmatrix}$ $c = \\begin{pmatrix} -13 \\\\ 2 \\end{pmatrix}$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Work out."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$a+b$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$3c$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise completely."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$15v^2 - 3v$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Rama asks a group of students how they travel to school."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The table shows the probability of how a student, chosen at random, travels to school."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper13/Q12/Q12_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|}\\hline Bus & Walk & Car & Other \\\\ \\hline Probability & 0.4 & 0.32 & 0.17 & \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "There are 1800 students at the school."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the expected number of students that walk to school."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $1 \\frac{6}{5} \\div \\frac{15}{11}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows triangle ABC."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "M is the midpoint of AC."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Triangle ABC is rotated 180° about centre M."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The image and the original triangle together form a quadrilateral ABCD."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper13/Q14/Q14_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name of the quadrilateral ABCD."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find angle BAD."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $BAD$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Shubhu invests $750 in a savings account for 5 years.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The account pays simple interest at a rate of 1.8% per year."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the total interest she earns during the 5 years."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the equation."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$\\frac{x}{5} + 7 = \\frac{x}{9} - 3$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper13/Q17/Q17_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of line L in the form $y = mx + c$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw a line that is perpendicular to line L."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A bar of chocolate costs $3 and a bag of sweets costs $5."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Write down an expression for the total cost, in dollars, of x bars of chocolate and y bags of sweets."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper13/Q19/Q19_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper13/Q19/Q19_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A bag contains these cards."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "One of these cards is picked at random."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that the number on the card is greater than 3."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A box contains 3 blue cards and 7 red cards."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Kim picks one card at random, notes its colour and then replaces it in the box."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "She then picks another card at random."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the tree diagram."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the probability that both of the cards Kim picks are blue."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a sector of a circle with radius r cm and sector angle 72°."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The arc length is 9.35 cm."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of r."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper13/Q20/Q20_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$r$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\mathcal{E} = \\{2, \\ 4, \\ 8, \\ 9, \\ 10, \\ 12\\}$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$Q = \\{\\text{square numbers}\\}$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$R = \\{\\text{multiples of 4}\\}$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper13/Q21/Q21_Suba_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use this information to complete the Venn diagram."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down $n(Q \\cup R)$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the highest common factor (HCF) of 48 and 80."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$x + 3y = 23$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$6x - 4y = 11$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x$ = ________________________________________________\n$y$ = ________________________________________________"
+      },
+      "meta": {}
+    }
+  ]
+}

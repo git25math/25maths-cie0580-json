@@ -1,0 +1,737 @@
+{
+  "v": "1.0",
+  "paper": "2022OctNov-Paper11",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "OctNov",
+  "paperNum": "11",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the number two million eight hundred and forty thousand three hundred and twenty-seven in figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the mathematical name of this type of angle."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper11/Q02/Q02_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper11/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure the length of this line in millimetres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{mm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw a line perpendicular to this line."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In triangle $PQR$, $PR = 5 \\text{ cm}$ and $QR = 4 \\text{ cm}$.\nUsing a ruler and compasses only, construct triangle $PQR$.\nLeave in your construction arcs.\nThe side $PQ$ has been drawn for you."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper11/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down a common multiple of $18$ and $24$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write $32 \\text{ cm}$ as a fraction of $2 \\text{ m}$.\nGive your answer in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The temperature, in $°\\text{C}$, is recorded at the same time in six cities."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|c|}\\hline London & Helsinki & Oslo & Paris & Madrid & Berlin \\\\ \\hline $6$ & $-2$ & $-5$ & $7$ & $9$ & $2$ \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper11/Q07/Q07_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Which city has the coldest temperature?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "What is the difference in temperature between Helsinki and Paris?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°\\text{C}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two straight lines intersecting two parallel lines.\nFind the value of $x$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper11/Q08/Q08_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Divide $\\$200$ in the ratio $7 : 3$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$"
+          },
+          {
+            "prefix": ", $"
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The birth weights, in $\\text{kg}$, of $11$ babies are recorded.\n$$2.1 \\quad 1.6 \\quad 2.7 \\quad 4.2 \\quad 4.0 \\quad 2.2 \\quad 3.1 \\quad 1.7 \\quad 2.6 \\quad 3.3 \\quad 3.7$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper11/Q10/Q10_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Complete the stem-and-leaf diagram to show this information."
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the median."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{kg}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Victoria records the colour of each of $240$ cars leaving a car park.\nSome of this information is shown in the pie chart."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper11/Q11/Q11_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that $60$ cars are blue."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The rest of the cars are either red or white.\n$110$ cars are red.\nComplete the pie chart to show this information."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The price of a computer is $\\$520$.\nThis price is reduced by $15\\%$ in a sale.\nWork out the sale price.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $3 \\frac{1}{6} + 5$.\nYou must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Mario tests new cars.\nThe probability that a car is faulty is $0.04$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the probability that a car is not faulty."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In one week Mario tests $850$ cars.\nFind the number of cars that are expected to be faulty."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A café sells $330$ sandwiches.\nThis is $\\frac{11}{14}$ of the sandwiches they make.\nWork out the number of sandwiches the café makes."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper11/Q16/Q16_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Complete the table of values for $y = \\frac{5}{x}$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|c|c|c|c|c|}\\hline $x$ & $-5$ & $-4$ & $-2.5$ & $-2$ & $-1$ & $1$ & $2$ & $2.5$ & $4$ & $5$ \\\\ \\hline $y$ & $-1$ & & $-2$ & $-2.5$ & $-5$ & $5$ & $2.5$ & $2$ & & $1$ \\\\ \\hline \\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper11/Q16/Q16_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = \\frac{5}{x}$ for $-5 \\le x \\le -1$ and $1 \\le x \\le 5$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$3, \\quad 9, \\quad 27, \\quad 81, \\quad \\dots$\nWrite down the term to term rule for this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$13, \\quad 17, \\quad 21, \\quad 25, \\quad \\dots$\nFind the $n$th term of this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The Venn diagram shows the elements of the sets $\\mathcal{E}$, $P$ and $Q$.\nComplete the statements."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper11/Q18/Q18_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$P = \\{$ ...................................................................... $\\}$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$n(P \\cup Q) =$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 19,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The bearing of $A$ from $B$ is $137°$.\nFind the bearing of $B$ from $A$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $0.00273$ in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Sam has to answer this question.\nCalculate $9306 \\times 4532$.\nGive your answer in standard form correct to $3$ significant figures.\nSam writes $42.1 \\times 10^6$ as his answer to this question.\nWhat two errors has Sam made?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "Error 1",
+                "suffix": ""
+              },
+              {
+                "prefix": "Error 2",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Triangle $ABC$ is mathematically similar to triangle $DEF$.\nFind $BC$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper11/Q21/Q21_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$BC$ =",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a right-angled triangle.\nShow that the value of $x$ is $15.8$, correct to $3$ significant figures."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper11/Q22/Q22_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Natalie buys $4$ tomato plants and $3$ pepper plants for $\\$9.35$.\nSamir buys $2$ tomato plants and $11$ pepper plants for $\\$16.55$.\nWrite down a pair of simultaneous equations and solve them to find the cost of one tomato plant and the cost of one pepper plant.\nYou must show all your working."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "Tomato plant $",
+            "suffix": ""
+          },
+          {
+            "prefix": "Pepper plant $",
+            "suffix": ""
+          }
+        ]
+      }
+    }
+  ]
+}

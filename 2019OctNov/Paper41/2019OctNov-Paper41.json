@@ -1,0 +1,1480 @@
+{
+  "v": "1.0",
+  "paper": "2019OctNov-Paper41",
+  "board": "cie",
+  "code": "0580",
+  "year": 2019,
+  "session": "OctNov",
+  "paperNum": "41",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 19,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper41/Q01/Q01_Sube_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper41/Q01/Q01_Subd_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper41/Q01/Q01_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "In the diagram, $AC$ and $BD$ are straight lines."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $p$ and the value of $q$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "$p = $ ____\n$q = $ ____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The angles of a quadrilateral are $x^\\circ$, $(x + 5)^\\circ$, $(2x - 25)^\\circ$ and $(x + 10)^\\circ$."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A regular polygon has 72 sides."
+            },
+            {
+              "type": "text",
+              "content": "Find the size of an interior angle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A$, $B$, $C$ and $D$ lie on the circle, centre $O$, with diameter $AC$."
+            },
+            {
+              "type": "text",
+              "content": "$PQ$ is a tangent to the circle at $A$."
+            },
+            {
+              "type": "text",
+              "content": "Angle $PAD = 60^\\circ$ and angle $BAC = 20^\\circ$."
+            },
+            {
+              "type": "text",
+              "content": "Find the values of $u$, $v$, $w$, $x$ and $y$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$u$ ="
+              },
+              {
+                "prefix": "$v$ ="
+              },
+              {
+                "prefix": "$w$ ="
+              },
+              {
+                "prefix": "$x$ ="
+              },
+              {
+                "prefix": "$y$ ="
+              }
+            ]
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A$, $B$ and $C$ lie on the circle, centre $O$."
+            },
+            {
+              "type": "text",
+              "content": "Angle $AOC = (3x + 22)^\\circ$ and angle $ABC = 5x^\\circ$."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Ali and Mo share a sum of money in the ratio $\\text{Ali} : \\text{Mo} = 9 : 7$."
+            },
+            {
+              "type": "text",
+              "content": "Ali receives $\\$600$ more than Mo.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate how much each receives."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "Ali $\\$$ ____\nMo $\\$$ ____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "In a sale, Ali buys a television for $\\$195.80$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "The original price was $\\$220$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the percentage reduction on the original price."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "In the sale, Mo buys a jacket for $\\$63$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "The original price was reduced by $25\\%$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the original price of the jacket."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Dina invests $\\$600$ for 5 years at a rate of $2\\%$ per year compound interest.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of this investment at the end of the 5 years."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The value of a gold ring increases exponentially at a rate of $5\\%$ per year."
+            },
+            {
+              "type": "text",
+              "content": "The value is now $\\$882$.",
+              "_dollar_warning": true
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the value of the ring 2 years ago."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the number of complete years it takes for the ring’s value of $\\$882$ to increase to a value greater than $\\$1100$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper41/Q04/Q04_Subd_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the external curved surface area of a cylinder with radius $8\\text{ m}$ and height $19\\text{ m}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{m}^2$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "This surface is painted at a cost of $\\$0.85$ per square metre.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the cost of painting this surface."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "A solid metal sphere with radius $6\\text{ cm}$ is melted down and all of the metal is used to make a solid cone with radius $8\\text{ cm}$ and height $h\\text{ cm}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that $h = 13.5$."
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\frac{4}{3}\\pi r^3$.]"
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, $V$, of a cone with radius $r$ and height $h$ is $V = \\frac{1}{3}\\pi r^2 h$.]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the slant height of the cone."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the curved surface area of the cone."
+                },
+                {
+                  "type": "text",
+                  "content": "[The curved surface area, $A$, of a cone with radius $r$ and slant height $l$ is $A = \\pi r l$.]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two cones are mathematically similar."
+            },
+            {
+              "type": "text",
+              "content": "The total surface area of the smaller cone is $80\\text{ cm}^2$."
+            },
+            {
+              "type": "text",
+              "content": "The total surface area of the larger cone is $180\\text{ cm}^2$."
+            },
+            {
+              "type": "text",
+              "content": "The volume of the smaller cone is $168\\text{ cm}^3$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the volume of the larger cone."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a pyramid with a square base $ABCD$."
+            },
+            {
+              "type": "text",
+              "content": "$DB = 8\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "$P$ is vertically above the centre, $X$, of the base and $PX = 5\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the angle between $PB$ and the base $ABCD$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a triangular field, $ABC$, on horizontal ground."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper41/Q05/Q05_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Olav runs from $A$ to $B$ at a constant speed of $4\\text{ m/s}$ and then from $B$ to $C$ at a constant speed of $3\\text{ m/s}$."
+            },
+            {
+              "type": "text",
+              "content": "He then runs at a constant speed from $C$ to $A$."
+            },
+            {
+              "type": "text",
+              "content": "His average speed for the whole journey is $3.6\\text{ m/s}$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate his speed when he runs from $C$ to $A$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m/s}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the cosine rule to find angle $BAC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $BAC$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The bearing of $C$ from $A$ is $210^\\circ$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the bearing of $B$ from $A$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the bearing of $A$ from $B$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$D$ is the point on $AC$ that is nearest to $B$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the distance from $D$ to $A$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 17,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper41/Q06/Q06_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper41/Q06/Q06_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper41/Q06/Q06_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The cumulative frequency diagram shows information about the times taken by 200 students to solve a problem."
+            },
+            {
+              "type": "text",
+              "content": "Use the cumulative frequency diagram to find an estimate for"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the median,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{min}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the interquartile range,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{min}$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the number of students who took more than 40 minutes."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Roberto records the value of each of the coins he has at home."
+            },
+            {
+              "type": "text",
+              "content": "The table shows the results."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|c|}\\hline\nValue (cents) & 1 & 2 & 5 & 10 & 20 & 50 \\\\\\hline\nFrequency & 3 & 1 & 3 & 2 & 4 & 2 \\\\\\hline\n\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cents}$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the mode."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cents}$"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the median."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cents}$"
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the total value of Roberto’s coins."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cents}$"
+              }
+            },
+            {
+              "label": "(b)(v)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the mean."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cents}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The histogram shows information about the masses of 100 boxes."
+            },
+            {
+              "type": "text",
+              "content": "Calculate an estimate of the mean."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{kg}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Oranges cost $21\\text{ cents}$ each."
+            },
+            {
+              "type": "text",
+              "content": "Alex buys $x$ oranges and Bobbie buys $(x + 2)$ oranges."
+            },
+            {
+              "type": "text",
+              "content": "The total cost of these oranges is $\\$4.20$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The cost of one ruler is $r\\text{ cents}$."
+            },
+            {
+              "type": "text",
+              "content": "The cost of one protractor is $p\\text{ cents}$."
+            },
+            {
+              "type": "text",
+              "content": "The total cost of 5 rulers and 1 protractor is $245\\text{ cents}$."
+            },
+            {
+              "type": "text",
+              "content": "The total cost of 2 rulers and 3 protractors is $215\\text{ cents}$."
+            },
+            {
+              "type": "text",
+              "content": "Write down two equations in terms of $r$ and $p$ and solve these equations to find the cost of one protractor."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cents}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "Carol walks $12\\text{ km}$ at $x\\text{ km/h}$ and then a further $6\\text{ km}$ at $(x - 1)\\text{ km/h}$."
+            },
+            {
+              "type": "text",
+              "content": "The total time taken is 5 hours."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write an equation, in terms of $x$, and show that it simplifies to $5x^2 - 23x + 12 = 0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Factorise $5x^2 - 23x + 12$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Solve the equation $5x^2 - 23x + 12 = 0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$x$ ="
+                  },
+                  {
+                    "prefix": "or $x$ ="
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(c)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down Carol’s walking speed during the final $6\\text{ km}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km/h}$"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows 5 cards."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper41/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Donald chooses a card at random."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the probability that the number of dots on this card is an even number."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the probability that the number of dots on this card is a prime number."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Donald chooses two of the five cards at random, without replacement."
+            },
+            {
+              "type": "text",
+              "content": "He works out the total number of dots on these two cards."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that the total number of dots is 5."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that the total number of dots is an odd number."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A car hire company has $x$ small cars and $y$ large cars."
+        },
+        {
+          "type": "text",
+          "content": "The company has at least 6 cars in total."
+        },
+        {
+          "type": "text",
+          "content": "The number of large cars is less than or equal to the number of small cars."
+        },
+        {
+          "type": "text",
+          "content": "The largest number of small cars is 8."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper41/Q09/Q09_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down three inequalities, in terms of $x$ and/or $y$, to show this information."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": ""
+              },
+              {
+                "prefix": ","
+              },
+              {
+                "prefix": ","
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A small car can carry 4 people and a large car can carry 6 people."
+            },
+            {
+              "type": "text",
+              "content": "One day, the largest number of people to be carried is 60."
+            },
+            {
+              "type": "text",
+              "content": "Show that $2x + 3y \\leqslant 30$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "By shading the unwanted regions on the grid, show and label the region $R$ that satisfies all four inequalities."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the number of small cars and the number of large cars needed to carry exactly 60 people."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "suffix": "small cars,"
+                  },
+                  {
+                    "suffix": "large cars"
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "When the company uses 7 cars, find the largest number of people that can be carried."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 10,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper41/Q10/Q10_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 11,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table for the 5th term and the $n$th term of each sequence."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|}\\hline\n1st term & 2nd term & 3rd term & 4th term & 5th term & $n$th term \\\\\\hline\n9 & 5 & 1 & -3 & & \\\\\\hline\n4 & 9 & 16 & 25 & & \\\\\\hline\n1 & 8 & 27 & 64 & & \\\\\\hline\n8 & 16 & 32 & 64 & & \\\\\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$0, 1, 1, 2, 3, 5, 8, 13, 21, \\dots$"
+            },
+            {
+              "type": "text",
+              "content": "This sequence is a Fibonacci sequence."
+            },
+            {
+              "type": "text",
+              "content": "After the first two terms, the rule to find the next term is “add the two previous terms”."
+            },
+            {
+              "type": "text",
+              "content": "For example, $5 + 8 = 13$."
+            },
+            {
+              "type": "text",
+              "content": "Use this rule to complete each of the following Fibonacci sequences."
+            },
+            {
+              "type": "text",
+              "content": "$2 \\quad 4 \\quad \\dots\\dots\\dots \\quad \\dots\\dots\\dots \\quad \\dots\\dots\\dots$"
+            },
+            {
+              "type": "text",
+              "content": "$1 \\quad \\dots\\dots\\dots \\quad \\dots\\dots\\dots \\quad \\dots\\dots\\dots \\quad 11$"
+            },
+            {
+              "type": "text",
+              "content": "$\\dots\\dots\\dots \\quad -1 \\quad \\dots\\dots\\dots \\quad \\dots\\dots\\dots \\quad 1$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\frac{1}{3}, \\frac{3}{4}, \\frac{4}{7}, \\frac{7}{11}, \\frac{11}{18}, \\dots$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One term of this sequence is $\\frac{p}{q}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find, in terms of $p$ and $q$, the next term in this sequence."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the 6th term of this sequence."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

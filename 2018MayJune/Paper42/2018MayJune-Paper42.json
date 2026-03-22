@@ -1,0 +1,1357 @@
+{
+  "v": "1.0",
+  "paper": "2018MayJune-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2018,
+  "session": "MayJune",
+  "paperNum": "42",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 21,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a list of ingredients to make 20 biscuits."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "260 g of butter",
+            "500 g of sugar",
+            "650 g of flour",
+            "425 g of rice"
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the mass of rice as a percentage of the mass of sugar."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the mass of butter needed to make 35 of these biscuits."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{g}$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Michel has 2 kg of each ingredient."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the greatest number of these biscuits that he can make."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "A company makes these biscuits at a cost of $1.35 per packet.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "These biscuits are sold for $1.89 per packet.",
+              "_dollar_warning": true
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the percentage profit the company makes on each packet."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The selling price of $1.89 has increased by 8% from last year.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the selling price last year."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Over a period of 3 years, the company’s sales of biscuits increased from 15.6 million packets to 20.8 million packets."
+            },
+            {
+              "type": "text",
+              "content": "The sales increased exponentially by the same percentage each year."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the percentage increase each year."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The people who work for the company are in the following age groups."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|l|}\\hline Group A & Group B & Group C \\\\\\hline Under 30 years & 30 to 50 years & Over 50 years \\\\\\hline\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "The ratio of the number in group A to the number in group B is $7 : 10$."
+            },
+            {
+              "type": "text",
+              "content": "The ratio of the number in group B to the number in group C is $4 : 3$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the ratio of the number in group A to the number in group C."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "",
+                    "suffix": ":"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "There are 45 people in group C."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the total number of people who work for the company."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 17,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The time taken for each of 120 students to complete a cooking challenge is shown in the table."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline Time ($t$ minutes) & $20 < t \\leqslant 25$ & $25 < t \\leqslant 30$ & $30 < t \\leqslant 35$ & $35 < t \\leqslant 40$ & $40 < t \\leqslant 45$ \\\\\\hline Frequency & 44 & 32 & 28 & 12 & 4 \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper42/Q02/Q02_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper42/Q02/Q02_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper42/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the modal time interval."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "",
+                    "suffix": "$< t \\leqslant$"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the interval containing the median time."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "",
+                    "suffix": "$< t \\leqslant$"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate an estimate of the mean time."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{min}$"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A student is chosen at random."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the probability that this student takes more than 40 minutes."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 10,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the cumulative frequency table."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|c|c|c|c|}\\hline Time ($t$ minutes) & $t \\leqslant 20$ & $t \\leqslant 25$ & $t \\leqslant 30$ & $t \\leqslant 35$ & $t \\leqslant 40$ & $t \\leqslant 45$ \\\\\\hline Cumulative frequency & 0 & 44 & & & & \\\\\\hline\\end{tabular}"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw a cumulative frequency diagram to show this information."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the median time."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{min}$"
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the interquartile range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{min}$"
+              }
+            },
+            {
+              "label": "(b)(v)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the number of students who took more than 37 minutes to complete the cooking challenge."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper42/Q03/Q03_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Draw the image of triangle A after a reflection in the line $x = 2$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Draw the image of triangle A after a translation by the vector $\\begin{pmatrix} 4 \\\\ -2 \\end{pmatrix}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Draw the image of triangle A after an enlargement by scale factor $-\\frac{1}{2}$, centre $(3, 1)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle A onto triangle B."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation represented by the matrix $\\begin{pmatrix} 0 & -1 \\\\ -1 & 0 \\end{pmatrix}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper42/Q04/Q04_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$(3p^2)^5$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$18x^2y^6 \\div 2xy^2$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$m^{-\\frac{2}{5}}$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "In this part, all measurements are in metres."
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows a rectangle."
+            },
+            {
+              "type": "text",
+              "content": "The area of the rectangle is $310 \\text{ m}^2$."
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of $w$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$w =$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a design made from a triangle $AOC$ joined to a sector $OCB$."
+        },
+        {
+          "type": "text",
+          "content": "$AC = 8\\text{ cm}$, $OB = OC = 7\\text{ cm}$ and angle $ACO = 78^\\circ$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper42/Q05/Q05_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the cosine rule to show that $OA = 9.47\\text{ cm}$, correct to 2 decimal places."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate angle $OAC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $OAC$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The perimeter of the design is $29.5\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "Show that angle $COB = 41.2^\\circ$, correct to 1 decimal place."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the total area of the design."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 20,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper42/Q06/Q06_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table of values for $y = \\frac{x^3}{2} - \\frac{1}{x^2} - 3$, $x \\neq 0$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\\hline $x$ & $-3$ & $-2$ & $-1$ & $-0.5$ & $-0.3$ & $0.3$ & $0.5$ & $1$ & $2$ & $3$ \\\\\\hline $y$ & $-9.1$ & $-2.8$ & $-0.8$ & $-5.6$ & & & & $-5.5$ & $-2.0$ & $8.9$ \\\\\\hline\\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = \\frac{x^3}{2} - \\frac{1}{x^2} - 3$ for $-3 \\leqslant x \\leqslant -0.3$ and $0.3 \\leqslant x \\leqslant 3$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "By drawing a suitable tangent, find an estimate of the gradient of the curve at $x = -2$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the equation of the tangent to the curve at $x = -2$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in the form $y = mx + c$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$y =$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to solve the equations."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\frac{x^3}{2} - \\frac{1}{x^2} - 3 = 0$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$x =$"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\frac{x^3}{2} - \\frac{1}{x^2} + 4 = 0$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 3,
+                "template": "$x = $ ____\n$x = $ ____\n$x = $ ____"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The equation $\\frac{x^3}{2} - \\frac{1}{x^2} + 4 = 0$ can be written in the form $ax^n + bx^{n-3} - 3 = 0$."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $a$, the value of $b$ and the value of $n$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3,
+            "template": "$a = $ ____\n$b = $ ____\n$n = $ ____"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In this question, all measurements are in metres."
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a right-angled triangle."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper42/Q07/Q07_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that $5x^2 - 12x - 27 = 0$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $5x^2 - 12x - 27 = 0$."
+            },
+            {
+              "type": "text",
+              "content": "Show all your working and give your answers correct to 2 decimal places."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "$x = $ ____\n$x = $ ____"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the perimeter of the triangle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the smallest angle of the triangle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$f(x) = \\frac{8}{x - 3}$"
+        },
+        {
+          "type": "text",
+          "content": "$g(x) = \\frac{10}{x + 1}, x \\neq -1$"
+        },
+        {
+          "type": "text",
+          "content": "$h(x) = 2^x$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$hf\\left(\\frac{8}{3}\\right)$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$gh(-2)$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$g^{-1}(x)$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$g^{-1}(x) =$"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$f^{-1}(f(5))$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $f(x) + g(x)$ as a single fraction in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper42/Q09/Q09_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "A, B, C, D and E lie on the circle, centre O."
+            },
+            {
+              "type": "text",
+              "content": "Angle $AEB = 35^\\circ$, angle $ODE = 28^\\circ$ and angle $ACD = 109^\\circ$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 5,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the following angles, giving reasons for your answers."
+                }
+              ],
+              "subparts": [
+                {
+                  "label": "(a)(i)(a)",
+                  "marks": 3,
+                  "content": [],
+                  "answer": {
+                    "type": "structured",
+                    "answerBlocks": [
+                      {
+                        "prefix": "Angle $EBD$ =",
+                        "suffix": "because"
+                      },
+                      {
+                        "prefix": "",
+                        "suffix": ""
+                      },
+                      {
+                        "prefix": "",
+                        "suffix": ""
+                      }
+                    ]
+                  }
+                },
+                {
+                  "label": "(a)(i)(b)",
+                  "marks": 2,
+                  "content": [],
+                  "answer": {
+                    "type": "structured",
+                    "answerBlocks": [
+                      {
+                        "prefix": "Angle $EAD$ =",
+                        "suffix": "because"
+                      },
+                      {
+                        "prefix": "",
+                        "suffix": ""
+                      }
+                    ]
+                  }
+                }
+              ],
+              "answer": null
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out angle $BEO$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $BEO$ ="
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "In a regular polygon, the interior angle is 11 times the exterior angle."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the number of sides of this polygon."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the sum of the interior angles of this polygon."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    }
+  ]
+}

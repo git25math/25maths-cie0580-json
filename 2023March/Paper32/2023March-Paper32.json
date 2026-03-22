@@ -1,0 +1,1276 @@
+{
+  "v": "1.0",
+  "paper": "2023March-Paper32",
+  "board": "cie",
+  "code": "0580",
+  "year": 2023,
+  "session": "March",
+  "paperNum": "32",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q01/Q01_Subc_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q01/Q01_Subd_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q01/Q01_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows some information about the opening hours of a café.\nThe café opens 4 days a week."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|l|l|}\\hline Day & Opening time & Closing time & Number of hours open \\\\ \\hline Thursday & 8 am & 4.30 pm & \\\\ \\hline Friday & 8.30 am & & 7 1/2 \\\\ \\hline Saturday & 9.30 am & 5.30 pm & 8 \\\\ \\hline Sunday & & 3.30 pm & 5 \\\\ \\hline Total number of hours open & & & 29 \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A waiter works 29 hours a week in the café.\nHe is paid $9.50 per hour.\nHe is paid for 52 weeks of the year.\nWork out his total pay for the year.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The chef is paid 32% more than the waiter per hour.\nWork out how much the chef is paid per hour."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here is part of the café’s menu.\nMENU\nCup of coffee $2.50\nSlice of pizza $3.70\nCup of tea $2.30",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Raj buys 2 cups of coffee, 1 cup of tea and 3 slices of pizza.\nCalculate the change he receives from $20.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The chef records the types of baguettes the café sells in one day.\nsalad cheese salad salad egg cheese cheese salad cheese egg salad cheese salad salad egg cheese salad salad egg salad cheese salad"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the frequency table to show this information.\nYou may use the tally column to help you."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|l|l|}\\hline Type of baguette & Tally & Frequency \\\\ \\hline Cheese & & \\\\ \\hline Egg & & \\\\ \\hline Salad & & \\\\ \\hline \\end{tabular}"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw a bar chart to show this information."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q02/Q02_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q02/Q02_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Manjit asks 30 students whether they prefer joke books, puzzle books or poetry books.\nThe results are shown in the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|l|}\\hline Type of book & Number of students & Pie chart sector angle \\\\ \\hline Joke & 8 & \\\\ \\hline Puzzle & 18 & \\\\ \\hline Poetry & 4 & \\\\ \\hline \\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the pie chart."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One of the students is chosen at random.\nFind the probability that this student prefers puzzle books."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The stem-and-leaf diagram shows the test scores for 24 students."
+            },
+            {
+              "type": "text",
+              "content": "2 | 2 5 6 9\n3 | 3 7 8\n4 | 2 3 5 5 7 8\n5 | 1 1 1 5 6 8 9\n6 | 0 2 5 7"
+            },
+            {
+              "type": "text",
+              "content": "Key : 4 | 2 represents 42"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mode."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "75% of the 24 students pass the test.\nWork out the lowest score needed to pass the test."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Frankie was absent on the day of the test.\nHis score is not on the stem-and-leaf diagram.\nWhen he takes the test, his score increases the range by 3 marks.\nWrite down the two possible values of Frankie’s score."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "suffix": "or"
+                  },
+                  {}
+                ]
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 11,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "A recipe for making 20 biscuits uses 150 g flour, 125 g butter and 50 g sugar."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write the ratio flour : butter : sugar in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "flour : butter : sugar =",
+                    "suffix": ":"
+                  },
+                  {
+                    "suffix": ":"
+                  },
+                  {}
+                ]
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the amount of flour, butter and sugar needed to make 50 biscuits."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 3,
+                "template": "flour ________ $\\text{g}$\nbutter ________ $\\text{g}$\nsugar ________ $\\text{g}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A recipe for making one loaf of bread uses 600 g of flour.\nA sack of flour contains 16 kg of flour.\nComplete the statements."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "One sack of flour makes a maximum of ____ loaves of bread.\nThe amount of flour left over is ____ $\\text{g}$."
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The amount of flour in a sack decreases from 16 kg to 15 kg.\nWork out the percentage decrease of flour in the sack."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 7,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 6479 correct to the nearest 100."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the multiple of 13 that is between 100 and 110."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the reciprocal of 0.6 ."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out.\n3\n4\n2\n#\n+"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down an irrational number with a value between 15 and 20."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "By writing each number in the calculation correct to 1 significant figure, find an estimate for the value of\n.\n.\n.\n23 5\n423 8\n78 4\n-\n.\nYou must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows three triangles, A, B and C, on a cm 1 2 grid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q05/Q05_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure angle c."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $c$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "hypotenuse equilateral isosceles acute congruent obtuse trigonometry cosine reflex\nComplete these statements using two different words from the box."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Angle c is"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Triangles A and C are"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the area of triangle A.\nGive the units of your answer."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {},
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A onto triangle B"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "____\n____"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A onto triangle C."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "____\n____"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(e)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the image of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(e)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A after a translation by the vector\n3\n10\n-\ne\no"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(e)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A after a reflection in the line x 4 = ."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q06/Q06_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q06/Q06_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of line L in the form y mx c = + ."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the coordinates of the point where line L crosses the x-axis."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 7,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table of values for x x y 5 3 2 = + +"
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|c|c|c|c|c|c|}\\hline x & -6 & -5 & -4 & -3 & -2 & -1 & 0 & 1 \\\\ \\hline y & & 9 & & & -1 & -1 & & \\\\ \\hline \\end{tabular}"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the graph of x x y 5 3 2 = + + for x 6 1 G G - ."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the line y 6 = ."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your graphs to solve the equation x x 5 3 6 2 + + = ."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$x$ =",
+                    "suffix": "or"
+                  },
+                  {
+                    "prefix": "$x$ ="
+                  }
+                ]
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows the positions of three towns, R, S and T, on a map.\nRS and ST are straight roads between the towns.\nThe scale is 1 centimetre represents 8 kilometres."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q07/Q07_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the actual distance between R and S."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Another town, V, is on a bearing of 163° from R and on a bearing of 215° from T.\nMark the position of V on the map."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A man cycles at a constant speed of 24 km/h along the straight road from S to T.\nAfter 1 hour and 50 minutes he stops at a café, C.\nMark the position of C on the map.\nYou must show all your working."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A hotel, H, is on a bearing of 321° from R.\nWork out the bearing of R from H."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the scale 1 cm to 8 km in the form 1 : n."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "1 :"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 17,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q08/Q08_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q08/Q08_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the order of rotational symmetry of the diagram."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the diagram, draw all the lines of symmetry."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 14,
+          "content": [
+            {
+              "type": "text",
+              "content": "The grid shows the first three diagrams in a sequence.\nEach diagram is made using small grey and small white squares to make grey and white columns.\nDiagram 1 Diagram 2 Diagram 3 Diagram 4"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw Diagram 4."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)(a)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete this statement."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "Diagram $n$ has",
+                    "suffix": "grey columns."
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(b)(ii)(b)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find an expression, in terms of n, for the total number of columns in Diagram n."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)(c)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find an expression, in terms of n, for the fraction of columns that are grey in Diagram n."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(iii)(a)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline Diagram number & 1 & 2 & 3 & 4 & 5 \\\\ \\hline Number of grey squares & 6 & 8 & 10 & & \\\\ \\hline Number of white squares & 3 & 8 & 15 & & \\\\ \\hline Total number of squares & 9 & 16 & 25 & & \\\\ \\hline \\end{tabular}"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(b)(iii)(b)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write an expression, in terms of n, for the number of grey squares in Diagram n."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(iii)(c)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The number of white squares in Diagram n is ( ) n n 2 + .\nWork out the number of white squares in Diagram 30."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iii)(d)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Diagram k has a total of 1296 squares.\nWork out the value of k."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$k$ ="
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q09/Q09_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023March/Paper32/Q09/Q09_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down an expression for the area of this rectangle.\nGive your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "In this part, all measurements are in centimetres.\nThe perimeter of the triangle is 526 cm.\nFind the value of x."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "meta": {}
+    }
+  ]
+}

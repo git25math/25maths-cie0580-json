@@ -1,0 +1,1468 @@
+{
+  "v": "1.0",
+  "paper": "2021MayJune-Paper33",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "MayJune",
+  "paperNum": "33",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ray owns an electrical shop."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q01/Q01_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows the opening times of the shop."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|}\\hline Sunday & Closed \\\\ Monday & Closed \\\\ Tuesday & 08 00 to 12 30 and 13 30 to 17 00 \\\\ Wednesday & 08 00 to 12 30 and 13 30 to 17 00 \\\\ Thursday & 08 00 to 12 30 and 13 30 to 17 00 \\\\ Friday & 08 00 to 12 30 and 13 30 to 17 00 \\\\ Saturday & 08 00 to 13 00 and 14 00 to 19 00 \\\\\\hline\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Work out how many hours the shop is open in one week."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "hours"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Saeed buys 2 ovens costing $440 each, 4 grills costing $184 each and 3 fridges costing $1280 each.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the total cost."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Alice buys 3 batteries costing $2.85 each.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Work out how much change she receives from $10.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Cherie works 32 hours one week and she is paid $8.48 per hour.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "In another week she works 37 hours."
+            },
+            {
+              "type": "text",
+              "content": "For each hour over 32 hours she works, she is paid 1.25 times her hourly rate."
+            },
+            {
+              "type": "text",
+              "content": "Calculate her pay for the week she works 37 hours."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Ray buys a toaster for $36.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "When he sells it he makes a profit of $40\\%$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the selling price of this toaster."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Mei and Jian each make a four-faced dice as shown in the diagram."
+        },
+        {
+          "type": "text",
+          "content": "The faces on each dice are numbered 1, 2, 3 and 4."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q02/Q02_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q02/Q02_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Mei throws her dice 90 times and records the scores."
+            },
+            {
+              "type": "text",
+              "content": "The pie chart shows the results."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mode."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out how many times she scores 1."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Jian throws his dice 90 times and records the scores."
+            },
+            {
+              "type": "text",
+              "content": "The pie chart shows the results."
+            },
+            {
+              "type": "text",
+              "content": "Write down the median."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down two different comparisons between the results for Mei and the results for Jian."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "1.",
+                "suffix": ""
+              },
+              {
+                "prefix": "2.",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q03/Q03_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q03/Q03_Subc_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a scale drawing of Joel’s rectangular garden."
+            },
+            {
+              "type": "text",
+              "content": "The scale is $1\\text{ centimetre represents } 8\\text{ metres}$."
+            },
+            {
+              "type": "text",
+              "content": "Find the actual area of his garden."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a rectangular gate, $FGHJ$, in Joel’s garden."
+            },
+            {
+              "type": "text",
+              "content": "$GJ = 2.1\\text{ m}$ and $FG = 0.85\\text{ m}$."
+            },
+            {
+              "type": "text",
+              "content": "Find $FJ$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$FJ$ =",
+            "suffix": "$\\text{m}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows Brenda’s rectangular garden."
+            },
+            {
+              "type": "text",
+              "content": "There is a patio in the shape of a quarter-circle."
+            },
+            {
+              "type": "text",
+              "content": "She wants to grow grass in the shaded part of the garden."
+            },
+            {
+              "type": "text",
+              "content": "She needs $40\\text{ g}$ of grass seed per square metre."
+            },
+            {
+              "type": "text",
+              "content": "Grass seed is sold in $1\\text{ kg}$ bags which cost $\\$6.80$ per bag.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the cost of the grass seed she needs to buy."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            },
+            {
+              "type": "text",
+              "content": "$$3a + 5b - 2a + b$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$P = 3x - 2y$$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $y$ when $P = 90$ and $x = 5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise completely."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$18 - 6x$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$x^2 + 10x + 25$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$T = 8 - 3d$$"
+            },
+            {
+              "type": "text",
+              "content": "Make $d$ the subject of this formula."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$d$ ="
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve these equations."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(e)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$6x = 12$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            },
+            {
+              "label": "(e)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$3x + 4 = 2x - 7$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$\\sqrt{320.41}$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$\\frac{6.4 + 1.2^2}{3}$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the reciprocal of 2"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$9^0$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(v)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$\\frac{3}{7} \\text{ of } \\$42$$",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            },
+            {
+              "label": "(a)(vi)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$12\\% \\text{ of } \\$62$",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Insert one pair of brackets in each statement to make it correct."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$20 - 5 \\div 5 - 3 = 0$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$20 - 5 \\div 5 - 3 = 17.5$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write one of the symbols $<$, $>$ or $=$ in each statement to make it correct."
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{7}{10} \\dots 0.07$$"
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{1}{5} \\dots 20\\%$$"
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{3}{8} \\dots 0.38$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write 90 as the product of its prime factors."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the lowest common multiple (LCM) of 35 and 90."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(d)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the highest common factor (HCF) of 35 and 90."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q06/Q06_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q06/Q06_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q06/Q06_Suba_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$AB$ is the diameter of a circle, centre $O$."
+            },
+            {
+              "type": "text",
+              "content": "$C$ is a point on the circle and angle $BAC = 52°$."
+            },
+            {
+              "type": "text",
+              "content": "Find angle $ABC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $ABC$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows the positions of town A, town B and town C."
+            },
+            {
+              "type": "text",
+              "content": "The bearing of town B from town A is $042°$."
+            },
+            {
+              "type": "text",
+              "content": "The bearing of town C from town A is $146°$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find angle $BAC$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $BAC$ ="
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the bearing of town A from town B."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Triangle $ABC$ is isosceles with $AB = AC$."
+            },
+            {
+              "type": "text",
+              "content": "$BCD$ is a straight line and angle $ACD = 117°$."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Rita and Henry own an investment business."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "They share the profit in the ratio $\\text{Rita} : \\text{Henry} = 3 : 5$."
+            },
+            {
+              "type": "text",
+              "content": "In one year they make a profit of $\\$2 400 000$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate Rita’s share of the profit."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Henry invests $\\$160 000$ at a rate of $2.5\\%$ per year compound interest.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of this investment at the end of 3 years."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rita invests $\\$12 000$ at a rate of $r\\%$ per year.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "The value of her investment at the end of one year is $\\$12 408$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of $r$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$r$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rita and Henry decorate their office."
+            },
+            {
+              "type": "text",
+              "content": "The cost, $\\$c$, is $\\$10 800$, correct to the nearest hundred dollars."
+            },
+            {
+              "type": "text",
+              "content": "Complete this statement about the value of $c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": "$\\leqslant c <$"
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q08/Q08_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q08/Q08_Suba_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "15 people take a test."
+            },
+            {
+              "type": "text",
+              "content": "These are the test scores."
+            },
+            {
+              "type": "text",
+              "content": "29 27 12 32 42\n26  7 23 22 31\n40  9 18 35  8"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the frequency table."
+                },
+                {
+                  "type": "text",
+                  "content": "You may use the tally column to help you."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your table to complete the bar chart."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "On Monday and Tuesday, the probability that a train is late is $0.2$ ."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the tree diagram."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)(a)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use the tree diagram to find the probability that a train is"
+                },
+                {
+                  "type": "text",
+                  "content": "late on both days,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)(b)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "not late on Monday and late on Tuesday."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows some values for $$y = x^2 + x - 5$$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q09/Q09_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q09/Q09_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw the graph of $$y = x^2 + x - 5$$ for $-4 \\leqslant x \\leqslant 3$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the equation of the line of symmetry of this graph."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the graph to solve the equation $$x^2 + x - 5 = 0$$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ =",
+                "suffix": "or"
+              },
+              {
+                "prefix": "$x$ =",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows four triangles on a grid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper33/Q10/Q10_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, translate triangle T by the vector $$\\begin{pmatrix} -5 \\\\ 2 \\end{pmatrix}$$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle T onto triangle A,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "____\n____"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle T onto triangle B,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 3,
+                "template": "____\n____\n____"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle T onto triangle C."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 3,
+                "template": "____\n____\n____"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

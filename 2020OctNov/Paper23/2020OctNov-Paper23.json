@@ -1,0 +1,894 @@
+{
+  "v": "1.0",
+  "paper": "2020OctNov-Paper23",
+  "board": "cie",
+  "code": "0580",
+  "year": 2020,
+  "session": "OctNov",
+  "paperNum": "23",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the cube number that is greater than 50 but less than 100."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{0.0025}{4}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In triangle $ABC$, $BC = 7.6\\text{ cm}$ and $AC = 6.2\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Using a ruler and compasses only, construct triangle $ABC$."
+        },
+        {
+          "type": "text",
+          "content": "Leave in your construction arcs."
+        },
+        {
+          "type": "text",
+          "content": "The side $AB$ has been drawn for you."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "text",
+          "content": "$$a^2 \\div a^6$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Thor changes $40\\,000$ Icelandic Krona into dollars when the exchange rate is $1\\text{ krona} = \\$0.0099$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Work out how many dollars he receives."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "\\$"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows triangle $ABC$."
+        },
+        {
+          "type": "text",
+          "content": "The triangle is reflected in the line $BC$ to give a quadrilateral $ABDC$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper23/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name of the quadrilateral $ABDC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find angle $ACD$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $ACD$ ="
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Change $457\\,000\\text{ cm}^2$ into $\\text{m}^2$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{m}^2$"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The length, $l\\text{ cm}$, of a line is $18.3\\text{ cm}$, correct to the nearest millimetre."
+        },
+        {
+          "type": "text",
+          "content": "Complete this statement about the value of $l$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": "$\\le l <$"
+          },
+          {
+            "prefix": "",
+            "suffix": ""
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $$1 \\frac{1}{7} \\times 2 \\frac{1}{10}$$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "text",
+          "content": "$$x + 4y = 4$$"
+        },
+        {
+          "type": "text",
+          "content": "$$3x - 8y = 22$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x = $ ____\n$y = $ ____"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A bag contains 7 red discs, 5 green discs and 2 pink discs."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Helen takes one disc at random, records the colour and replaces it in the bag."
+            },
+            {
+              "type": "text",
+              "content": "She does this 140 times."
+            },
+            {
+              "type": "text",
+              "content": "Find how many times she expects to take a green disc."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Helen adds 9 green discs and some pink discs to the discs already in the bag."
+            },
+            {
+              "type": "text",
+              "content": "The probability of taking a green disc is now $\\frac{2}{7}$."
+            },
+            {
+              "type": "text",
+              "content": "Find the number of pink discs that Helen added to the bag."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A straight line, $l$, has equation $$y = \\frac{5}{12}x$$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the gradient of line $l$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the point where line $l$ crosses the $x$-axis."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A line perpendicular to line $l$ has gradient $k$."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $k$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k$ ="
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 13,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Use set notation to describe the shaded region."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper23/Q13/Q13_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$N = 2^3 \\times 7^4 \\times 5$$"
+        },
+        {
+          "type": "text",
+          "content": "$$PN = K$$, where $P$ is an integer and $K$ is a square number."
+        },
+        {
+          "type": "text",
+          "content": "Find the smallest value of $P$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$P$ ="
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$m = \\frac{p}{x^2} + y$$"
+        },
+        {
+          "type": "text",
+          "content": "Make $x$ the subject of this formula."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A paperweight has height $4\\text{ cm}$ and volume $38.4\\text{ cm}^3$."
+        },
+        {
+          "type": "text",
+          "content": "A mathematically similar paperweight has height $7\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the volume of this paperweight."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^3$"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Adil and Brian are paid the same wage."
+        },
+        {
+          "type": "text",
+          "content": "Adil is given a $7\\%$ pay decrease and his new wage is $\\$427.80$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Brian is given a $7\\%$ pay increase."
+        },
+        {
+          "type": "text",
+          "content": "Work out Brian’s new wage."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "\\$"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            },
+            {
+              "type": "text",
+              "content": "$$(4xy^2)^3$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$25 = 125^k$$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $k$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k$ ="
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 19,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the speed–time graph for the final 40 seconds of a car journey."
+        },
+        {
+          "type": "text",
+          "content": "At the start of the 40 seconds the speed is $v\\text{ m/s}$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper23/Q19/Q19_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the acceleration of the car during the first 24 seconds."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m/s}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The total distance travelled during the 40 seconds is 1.24 kilometres."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $v$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$v$ ="
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise."
+        },
+        {
+          "type": "text",
+          "content": "$$3x + 8y - 6ax - 16ay$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$OAB$ is the sector of a circle, centre $O$."
+        },
+        {
+          "type": "text",
+          "content": "$OB = 8\\text{ cm}$ and angle $AOB = 30^{\\circ}$."
+        },
+        {
+          "type": "text",
+          "content": "$BP$ is perpendicular to $OA$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper23/Q21/Q21_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $AP$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$AP$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the area of the shaded region $APB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 22,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows information about the times, $t$ seconds, taken by each of 100 students to solve a puzzle."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline\nTime ($t$ seconds) & $0 < t \\le 10$ & $10 < t \\le 15$ & $15 < t \\le 20$ & $20 < t \\le 40$ & $40 < t \\le 75$ \\\\\\hline\nFrequency & 9 & 18 & 22 & 30 & 21 \\\\\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper23/Q22/Q22_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate an estimate of the mean time."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{s}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper23/Q22/Q22_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "Emmanuel draws a histogram to show this information."
+            },
+            {
+              "type": "text",
+              "content": "The table shows the heights, in cm, of some of the bars for this histogram."
+            },
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline\nTime ($t$ seconds) & $0 < t \\le 10$ & $10 < t \\le 15$ & $15 < t \\le 20$ & $20 < t \\le 40$ & $40 < t \\le 75$ \\\\\\hline\nHeight of bar (cm) & 3.6 & 14.4 & 17.6 & & \\\\\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 23,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$y$ is inversely proportional to the square root of $x$."
+        },
+        {
+          "type": "text",
+          "content": "When $y = 7$, $x = 2.25$."
+        },
+        {
+          "type": "text",
+          "content": "Write $y$ in terms of $x$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$y$ ="
+      }
+    },
+    {
+      "qnum": 24,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{x^2 - 17x + 60}{x^2 - 25}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 25,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve $$\\tan x = -\\frac{3}{4}$$ for $$0^{\\circ} \\le x \\le 360^{\\circ}$$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$x$ =",
+            "suffix": "or $x$ ="
+          },
+          {
+            "prefix": "",
+            "suffix": ""
+          }
+        ]
+      }
+    }
+  ]
+}

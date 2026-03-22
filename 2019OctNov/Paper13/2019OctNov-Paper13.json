@@ -1,0 +1,1009 @@
+{
+  "v": "1.0",
+  "paper": "2019OctNov-Paper13",
+  "board": "cie",
+  "code": "0580",
+  "year": 2019,
+  "session": "OctNov",
+  "paperNum": "13",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the mathematical name of this type of angle."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper13/Q01/Q01_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Change $560$ metres into kilometres."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{km}$"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the number forty thousand three hundred in figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise $12x + 15$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Put one pair of brackets into each calculation to make it correct."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$8 + 6 - 2 \\times 5 = 28$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$8 + 6 - 2 \\times 5 = 60$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the temperature that is $7\\,^\\circ\\text{C}$ below $-3\\,^\\circ\\text{C}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$^\\circ\\text{C}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the difference in temperature between $-4\\,^\\circ\\text{C}$ and $4\\,^\\circ\\text{C}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$^\\circ\\text{C}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a list of numbers."
+        },
+        {
+          "type": "text",
+          "content": "$87 \\quad 77 \\quad 57 \\quad 47 \\quad 27$"
+        },
+        {
+          "type": "text",
+          "content": "From this list, write down"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a cube number,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a prime number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A bag contains $6$ red balls and $10$ blue balls only."
+        },
+        {
+          "type": "text",
+          "content": "On the probability scale, draw an arrow ($\\downarrow$) to show the probability that a ball taken at random is"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper13/Q08/Q08_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "blue,"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper13/Q08/Q08_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "red or blue."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The price of a television is $\\$560$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "This price is reduced by $18\\%$ in a sale."
+        },
+        {
+          "type": "text",
+          "content": "Work out the sale price."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$\\$$"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate the circumference of a circle with radius $4.5\\text{ cm}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write in standard form."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$72\\,000$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$0.0018$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand and simplify $(x + 3)(x + 5)$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$x^3 \\times x^6 = x^m$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $m$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$m$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$(x^2)^n = x^{12}$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $n$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$n$ ="
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a right-angled triangle."
+        },
+        {
+          "type": "text",
+          "content": "Show that the value of $x$ is $41.8$, correct to $3$ significant figures."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper13/Q14/Q14_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Davina records the colour of each car passing her house one morning."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{lllll} red & grey & black & red & grey \\\\ white & white & black & black & white \\\\ grey & red & grey & white & grey \\\\ black & grey & black & white & grey \\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the frequency table."
+            },
+            {
+              "type": "text",
+              "content": "You may use the tally column to help you."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|l|}\\hline Colour of car & Tally & Frequency \\\\ \\hline Black & & \\\\ \\hline Grey & & \\\\ \\hline Red & & \\\\ \\hline White & & \\\\ \\hline \\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mode."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A cuboid measures $5\\text{ cm}$ by $7\\text{ cm}$ by $9.5\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the surface area of this cuboid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper13/Q16/Q16_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\begin{pmatrix} 5 \\\\ -4 \\end{pmatrix} + \\begin{pmatrix} -3 \\\\ 2 \\end{pmatrix}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\begin{pmatrix} 6 \\\\ -1 \\end{pmatrix} - \\begin{pmatrix} 2 \\\\ 5 \\end{pmatrix}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$4 \\begin{pmatrix} 2 \\\\ -5 \\end{pmatrix}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a list of ingredients to make $12$ pancakes."
+        },
+        {
+          "type": "text",
+          "content": "$110\\text{ g}$ flour\n$2$ eggs\n$200\\text{ ml}$ milk\n$50\\text{ g}$ butter"
+        },
+        {
+          "type": "text",
+          "content": "Complete the list of ingredients below to make $30$ pancakes."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": "$\\text{g}$ flour"
+          },
+          {
+            "suffix": "eggs"
+          },
+          {
+            "suffix": "$\\text{ml}$ milk"
+          },
+          {
+            "suffix": "$\\text{g}$ butter"
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The mean of three numbers is $150$."
+        },
+        {
+          "type": "text",
+          "content": "The numbers are $361$, $2n$ and $(n - 1)$."
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $n$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$n$ ="
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper13/Q20/Q20_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the co-ordinates of point $B$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The quadrilateral $ABCD$ has $x = 4$ as a line of symmetry."
+            },
+            {
+              "type": "text",
+              "content": "On the grid, plot point $D$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name of quadrilateral $ABCD$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the order of rotational symmetry of quadrilateral $ABCD$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a conversion graph for dollars and Kenyan shillings."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper13/Q21/Q21_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the graph to change $5000$ shillings to dollars."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Explain how to use this graph to change $\\$420$ to shillings.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The exchange rate is now $\\$1 = 90$ shillings.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "On the grid, draw another line to show this exchange rate."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ten athletes compete in both the 100 metre race and the triple jump."
+        },
+        {
+          "type": "text",
+          "content": "Their results are shown in the scatter diagram."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper13/Q22/Q22_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of these athletes jumps $15.12\\text{ m}$ in the triple jump."
+            },
+            {
+              "type": "text",
+              "content": "Write down his time for the 100 metre race."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{s}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper13/Q22/Q22_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "The values for two other athletes are shown in the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|}\\hline Distance in the triple jump (m) & 14.74 & 15.2 \\\\ \\hline Time for 100 m (seconds) & 13.2 & 12.76 \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "On the scatter diagram, plot these points."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the scatter diagram, draw a line of best fit."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "What type of correlation is shown in the scatter diagram?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows a triangle $ABC$."
+        },
+        {
+          "type": "text",
+          "content": "The scale is $1$ centimetre represents $8$ kilometres."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper13/Q23/Q23_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Using a straight edge and compasses only, construct the bisector of angle $BAC$."
+            },
+            {
+              "type": "text",
+              "content": "Show all your construction arcs."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw the locus of points inside triangle $ABC$ that are $56\\text{ km}$ from $C$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Shade the region inside triangle $ABC$ that is"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "more than $56\\text{ km}$ from $C$\nand",
+                "nearer to $AC$ than to $AB$."
+              ]
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    }
+  ]
+}

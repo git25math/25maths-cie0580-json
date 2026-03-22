@@ -1,0 +1,2441 @@
+{
+  "v": "1.0",
+  "paper": "2023OctNov-Paper31",
+  "board": "cie",
+  "code": "0580",
+  "year": 2023,
+  "session": "OctNov",
+  "paperNum": "31",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 15,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number six and a half million in figures."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 37 508 correct to the nearest thousand."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "$6 \\quad 9 \\quad 100 \\quad 28 \\quad 31 \\quad 1000 \\quad 32 \\quad 36$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "From this list of numbers, write down"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a factor of 18"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a multiple of 12"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a square number"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a prime number"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(v)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "an irrational number."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Put one pair of brackets in each statement to make it correct."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$24 # 4 - 3 + 2 = 62$"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$24 # 4 - 3 + 2 = 4$"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(e)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{4}{3}$ as a decimal."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $\\frac{3}{7}$ of 126."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(g)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the value of the reciprocal of 0.5 ."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(h)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Without using a calculator, work out $5 \\frac{3}{2} - 2 \\frac{5}{1}$ ."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q02/Q02_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q02/Q02_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q02/Q02_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q02/Q02_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a circle."
+            },
+            {
+              "type": "text",
+              "content": "NOT TO"
+            },
+            {
+              "type": "text",
+              "content": "SCALE"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The diameter of this circle is 168 mm."
+                },
+                {
+                  "type": "newline",
+                  "lines": 2
+                },
+                {
+                  "type": "text",
+                  "content": "Write down the radius of this circle."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{mm}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the diagram, draw a chord of this circle."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The scale drawing shows the position of ship A and the position of ship B."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "The scale is 1 cm represents 6 km."
+            },
+            {
+              "type": "text",
+              "content": "North"
+            },
+            {
+              "type": "text",
+              "content": "A"
+            },
+            {
+              "type": "text",
+              "content": "North"
+            },
+            {
+              "type": "text",
+              "content": "B"
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "Scale : 1 cm to 6 km"
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "Another ship, C, is 45 km from ship B on a bearing of 124°."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the scale drawing, mark the position of ship C."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the actual distance of ship C from ship A."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that the interior angle of a regular octagon is 135°."
+                },
+                {
+                  "type": "newline",
+                  "lines": 2
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "NOT TO"
+                },
+                {
+                  "type": "text",
+                  "content": "SCALE"
+                },
+                {
+                  "type": "newline",
+                  "lines": 3
+                },
+                {
+                  "type": "text",
+                  "content": "Show that two regular octagons and a square meet at a point without any gaps."
+                },
+                {
+                  "type": "newline",
+                  "lines": 2
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "NOT TO"
+            },
+            {
+              "type": "text",
+              "content": "SCALE"
+            },
+            {
+              "type": "text",
+              "content": "E"
+            },
+            {
+              "type": "text",
+              "content": "F"
+            },
+            {
+              "type": "text",
+              "content": "D"
+            },
+            {
+              "type": "text",
+              "content": "49°"
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows points D, E and F on the circumference of a circle."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "DF is a diameter of the circle."
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "Find angle EDF."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $EDF$ =",
+            "suffix": "$°$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q03/Q03_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q03/Q03_Subc_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The bar chart shows the country in which each of 80 students live."
+            },
+            {
+              "type": "text",
+              "content": "0"
+            },
+            {
+              "type": "text",
+              "content": "4"
+            },
+            {
+              "type": "text",
+              "content": "8"
+            },
+            {
+              "type": "text",
+              "content": "12"
+            },
+            {
+              "type": "text",
+              "content": "Frequency"
+            },
+            {
+              "type": "text",
+              "content": "Australia"
+            },
+            {
+              "type": "text",
+              "content": "Brazil"
+            },
+            {
+              "type": "text",
+              "content": "China"
+            },
+            {
+              "type": "text",
+              "content": "Country"
+            },
+            {
+              "type": "text",
+              "content": "India"
+            },
+            {
+              "type": "text",
+              "content": "USA"
+            },
+            {
+              "type": "text",
+              "content": "16"
+            },
+            {
+              "type": "text",
+              "content": "20"
+            },
+            {
+              "type": "text",
+              "content": "24"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "How many of these students live in Brazil?"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In which country do the largest number of these students live?"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "How many more of these students live in China than live in Australia?"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the percentage of these students who live in the USA."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In Hobart, the temperature at 8 am was -3 °C and the temperature at 3 pm was 7 °C."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the difference in the temperatures between 8 am and 3 pm."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$°C$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The temperature at 10 pm was 12 °C lower than at 3 pm."
+                },
+                {
+                  "type": "newline",
+                  "lines": 2
+                },
+                {
+                  "type": "text",
+                  "content": "Find the temperature at 10 pm."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$°C$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q03/Q03_Subc_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "The table shows the favourite language that each of 80 students studies."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|}\\hlineLanguage&Frequency\\\\\\hlineFrench&12\\\\Spanish&26\\\\English&42\\\\Total&80\\\\\\hline\\end{tabular}"
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Complete the pie chart to show this information."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q04/Q04_Suba_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q04/Q04_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q04/Q04_Suba_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows a cuboid."
+            },
+            {
+              "type": "text",
+              "content": "2 cm"
+            },
+            {
+              "type": "text",
+              "content": "3 cm"
+            },
+            {
+              "type": "text",
+              "content": "5 cm"
+            },
+            {
+              "type": "text",
+              "content": "NOT TO"
+            },
+            {
+              "type": "text",
+              "content": "SCALE"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the 1cm$^2$ grid, complete the net of the cuboid."
+                },
+                {
+                  "type": "newline",
+                  "lines": 2
+                },
+                {
+                  "type": "text",
+                  "content": "One face has been drawn for you."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the surface area of the cuboid."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows two solids: a cube and a right-angled triangular prism."
+            },
+            {
+              "type": "text",
+              "content": "9 cm"
+            },
+            {
+              "type": "text",
+              "content": "4 cm"
+            },
+            {
+              "type": "text",
+              "content": "6 cm"
+            },
+            {
+              "type": "text",
+              "content": "x cm"
+            },
+            {
+              "type": "text",
+              "content": "NOT TO"
+            },
+            {
+              "type": "text",
+              "content": "SCALE"
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "Both solids have the same volume."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of x."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A railway line has three stations, Town, Port and Cove."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "Train A leaves Town for Cove and train B leaves Cove for Town."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "Both trains stop at Port."
+        },
+        {
+          "type": "text",
+          "content": "0"
+        },
+        {
+          "type": "text",
+          "content": "14 00"
+        },
+        {
+          "type": "text",
+          "content": "14 10"
+        },
+        {
+          "type": "text",
+          "content": "14 20"
+        },
+        {
+          "type": "text",
+          "content": "14 30"
+        },
+        {
+          "type": "text",
+          "content": "Time"
+        },
+        {
+          "type": "text",
+          "content": "Distance from"
+        },
+        {
+          "type": "text",
+          "content": "Town (km)"
+        },
+        {
+          "type": "text",
+          "content": "Cove"
+        },
+        {
+          "type": "text",
+          "content": "Port"
+        },
+        {
+          "type": "text",
+          "content": "Town"
+        },
+        {
+          "type": "text",
+          "content": "14 40"
+        },
+        {
+          "type": "text",
+          "content": "14 50"
+        },
+        {
+          "type": "text",
+          "content": "5"
+        },
+        {
+          "type": "text",
+          "content": "10"
+        },
+        {
+          "type": "text",
+          "content": "15"
+        },
+        {
+          "type": "text",
+          "content": "20"
+        },
+        {
+          "type": "text",
+          "content": "25"
+        },
+        {
+          "type": "text",
+          "content": "A"
+        },
+        {
+          "type": "text",
+          "content": "B"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q05/Q05_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the time that train B leaves Cove."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down how long train A stops at Port."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{min}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "How many more minutes does train A take to complete the whole journey than train B?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{min}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the time that the two trains pass each other."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the average speed of train A between Town and Cove in kilometres per hour."
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km/h}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "0"
+        },
+        {
+          "type": "text",
+          "content": "- 1"
+        },
+        {
+          "type": "text",
+          "content": "- 1"
+        },
+        {
+          "type": "text",
+          "content": "1"
+        },
+        {
+          "type": "text",
+          "content": "2"
+        },
+        {
+          "type": "text",
+          "content": "3"
+        },
+        {
+          "type": "text",
+          "content": "4"
+        },
+        {
+          "type": "text",
+          "content": "5"
+        },
+        {
+          "type": "text",
+          "content": "6"
+        },
+        {
+          "type": "text",
+          "content": "7"
+        },
+        {
+          "type": "text",
+          "content": "8"
+        },
+        {
+          "type": "text",
+          "content": "x"
+        },
+        {
+          "type": "text",
+          "content": "- 2"
+        },
+        {
+          "type": "text",
+          "content": "- 3"
+        },
+        {
+          "type": "text",
+          "content": "- 4"
+        },
+        {
+          "type": "text",
+          "content": "- 5"
+        },
+        {
+          "type": "text",
+          "content": "- 6"
+        },
+        {
+          "type": "text",
+          "content": "- 7"
+        },
+        {
+          "type": "text",
+          "content": "- 8"
+        },
+        {
+          "type": "text",
+          "content": "1"
+        },
+        {
+          "type": "text",
+          "content": "2"
+        },
+        {
+          "type": "text",
+          "content": "3"
+        },
+        {
+          "type": "text",
+          "content": "4"
+        },
+        {
+          "type": "text",
+          "content": "5"
+        },
+        {
+          "type": "text",
+          "content": "6"
+        },
+        {
+          "type": "text",
+          "content": "7"
+        },
+        {
+          "type": "text",
+          "content": "8"
+        },
+        {
+          "type": "text",
+          "content": "9"
+        },
+        {
+          "type": "text",
+          "content": "10"
+        },
+        {
+          "type": "text",
+          "content": "- 2"
+        },
+        {
+          "type": "text",
+          "content": "- 3"
+        },
+        {
+          "type": "text",
+          "content": "- 4"
+        },
+        {
+          "type": "text",
+          "content": "- 5"
+        },
+        {
+          "type": "text",
+          "content": "- 6"
+        },
+        {
+          "type": "text",
+          "content": "y"
+        },
+        {
+          "type": "text",
+          "content": "A"
+        },
+        {
+          "type": "text",
+          "content": "C"
+        },
+        {
+          "type": "text",
+          "content": "B"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle A onto triangle B."
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle A onto triangle C."
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the image of triangle A after a reflection in the line $y=6$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 13,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "$5a + 3b + 2a - 4b$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$P = \\frac{x}{8} + 3y$"
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Find the value of x when $P=21$ and $y=-5$."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Make v the subject of the formula $S = kv^2$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$v$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Multiply out and simplify."
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "$(x-3)(x+5)$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Nasser has x marbles."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Selina has 15 more marbles than Nasser."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Hanif has 3 times as many marbles as Selina."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "In total they have 150 marbles."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Find the value of x."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "0"
+        },
+        {
+          "type": "text",
+          "content": "- 1"
+        },
+        {
+          "type": "text",
+          "content": "- 1"
+        },
+        {
+          "type": "text",
+          "content": "1"
+        },
+        {
+          "type": "text",
+          "content": "2"
+        },
+        {
+          "type": "text",
+          "content": "3"
+        },
+        {
+          "type": "text",
+          "content": "4"
+        },
+        {
+          "type": "text",
+          "content": "5"
+        },
+        {
+          "type": "text",
+          "content": "6"
+        },
+        {
+          "type": "text",
+          "content": "x"
+        },
+        {
+          "type": "text",
+          "content": "L"
+        },
+        {
+          "type": "text",
+          "content": "- 2"
+        },
+        {
+          "type": "text",
+          "content": "- 3"
+        },
+        {
+          "type": "text",
+          "content": "1"
+        },
+        {
+          "type": "text",
+          "content": "2"
+        },
+        {
+          "type": "text",
+          "content": "3"
+        },
+        {
+          "type": "text",
+          "content": "4"
+        },
+        {
+          "type": "text",
+          "content": "5"
+        },
+        {
+          "type": "text",
+          "content": "6"
+        },
+        {
+          "type": "text",
+          "content": "- 2"
+        },
+        {
+          "type": "text",
+          "content": "- 3"
+        },
+        {
+          "type": "text",
+          "content": "- 4"
+        },
+        {
+          "type": "text",
+          "content": "- 5"
+        },
+        {
+          "type": "text",
+          "content": "- 6"
+        },
+        {
+          "type": "text",
+          "content": "- 7"
+        },
+        {
+          "type": "text",
+          "content": "- 8"
+        },
+        {
+          "type": "text",
+          "content": "- 9"
+        },
+        {
+          "type": "text",
+          "content": "- 10"
+        },
+        {
+          "type": "text",
+          "content": "y"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q08/Q08_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q08/Q08_Subc_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of line L in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the line $y=x$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the coordinates of the point where the line $y=x$ intersects line L."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q08/Q08_Subc_Fig2.png"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table of values for $y = \\frac{8}{x}$."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\\hlinex&$-5$&$-4$&$-3$&$-2$&$-1$&1&2&3&4&5\\\\\\hliney&$-1.6$&$-2.7$&&&$$&$$&$$&2.7&1.6&\\\\\\hline\\end{tabular}"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the graph of $y = \\frac{8}{x}$ for $-5 \\le x \\le -1$ and $1 \\le x \\le 5$."
+                },
+                {
+                  "type": "text",
+                  "content": "0"
+                },
+                {
+                  "type": "text",
+                  "content": "- 1"
+                },
+                {
+                  "type": "text",
+                  "content": "- 2"
+                },
+                {
+                  "type": "text",
+                  "content": "- 3"
+                },
+                {
+                  "type": "text",
+                  "content": "- 4"
+                },
+                {
+                  "type": "text",
+                  "content": "- 5"
+                },
+                {
+                  "type": "text",
+                  "content": "- 6"
+                },
+                {
+                  "type": "text",
+                  "content": "- 7"
+                },
+                {
+                  "type": "text",
+                  "content": "- 8"
+                },
+                {
+                  "type": "text",
+                  "content": "- 1"
+                },
+                {
+                  "type": "text",
+                  "content": "1"
+                },
+                {
+                  "type": "text",
+                  "content": "2"
+                },
+                {
+                  "type": "text",
+                  "content": "3"
+                },
+                {
+                  "type": "text",
+                  "content": "4"
+                },
+                {
+                  "type": "text",
+                  "content": "5"
+                },
+                {
+                  "type": "text",
+                  "content": "- 2"
+                },
+                {
+                  "type": "text",
+                  "content": "- 3"
+                },
+                {
+                  "type": "text",
+                  "content": "- 4"
+                },
+                {
+                  "type": "text",
+                  "content": "- 5"
+                },
+                {
+                  "type": "text",
+                  "content": "x"
+                },
+                {
+                  "type": "text",
+                  "content": "1"
+                },
+                {
+                  "type": "text",
+                  "content": "2"
+                },
+                {
+                  "type": "text",
+                  "content": "3"
+                },
+                {
+                  "type": "text",
+                  "content": "4"
+                },
+                {
+                  "type": "text",
+                  "content": "5"
+                },
+                {
+                  "type": "text",
+                  "content": "6"
+                },
+                {
+                  "type": "text",
+                  "content": "7"
+                },
+                {
+                  "type": "text",
+                  "content": "8"
+                },
+                {
+                  "type": "text",
+                  "content": "y"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 11,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Pure gold costs $42 per gram.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "The fraction of pure gold in an object is measured in carats."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "One carat means $\\frac{1}{24}$ of the mass of an object is pure gold."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Henry buys a 9-carat gold bracelet weighing 16 g."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "The price of the bracelet is $204.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Is the price of the bracelet more or less than the cost of the pure gold in it?"
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "You must show your working."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A clock made of metals has a mass of 1080 g."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "The mass of each metal in the clock is in the ratio"
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "copper : zinc : other metals = 21 : 14 : 1."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Calculate the mass of copper in this clock."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{g}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "There are 110 people in a group."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "G = { people who own gold jewellery }"
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "S = { people who own silver jewellery }"
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "18 people own both gold jewellery and silver jewellery."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "46 people own gold jewellery."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "11 people own no gold jewellery and no silver jewellery."
+            },
+            {
+              "type": "text",
+              "content": "G"
+            },
+            {
+              "type": "text",
+              "content": "S"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the Venn diagram."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down $n(G \\cup S)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One of the 110 people is chosen at random."
+                },
+                {
+                  "type": "newline",
+                  "lines": 2
+                },
+                {
+                  "type": "text",
+                  "content": "Write down the probability that this person owns gold jewellery but not silver jewellery."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "E"
+            },
+            {
+              "type": "text",
+              "content": "F"
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "Use set notation to describe the shaded region."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q10/Q10_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q10/Q10_Subd_Fig3.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q10/Q10_Subd_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q10/Q10_Subc_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q10/Q10_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper31/Q10/Q10_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "14.4 cm"
+            },
+            {
+              "type": "text",
+              "content": "9.6 cm"
+            },
+            {
+              "type": "text",
+              "content": "12.8 cm"
+            },
+            {
+              "type": "text",
+              "content": "21.4 cm"
+            },
+            {
+              "type": "text",
+              "content": "U"
+            },
+            {
+              "type": "text",
+              "content": "W"
+            },
+            {
+              "type": "text",
+              "content": "V"
+            },
+            {
+              "type": "text",
+              "content": "R"
+            },
+            {
+              "type": "text",
+              "content": "P"
+            },
+            {
+              "type": "text",
+              "content": "Q"
+            },
+            {
+              "type": "text",
+              "content": "NOT TO"
+            },
+            {
+              "type": "text",
+              "content": "SCALE"
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "Triangle PQR is mathematically similar to triangle UVW."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Calculate VW."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "ABC is a right-angled triangle."
+            },
+            {
+              "type": "text",
+              "content": "3.5 cm"
+            },
+            {
+              "type": "text",
+              "content": "9.1 cm"
+            },
+            {
+              "type": "text",
+              "content": "NOT TO"
+            },
+            {
+              "type": "text",
+              "content": "SCALE"
+            },
+            {
+              "type": "text",
+              "content": "A"
+            },
+            {
+              "type": "text",
+              "content": "B"
+            },
+            {
+              "type": "text",
+              "content": "C"
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "Calculate BC."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "DEF is a right-angled triangle."
+            },
+            {
+              "type": "text",
+              "content": "8.4 cm"
+            },
+            {
+              "type": "text",
+              "content": "35°"
+            },
+            {
+              "type": "text",
+              "content": "D"
+            },
+            {
+              "type": "text",
+              "content": "E"
+            },
+            {
+              "type": "text",
+              "content": "F"
+            },
+            {
+              "type": "text",
+              "content": "NOT TO"
+            },
+            {
+              "type": "text",
+              "content": "SCALE"
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "Calculate EF."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "JKL is a right-angled triangle."
+            },
+            {
+              "type": "text",
+              "content": "10 cm"
+            },
+            {
+              "type": "text",
+              "content": "8 cm"
+            },
+            {
+              "type": "text",
+              "content": "J"
+            },
+            {
+              "type": "text",
+              "content": "K"
+            },
+            {
+              "type": "text",
+              "content": "L"
+            },
+            {
+              "type": "text",
+              "content": "NOT TO"
+            },
+            {
+              "type": "text",
+              "content": "SCALE"
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "Calculate angle JKL."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $JKL$ =",
+            "suffix": "$°$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

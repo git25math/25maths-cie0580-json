@@ -1,0 +1,1698 @@
+{
+  "v": "1.0",
+  "paper": "2018OctNov-Paper33",
+  "board": "cie",
+  "code": "0580",
+  "year": 2018,
+  "session": "OctNov",
+  "paperNum": "33",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper33/Q01/Q01_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Some people each recorded their favourite holiday destination."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The results are shown in the pie chart."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the statements about the pie chart."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "The sector angle for Mexico is",
+                    "suffix": "degrees."
+                  },
+                  {
+                    "prefix": "The most popular destination is",
+                    "suffix": ""
+                  },
+                  {
+                    "prefix": "$\\frac{1}{5}$ of the people chose",
+                    "suffix": ""
+                  },
+                  {
+                    "prefix": "Three times as many people chose",
+                    "suffix": "as"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$180$ people chose Bali."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Find how many people were asked altogether."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "Mr and Mrs Baker go on holiday with their three children."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "They fly from Miami to Mexico City."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The cost of each adult ticket is $\\$450$.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "The cost of each child ticket is $70\\%$ of the cost of an adult ticket."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the total cost of the five tickets."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The plane leaves Miami at $09\\ 29$."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "It arrives in Mexico City $2$ hours $11$ minutes later."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "The local time in Miami is $1$ hour ahead of the local time in Mexico City."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the time in Mexico City when the plane arrives."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The family travels $38$ kilometres by taxi."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "The journey costs $\\$3.50$ plus an extra $\\$2.15$ for each kilometre travelled."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Find the cost of the journey."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "At the end of the holiday Mr Baker changes $1335$ pesos into dollars."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "The exchange rate is $\\$1 = 17.8$ pesos.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Find how many dollars Mr Baker receives."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 2,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Shapes $A$, $B$ and $C$ are shown on the $1 \\text{ cm}^2$ grid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper33/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Shape $A$ is a special type of quadrilateral."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Write down the mathematical name for shape $A$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "shape $A$ onto shape $B$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "shape $A$ onto shape $C$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid,"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "translate shape $A$ by the vector $\\begin{pmatrix} -8 \\\\ -4 \\end{pmatrix}$,"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "reflect shape $A$ in the line $x = 2$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the area of shape $B$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 3,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows the positions of three towns $A$, $B$ and $C$ on a map."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The scale is $1$ centimetre represents $10$ kilometres."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper33/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the actual distance between town $A$ and town $B$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Measure the bearing of town $C$ from town $A$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show how to use your answer to part (b)(i) to find the bearing of town $A$ from town $C$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Town $D$ is $96 \\text{ km}$ from town $C$ on a bearing of $100^\\circ$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Mark the position of town $D$ on the map."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Jez drives from town $C$ to town $D$ in $1\\frac{1}{2}$ hours."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Work out his average speed."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km/h}$"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Change $96 \\text{ km}$ into miles."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Assume that $8 \\text{ km}$ equals $5$ miles."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "miles"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 4,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper33/Q04/Q04_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows the first three patterns in a sequence."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "On the grid, draw pattern 4."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first four terms of another sequence."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$41 \\quad 35 \\quad 29 \\quad 23$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the next two terms."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "",
+                    "suffix": ","
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the rule for continuing this sequence."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first four terms of a different sequence."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$11 \\quad 15 \\quad 19 \\quad 23$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down an expression for the $n$th term."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Is $129$ a term in this sequence?"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Show how you decide."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "",
+                    "suffix": "because"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 5,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Stef buys $3.5$ kilograms of bananas."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Bananas cost $\\$1.24$ per kilogram.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Stef pays with a $\\$5$ note.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Work out how much change she receives."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write $3.5$ kilograms in grams."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{g}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Oranges cost $85$ cents each."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Leo has a $\\$10$ note.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Work out the maximum number of oranges he can buy."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$87\\%$ of the mass of a pineapple is water."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "A pineapple has a mass of $700 \\text{ g}.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Work out the mass of water in this pineapple."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{g}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The number of melons sold in a shop each day for $7$ days is shown below."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$18 \\quad 5 \\quad 23 \\quad 40 \\quad 28 \\quad 19 \\quad 17$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Work out the mean number of melons sold."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rio and Chi go to a fruit shop."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Rio buys $4$ apples and $2$ plums for $\\$1.96$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Chi buys $7$ apples and $3$ plums for $\\$3.24$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Write down a pair of simultaneous equations and solve them to find the cost of $1$ apple and the cost of $1$ plum."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "You must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "Apple $\\$",
+                "suffix": ""
+              },
+              {
+                "prefix": "Plum $\\$",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 6,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number $602\\ 047$ in words."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a multiple of $14$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$56^2$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\sqrt[3]{103823}$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$12^0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the lowest common multiple (LCM) of $12$ and $78$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the highest common factor (HCF) of $12$ and $78$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $432$ as a product of its prime factors."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 7,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper33/Q07/Q07_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper33/Q07/Q07_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table of values for $y = \\frac{6}{x}$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\n$x$ & $-6$ & $-5$ & $-4$ & $-3$ & $-2$ & $-1$ & $1$ & $2$ & $3$ & $4$ & $5$ & $6$ \\\\\n\\hline\n$y$ & $-1$ & & & $-2$ & $-3$ & $-6$ & $6$ & $3$ & $2$ & & $1.2$ & $1$ \\\\\n\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = \\frac{6}{x}$ for $-6 \\leqslant x \\leqslant -1$ and $1 \\leqslant x \\leqslant 6$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to solve the equation $4.5 = \\frac{6}{x}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the line $y = x$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the co-ordinates of the points of intersection of $y = \\frac{6}{x}$ and $y = x$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "(",
+                    "suffix": ","
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ") and ("
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ","
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ")"
+                  }
+                ]
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 8,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper33/Q08/Q08_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A bag contains $20$ bulbs."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$8$ are yellow, $5$ are red, $4$ are white and $3$ are pink."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Sam takes one bulb at random."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that the bulb he takes is"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "white,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "blue,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "not pink."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Sam has a rectangular pond, $ABCD$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate $BC$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$BC$ =",
+                "suffix": "$\\text{m}$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "He puts a fence around the edge of the pond."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the length of the fence."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{m}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "A scale drawing of Sam’s garden, $PQRS$, is shown below."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The scale is $1$ centimetre represents $4$ metres."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Sam plants some bulbs so that they are"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "less than $30$ metres from $P$"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "and"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "nearer to $PQ$ than to $PS$."
+              ]
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Using a ruler and compasses only, construct and shade the region where he plants the bulbs."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 9,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$A$, $B$ and $C$ are points on the circumference of the circle, centre $O$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The straight line $DE$ touches the circle at $B$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper33/Q09/Q09_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper33/Q09/Q09_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name for the line $DE$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the circle, draw a radius."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the following statements."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "Angle $ABD$ =",
+                    "suffix": "because"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "Angle $ACB$ =",
+                    "suffix": "because"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "$AB = 9 \\text{ cm}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the area of the circle."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Give the units of your answer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate $BC$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$BC$ =",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null
+    }
+  ]
+}

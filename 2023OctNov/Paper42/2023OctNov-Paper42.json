@@ -1,0 +1,1931 @@
+{
+  "v": "1.0",
+  "paper": "2023OctNov-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2023,
+  "session": "OctNov",
+  "paperNum": "42",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q01/Q01_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Translate triangle T by the vector $\\begin{pmatrix} -1 \\ 7 \\end{pmatrix}$. Label the image K."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Describe fully the single transformation that maps triangle K onto triangle T."
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "____\n____"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Reflect triangle T in the line $y=4$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rotate triangle T through 90° clockwise about (0, 0)."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Enlarge triangle T by scale factor $-\\frac{1}{2}$, centre (0, 0). Label the image P."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Describe fully the single transformation that maps triangle P onto triangle T."
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "____\n____"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q02/Q02_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q02/Q02_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Daisy records her 50 homework marks."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The table shows the results."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|}\\hline Homework mark & 15 & 16 & 17 & 18 & 19 & 20 \\\\ \\hline Frequency & 1 & 3 & 19 & 11 & 10 & 6 \\\\ \\hline\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mode."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the median."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the mean."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "21 33 20 25 21 34 22 21 20 30 18"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The list shows Ed’s scores in 11 tests."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the stem-and-leaf diagram to show this information."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "1"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "2"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "3"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Key: 2|5 represents 25"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the median."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the interquartile range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 15,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The value of Priya’s car decreases by 10% every year."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The value today is $7695.",
+              "_dollar_warning": true
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the value of the car after one year."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the value of the car one year ago."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Ali invests $600 at a rate of 2% per year simple interest.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of Ali’s investment at the end of 5 years."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Sara invests $500 at a rate of $r\\%$ per year compound interest.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "At the end of 12 years, the value of Sara’s investment is $601.35, correct to the nearest cent.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the value of r."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "r ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The mass of a radioactive substance decreases exponentially at a rate of 3% each day."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the overall percentage decrease at the end of 10 days."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the number of whole days it takes until the mass of this substance is one half of its original amount."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q04/Q04_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q04/Q04_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q04/Q04_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a sector of a circle that is made into a cone by joining OA to OB."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The sector angle is $x°$ and the radius of the sector is 7.5 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The base radius of the cone is 1.5 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of x."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "x ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a cylinder with radius 8 cm inside a sphere with radius 17 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Both ends of the cylinder touch the curved surface of the sphere."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that the height of the cylinder is 30 cm."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the volume of the cylinder as a percentage of the volume of the sphere."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, V, of a sphere with radius r is $V = \\frac{4}{3}\\pi r^3$.]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a solid sphere with radius 6 cm inside a cube with side length 20 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The cube contains water to a depth of 15 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The sphere is removed."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the new depth of water in the cube."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "[The volume, V, of a sphere with radius r is $V = \\frac{4}{3}\\pi r^3$.]"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{cm}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 9,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In a shop the cost of a fiction book is $x$ and the cost of a reference book is $(x+2)$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The cost of 11 fiction books is the same as the cost of 10 reference books."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the value of x."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "x ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "In another shop, the cost of a fiction book is $y$ and the cost of a reference book is $(y+2)$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Maria spends $95 on fiction books and $147 on reference books."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "She buys a total of 12 books."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that $6y^2 - 109y - 95 = 0$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Factorise $6y^2 - 109y - 95$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of y."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "y ="
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q06/Q06_Stem_Fig1.png"
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a right-angled triangle."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $w$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$w$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q07/Q07_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q07/Q07_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q07/Q07_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a right-angled triangle PQR on horizontal ground."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "X is vertically above R and the angle of elevation of X from P is 21°."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "XR = 2.8 m and RQ = 7.1 m."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the angle of elevation of X from Q."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate PQ."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\text{m}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the acute angle KML."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle KML ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "The area of triangle ABC is $62.89\\text{ cm}^2$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that angle BAC = 28.4°, correct to 1 decimal place."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate BC."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\text{cm}$"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "AB is extended to a point D such that angle BDC = 90°."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate BD."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\text{cm}$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q08/Q08_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Dice A is numbered 1, 2, 2, 2, 3, 6."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Dice B is numbered 2, 3, 3, 4, 4, 4."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Dice A is rolled once."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Write down the probability that it lands on the number 6."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Dice A is rolled 150 times."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Find the number of times it is expected to land on the number 6."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Dice A and Dice B are each rolled once."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that the two numbers they land on have a total of 6."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that when the two numbers they land on have a total of 6, both numbers are 3."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Dice B is rolled n times."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The probability that on the nth roll it first lands on a number 3 is $\\frac{32}{729}$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the value of n."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "n ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q09/Q09_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a sketch of the graph of $y = 4x^3 - 4x$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The graph crosses the x-axis at the origin O and at the point A."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The point B is a maximum point."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Differentiate $4x^3 - 4x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of B."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the gradient of the graph at the point A."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q10/Q10_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q10/Q10_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "ABCDEF is a regular hexagon."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "DF, DA and DB are diagonals."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Complete the following statements using three different triangles."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Triangle DEF is congruent to triangle .................."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Triangle .................. is congruent to triangle .................."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "Triangle DEF is congruent to triangle",
+                "suffix": ""
+              },
+              {
+                "prefix": "Triangle",
+                "suffix": "is congruent to triangle"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "P and Q are points on the circle with centre O."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "TP and TQ are tangents to the circle from the point T."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Complete the following statements and reasons."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "In triangles OPT and OQT"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "OP = .................... because each is a radius of the circle"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "OT is a common side"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Angle OPT = angle .................... = 90° because .............................................................................."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Triangles OPT and OQT are congruent using the criterion ...................."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "This proves that the tangents TP and TQ are .................................................."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "OP =",
+                "suffix": "because each is a radius of the circle"
+              },
+              {
+                "prefix": "Angle OPT = angle",
+                "suffix": "= 90° because"
+              },
+              {
+                "prefix": "Triangles OPT and OQT are congruent using the criterion",
+                "suffix": ""
+              },
+              {
+                "prefix": "This proves that the tangents TP and TQ are",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\text{f}(x) = \\frac{1}{x-3}$ $\\text{g}(x) = (x-1)^2$ $\\text{h}(x) = 3^x$, $x \\neq 0$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find g(3)."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\\text{f}(2x)$, giving your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\\text{f}^{-1}(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$\\text{f}^{-1}(x)$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\text{gf}(x) = \\text{g}(\\text{f}(x)) = \\frac{1}{(x-3)^2} = \\frac{ax^2+bx+c}{(x-3)^2}$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the value of each of a, b and c."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "a =",
+                "suffix": ""
+              },
+              {
+                "prefix": "b =",
+                "suffix": ""
+              },
+              {
+                "prefix": "c =",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\\frac{\\text{h}(x)}{\\text{f}(x)}$, giving your answer as a single fraction in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\text{h}(n) = 7$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the value of n."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "n ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper42/Q12/Q12_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "O is the origin (0, 0), A is the point (8, 1) and B is the point (2, 5)."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Write as column vectors."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\vec{OB}$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "vector",
+                "fields": 2,
+                "prefix": "$\\vec{OB}$ =\\quad\\quad $\\begin{pmatrix}",
+                "suffix": "\\end{pmatrix}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\vec{AB}$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "vector",
+                "fields": 2,
+                "prefix": "$\\vec{AB}$ =\\quad\\quad $\\begin{pmatrix}",
+                "suffix": "\\end{pmatrix}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of the line AB."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in the form $y = mx+c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "y ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of the perpendicular bisector of AB."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in the form $y = mx+c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "y ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The line AB meets the y-axis at P."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The perpendicular bisector of AB meets the y-axis at Q."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the length of PQ."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

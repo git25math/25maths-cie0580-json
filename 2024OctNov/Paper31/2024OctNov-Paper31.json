@@ -1,0 +1,1816 @@
+{
+  "v": "1.0",
+  "paper": "2024OctNov-Paper31",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "OctNov",
+  "paperNum": "31",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 12,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number six million and thirty in figures."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 7.896 correct to 2 decimal places."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "8   24   25   36   39   41   48"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "From this list of numbers, write down"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "a multiple of 16"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a factor of 24"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a cube number"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a prime number."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Put one pair of brackets into this calculation to make it correct."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$10 \\times 12 - 4 \\div 2 + 8 = 25$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "By writing each number in the calculation correct to 1 significant figure, find an estimate for the value of"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{8.65 \\times 596}{0.047}$$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "You must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $(8 \\times 10^{-3}) \\times (3 \\times 10^6)$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(g)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$216 = 2^3 \\times 3^3$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Write 2160 as a product of its prime factors."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In the diagram, BCG is a triangle."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "ABCD and EF are parallel lines."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q02/Q02_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q02/Q02_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)(i)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of x."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Give a geometrical reason for your answer."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "x = ",
+                "suffix": ""
+              },
+              {
+                "prefix": "because ",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(a)(ii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of y."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Give a geometrical reason for your answer."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "y = ",
+                "suffix": ""
+              },
+              {
+                "prefix": "because ",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(a)(iii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of z."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "z = "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "R, S and T are points on a circle, centre O."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Line XY touches the circle at T."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name for the line XY."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name for the line SR."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Toby thinks shape RST is a right-angled triangle."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Give a geometrical reason why Toby is incorrect."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Jack does a survey about cycling."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q03/Q03_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q03/Q03_Subc_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q03/Q03_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The bar chart shows the percentage of people in each age group who use a bicycle."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the percentage of people aged 60 to 69 who use a bicycle."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "980 people in the survey are in the 30–39 age group."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Work out how many of these people use a bicycle."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Jack makes 18 cycling trips in one year."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Each cycling trip lasts 23 minutes."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the total time Jack spends cycling in this year."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in hours and minutes."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "template": "____ h ____ min"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows where 240 people cycle the most."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|}\\hline Number of people & Pie chart \\\\ & sector angle \\\\ \\hline Roads & 84 & 126° \\\\ Cycle paths & 72 & \\\\ Parks & 48 & \\\\ Other & 36 & \\\\ \\hline\\end{tabular}"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the pie chart to show this information."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A bicycle costs $720.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Carlo pays one-fifth of the cost as a deposit."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "He pays the rest of the money in equal monthly payments of $16.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Work out how many monthly payments Carlo makes."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q04/Q04_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A parallelogram ABCD has sides 8 cm and 6 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Lines AB and BC have been drawn."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "By constructing triangle ACD, complete the parallelogram."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Use a ruler and compasses only and leave in your construction arcs."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Describe fully the single transformation that maps shape A onto shape B."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the image of shape A after a rotation, 90° anticlockwise, centre (5, 1)."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q05/Q05_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q05/Q05_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The scatter diagram shows the distance travelled and the cost for each of 12 taxi journeys."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "‘The scatter diagram shows positive correlation.’"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Is this statement true or false?"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Give a reason for your answer."
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  },
+                  {
+                    "prefix": "because ",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On one journey, the cost per kilometre travelled was much more expensive than on all of the other journeys."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Draw a ring around this point on the scatter diagram."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Draw a line of best fit on the scatter diagram."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Another journey is 8 km long."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Use your line of best fit to find an estimate for the cost of this journey."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Arit, Luke and Marie share the cost of a taxi journey."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The cost is $26.40 .",
+              "_dollar_warning": true
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate how much Arit pays if they share the cost equally."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 5,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "They decide to share the cost in proportion to the distance they each travel in the taxi."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Arit travels 12 km, Luke travels 3 km and Marie travels 7.5 km."
+                }
+              ],
+              "subparts": [
+                {
+                  "label": "(b)(ii)(a)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Write the ratio $12 : 3 : 7.5$ in its simplest form."
+                    }
+                  ],
+                  "answer": {
+                    "type": "multiline",
+                    "lines": 1,
+                    "template": "____ : ____ : ____"
+                  }
+                },
+                {
+                  "label": "(b)(ii)(b)",
+                  "marks": 3,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Calculate how much more Arit pays than if they share the cost equally."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "number",
+                    "prefix": "$"
+                  }
+                }
+              ],
+              "answer": null
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Jin invests some money from his taxi company."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "He invests $18 600 at a rate of 1.7% per year compound interest.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of the investment at the end of 6 years."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to the nearest dollar."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q06/Q06_Subc_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q06/Q06_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "This is a recipe to make ice cream for 6 people."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "270 ml cream",
+                "270 ml milk",
+                "100 g sugar",
+                "4 egg yolks"
+              ]
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Tom makes ice cream for 10 people."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out how much milk he uses."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": " ml"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The mass of all the ingredients Tom uses is 1100 g."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "After Tom heats the mixture, this mass reduces by 15%."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Find the mass of the mixture after heating."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": " g"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Tom lets the mixture cool to 5°C."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "He then puts it into a freezer to cool to -18°C."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Find the difference in these temperatures."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": " $°C$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In a factory, a machine fills 25 920 tubs of ice cream in 8 hours."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the number of tubs the machine fills in 1 minute."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A pack of ice cream contains 6 tubs."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "There are 120 packs on a tray."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "There are 24 trays on a truck."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Work out how many tubs of ice cream are on the truck."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "Mario sells ice creams in five flavours."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The table shows the relative frequency of some of the ice cream flavours Mario sells."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|}\\hline Vanilla & 0.34 \\\\ Chocolate & \\\\ Strawberry & 0.18 \\\\ Coconut & 0.12 \\\\ Banana & \\\\ Relative \\\\ frequency & \\\\ \\hline\\end{tabular}"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Mario sells three times as many chocolate ice creams as banana ice creams."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One week Mario sells 450 ice creams."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Find how many strawberry ice creams Mario expects to sell."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The probability that any customer is an adult is 0.7 ."
+                }
+              ],
+              "subparts": [
+                {
+                  "label": "(c)(iii)(a)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Complete the tree diagram."
+                    }
+                  ],
+                  "answer": {
+                    "type": "none"
+                  }
+                },
+                {
+                  "label": "(c)(iii)(b)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Find the probability that the first two customers are adults."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "number"
+                  }
+                }
+              ],
+              "answer": null
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q07/Q07_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q07/Q07_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q07/Q07_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the perimeter of the triangle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " cm"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a shape made from rectangles."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the area of the shape."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " $\\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a right-angled triangle ABC."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the area of the triangle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " $\\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the volume of a sphere with diameter 5.25 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "[The volume, V, of a sphere with radius r is $V = \\frac{4}{3}\\pi r^3$.]"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " $\\text{cm}^3$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q08/Q08_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows the net of a solid."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name of the solid."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the volume of the solid when $x = 4$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": " $\\text{cm}^3$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down an expression, in terms of x, for the volume of the solid."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "suffix": " $\\text{cm}^3$"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of x when the volume of the solid is 360 cm$^3$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "x = "
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table of values for $y = x^2 + 2x$."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|c|c|c|c|c|c|c|}\\hline x & 0 & 1 & 2 & 3 & 4 & 5 \\\\ \\hline y & 0 & 3 & 10 & & & \\\\ \\hline\\end{tabular}"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the graph of $y = x^2 + 2x$ for $0 \\le x \\le 5$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your graph to solve the equation $x^2 + 2x = 30$ for $0 \\le x \\le 5$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "x = "
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Samir leaves home at 2 pm."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "He jogs 6 km to a café at a constant speed of 8 km per hour."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "He stops to rest for 1 hour."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "He then walks back home at a constant speed and arrives at 4.36 pm."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper31/Q09/Q09_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw a travel graph to show Samir’s whole journey."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate Samir’s average speed for the whole journey."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " km/h"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 9,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$4x - 7 = 3$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "x = "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$(x^6)^2$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$(x^5y^2) \\times (x^3y^4)^2$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$4(a+5) - 2(a-1)$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$(d+7)(d-3)$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

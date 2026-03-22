@@ -1,0 +1,1570 @@
+{
+  "v": "1.0",
+  "paper": "2023MayJune-Paper32",
+  "board": "cie",
+  "code": "0580",
+  "year": 2023,
+  "session": "MayJune",
+  "paperNum": "32",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 14,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number three hundred thousand and three in figures."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 15 896 correct to"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the nearest thousand"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the nearest ten."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "By writing each number in the calculation correct to 1 significant figure, work out an estimate for the value of"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{28.9 \\times 5.49}{0.472 + 0.97}$$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "You must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$\\sqrt{1849}$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$5^{-1} - 5^0$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(d)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$\\sin^{-1}\\left(\\frac{5.308}{11.5}\\right)$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(e)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "A cyclist travels at a constant speed of 8.5 metres per second."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(e)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out how long the cyclist takes to travel a distance of 5.27 kilometres."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in minutes and seconds."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 1,
+                "template": ".................... min ................... s"
+              }
+            },
+            {
+              "label": "(e)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The cyclist increases speed from 8.5 m/s to 10.2 m/s."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the percentage increase in speed."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Mika counts the number of letters in each of the 61 words in a paragraph."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Some of his results are shown in the table and bar chart."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q02/Q02_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q02/Q02_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q02/Q02_Suba_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table and the bar chart."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mode."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Grace also counts the number of letters in each word of another paragraph."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Her results are shown in the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|}\\hline Number of letters & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline Frequency & 10 & 18 & 9 & 6 & 5 & 2 \\\\ \\hline\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the mean."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "She picks one of these words at random."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Find the probability that it has more than three letters."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "She counts the number of letters in each word in the next sentence."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "These are her results."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "3   4   1   7   9   2   6   5   4   2   3   2"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the median."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q03/Q03_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "50 Australian dollars = 540 South African rands"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw a conversion graph between Australian dollars and South African rands."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A watch costs 1350 South African rands."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Find the cost of this watch in Australian dollars."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": " Australian dollars"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 7,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A plane leaves Sydney at 21 48 local time to fly to Johannesburg."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "The flight takes 14 hours 15 minutes."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "The local time in Sydney is 8 hours ahead of the local time in Johannesburg."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Find the local time in Johannesburg when the plane arrives."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the plane there are 315 people."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "The ratio of children : adults = 7 : 8."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the number of adults on the plane."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Another plane has 420 seats."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "90% of the seats are occupied."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the number of seats that are occupied."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Fidel gives different amounts of water to some plants."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The scatter diagram shows the height (cm) and the amount of water (ml) for each of 15 plants."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q04/Q04_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Plot these two results on the scatter diagram."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|}\\hline Amount of water (ml) & 60 \\\\ \\hline Height (cm) & 27 \\\\ \\hline\\end{tabular}"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|}\\hline Amount of water (ml) & 85 \\\\ \\hline Height (cm) & 41 \\\\ \\hline\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "What type of correlation is shown in the scatter diagram?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the plants had a lower height than expected for the amount of water given."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "On the scatter diagram, put a ring around the point for this plant."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the scatter diagram, draw a line of best fit."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Another plant is given 65 ml of water."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Use your line of best fit to estimate the height of this plant."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\text{cm}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the percentage of these 17 plants that have a height of more than 24 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to 1 decimal place."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q05/Q05_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q05/Q05_Suba_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q05/Q05_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "This rectangle has an area of 12 cm$^2$ and a perimeter of 16 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "This shape is made from six of these rectangles."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the area and perimeter of this shape."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "Area =  ........................................... $\\text{cm}^2$\nPerimeter =  ........................................... $\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the area of this triangle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A circle has a circumference of 28 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Work out the radius of the circle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{cm}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A cube has a volume of 125 m$^3$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Work out the surface area of the cube."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{m}^2$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q06/Q06_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q06/Q06_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q06/Q06_Suba_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "For each quadrilateral, draw any lines of symmetry and write down its mathematical name."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Name  ................................................  "
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Name  ................................................  "
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows three triangles A, B and C, on a grid."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 6,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Describe fully the single transformation that maps"
+                }
+              ],
+              "subparts": [
+                {
+                  "label": "(b)(i)(a)",
+                  "marks": 3,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "triangle A onto triangle B"
+                    },
+                    {
+                      "type": "newline",
+                      "lines": 1
+                    },
+                    {
+                      "type": "text",
+                      "content": "....................................................................................................................................."
+                    },
+                    {
+                      "type": "newline",
+                      "lines": 1
+                    },
+                    {
+                      "type": "text",
+                      "content": "....................................................................................................................................."
+                    }
+                  ],
+                  "answer": {
+                    "type": "multiline",
+                    "lines": 2
+                  }
+                },
+                {
+                  "label": "(b)(i)(b)",
+                  "marks": 3,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "triangle A onto triangle C."
+                    },
+                    {
+                      "type": "newline",
+                      "lines": 1
+                    },
+                    {
+                      "type": "text",
+                      "content": "....................................................................................................................................."
+                    },
+                    {
+                      "type": "newline",
+                      "lines": 1
+                    },
+                    {
+                      "type": "text",
+                      "content": "....................................................................................................................................."
+                    }
+                  ],
+                  "answer": {
+                    "type": "multiline",
+                    "lines": 2
+                  }
+                }
+              ],
+              "answer": null
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, reflect triangle A in the line $x = -1$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q07/Q07_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper32/Q07/Q07_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of line L."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in the form $y = mx + c$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "y = "
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the line $y = 1$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the coordinates of the point where the two lines intersect."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 9,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table of values for $y = x^2 + x - 8$."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}\\hline x & -4 & -3 & -2 & -1 & 0 & 1 & 2 & 3 & 4 \\\\ \\hline y & 4 & -2 & -8 & -8 & & -6 & -2 & 4 & \\\\ \\hline\\end{tabular}"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the graph of $y = x^2 + x - 8$ for $-4 \\le x \\le 4$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the equation of the line of symmetry of the graph."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your graph to solve the equation $x^2 + x - 8 = 0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 1,
+                "template": "$x$ = .................................. or $x$ = ..................................."
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 15,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$T = \\frac{P+5}{Q-3}$$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the value of T when $P = 6$ and $Q = 8$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "T = "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$3a - 7b + 2a + 4b$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Multiply out."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$5(2x - 3y)$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$$5x - 1 = 3x + 19$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ = "
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Make t the subject of the formula $p = 5t - 3$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "t = "
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Entry to a castle costs $x$ for an adult and $y$ for a child."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Entry for 2 adults and 3 children costs $15.00 .",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Entry for 3 adults and 5 children costs $23.50 .",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Write down a pair of simultaneous equations to show this information and solve them to find the value of $x$ and the value of $y$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "You must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "$x$ = ................................................\n$y$ = ................................................"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 7,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first four terms of a sequence."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "2   8   14   20"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the next term."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the term to term rule for continuing the sequence."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find an expression for the nth term."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the first three terms of the sequence with nth term $n^2 + 5$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 1,
+                "template": "................... , ................... , ..................."
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "These are the first four terms of another sequence."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "7   10   15   22"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Find an expression for the nth term of this sequence."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

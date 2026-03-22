@@ -1,0 +1,791 @@
+{
+  "v": "1.0",
+  "paper": "2019March-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2019,
+  "session": "March",
+  "paperNum": "22",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The temperature at 07 00 is $-3\\,^{\\circ}\\text{C}$."
+        },
+        {
+          "type": "text",
+          "content": "This temperature is $11\\,^{\\circ}\\text{C}$ higher than the temperature at 01 00."
+        },
+        {
+          "type": "text",
+          "content": "Find the temperature at 01 00."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$^{\\circ}\\text{C}$"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Jodi swims $22$ lengths of a swimming pool to raise money for charity."
+        },
+        {
+          "type": "text",
+          "content": "She receives $\\$15$ for each length she swims.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate how much money Jodi raises for charity."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$\\$ $"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the recurring decimal $0.\\dot{2}\\dot{3}$ as a fraction."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $0.046875$ correct to 2 significant figures."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $2760000$ in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A tourist changes $\\$500$ to euros (€) when the exchange rate is €$1 = \\$1.0697$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate how many euros he receives."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "€"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The probability that a sweet made in a factory is the wrong shape is $0.0028$."
+        },
+        {
+          "type": "text",
+          "content": "One day, the factory makes $25000$ sweets."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the number of sweets that are expected to be the wrong shape."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The bearing of Alexandria from Paris is $128^{\\circ}$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the bearing of Paris from Alexandria."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$O$ is the origin, $\\overrightarrow{OA} = 2\\mathbf{x} + 3\\mathbf{y}$ and $\\overrightarrow{BA} = \\mathbf{x} - 4\\mathbf{y}$."
+        },
+        {
+          "type": "text",
+          "content": "Find the position vector of $B$, in terms of $\\mathbf{x}$ and $\\mathbf{y}$, in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$y$ is directly proportional to $(x - 4)$."
+        },
+        {
+          "type": "text",
+          "content": "When $x = 16$, $y = 3$."
+        },
+        {
+          "type": "text",
+          "content": "Find $y$ in terms of $x$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$y$ ="
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate the total surface area of the cuboid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019March/Paper22/Q10/Q10_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The number of passengers on a train increases from $63$ to $77$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the percentage increase."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\%$"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A cone with height $14.8\\text{ cm}$ has volume $275\\text{ cm}^3$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the radius of the cone."
+        },
+        {
+          "type": "text",
+          "content": "[The volume, $V$, of a cone with radius $r$ and height $h$ is $V = \\frac{1}{3}\\pi r^2 h$.]"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$7k^2 - 15k$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$12(m + p) + 8(m + p)^2$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Eric invests an amount in a bank that pays compound interest at a rate of $2.16\\%$ per year."
+        },
+        {
+          "type": "text",
+          "content": "At the end of $5$ years, the value of his investment is $\\$6999.31$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate the amount Eric invests."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$\\$ $"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$A$, $B$ and $C$ are points on the circle, centre $O$."
+        },
+        {
+          "type": "text",
+          "content": "$AB$ and $OC$ intersect at $P$."
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $w$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019March/Paper22/Q15/Q15_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$w$ ="
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "By drawing a suitable tangent, estimate the gradient of the curve at the point $P$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019March/Paper22/Q16/Q16_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $n$ when $5^n = \\frac{1}{125}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$n$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $\\left(\\frac{64}{m^3}\\right)^{-\\frac{1}{3}}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A pipe is full of water."
+        },
+        {
+          "type": "text",
+          "content": "The cross-section of the pipe is a circle, radius $2.6\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Water flows through the pipe into a tank at a speed of $12$ centimetres per second."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the number of litres that flow into the tank in one hour."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{litres}$"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{ab - b^2}{a^2 - b^2}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $\\begin{pmatrix} 2 & 1 \\\\ 4 & 3 \\end{pmatrix} \\begin{pmatrix} 1 & -6 \\\\ 5 & -4 \\end{pmatrix}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $x$ when the determinant of $\\begin{pmatrix} x & -7 \\\\ 3 & -1 \\end{pmatrix}$ is $5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $1 \\frac{5}{12} \\div \\frac{3}{8}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The speed–time graph shows the first $50$ seconds of a journey."
+        },
+        {
+          "type": "text",
+          "content": "Calculate"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019March/Paper22/Q22/Q22_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the acceleration during the first $15$ seconds,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m/s}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "the distance travelled in the $50$ seconds."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 23,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$A$ is the point $(2, 3)$ and $B$ is the point $(7, -5)$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the co-ordinates of the midpoint of $AB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of the line through $A$ that is perpendicular to $AB$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 24,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019March/Paper22/Q24/Q24_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$SR$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$SR$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "$RQ$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$RQ$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ],
+      "answer": null
+    }
+  ]
+}

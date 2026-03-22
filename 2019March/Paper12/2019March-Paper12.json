@@ -1,0 +1,813 @@
+{
+  "v": "1.0",
+  "paper": "2019March-Paper12",
+  "board": "cie",
+  "code": "0580",
+  "year": 2019,
+  "session": "March",
+  "paperNum": "12",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A mathematics lesson starts at 11 05."
+        },
+        {
+          "type": "text",
+          "content": "The lesson lasts for 75 minutes."
+        },
+        {
+          "type": "text",
+          "content": "Work out the time that the lesson ends."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The probability that it will be sunny tomorrow is $0.97$ ."
+        },
+        {
+          "type": "text",
+          "content": "Work out the probability that it will not be sunny tomorrow."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Complete the statement."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019March/Paper12/Q03/Q03_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "Angle",
+            "suffix": "is a reflex angle."
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The temperature at 07 00 is $-3 °\\text{C}$."
+        },
+        {
+          "type": "text",
+          "content": "This temperature is $11 °\\text{C}$ higher than the temperature at 01 00."
+        },
+        {
+          "type": "text",
+          "content": "Find the temperature at 01 00."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°\\text{C}$"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Jodi swims 22 lengths of a swimming pool to raise money for charity."
+        },
+        {
+          "type": "text",
+          "content": "She receives $\\$15$ for each length she swims.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate how much money Jodi raises for charity."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$\\$$"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A student measures the angles in a triangle as $55°$, $85°$ and $50°$."
+        },
+        {
+          "type": "text",
+          "content": "Explain why the student is incorrect."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a net of a solid."
+        },
+        {
+          "type": "text",
+          "content": "Write down the mathematical name of the solid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019March/Paper12/Q07/Q07_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $0.046 875$ correct to 2 significant figures."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $2 760 000$ in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Reflect this shape in the line $AB$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019March/Paper12/Q09/Q09_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the six factors of 12."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$\\mathbf{e} = \\begin{pmatrix} 5 \\\\ -4 \\end{pmatrix} \\quad \\mathbf{f} = \\begin{pmatrix} 0 \\\\ 6 \\end{pmatrix}$$"
+        },
+        {
+          "type": "text",
+          "content": "Write as a single vector"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$3\\mathbf{e}$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\mathbf{f} - \\mathbf{e}$ ."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$(y^5)^3$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$w^7 \\div w^2$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, estimate, by rounding each number correct to 1 significant figure,"
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{8.72 \\times 7.389}{104.3}$$"
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A tourist changes $\\$500$ to euros (€) when the exchange rate is $1 = $\\$1.0697$ .",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate how many euros he receives."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "€"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Change $645 \\text{ mm}$ into cm."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Change $4.1 \\text{ m}^3$ into $\\text{cm}^3$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The width, $w$ metres, of a room is $4.2$ metres, correct to the nearest 10 centimetres."
+        },
+        {
+          "type": "text",
+          "content": "Complete this statement about the value of $w$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": "$\\le w <$"
+          },
+          {
+            "prefix": "",
+            "suffix": ""
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Draw the enlargement of the triangle by scale factor 3, centre $X$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019March/Paper12/Q17/Q17_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The probability that a sweet made in a factory is the wrong shape is $0.0028$ ."
+        },
+        {
+          "type": "text",
+          "content": "One day, the factory makes $25 000$ sweets."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the number of sweets that are expected to be the wrong shape."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise completely."
+        },
+        {
+          "type": "text",
+          "content": "$$8g^2 - 4g$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "text",
+          "content": "$$6x - 3y = 12$$"
+        },
+        {
+          "type": "text",
+          "content": "$$2x + 3y = 16$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x = $ ____\n$y = $ ____"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate the total surface area of the cuboid."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The number of passengers on a train increases from 63 to 77."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the percentage increase."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\%$"
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a quadrilateral on a $1\\text{ cm}^2$ grid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019March/Paper12/Q23/Q23_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name of this quadrilateral."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the area of this quadrilateral."
+            },
+            {
+              "type": "text",
+              "content": "Give the units of your answer."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": ""
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 24,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Five numbers have a mean of $9.4$ ."
+        },
+        {
+          "type": "text",
+          "content": "Four of the numbers are $3$, $5$, $10$ and $12$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the range of the five numbers."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 25,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $$3 \\frac{1}{8} \\div \\frac{5}{12}$$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 26,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Triangles $ABC$ and $BCD$ are both right-angled triangles."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019March/Paper12/Q26/Q26_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the value of $y$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y =$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        }
+      ],
+      "answer": null
+    }
+  ]
+}

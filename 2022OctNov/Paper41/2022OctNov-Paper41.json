@@ -1,0 +1,1195 @@
+{
+  "v": "1.0",
+  "paper": "2022OctNov-Paper41",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "OctNov",
+  "paperNum": "41",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": "(a) Calculate the volume of"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper41/Q01/Q01_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)(i)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "a solid cylinder with radius $6 \\text{ cm}$ and height $14 \\text{ cm}$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        },
+        {
+          "label": "(a)(ii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "a solid hemisphere with radius $6 \\text{ cm}$.\n[The volume, $V$, of a sphere with radius $r$ is $V = \\frac{4}{3}\\pi r^3$.]"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        },
+        {
+          "label": "(b)(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The cylinder and hemisphere in part (a) are joined to form the solid in the diagram.\nThe solid is made of steel and $1 \\text{ cm}^3$ of steel has a mass of $7.85 \\text{ g}$.\nShow that $1 \\text{ cm}^3$ of steel has a mass of $0.007\\,85 \\text{ kg}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)(ii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the total mass of the solid."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{kg}$"
+          }
+        },
+        {
+          "label": "(c)(i)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$2000 \\text{ cm}^3$ of iron is melted down and some of it is used to make 50 spheres with radius $2 \\text{ cm}$.\nCalculate the percentage of iron that is left over.\n[The volume, $V$, of a sphere with radius $r$ is $V = \\frac{4}{3}\\pi r^3$.]"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(c)(ii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The iron left over is then made into a cube.\nCalculate the length of an edge of the cube."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "A solid cone has radius $3R \\text{ cm}$ and slant height $9R \\text{ cm}$.\nA solid cylinder has radius $x \\text{ cm}$ and height $7x \\text{ cm}$.\nThe total surface area of the cone is equal to the total surface area of the cylinder.\nGiven that $R = kx$, find the value of $k$.\n[The curved surface area, $A$, of a cone with radius $r$ and slant height $l$ is $A = \\pi rl$.]"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k =$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 2,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "2994.99 correct to the nearest 10,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(a)(ii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "0.983 correct to 1 decimal place,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(a)(iii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "2090 correct to 2 significant figures."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down a prime number between 90 and 100."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $6^{-2}$ as a fraction."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 0.007 01 in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $(1.5 \\times 10^x) \\times (1.5 \\times 10^{-x})$ giving your answer in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $0.\\dot{3}\\dot{7}$ as a fraction.\nYou must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 3,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Algebra and inequalities."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper41/Q03/Q03_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the inequality shown by the number line."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)(i)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the inequality.\n$\\frac{2x - 3}{3} \\leqslant \\frac{x + 1}{9}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)(ii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down all the integer values of $x$ that satisfy the inequality."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)(i)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the equations.\n$\\frac{3}{x-2} + \\frac{1}{x-3} = \\frac{5}{2}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        },
+        {
+          "label": "(c)(ii)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\frac{x+3}{5} = \\frac{5}{x+3}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 4,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Investments and percentages."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)(i)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Zak invests $\\$500$ at a rate of $2\\%$ per year simple interest.\nCalculate the value of Zak’s investment at the end of 5 years.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(a)(ii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Yasmin invests $\\$500$ at a rate of $1.8\\%$ per year compound interest.\nCalculate the value of Yasmin’s investment at the end of 5 years.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(a)(iii)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Zak and Yasmin continue with these investments.\nHow many more complete years is it before the value of Yasmin’s investment is greater than the value of Zak’s investment?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Xavier buys a car for $\\$2500$.\nThe value of the car decreases exponentially at a rate of $10\\%$ each year.\nCalculate the value of Xavier’s car at the end of 5 years.\nGive your answer correct to the nearest dollar.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The number of a certain type of bacteria increases exponentially at a rate of $r\\%$ each day.\nAfter 22 days, the number of this bacteria has doubled.\nFind the value of $r$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$r =$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 5,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Statistics."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper41/Q05/Q05_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper41/Q05/Q05_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "100 students each record the time, $t$ minutes, taken to eat a pizza.\nThe cumulative frequency diagram shows the results.\nFind an estimate of the median,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{min}$"
+          }
+        },
+        {
+          "label": "(a)(ii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find an estimate of the interquartile range,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{min}$"
+          }
+        },
+        {
+          "label": "(a)(iii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find an estimate of the number of students taking more than 11 minutes to eat a pizza."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)(i)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper41/Q05/Q05_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "150 students each record how far they can throw a tennis ball.\nThe table shows the results."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|}\n\\hline\nDistance ($d$ metres) & $0 < d \\leqslant 20$ & $20 < d \\leqslant 30$ & $30 < d \\leqslant 35$ & $35 < d \\leqslant 45$ & $45 < d \\leqslant 60$ \\\\\n\\hline\nFrequency & 4 & 38 & 40 & 53 & 15 \\\\\n\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Calculate an estimate of the mean."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        },
+        {
+          "label": "(b)(ii)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A histogram is drawn to show this information.\nThe height of the bar representing $30 < d \\leqslant 35$ is $12 \\text{ cm}$.\nCalculate the height of each of the other bars."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|}\n\\hline\nDistance ($d$ metres) & $0 < d \\leqslant 20$ & $20 < d \\leqslant 30$ & $30 < d \\leqslant 35$ & $35 < d \\leqslant 45$ & $45 < d \\leqslant 60$ \\\\\n\\hline\nFrequency & 4 & 38 & 40 & 53 & 15 \\\\\n\\hline\nHeight of bar (cm) & & & 12 & & \\\\\n\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)(iii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two students are chosen at random.\nFind the probability that they both threw the ball more than $45 \\text{ m}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 6,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Vectors."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper41/Q06/Q06_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\mathbf{p} = \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix}$ $\\mathbf{q} = \\begin{pmatrix} -1 \\\\ 1 \\end{pmatrix}$\nFind $3\\mathbf{q}$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(a)(ii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\\mathbf{p} - \\mathbf{q}$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(a)(iii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $|\\mathbf{p}|$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$B$ is the point $(2, 7)$ and $\\vec{AB} = \\begin{pmatrix} -4 \\\\ 6 \\end{pmatrix}$.\nFind the coordinates of $A$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "In triangle $OGH$, $M$ is the midpoint of $OH$ and $K$ divides $GH$ in the ratio $5 : 2$.\n$\\vec{OG} = \\mathbf{g}$ and $\\vec{OH} = \\mathbf{h}$.\nFind $\\vec{MK}$ in terms of $\\mathbf{g}$ and $\\mathbf{h}$.\nGive your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$\\vec{MK} =$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 7,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$f(x) = 10 - x$    $g(x) = \\frac{2}{x}, x \\neq 0$    $h(x) = 2^x$    $j(x) = 2x - 5$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $g\\left(\\frac{1}{2}\\right)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(a)(ii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $hg\\left(\\frac{1}{2}\\right)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $x$ when $f(x) = 7$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $x$ when $g(x) = h(3)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $j^{-1}(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$j^{-1}(x) =$"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $f(x) + g(x) + 1$ as a single fraction in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "$(f(x))^2 - f(f(x)) = ax^2 + bx + c$\nFind the values of $a$, $b$ and $c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3,
+            "template": "$a = $ ____\n$b = $ ____\n$c = $ ____"
+          }
+        },
+        {
+          "label": "(g)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $x$ when $h^{-1}(x) = 10$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 8,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows triangle $ABC$ on horizontal ground.\n$AC = 15 \\text{ m}$, $BC = 8 \\text{ m}$ and $AB = 20 \\text{ m}$.\n$BP$ and $CQ$ are vertical poles of different heights.\n$BP = 3 \\text{ m}$ and $CQ = 4 \\text{ m}$.\n$AQ$ and $PQ$ are straight wires."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper41/Q08/Q08_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that angle $ACB = 117.5^\\circ$, correct to 1 decimal place."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the area of triangle $ABC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}^2$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the length of $AQ$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the angle of elevation of $Q$ from $P$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Another straight wire connects $A$ to the midpoint of $PQ$.\nCalculate the angle between this wire and the horizontal ground."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 9,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Geometry and Quadratics."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper41/Q09/Q09_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper41/Q09/Q09_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)(i)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The total of the areas of rectangles A and B is $20 \\text{ cm}^2$.\nShow that $3x^2 + 6x - 22 = 0$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(a)(ii)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the equation $3x^2 + 6x - 22 = 0$, giving your answers correct to 4 significant figures.\nYou must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x =$",
+                "suffix": "or $x =$"
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(a)(iii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the perimeter of rectangle B."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows two rectangles where $h - H = 1$.\nBy forming a quadratic equation and factorising, find the value of $y$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y =$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 10,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Functions and Calculus."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper41/Q10/Q10_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a sketch of the graph of $y = f(x)$ for $-1.5 \\leqslant x \\leqslant 6$.\nThe coordinates of five points on the graph of $y = f(x)$ are shown on the diagram.\n$f(x) = k$ has two solutions in the interval $-1.5 \\leqslant x \\leqslant 6$.\nWrite down a possible integer value of $k$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k =$"
+          }
+        },
+        {
+          "label": "(a)(ii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$f(x) = j$ has no solutions in the interval $-1.5 \\leqslant x \\leqslant 6$ when $j < a$ or $j > b$.\nFind the maximum value of $a$ and the minimum value of $b$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "$a = $ ____\n$b = $ ____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the two stationary points on the graph of $y = x^6 - 6x^5$.\nYou must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "( ____ , ____ )\n( ____ , ____ )"
+          }
+        }
+      ],
+      "answer": null
+    }
+  ]
+}

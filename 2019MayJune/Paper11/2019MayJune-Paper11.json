@@ -1,0 +1,958 @@
+{
+  "v": "1.0",
+  "paper": "2019MayJune-Paper11",
+  "board": "cie",
+  "code": "0580",
+  "year": 2019,
+  "session": "MayJune",
+  "paperNum": "11",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write $\\frac{3}{4}$ as a decimal."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out $\\$1.20$ as a percentage of $\\$16$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\%$"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise $5y - 6py$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A bag contains green balls and red balls only.\n\nA ball is taken at random from the bag.\n\nThe probability of taking a green ball is $0.38$ .\n\nWrite down the probability of taking"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a red ball,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a blue ball."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On Monday the temperature at midday is $4 ^\\circ\\text{C}$ and the temperature at midnight is $-3 ^\\circ\\text{C}$.\n\nWork out the difference between these two temperatures."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$^\\circ\\text{C}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On Wednesday the temperature at midday is $-1 ^\\circ\\text{C}$.\n\nBy 7 pm the temperature has fallen by $4 ^\\circ\\text{C}$.\n\nWork out the temperature at 7 pm."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$^\\circ\\text{C}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The volume of a cuboid is $180 \\text{ cm}^3$.\n\nThe base is a square of side length $6 \\text{ cm}$.\n\nCalculate the height of this cuboid."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the following numbers in standard form."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$640\\,000$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$0.0006$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$\\begin{pmatrix} 4 \\\\ -2 \\end{pmatrix} - \\begin{pmatrix} 1 \\\\ 5 \\end{pmatrix}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$6 \\begin{pmatrix} 3 \\\\ 0 \\end{pmatrix}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Asif and Ben share $\\$2100$ in the ratio Asif : Ben = $3 : 7$.\n\nWork out how much Asif receives.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$\\$$"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The length of a truck, $L$ metres, is $8.2 \\text{ m}$, correct to 1 decimal place.\n\nComplete this statement about the value of $L$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": "$\\le L <$"
+          },
+          {
+            "prefix": "",
+            "suffix": ""
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$t^{21} \\div t^7$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$(u^5)^5$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a right-angled triangle.\n\nCalculate the value of $x$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper11/Q12/Q12_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$p = \\frac{5.9 - 4.3}{1.6 + 9.62}$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "By writing each number correct to 1 significant figure, work out an estimate for $p$.\n\nYou must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the exact value of $p$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$27 \\quad 28 \\quad 29 \\quad 30 \\quad 31 \\quad 32 \\quad 33$$\n\nFrom the list of numbers, write down"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a multiple of $7$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a cube number,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a prime number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $\\frac{5}{6} + \\frac{2}{3}$.\n\nYou must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "These are the first four terms of a sequence.\n\n$$5 \\quad 8 \\quad 11 \\quad 14$$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper11/Q16/Q16_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the next term."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find an expression, in terms of $n$, for the $n$th term."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper11/Q17/Q17_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Explain why triangle $ABC$ and triangle $PQR$ are similar."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $AC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$AC$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A car travels at a constant speed of $20 \\text{ m/s}$.\n\nWork out the time it takes for the car to travel $10 \\text{ km}$.\n\nGive your answer in minutes and seconds."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": "minutes"
+          },
+          {
+            "prefix": "",
+            "suffix": "seconds"
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper11/Q19/Q19_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper11/Q19/Q19_Suba_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "On each shape, draw all the lines of symmetry."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the name of a quadrilateral that has"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "rotational symmetry of order $2$\n\nand",
+                "exactly two lines of symmetry."
+              ]
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper11/Q20/Q20_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper11/Q20/Q20_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Change $3670 \\text{ centimetres}$ to metres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The scale drawing shows the positions of town $S$ and town $T$.\n\nThe scale is $1 \\text{ centimetre}$ represents $15 \\text{ kilometres}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the actual distance between these two towns."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km}$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Measure the bearing of town $T$ from town $S$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The travel graph shows Michael’s journey from his home to the beach."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper11/Q21/Q21_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "At what time did he start his journey?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the journey he stopped for a rest."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the distance he was from home when he stopped for a rest."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km}$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "For how many minutes did he stop?"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{min}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Explain how the graph shows that Michael travelled faster before he stopped than after he stopped."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 22,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a point $P$ and a line $L$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper11/Q22/Q22_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the co-ordinates of point $P$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the gradient of line $L$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the equation of line $L$ in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1426 @@
+{
+  "v": "1.0",
+  "paper": "2019MayJune-Paper33",
+  "board": "cie",
+  "code": "0580",
+  "year": 2019,
+  "session": "MayJune",
+  "paperNum": "33",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": "This question is about numbers and arithmetic."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q01/Q01_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write this number in figures.\n\nOne million three hundred and two thousand five hundred and ninety-six."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q01/Q01_Subb_Fig2.png"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Two numbers are added together to give the number in the box immediately above.\n\nComplete the diagram."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Two numbers are multiplied together to give the number in the box immediately above.\n\nComplete the diagram."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write these in order of size, starting with the smallest.\n\n$\\frac{27}{5}$ \\qquad $18.4\\%$ \\qquad $1.83 \\times 10^{-1}$ \\qquad $5^{-1}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": "<"
+              },
+              {
+                "prefix": "",
+                "suffix": "<"
+              },
+              {
+                "prefix": "",
+                "suffix": "<"
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $142$ as a percentage of $304$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(e)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the highest common factor (HCF) of 28 and 98."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(e)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the lowest common multiple (LCM) of 28 and 98."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(f)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The average distance from Earth to Mars is $2.25 \\times 10^8\\text{ km}$.\n\nA space ship travels from Earth to Mars at an average speed of $5.8 \\times 10^4\\text{ km/h}$.\n\nFind how long, in hours, the journey takes."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "hours"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Three quadrilaterals are shown on a $1\\text{ cm}^2$ grid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name of the shaded quadrilateral."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "For the shaded quadrilateral"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "measure the perimeter,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "work out the area."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps the shaded quadrilateral onto"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "quadrilateral A,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "....................................................................................................................................................\n...................................................................................................................................................."
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "quadrilateral B."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "....................................................................................................................................................\n...................................................................................................................................................."
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid,"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "reflect the shaded quadrilateral in the line $x = 1$,"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "enlarge the shaded quadrilateral by scale factor $\\frac{1}{2}$, centre $(-1, 0)$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The music teacher at a school forms an orchestra.\n\nThe instruments in the orchestra are $36$ string, $15$ woodwind and $12$ brass."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the ratio   string : woodwind : brass   in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": ":"
+              },
+              {
+                "prefix": "",
+                "suffix": ":"
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The 36 string instruments are violins, cellos and double basses in the ratio\nviolins : cellos : double basses  =  $9 : 2 : 1$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that the number of violins is $27$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the number of cellos and the number of double basses."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "Cellos",
+                    "suffix": ""
+                  },
+                  {
+                    "prefix": "Double basses",
+                    "suffix": ""
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The 15 woodwind instruments are oboes, flutes and clarinets.\n\n$20\\%$ of these instruments are oboes.\n\nThere are twice as many flutes as clarinets.\n\nFind the number of flutes."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Of the 12 brass instruments, $\\frac{1}{3}$ are trumpets, $3$ are trombones and the remainder are horns.\n\nFind the number of horns."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q03/Q03_Sube_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "The music teacher needs to buy all the instruments for the orchestra."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|}\n\\hline\n& Number of instruments & Price of each instrument (\\$) & Cost (\\$) \\\\\n\\hline\nString & 36 & 131 & 4716 \\\\\n\\hline\nWoodwind & 15 & 217 & \\\\\n\\hline\nBrass & 12 & 221 & \\\\\n\\hline\n\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(e)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(e)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the total cost of all the instruments."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "\\$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(f)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The school is given $65\\%$ of the total cost of all the instruments.\n\nFind how much more money is needed."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "\\$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "This question is about graphing quadratic equations."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q04/Q04_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Complete the table of values for $y = 5 + 2x - x^2$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\n\\hline\n$x$ & -2 & -1 & 0 & 1 & 2 & 3 & 4 \\\\\n\\hline\n$y$ & & 2 & 5 & 6 & & & -3 \\\\\n\\hline\n\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q04/Q04_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = 5 + 2x - x^2$ for $-2 \\leqslant x \\leqslant 4$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the line of symmetry."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the equation of the line of symmetry."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to find the solutions of the equation $5 + 2x - x^2 = 4$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ =",
+                "suffix": ""
+              },
+              {
+                "prefix": "or $x$ =",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(e)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw a line from $(-1, 2)$ to $(1, 6)$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(e)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of this line in the form $y = mx + c$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$y$ ="
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows a play area, $ABCDE$.\n\nThe scale is $1$ centimetre represents $3$ metres."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q05/Q05_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the actual distance $h$ in metres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$h$ =",
+            "suffix": "$\\text{m}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the actual area of triangle $CDE$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}^2$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A straight path crosses the play area from $C$ to $AB$.\n\nIt is equidistant from $CB$ and $CD$.\n\nUsing a straight edge and compasses only, construct the path.\n\nShow all your construction arcs."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "There is a circular pool in the play area.\n\nThe pool has a diameter of $8\\text{ m}$.\n\nCalculate"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the circumference of the pool,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{m}$"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the area of the pool."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{m}^2$"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "This question is about angles."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q06/Q06_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "In the diagram, $ABC$ is a straight line.\n\n$AD$ is parallel to $BE$, angle $BAD = 34^\\circ$ and $AB = BD$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the statements."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "(a) $p$ =",
+                    "suffix": "because"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  },
+                  {
+                    "prefix": "(b) $q$ =",
+                    "suffix": "because"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the value of $r$ and the value of $s$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$r$ =",
+                    "suffix": ""
+                  },
+                  {
+                    "prefix": "$s$ =",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of $t$ and give a reason for your answer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$t$ =",
+                    "suffix": "because"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q06/Q06_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "In the diagram, $B$ and $D$ are points on the circumference of a circle, centre $O$.\n\n$AC$ is a straight line touching the circle at $B$ only and $BD$ is a straight line through $O$.\n\nComplete the statement."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "Angle $ABD$ =",
+                "suffix": "because"
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The travel graph shows part of a train journey between station A and station C."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q07/Q07_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate, in km/h, the speed of the train between station A and station B."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km/h}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The train leaves station B at 14 40.\n\nFor how many minutes did the train stop at station B?"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{min}$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The train travels at a constant speed between station B and station C, arriving at 15 20.\n\nComplete the travel graph for the journey between station B and station C."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On which part of the journey was the train travelling faster?"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "Between station",
+                    "suffix": "and station"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Another train leaves station C at 12 45.\n\nIt travels to station A at a constant speed of $62\\text{ km/h}$ without stopping at station B."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out how long, in hours and minutes, this journey takes."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "",
+                    "suffix": "h"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": "min"
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the time this train arrives at station A."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, show the journey of this train."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the distance from station A when the two trains pass each other."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km}$"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "This question is about data representation and statistics."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q08/Q08_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 9,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q08/Q08_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Kyung records the number of people in each of $24$ cars on Wednesday.\n\nHis results are shown below.\n\n$1, 3, 6, 1, 2, 2, 4, 5, 3, 4, 1, 5, 3, 2, 4, 1, 1, 1, 2, 4, 4, 1, 2, 1$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the frequency table.\n\nYou may use the tally column to help you."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|c|c|c|}\n\\hline\nNumber in a car & Tally & Frequency \\\\\n\\hline\n1 & & \\\\\n\\hline\n2 & & \\\\\n\\hline\n3 & & \\\\\n\\hline\n4 & & \\\\\n\\hline\n5 & & \\\\\n\\hline\n6 & & \\\\\n\\hline\n\\end{tabular}"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mode."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the median."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(v)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the mean."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(vi)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One of these cars is chosen at random.\n\nFind the probability that the number of people in this car is 4."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Kyung also records the number of people in each of $24$ cars on Saturday.\n\nThe table shows the results."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|c|}\n\\hline\nNumber in a car & 1 & 2 & 3 & 4 & 5 & 6 \\\\\n\\hline\nFrequency & 1 & 2 & 5 & 13 & 2 & 1 \\\\\n\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "On the grid, complete the bar chart to show these results."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down one comparison between the frequency tables in part (a)(i) and part (b)."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "............................................................................................................................................................\n............................................................................................................................................................"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Mr Razif travels by bus from Singapore to Kuala Lumpur with his wife and his four children."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper33/Q09/Q09_Suba_Fig1.png"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|}\n\\hline\nTicket & Price \\\\\n\\hline\nAdult & \\$32.40 \\\\\n\\hline\nChild & \\$24.40 \\\\\n\\hline\nFamily (2 adults and 3 children) & \\$115.00 \\\\\n\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Work out how much Mr Razif saves if he buys a family ticket and one child ticket rather than six individual tickets."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "\\$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The bus leaves Singapore at 12 40 and arrives in Kuala Lumpur at 17 35.\n\nWork out, in hours and minutes, the time this journey takes."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": "h"
+              },
+              {
+                "prefix": "",
+                "suffix": "min"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Mr Razif changes some dollars into Malaysian ringgits.\n\nHe receives $318\\text{ ringgits}$ when the exchange rate is $\\$1 = 4.24\\text{ ringgits}$.\n\nWork out how many dollars he changes.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "\\$"
+          }
+        }
+      ]
+    }
+  ]
+}

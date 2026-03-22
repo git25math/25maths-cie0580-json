@@ -1,0 +1,1484 @@
+{
+  "v": "1.0",
+  "paper": "2019MayJune-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2019,
+  "session": "MayJune",
+  "paperNum": "42",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The price of a newspaper increased from $0.97 to $1.13 ."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the percentage increase."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "One day, the newspaper had 60 pages of news and advertisements."
+            },
+            {
+              "type": "text",
+              "content": "The ratio number of pages of news : number of pages of advertisements = 5 : 7."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the number of pages of advertisements."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write the number of pages of advertisements as a percentage of the number of pages of news."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "On holiday Maria paid 2.25 euros for the newspaper when the exchange rate was $1 = 0.9416 euros.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "At home Maria paid $1.13 for the newspaper.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the difference in price."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in dollars, correct to the nearest cent."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The number of newspapers sold decreases exponentially by $x\\%$ each year."
+            },
+            {
+              "type": "text",
+              "content": "Over a period of 21 years the number of newspapers sold decreases from 1 763 000 to 58 000."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Every page of the newspaper is a rectangle measuring 43 cm by 28 cm, both correct to the nearest centimetre."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the upper bound of the area of a page."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagrams show geometric figures."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper42/Q02/Q02_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper42/Q02/Q02_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$AC$ is parallel to $FBD$, $ABC$ is an isosceles triangle and $CBE$ is a straight line."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a circle with diameter $PQ$."
+            },
+            {
+              "type": "text",
+              "content": "$SPT$ is a tangent to the circle at $P$."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $y$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The probability that Andrei cycles to school is $r$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down, in terms of $r$, the probability that Andrei does not cycle to school."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "The probability that Benoit does not cycle to school is $1.3 - r$."
+            },
+            {
+              "type": "text",
+              "content": "The probability that both Andrei and Benoit do not cycle to school is 0.4 ."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the equation in terms of $r$."
+                },
+                {
+                  "type": "text",
+                  "content": "(.........................) $\\times$ (.........................) = 0.4"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that this equation simplifies to $10r^2 - 23r + 9 = 0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Solve by factorisation $10r^2 - 23r + 9 = 0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$r$ =",
+                    "suffix": "or"
+                  },
+                  {
+                    "prefix": "$r$ ="
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that Benoit does not cycle to school."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The question concerns coordinate geometry."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper42/Q04/Q04_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The equation of a straight line is $y = \\frac{2}{3}x + 4$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the gradient of this line."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the co-ordinates of the point where the line crosses the y-axis."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a straight line $L$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of line $L$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of the line perpendicular to line $L$ that passes through $(9, 3)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A$ is the point $(8, 5)$ and $B$ is the point $(-4, 1)$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the length of $AB$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the co-ordinates of the midpoint of $AB$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows some values of $y = \\frac{1}{2x} - \\frac{x}{4}$ for $0.15 \\le x \\le 3.5$."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|c|c|c|c|}\\hline$x$ & 0.15 & 0.2 & 0.5 & 1 & 1.5 & 2 & 2.5 & 3 & 3.5 \\\\\\hline$y$ & 3.30 & & 0.88 & & -0.04 & & -0.43 & -0.58 & -0.73 \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper42/Q05/Q05_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper42/Q05/Q05_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = \\frac{1}{2x} - \\frac{x}{4}$ for $0.15 \\le x \\le 3.5$."
+            },
+            {
+              "type": "text",
+              "content": "The last two points have been plotted for you."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to solve the equation $\\frac{1}{2x} - \\frac{x}{4} = \\frac{1}{2}$ for $0.15 \\le x \\le 3.5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Questions about a straight line."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the line $y = 2 - x$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the $x$ co-ordinates of the points where the line $y = 2 - x$ crosses the graph of $y = \\frac{1}{2x} - \\frac{x}{4}$ for $0.15 \\le x \\le 3.5$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$x$ =",
+                    "suffix": "and"
+                  },
+                  {
+                    "prefix": "$x$ ="
+                  }
+                ]
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that the graph of $y = \\frac{1}{2x} - \\frac{x}{4}$ can be used to find the value of $\\sqrt{2}$ for $0.15 \\le x \\le 3.5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Algebraic manipulation and equation solving."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify."
+            },
+            {
+              "type": "text",
+              "content": "$-(x + 7)(x - 3)$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise completely."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$15p^2q^2 - 25q^3$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$4fg + 6gh + 10fk + 15hk$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$81k^2 - m^2$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the equation."
+            },
+            {
+              "type": "text",
+              "content": "$3(x - 4) + \\frac{x + 2}{5} = 6$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Questions about a regular pentagon."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper42/Q07/Q07_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that each interior angle of a regular pentagon is $108^\\circ$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a regular pentagon $ABCDE$."
+            },
+            {
+              "type": "text",
+              "content": "The vertices of the pentagon lie on a circle, centre $O$, radius 12 cm."
+            },
+            {
+              "type": "text",
+              "content": "$M$ is the midpoint of $BC$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $BM$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$BM$ =",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 6,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$OMX$ and $ABX$ are straight lines."
+                }
+              ],
+              "subparts": [
+                {
+                  "label": "(b)(ii)(a)",
+                  "marks": 3,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Find $BX$."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "number",
+                    "prefix": "$BX$ =",
+                    "suffix": "$\\text{cm}$"
+                  }
+                },
+                {
+                  "label": "(b)(ii)(b)",
+                  "marks": 3,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Calculate the area of triangle $AOX$."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "number",
+                    "suffix": "$\\text{cm}^2$"
+                  }
+                }
+              ],
+              "answer": null
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Questions involving triangles and a sector of a circle."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper42/Q08/Q08_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper42/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows two triangles $ABD$ and $BCD$."
+            },
+            {
+              "type": "text",
+              "content": "$AD = 16.5 \\text{ cm}$ and $BD = 12.4 \\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "Angle $ADB = 64^\\circ$, angle $BDC = 53^\\circ$ and angle $DBC = 95^\\circ$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $AB$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$AB$ =",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $BC$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$BC$ =",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a sector of a circle of radius 3.8 cm."
+            },
+            {
+              "type": "text",
+              "content": "The arc length is 7.7 cm."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the value of $y$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$y$ ="
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the area of the sector."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "100 students were each asked how much money, $m, they spent in one week.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "The frequency table shows the results."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hlineAmount ($\\$m$) & $0 < m \\le 5$ & $5 < m \\le 10$ & $10 < m \\le 20$ & $20 < m \\le 30$ & $30 < m \\le 50$ \\\\\\hlineFrequency & 16 & 38 & 30 & 9 & 7 \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper42/Q09/Q09_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper42/Q09/Q09_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate an estimate of the mean."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the cumulative frequency table below."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hlineAmount ($\\$m$) & $m \\le 5$ & $m \\le 10$ & $m \\le 20$ & $m \\le 30$ & $m \\le 50$ \\\\\\hlineCumulative frequency & 16 & & & & 100 \\\\\\hline\\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the cumulative frequency diagram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your cumulative frequency diagram to find an estimate for"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the median,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the interquartile range,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            },
+            {
+              "label": "(d)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the number of students who spent more than $25.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Questions about volume and similarity."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper42/Q10/Q10_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The volume of a solid metal sphere is 24 430 cm$^3$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the radius of the sphere."
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\frac{4}{3}\\pi r^3$]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The metal sphere is placed in an empty tank."
+                },
+                {
+                  "type": "text",
+                  "content": "The tank is a cylinder with radius 50 cm, standing on its circular base."
+                },
+                {
+                  "type": "text",
+                  "content": "Water is poured into the tank to a depth of 60 cm."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the number of litres of water needed."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "litres"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "A different tank is a cuboid measuring 1.8 m by 1.5 m by 1.2 m."
+            },
+            {
+              "type": "text",
+              "content": "Water flows from a pipe into this empty tank at a rate of 200 cm$^3$ per second."
+            },
+            {
+              "type": "text",
+              "content": "Find the time it takes to fill the tank."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in hours and minutes."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "suffix": "hours"
+              },
+              {
+                "suffix": "minutes"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows two mathematically similar shapes with areas 295 cm$^2$ and 159.5 cm$^2$."
+            },
+            {
+              "type": "text",
+              "content": "The width of the larger shape is 17 cm."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the width of the smaller shape."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The sequence of diagrams above is made up of small lines and dots."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper42/Q11/Q11_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper42/Q11/Q11_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|c|}\\hline & Diagram 1 & Diagram 2 & Diagram 3 & Diagram 4 & Diagram 5 & Diagram 6 \\\\\\hlineNumber of small lines & 4 & 10 & 18 & 28 & & \\\\\\hlineNumber of dots & 4 & 8 & 13 & 19 & & \\\\\\hline\\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "For Diagram $n$ find an expression, in terms of $n$, for the number of small lines."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Diagram $r$ has 10 300 small lines."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $r$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$r$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The number of dots in Diagram $n$ is $an^2 + bn + 1$."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $a$ and the value of $b$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$a$ ="
+              },
+              {
+                "prefix": "$b$ ="
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

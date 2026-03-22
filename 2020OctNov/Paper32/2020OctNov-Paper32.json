@@ -1,0 +1,1445 @@
+{
+  "v": "1.0",
+  "paper": "2020OctNov-Paper32",
+  "board": "cie",
+  "code": "0580",
+  "year": 2020,
+  "session": "OctNov",
+  "paperNum": "32",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": "George, Louis and Beatriz have a café."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q01/Q01_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q01/Q01_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q01/Q01_Suba_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q01/Q01_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "George records the number of each type of meal sold.\nHe draws a pictogram to show his results.\nAll rows are complete except for Salad."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Six salads were sold.\nComplete the pictogram."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down which type of meal was sold most."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the number of meals sold altogether."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The café also sells drinks."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|}\\hline Cup of tea & \\$2.20 \\\\ Cup of coffee & \\$2.80 \\\\ Bottle of juice & \\$1.50 \\\\ Bottle of water & \\$1.35 \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Johan buys 2 cups of tea, 1 bottle of juice and 1 bottle of water.\nCalculate the change he receives from a $10 note.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the opening times of the café."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|}\\hline Monday to Friday & 8 am to 6 pm \\\\ Saturday & 9.30 am to 3 pm \\\\ Sunday & Closed \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Work out the total number of hours the café is open in one week."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "hours"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "One week the café makes a profit of $1027.\nGeorge, Louis and Beatriz share this profit in the ratio George : Louis : Beatriz = 7 : 4 : 2.\nCalculate the amount of money they each receive.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "George $",
+                "suffix": ""
+              },
+              {
+                "prefix": "Louis $",
+                "suffix": ""
+              },
+              {
+                "prefix": "Beatriz $",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In 2019 the rent for the café was $7275.\nIn 2020 the rent is $7566.\nCalculate the percentage increase in the rent."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "George drives 315 km from the café to the airport.\nThe journey takes 3 hours 30 minutes.\nCalculate his average speed."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "km/h"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q02/Q02_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q02/Q02_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q02/Q02_Sube_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q02/Q02_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure the length of this line in millimetres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "mm"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Measure the size of angle $x$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name of this type of angle."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$ABC$ is a straight line and $BCD$ is an isosceles triangle.\nFind the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the size of one interior angle of a regular 16-sided polygon."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(e)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete this statement.\n$X$, $Y$ and $Z$ are points on the .................................................. of the circle, centre $O$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(e)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Give a reason why angle $XYZ$ is 90°."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(f)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A circle has diameter 6 cm.\nCalculate the area of the circle.\nGive the units of your answer."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": ""
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 11,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q03/Q03_Suba_Fig2.png"
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q03/Q03_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Write down the mathematical name for this"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "quadrilateral,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "solid."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The area of a square is 64 cm$^2$.\nWork out the length of one side of the square."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "cm"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The length, $l$, of a rectangle is 3 cm longer than the width, $w$.\nThe perimeter of the rectangle is 26 cm.\nCalculate the length, $l$, and the width, $w$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$l$ =",
+                "suffix": "cm"
+              },
+              {
+                "prefix": "$w$ =",
+                "suffix": "cm"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q03/Q03_Subd_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "A cuboid measures 6 cm by 3 cm by 1 cm."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the 1 cm$^2$ grid, draw an accurate net of this cuboid.\nOne face has been drawn for you."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the surface area of the cuboid."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "cm$^2$"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q04/Q04_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q04/Q04_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Sami travels to work by bus.\nThe bus leaves the bus station at 07 35."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "It takes Sami 23 minutes to walk from his house to the bus station.\nWork out the latest time Sami can leave his house."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The bus journey takes 41 minutes.\nWork out the arrival time of the bus."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The scale drawing shows the positions of two towns, $A$ and $B$.\nThe scale is 1 centimetre represents 10 kilometres."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the actual distance between town $A$ and town $B$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "km"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Town $C$ is 85 km from town $A$ on a bearing of 100°.\nOn the scale drawing, mark the position of town $C$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q05/Q05_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here are the weekly wages, in dollars, of the ten workers in an office.\n280       200       175       1180       95       182       238       256       194       250"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the median."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the mean."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "For this office, explain why the mean is not a suitable average."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The stem-and-leaf diagram shows the ages of the workers in a factory."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{c|l} 1 & 6 7 7 9 \\\\ 2 & 2 3 4 6 8 \\\\ 3 & 0 2 3 6 9 \\\\ 4 & 1 4 4 8 \\\\ 5 & 0 1 6 6 6 9 \\\\ 6 & 1 5 8 \\\\ \\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Key :  2  3  represents 23"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mode."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 11,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 60 025 in words."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 849.481 correct to 1 decimal place."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "all the factors of 21,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a prime number between 40 and 50."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $5^{-2}$ as a decimal."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(e)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\sqrt[3]{2744}$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(e)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$7^0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(f)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Gino invests $6000 for 5 years at a rate of 1.2% per year compound interest.\nCalculate the value of his investment at the end of the 5 years.\nGive your answer correct to the nearest dollar.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q07/Q07_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ onto triangle $B$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ onto triangle $C$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ onto triangle $D$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, enlarge triangle $A$ by scale factor 0.5, centre (4, 0)."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q08/Q08_Subd_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q08/Q08_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q08/Q08_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "COMMONWEALTH\nLindon picks a letter at random from this word.\nExplain why the probability that he picks a letter M is not $\\frac{1}{10}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Tickets for athletics or swimming or hockey or diving are placed in a box.\nA ticket is picked at random from the box."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|}\\hline Sport & Athletics & Swimming & Hockey & Diving \\\\ \\hline Probability & 0.12 & 0.09 & & 0.4 \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Complete the table."
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "In a group of 40 students,\n• 24 students like football\n• 19 students like cricket\n• 10 students like football but not cricket.\nComplete the Venn diagram."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\mathscr{E} = \\{x : x \\text{ is a positive integer less than } 20\\}$\n$A = \\{x : x \\text{ is an even number}\\}$\n$B = \\{x : x \\text{ is a multiple of } 3\\}$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down $n(A)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "List the elements of set $B$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$B = \\{$"
+              }
+            },
+            {
+              "label": "(d)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One of these 19 numbers is picked at random.\nWork out the probability that this number is"
+                }
+              ],
+              "subparts": [
+                {
+                  "label": "(d)(iii)(a)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "not in set $A$ and not in set $B$,"
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "number"
+                  }
+                },
+                {
+                  "label": "(d)(iii)(b)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "in $A \\cap B$."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "number"
+                  }
+                }
+              ]
+            },
+            {
+              "label": "(d)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the statement.\n$A \\cup B = \\{x : x \\text{ is ........................................................................................ }\\}$"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 15,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify.\n$4x + 3y - 2x + 8y$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A pen costs 60 cents and a ruler costs 29 cents.\nWrite down an expression for the total cost, in cents, of $x$ pens and $y$ rulers."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "suffix": "cents"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve.\n$5(x + 4) = 85$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$2^8 \\times 2^6 = 2^m$\nWork out the value of $m$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$m$ ="
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$5^4 \\div 5^6 = 5^n$\nWork out the value of $n$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$n$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(e)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "A plant costs $p$ dollars and a bush costs $b$ dollars.\nAna buys 2 plants and 4 bushes for $42.\nPaola buys 7 plants and 9 bushes for $107.\nWrite down a pair of simultaneous equations and solve them to find the value of $p$ and the value of $b$.\nYou must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$p$ =",
+                "suffix": ""
+              },
+              {
+                "prefix": "$b$ =",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 8,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table of values for $y = x^2 - 3x - 4$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|c|c|c|} \\hline $x$ & -2 & -1 & 0 & 1 & 2 & 3 & 4 & 5 \\\\ \\hline $y$ & 2 & 3 & & -6 & -6 & & -3 & -2 \\\\ \\hline \\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper32/Q10/Q10_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = x^2 - 3x - 4$ for $-2 \\le x \\le 5$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to solve the equation $x^2 - 3x - 4 = 0$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ =",
+                "suffix": ""
+              },
+              {
+                "prefix": "or $x$ =",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

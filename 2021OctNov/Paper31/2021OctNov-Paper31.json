@@ -1,0 +1,1698 @@
+{
+  "v": "1.0",
+  "paper": "2021OctNov-Paper31",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "OctNov",
+  "paperNum": "31",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 12,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "14 17 25 27 30 36 48"
+            },
+            {
+              "type": "text",
+              "content": "From the list, write down"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the square root of 289,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a factor of 81,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a common multiple of 3 and 5."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A$, $B$ and $C$ are three consecutive whole numbers."
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "$A$ is a prime number.",
+                "$B$ is a cube number.",
+                "$C$ is a square number.",
+                "$A + B + C$ is less than 40."
+              ]
+            },
+            {
+              "type": "text",
+              "content": "Find $A$, $B$ and $C$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3,
+            "template": "$A = $ ____\n$B = $ ____\n$C = $ ____"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Put one pair of brackets into each of these calculations to make them correct."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$4 \\times 3 + 7 \\div 2 = 20$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$51 - 12 \\div 3 + 6 = 19$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the reciprocal of 8,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the value of $14^0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(e)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$5^4$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(e)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\sqrt[3]{6859}$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(e)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$16^{-\\frac{1}{2}}$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q02/Q02_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q02/Q02_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "In one year, a theatre sells four hundred and ninety-six thousand and fifty tickets."
+            },
+            {
+              "type": "text",
+              "content": "Write this number in figures."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "The theatre is used for performances of operas, plays, concerts and musicals."
+            },
+            {
+              "type": "text",
+              "content": "The pie chart shows information about the number of each type of performance."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete these statements."
+                },
+                {
+                  "type": "text",
+                  "content": "The type of performance shown the most is .................................. ."
+                },
+                {
+                  "type": "text",
+                  "content": "The sector angle for this type of performance is .................... degrees."
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "The type of performance shown the most is",
+                    "suffix": "."
+                  },
+                  {
+                    "prefix": "The sector angle for this type of performance is",
+                    "suffix": "degrees."
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the percentage of performances that are plays."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The theatre is used for 320 performances in the year."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the number of opera performances."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The number of concert performances is in the ratio classical music : popular music = 7 : 5."
+                },
+                {
+                  "type": "text",
+                  "content": "There are 56 classical music concerts."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the number of popular music concerts."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows the prices of a child ticket and a senior ticket for a play."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|}\n\\hline\nAdult & Child & Senior \\\\\n\\hline\n\\$ ...................... & \\$15.50 & \\$35 \\\\\n\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Alex buys tickets for 2 adults, 3 children and 1 senior."
+            },
+            {
+              "type": "text",
+              "content": "He pays a total of $159.50 .",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Complete the table."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Last week the cost of a ticket for a musical was $65.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "This week the same ticket costs $55.90 .",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Find the percentage reduction in the cost of this ticket."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 17,
+      "stem": [
+        {
+          "type": "text",
+          "content": "360 people go on a school trip to one of four places."
+        },
+        {
+          "type": "text",
+          "content": "Some of the information is shown in the table."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|}\n\\hline\n& Adventure park & Botanic gardens & Wildlife centre & Red castle & Total \\\\\n\\hline\nBoys & 65 & 12 & & 36 & \\\\\n\\hline\nGirls & & 9 & 62 & & 163 \\\\\n\\hline\nStaff & 15 & 3 & & & 37 \\\\\n\\hline\nTotal & 144 & 24 & 121 & 71 & 360 \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the probability that"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a girl, picked at random, visits the Wildlife centre,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a person, picked at random from those visiting the Botanic gardens, is a girl,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a person, picked at random, visits the Adventure park or the Botanic gardens."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The people who visit the Adventure park travel by coach."
+            },
+            {
+              "type": "text",
+              "content": "Each coach has 52 seats for passengers."
+            },
+            {
+              "type": "text",
+              "content": "Complete this statement."
+            },
+            {
+              "type": "text",
+              "content": "The least number of coaches needed for the trip to the Adventure park is .......................... and there will be a total of ................ empty seats."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "The least number of coaches needed for the trip to the Adventure park is",
+                "suffix": "and"
+              },
+              {
+                "prefix": "there will be a total of",
+                "suffix": "empty seats."
+              }
+            ]
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The school hires one coach from each of two different companies for the trip to Red castle."
+            },
+            {
+              "type": "text",
+              "content": "A coach from Fast Track coaches costs $600 plus $0.72 per kilometre travelled."
+            },
+            {
+              "type": "text",
+              "content": "The total cost, in dollars, for travelling $x$ kilometres is $600 + 0.72x$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A coach from Rapid coaches costs $550 plus $1.12 per kilometre travelled."
+                },
+                {
+                  "type": "text",
+                  "content": "Write an expression for the total cost, in dollars, for travelling $x$ kilometres."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Both companies charge the same amount for the trip."
+                },
+                {
+                  "type": "text",
+                  "content": "Write down an equation and solve it to find the distance travelled."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The length, $l$ km, of the journey to the Wildlife centre is 53 km, correct to the nearest kilometre."
+            },
+            {
+              "type": "text",
+              "content": "Complete this statement about the value of $l$."
+            },
+            {
+              "type": "text",
+              "content": "..................... $\\leqslant l <$ ....................."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": "$\\leqslant l <$"
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Samira takes $31.50 to spend in the Botanic gardens.",
+              "_dollar_warning": true
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(f)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "She spends $\\frac{2}{7}$ of this money on food."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out how much Samira spends on food."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "\\$"
+              }
+            },
+            {
+              "label": "(f)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "At the end of the visit to the Botanic gardens, Samira has $4.50 left.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "What fraction of her money does Samira spend?"
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q04/Q04_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q04/Q04_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q04/Q04_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows two pairs of parallel lines."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of $a$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$a =$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of $b$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$b =$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a quadrilateral $ABCD$ and a straight line $ADE$."
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A$, $B$ and $C$ are points on the circle, centre $O$."
+            },
+            {
+              "type": "text",
+              "content": "$AC$ is a diameter of the circle and $ABD$ is a straight line."
+            },
+            {
+              "type": "text",
+              "content": "$DCE$ is a tangent to the circle at $C$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name for the line $BC$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Explain why angle $ABC$ is 90°."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of $x$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x =$"
+              }
+            },
+            {
+              "label": "(c)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of $y$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$y =$"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "11 students record the time they spent on social media and watching television during one week."
+        },
+        {
+          "type": "text",
+          "content": "The table shows the time, in hours, for each student."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\nSocial media (hours) & 2 & 9 & 18 & 6 & 28 & 14 & 7.5 & 27 & 22 & 19.5 & 13 \\\\\n\\hline\nTelevision (hours) & 25 & 23 & 18.5 & 27.5 & 12 & 16 & 17 & 9 & 15 & 11 & 20 \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q05/Q05_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the range of the times spent on social media."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "hours"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the scatter diagram."
+                },
+                {
+                  "type": "text",
+                  "content": "The first nine points have been plotted for you."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "What type of correlation is shown on the scatter diagram?"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Draw a line of best fit on the scatter diagram."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Another student spent 21 hours watching television."
+                },
+                {
+                  "type": "text",
+                  "content": "Use your line of best fit to estimate the number of hours this student spent on social media."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "hours"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q06/Q06_Subiv_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q06/Q06_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows the travel graph of a train journey from Wengen to Kleine Scheidegg."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Explain what happens between 14 09 and 14 10."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the journey time from Allmend to Wengernalp in minutes."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{min}$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the average speed for the train journey from Wengen to Kleine Scheidegg."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in km/h."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km/h}$"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Another train travels from Kleine Scheidegg to Wengen."
+                },
+                {
+                  "type": "text",
+                  "content": "The table gives information about its journey."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|}\n\\hline\nStation & Arrival time & Departure time \\\\\n\\hline\nKleine Scheidegg & & 14 01 \\\\\n\\hline\nWengernalp & \\multicolumn{2}{|c|}{Train does not stop} \\\\\n\\hline\nAllmend & 14 18 & 14 20 \\\\\n\\hline\nWengen & 14 30 & \\\\\n\\hline\n\\end{tabular}"
+                },
+                {
+                  "type": "text",
+                  "content": "On the travel graph, draw the journey for this train."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(v)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the time when the two trains pass each other."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The temperature in Wengen at 5 am was $-3$ °C."
+            },
+            {
+              "type": "text",
+              "content": "At 4 pm the temperature has increased by 10 °C."
+            },
+            {
+              "type": "text",
+              "content": "Work out the temperature at 4 pm."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A formula to work out the temperature at different heights above Wengen is"
+            },
+            {
+              "type": "text",
+              "content": "$$T = 2 - \\frac{h}{130}$$"
+            },
+            {
+              "type": "text",
+              "content": "where $T$ is the temperature in °C and $h$ is the height, in metres, above Wengen."
+            },
+            {
+              "type": "text",
+              "content": "Kleine Scheidegg is 780 m above Wengen."
+            },
+            {
+              "type": "text",
+              "content": "Work out the temperature at Kleine Scheidegg."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q07/Q07_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q07/Q07_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows the net of a cuboid on a $1 \\text{ cm}^2$ grid."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The net is folded to form the cuboid."
+                },
+                {
+                  "type": "text",
+                  "content": "(a) Write down which two corners join to corner A."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                },
+                {
+                  "type": "text",
+                  "content": "(b) Write down the edge which joins with KL."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "(a) ____\n(b) ____"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the total surface area of the cuboid."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the volume of the cuboid."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^3$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a cylinder with length $L$ cm."
+            },
+            {
+              "type": "text",
+              "content": "The radius of the cylinder is 3.2 cm and the volume is $775 \\text{ cm}^3$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the value of $L$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$L =$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the volume of a solid sphere with radius 3 cm."
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\frac{4}{3} \\pi r^3$.]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^3$"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Four of these spheres are placed inside the cylinder."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the percentage of the cylinder that is empty."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q08/Q08_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a right-angled triangle, $ABC$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that $BC = 75 \\text{ m}$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate angle $BAC$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $BAC$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a shape made from two right-angled triangles."
+            },
+            {
+              "type": "text",
+              "content": "The total area of this shape is $246 \\text{ cm}^2$."
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q09/Q09_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the image of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ after a rotation of 90° clockwise about the origin,"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ after a reflection in the line $x = 5$,"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ after an enlargement, scale factor 2, centre $(7, 7)$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle $A$ onto triangle $B$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q10/Q10_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper31/Q10/Q10_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table of values for $y = 4 + 3x - x^2$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|c|c|}\n\\hline\n$x$ & -2 & -1 & 0 & 1 & 2 & 3 & 4 \\\\\n\\hline\n$y$ & & 0 & 4 & 6 & & & 0 \\\\\n\\hline\n\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = 4 + 3x - x^2$ for $-2 \\leqslant x \\leqslant 4$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The line $y = 2x - 1$ is drawn on the grid."
+            },
+            {
+              "type": "text",
+              "content": "Use your graph to solve the equation $4 + 3x - x^2 = 2x - 1$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x =$",
+                "suffix": "or"
+              },
+              {
+                "prefix": "$x =$",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

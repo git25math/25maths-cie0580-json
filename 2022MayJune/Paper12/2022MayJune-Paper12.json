@@ -1,0 +1,929 @@
+{
+  "v": "1.0",
+  "paper": "2022MayJune-Paper12",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "MayJune",
+  "paperNum": "12",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the number six hundred and seven thousand five hundred and thirty-two in figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$61 \\quad 62 \\quad 63 \\quad 64 \\quad 65 \\quad 66 \\quad 67 \\quad 68 \\quad 69$"
+        },
+        {
+          "type": "text",
+          "content": "From the list of numbers, write down"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a square number,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a multiple of $13$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a factor of $186$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "the prime numbers."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On the grid, draw a triangle that is congruent to triangle $A$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The stem-and-leaf diagram shows the journey time to school of some students."
+        },
+        {
+          "type": "text",
+          "content": "Find"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper12/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the number of students with a journey time of more than $35$ minutes,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the mode."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{min}$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "This is Arania’s method to divide $213$ by $12 \\frac{1}{2}$ without using a calculator."
+        },
+        {
+          "type": "text",
+          "content": "Show how to use Arania’s method to work out $135 \\div 12 \\frac{1}{2}$ without using a calculator."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper12/Q05/Q05_Stem_Fig2.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Sammy records the favourite hot drink of some students."
+        },
+        {
+          "type": "text",
+          "content": "He draws a bar chart to show this information."
+        },
+        {
+          "type": "text",
+          "content": "Write down two different reasons why his bar chart is incorrect."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper12/Q06/Q06_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "1. ",
+            "suffix": ""
+          },
+          {
+            "prefix": "2. ",
+            "suffix": ""
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Put one pair of brackets into each calculation to make it correct."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$16 + 4 - 5 \\times 7 = 6$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$2 - 2 + 4 - 12 \\div 24 = 2$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 8,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "At noon, the temperature is $4^\\circ\\text{C}$."
+        },
+        {
+          "type": "text",
+          "content": "At midnight, the temperature is $-9^\\circ\\text{C}$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the difference in temperature between noon and midnight."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$^\\circ\\text{C}$"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Thibault records the number of cars of each colour in a car park."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|}\\hline Colour & Black & White & Silver & Red \\\\ \\hline Number of cars & 8 & 5 & 4 & 3 \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper12/Q09/Q09_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "He draws a pie chart to show this information."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the sector angle for the red cars."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two more white cars enter the car park and no cars leave the car park."
+            },
+            {
+              "type": "text",
+              "content": "When these two white cars are included in the results, will the sector angle for the red cars change?"
+            },
+            {
+              "type": "text",
+              "content": "Without doing any further calculations, give a reason for your decision."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": ".................... because ",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$\\mathbf{p} = \\begin{pmatrix} 8 \\\\ 2 \\end{pmatrix} \\quad \\mathbf{q} = \\begin{pmatrix} 4 \\\\ -1 \\end{pmatrix}$$"
+        },
+        {
+          "type": "text",
+          "content": "Find"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\mathbf{p} - \\mathbf{q}$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$6\\mathbf{p}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the total surface area of a cuboid with length $8 \\text{ cm}$, width $6 \\text{ cm}$ and height $3 \\text{ cm}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The total cost of $n$ bags of flour is $\\$d$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Write down an expression for the cost of one bag of flour."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "\\$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A bag of rice costs $\\$r$ and a bag of almonds costs $\\$a$."
+            },
+            {
+              "type": "text",
+              "content": "Pedro buys $x$ bags of rice and $y$ bags of almonds."
+            },
+            {
+              "type": "text",
+              "content": "Write down an expression for the change that Pedro receives from a $\\$20$ note.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "\\$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $68 \\times 153$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $6789.31$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to $2$ decimal places."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the ratio $5 \\times 10^{-1} : 2 : 3 \\times 10^1$ in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": " : "
+          },
+          {
+            "prefix": "",
+            "suffix": " : "
+          },
+          {
+            "prefix": "",
+            "suffix": ""
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The $n$th term of a sequence is $n^2 + 12$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the first three terms of this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": " , "
+              },
+              {
+                "prefix": "",
+                "suffix": " , "
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Is $5196$ a term in this sequence?"
+            },
+            {
+              "type": "text",
+              "content": "Give a reason for your decision."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": ".................... because ",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 16,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Two of the numbers in this list are irrational."
+        },
+        {
+          "type": "text",
+          "content": "$33 \\frac{1}{3}\\% \\quad \\sqrt{13} \\quad 1 \\frac{1}{3} \\quad \\sqrt[3]{343} \\quad 1.5\\dot{6} \\quad 7 \\times 10^{-5}$"
+        },
+        {
+          "type": "text",
+          "content": "Put a ring around each of these irrational numbers."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$9^x = 9^2 \\times 9^{12}$"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $x$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "By writing each number in the calculation correct to $1$ significant figure, find an estimate for the value of"
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{845.4 \\times 0.048}{2.7 - 2.32}.$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The length, $l$ metres, of a piece of rope is $30.7 \\text{ m}$, correct to $1$ decimal place."
+        },
+        {
+          "type": "text",
+          "content": "Complete this statement about the value of $l$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": " \\leqslant l < "
+          },
+          {
+            "prefix": "",
+            "suffix": ""
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            },
+            {
+              "type": "text",
+              "content": "$3(a - 2b) - (a - b)$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise."
+            },
+            {
+              "type": "text",
+              "content": "$8x^2 - xy$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the lowest common multiple (LCM) of $24$ and $28$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The bearing of $B$ from $A$ is $059^\\circ$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the bearing of $A$ from $B$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper12/Q22/Q22_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $4 \\frac{1}{8} - 2 \\frac{5}{6}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 24,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two right-angled triangles, $ABD$ and $BCD$."
+        },
+        {
+          "type": "text",
+          "content": "$AD = 5 \\text{ m}$, $DC = 14 \\text{ m}$ and angle $BAD = 53^\\circ$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate $BC$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper12/Q24/Q24_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$BC$ =",
+        "suffix": "$\\text{m}$"
+      }
+    }
+  ]
+}

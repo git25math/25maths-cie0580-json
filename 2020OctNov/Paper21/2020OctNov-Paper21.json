@@ -1,0 +1,910 @@
+{
+  "v": "1.0",
+  "paper": "2020OctNov-Paper21",
+  "board": "cie",
+  "code": "0580",
+  "year": 2020,
+  "session": "OctNov",
+  "paperNum": "21",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{a}{3} + \\frac{b}{7} - \\frac{a}{4} + b$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A field, $ABC$, is in the shape of a triangle."
+        },
+        {
+          "type": "text",
+          "content": "$AC = 500\\text{ m}$ and $BC = 650\\text{ m}$."
+        },
+        {
+          "type": "text",
+          "content": "Using a ruler and compasses only, complete the scale drawing of the field $ABC$."
+        },
+        {
+          "type": "text",
+          "content": "Leave in your construction arcs."
+        },
+        {
+          "type": "text",
+          "content": "Use a scale of $1\\text{ cm}$ to represent $100\\text{ m}$."
+        },
+        {
+          "type": "text",
+          "content": "The side $AB$ has been drawn for you."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper21/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Rangan buys $3.6\\text{ kg}$ of potatoes and $2.8\\text{ kg}$ of leeks."
+        },
+        {
+          "type": "text",
+          "content": "The total cost is $\\$13.72$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Leeks cost $\\$2.65$ per kilogram.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Find the cost of $1\\text{ kg}$ of potatoes."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "\\$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Aisha records the distance she runs and her average speed."
+        },
+        {
+          "type": "text",
+          "content": "The results are shown in the scatter diagram."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper21/Q04/Q04_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper21/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows the results of four more runs."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|}\\hline\nDistance (km) & 4.2 & 5.7 & 7.1 & 8.8 \\\\\n\\hline\nAverage speed (km/h) & 13.4 & 11.8 & 9.8 & 8.3 \\\\\n\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "On the scatter diagram, plot these points."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "What type of correlation is shown in the scatter diagram?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the scatter diagram, draw a line of best fit."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your line of best fit to estimate her average speed when she runs a distance of $6\\text{ km}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km/h}$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$T = \\frac{49.2 - 9.59}{4.085 \\times 2.35}$$"
+        },
+        {
+          "type": "text",
+          "content": "By writing each number correct to 1 significant figure, work out an estimate for $T$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper21/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $2 \\frac{2}{3} \\times 2 \\frac{3}{4}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper21/Q06/Q06_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Make $x$ the subject of this formula."
+        },
+        {
+          "type": "text",
+          "content": "$$y = \\frac{x}{2} - \\frac{5}{7}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "1, 2, 3, 5 and 7 are all common factors of two numbers."
+            },
+            {
+              "type": "text",
+              "content": "Write down the digit that the two numbers must end in."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $84$ as a product of its prime factors."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Ahmed increases 40 by $300\\%$."
+            },
+            {
+              "type": "text",
+              "content": "From this list, put a ring around the correct calculation."
+            },
+            {
+              "type": "text",
+              "content": "$40 \\times 1.300 \\quad 40 \\times 3 \\quad 40 \\times 400 \\quad 40 \\times 4 \\quad 40 \\times 300$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Ahmed finds the magnitude of the vector $\\begin{pmatrix} 2 \\\\ -3 \\end{pmatrix}$."
+            },
+            {
+              "type": "text",
+              "content": "From this list, put a ring around the correct calculation."
+            },
+            {
+              "type": "text",
+              "content": "$2^2 + -3^2 \\quad 2^2 - 3^2 \\quad 2^2 - (-3)^2 \\quad 2^2 + (-3)^2 \\quad (2)^2 + (-3)^2$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A town has a population of $45\\,000$."
+        },
+        {
+          "type": "text",
+          "content": "This population increases exponentially at a rate of $1.6\\%$ per year."
+        },
+        {
+          "type": "text",
+          "content": "Find the population of the town at the end of 5 years."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest hundred."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a rectangle with a line of symmetry at $x = 2$."
+        },
+        {
+          "type": "text",
+          "content": "Two vertices of the rectangle are at $(-1, 1)$ and $(-1, 4)$."
+        },
+        {
+          "type": "text",
+          "content": "The shaded region is defined by the inequalities $a \\le x \\le b$ and $c \\le y \\le d$."
+        },
+        {
+          "type": "text",
+          "content": "Find the values of $a$, $b$, $c$ and $d$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper21/Q11/Q11_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$a$ =",
+            "suffix": ""
+          },
+          {
+            "prefix": "$b$ =",
+            "suffix": ""
+          },
+          {
+            "prefix": "$c$ =",
+            "suffix": ""
+          },
+          {
+            "prefix": "$d$ =",
+            "suffix": ""
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The interior angle of a regular polygon with $n$ sides is $156^{\\circ}$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $n$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$n$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the recurring decimal $0.1\\dot{7}$ as a fraction in its simplest form."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the gradient of a line that is perpendicular to $y = \\frac{4}{5}x + 8$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the speed–time graph for 100 seconds of the journey of a car and of a motorbike."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper21/Q15/Q15_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the deceleration of the car between 60 and 100 seconds."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m/s}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate how much further the car travelled than the motorbike during the 100 seconds."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise $6x^2 + 7x - 20$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$f(x) = 3x^2 + a$ where $a$ is an integer."
+            },
+            {
+              "type": "text",
+              "content": "$f(-2) = 19$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $a$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$a$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "$g(x) = 2x + 7 \\quad h(x) = 3x - 8$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $gh(x)$ in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $g^{-1}(x)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$g^{-1}(x)$ ="
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a solid made from a cylinder and a hemisphere, both of radius $7\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "The cylinder has length $12\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the total surface area of the solid."
+        },
+        {
+          "type": "text",
+          "content": "[The surface area, $A$, of a sphere with radius $r$ is $A = 4\\pi r^2$.]"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper21/Q18/Q18_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In this Venn diagram, shade the region $M \\cap (N \\cup P)'$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper21/Q19/Q19_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a cyclic quadrilateral."
+        },
+        {
+          "type": "text",
+          "content": "The angles are $2x^{\\circ}$, $y^{\\circ}$, $(x + 60)^{\\circ}$ and $(4x - 87)^{\\circ}$."
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $y$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper21/Q20/Q20_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$y$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a cuboid $PQRSTUVW$."
+        },
+        {
+          "type": "text",
+          "content": "$PV = 17.2\\text{ cm}$"
+        },
+        {
+          "type": "text",
+          "content": "The angle between the line $PV$ and the base $TUVW$ of the cuboid is $43^{\\circ}$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate $PT$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper21/Q21/Q21_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$PT$ =",
+        "suffix": "$\\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{2x^2 - 50}{x^2 - 5x}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper21/Q23/Q23_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a parallelogram $CDEF$."
+            },
+            {
+              "type": "text",
+              "content": "$\\vec{FE} = \\mathbf{m}$ and $\\vec{EC} = \\mathbf{n}$."
+            },
+            {
+              "type": "text",
+              "content": "$B$ is the midpoint of $CD$."
+            },
+            {
+              "type": "text",
+              "content": "$FA = 2AC$"
+            },
+            {
+              "type": "text",
+              "content": "Find an expression, in terms of $\\mathbf{m}$ and $\\mathbf{n}$, for $\\vec{AB}$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$\\vec{AB}$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$\\vec{GH} = \\frac{5}{6}(2\\mathbf{p} + \\mathbf{q})$$"
+            },
+            {
+              "type": "text",
+              "content": "$$\\vec{JK} = \\frac{5}{18}(2\\mathbf{p} + \\mathbf{q})$$"
+            },
+            {
+              "type": "text",
+              "content": "Write down two facts about vectors $\\vec{GH}$ and $\\vec{JK}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        }
+      ],
+      "meta": {}
+    }
+  ]
+}

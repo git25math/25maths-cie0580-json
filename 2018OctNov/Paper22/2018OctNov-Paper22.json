@@ -1,0 +1,918 @@
+{
+  "v": "1.0",
+  "paper": "2018OctNov-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2018,
+  "session": "OctNov",
+  "paperNum": "22",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write $23\\ 000$ in standard form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a circle, centre $O$."
+        },
+        {
+          "type": "text",
+          "content": "$AB$ and $DE$ are chords of the circle."
+        },
+        {
+          "type": "text",
+          "content": "$M$ is the mid-point of $AB$ and $N$ is the mid-point of $DE$."
+        },
+        {
+          "type": "text",
+          "content": "$AB = DE = 9 \\text{ cm}$ and $OM = 5 \\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Find $ON$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper22/Q02/Q02_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$ON =$",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate $0.125^{-\\frac{2}{3}}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand."
+        },
+        {
+          "type": "text",
+          "content": "$(2x - 3)^2$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $\\frac{1}{15} + \\frac{2}{5}$."
+        },
+        {
+          "type": "text",
+          "content": "Write down all the steps of your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve."
+        },
+        {
+          "type": "text",
+          "content": "$7 - 2m \\ge 19$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$C = \\{x \\mid x \\text{ is an integer and } 5 < x < 12 \\}$"
+        },
+        {
+          "type": "text",
+          "content": "$D = \\{5, 10\\}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Put a ring around the correct statement from the list below."
+            },
+            {
+              "type": "text",
+              "content": "$D = \\emptyset \\qquad C \\cap D = \\{10\\} \\qquad 6 \\in D \\qquad D \\subset C$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $n(C \\cup D)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise."
+        },
+        {
+          "type": "text",
+          "content": "$xy + 5y + 2x + 10$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "There are $30\\ 000$ lions in Africa."
+        },
+        {
+          "type": "text",
+          "content": "The number of lions in Africa decreases exponentially by $2\\%$ each year."
+        },
+        {
+          "type": "text",
+          "content": "Find the number of lions in Africa after 6 years."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest hundred."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the mid-point of $AB$ where $A = (w, r)$ and $B = (3w, t)$."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in its simplest form in terms of $w$, $r$ and $t$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "coordinate",
+        "fields": 2
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "An equilateral triangle has side length $12 \\text{ cm}$, correct to the nearest centimetre."
+        },
+        {
+          "type": "text",
+          "content": "Find the lower bound and the upper bound of the perimeter of the triangle."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "Lower bound =",
+            "suffix": "$\\text{cm}$"
+          },
+          {
+            "prefix": "Upper bound =",
+            "suffix": "$\\text{cm}$"
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$x^\\circ$ is an obtuse angle and $\\sin x^\\circ = 0.43$."
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $x$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x =$"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "These are the first five terms of a sequence."
+        },
+        {
+          "type": "text",
+          "content": "$-4 \\qquad 2 \\qquad 8 \\qquad 14 \\qquad 20$"
+        },
+        {
+          "type": "text",
+          "content": "Find an expression for the $n$th term of this sequence."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "By shading the unwanted regions of the grid, find and label the region $R$ that satisfies the following four inequalities."
+        },
+        {
+          "type": "text",
+          "content": "$x \\le 3 \\qquad y \\ge 2 \\qquad y \\le \\frac{1}{2}x + 1 \\qquad y \\ge 4 - x$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper22/Q14/Q14_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$M = \\begin{pmatrix} 5 & -1 \\\\ -3 & 2 \\end{pmatrix}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $3M$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $M^{-1}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$x^2 - 12x + a = (x + b)^2$"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $a$ and the value of $b$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$a =$"
+          },
+          {
+            "prefix": "$b =$"
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the points $C(-1, 2)$ and $D(9, 7)$."
+        },
+        {
+          "type": "text",
+          "content": "Find the equation of the line perpendicular to $CD$ that passes through the point $(1, 3)$."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in the form $y = mx + c$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper22/Q17/Q17_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$y =$"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$120$ students choose what they want to do when they leave school."
+        },
+        {
+          "type": "text",
+          "content": "Their choices are shown in the table."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|}\\hline Choice & Number of students \\\\ \\hline University & 57 \\\\ \\hline Training & 45 \\\\ \\hline Work & 18 \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "text",
+          "content": "Complete the pie chart to show this information."
+        },
+        {
+          "type": "text",
+          "content": "Label each sector clearly."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper22/Q18/Q18_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper22/Q18/Q18_Stem_Fig2.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a pentagon $ABCDE$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper22/Q19/Q19_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Using a straight edge and compasses only, construct the bisector of angle $BCD$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw the locus of the points inside the pentagon that are $3 \\text{ cm}$ from $E$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Shade the region inside the pentagon that is"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "less than $3 \\text{ cm}$ from $E$"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "and"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "nearer to $DC$ than to $BC$."
+              ]
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Make $m$ the subject of the formula."
+        },
+        {
+          "type": "text",
+          "content": "$x = \\frac{3m}{m - 2}$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$m =$"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows an equilateral triangle $ABC$ with sides of length $10 \\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "$AMN$ is a sector of a circle, centre $A$."
+        },
+        {
+          "type": "text",
+          "content": "$M$ is the mid-point of $AC$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the area of the shaded region."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper22/Q21/Q21_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a cuboid with dimensions $5.5 \\text{ cm}$, $8 \\text{ cm}$ and $16.2 \\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the angle between the line $AB$ and the horizontal base of the cuboid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper22/Q22/Q22_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $56$ as a product of its prime factors."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the lowest common multiple (LCM) of $56$ and $42$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 24,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The time, $t$ minutes, $80$ students each spend completing their homework is recorded."
+        },
+        {
+          "type": "text",
+          "content": "The cumulative frequency diagram shows the results."
+        },
+        {
+          "type": "text",
+          "content": "Use the cumulative frequency diagram to find an estimate of"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper22/Q24/Q24_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the median,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{min}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "the interquartile range,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{min}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "the number of students who spend more than $40$ minutes completing their homework."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 25,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$f(x) = x^3$"
+            },
+            {
+              "type": "text",
+              "content": "$g(x) = 2x + 5$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $gf(x)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $g^{-1}(x)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$g^{-1}(x) =$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$h(x) = ax^2 + 1$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $a$ when $h(-2) = 21$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$a =$"
+          }
+        }
+      ]
+    }
+  ]
+}

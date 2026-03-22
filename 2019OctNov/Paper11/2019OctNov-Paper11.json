@@ -1,0 +1,770 @@
+{
+  "v": "1.0",
+  "paper": "2019OctNov-Paper11",
+  "board": "cie",
+  "code": "0580",
+  "year": 2019,
+  "session": "OctNov",
+  "paperNum": "11",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Change 4.6 metres to centimetres."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the order of rotational symmetry of this regular pentagon."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper11/Q02/Q02_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out 5% of $25.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise $5p + pt$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Rui has a bag containing 5 black pens, 8 red pens and 3 blue pens only."
+        },
+        {
+          "type": "text",
+          "content": "He takes a pen out of the bag at random."
+        },
+        {
+          "type": "text",
+          "content": "Draw an arrow ($\\downarrow$) on the probability scale to show the probability that Rui takes"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper11/Q05/Q05_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "a red pen,"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper11/Q05/Q05_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "a red pen or a blue pen."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 8473 correct to the nearest ten."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 16.086 correct to 2 decimal places."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write these in order of size, starting with the smallest."
+        },
+        {
+          "type": "text",
+          "content": "$$ \\frac{9}{19} \\quad \\frac{3}{7} \\quad 37\\% \\quad 0.43 $$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": "$<$"
+          },
+          {
+            "suffix": "$<$"
+          },
+          {
+            "suffix": "$<$"
+          },
+          {}
+        ]
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the base of a triangle."
+        },
+        {
+          "type": "text",
+          "content": "The lengths of the other two sides are 6 cm and 4 cm."
+        },
+        {
+          "type": "text",
+          "content": "Using a ruler and compasses only, construct the other two sides of the triangle."
+        },
+        {
+          "type": "text",
+          "content": "Show all your construction arcs."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate."
+        },
+        {
+          "type": "text",
+          "content": "$$ \\frac{16.379 - 0.879}{4.2 \\times 1.241} $$"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 2 significant figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Share 518 in the ratio 2 : 5."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": ","
+          },
+          {}
+        ]
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write 15 060"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "in words,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify"
+        },
+        {
+          "type": "text",
+          "content": "$$ \\frac{5c - d}{3} - \\frac{c - 2d}{2} $$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate the area of a circle with radius 12 cm."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Levante changes 24 650 Hungarian forints to dollars."
+        },
+        {
+          "type": "text",
+          "content": "The exchange rate is $1 = 290 forints.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate how many dollars Levante receives."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Paula invests $600 at a rate of $r\\%$ per year simple interest.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "At the end of 10 years, the total interest earned is $90.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $r$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$r =$"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out"
+        },
+        {
+          "type": "text",
+          "content": "$$ 1 \\frac{1}{7} \\times \\frac{5}{16} $$"
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify $$ 2x^3 \\times 3x^2 $$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Complete the table."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper11/Q18/Q18_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "table_input"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "27  14  8  93  32  55  14  38  73  47"
+        },
+        {
+          "type": "text",
+          "content": "From this list of numbers find"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "the median,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the range."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Juan travels from his home to a shop."
+        },
+        {
+          "type": "text",
+          "content": "The travel graph shows his journey."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper11/Q20/Q20_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the distance Juan travels to the shop."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down what happens at 14 00."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Juan travels home at a constant speed of 15 km/h."
+            },
+            {
+              "type": "text",
+              "content": "He leaves the shop at 15 15."
+            },
+            {
+              "type": "text",
+              "content": "Complete the travel graph."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Use trigonometry to calculate the value of $x$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper11/Q21/Q21_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x =$"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$ 8(w + 11) = 120 $$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$w =$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$ \\frac{x - 3}{2} = 3 $$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "text",
+          "content": "$$ 5x + 4y = 10 $$"
+        },
+        {
+          "type": "text",
+          "content": "$$ 7x - 6y = 43 $$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x = $ ____\n$y = $ ____"
+      }
+    },
+    {
+      "qnum": 24,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper11/Q24/Q24_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Complete the table of values for $y = \\frac{8}{x}$."
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = \\frac{8}{x}$ for $-5 \\leqslant x \\leqslant -1$ and $1 \\leqslant x \\leqslant 5$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    }
+  ]
+}

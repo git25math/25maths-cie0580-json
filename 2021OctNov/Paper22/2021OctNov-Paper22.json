@@ -1,0 +1,653 @@
+{
+  "v": "1.0",
+  "paper": "2021OctNov-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "OctNov",
+  "paperNum": "22",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The temperature at midnight is $-8.5^\\circ\\text{C}$.\n\nThe temperature at $11 \\text{ am}$ is $-1^\\circ\\text{C}$.\n\nWork out the difference between the temperature at midnight and the temperature at $11 \\text{ am}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$^\\circ\\text{C}$"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The stem-and-leaf diagram shows the age, in years, of each of 15 women.\n\nComplete these statements."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper22/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "The modal age is"
+          },
+          {
+            "prefix": "The median age is"
+          },
+          {
+            "prefix": "The percentage of women that are older than 51 years is",
+            "suffix": "$\\%$"
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Change $2.15 \\text{ hours}$ into minutes."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{min}$"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Triangle $ABC$ and triangle $ACD$ are isosceles.\n\nAngle $DAB = 86^\\circ$ and angle $ADC = 58^\\circ$.\n\nFind the value of $x$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper22/Q04/Q04_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Angelique rents a room for a party.\n\nThe cost of renting the room is $\\$15.50$ for the first hour and then $\\$7.25$ for each additional hour.\n\nShe pays $\\$95.25$ in total.\n\nWork out the total number of hours she rents the room for.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "hours"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $3 \\frac{1}{6} + \\frac{7}{15}$.\n\nYou must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Katy has 5 white flowers, $x$ red flowers and $(2x + 1)$ yellow flowers.\n\nShe picks a flower at random.\n\nThe probability that it is white is $\\frac{1}{12}$.\n\nFind the probability that it is yellow."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate $\\sqrt[4]{39 \\frac{1}{16}}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write these values in order of size, starting with the smallest.\n\n$$2.1 \\times 10^{-1} \\quad 0.\\dot{2} \\quad 22\\% \\quad 0.2 \\quad \\frac{24}{1000}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "smallest",
+            "suffix": "$<$"
+          },
+          {
+            "suffix": "$<$"
+          },
+          {
+            "suffix": "$<$"
+          },
+          {
+            "suffix": "$<$"
+          },
+          {}
+        ]
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The interior angle of a regular polygon is $156^\\circ$.\n\nWork out the number of sides of this polygon."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A car starts its journey by accelerating from rest at a constant rate of $0.7 \\text{ m/s}^2$ for $20 \\text{ seconds}$, before reaching a constant speed of $14 \\text{ m/s}$.\n\nIt then travels at $14 \\text{ m/s}$ for a distance of $210 \\text{ m}$.\n\nThe car then decelerates at a constant rate of $1.4 \\text{ m/s}^2$, before coming to a stop.\n\nOn the grid, complete the speed–time graph for the car’s journey."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper22/Q11/Q11_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows the first five terms of sequences A, B and C.\n\nComplete the table to show the $n$th term of each sequence."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper22/Q12/Q12_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{3^2 \\times 27^n}{243}$ as a single power of 3 in terms of $n$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$k = 2^3 \\times 3^2 \\times p$, where $p$ is a prime number greater than 3.\n\nWrite $k^2$ as a product of prime factors in terms of $p$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$P$, $Q$ and $R$ are points on a circle.\n\n$ST$ is a tangent to the circle at $R$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper22/Q14/Q14_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the value of $x$.\n\nGive a geometrical reason for your answer."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ =",
+                "suffix": "because"
+              },
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Another tangent from the point $S$ touches the circle at $V$.\n\nGive a geometrical reason why triangle $SVR$ is isosceles."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A$ is the point $(3, 16)$ and $B$ is the point $(8, 31)$.\n\nFind the equation of the line that passes through $A$ and $B$.\n\nGive your answer in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The line $CD$ has equation $y = 0.5x - 11$.\n\nFind the gradient of a line that is perpendicular to the line $CD$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Sachin picks a number at random from the first three multiples of 3.\n\nHe then picks a number at random from the first three prime numbers.\n\nHe adds the two numbers to find a score."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper22/Q16/Q16_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Complete the table."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Given that the score is even, find the probability that one of the numbers he picks is 9."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 17,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve.\n\n$(5x - 7)(3x + 2) = 0$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$x$ =",
+            "suffix": "or $x$ ="
+          },
+          {}
+        ]
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations.\n\nYou must show all your working.\n\n$$\\begin{aligned} y &= x^2 - 3x + 9 \\\\ y &= 21 - 2x \\end{aligned}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x$ = ____ , $y$ = ____\n$x$ = ____ , $y$ = ____"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In these Venn diagrams, shade the given regions."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper22/Q19/Q19_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper22/Q19/Q19_Stem_Fig2.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$f(x) = 3 - 2x \\quad g(x) = x^2 - 1 \\quad h(x) = \\frac{5}{x-4}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $f(f(6))$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $g(x+1)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $x$ when $h(x) = 84$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand and simplify.\n\n$(2x - 5)(3x + 2)$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the equation $7\\sin x + 2 = 0$ for $0^\\circ \\le x \\le 360^\\circ$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify.\n\n$$\\frac{3x^2 - 36xy}{5x^2 - 60xy + 288y^2}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    }
+  ]
+}

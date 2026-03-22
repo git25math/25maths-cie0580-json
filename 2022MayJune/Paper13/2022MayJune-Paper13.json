@@ -1,0 +1,919 @@
+{
+  "v": "1.0",
+  "paper": "2022MayJune-Paper13",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "MayJune",
+  "paperNum": "13",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the number one hundred and three thousand eight hundred and six in figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper13/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure the length of the line $AB$ in millimetres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{mm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Mark the midpoint, $M$, of the line $AB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw a line through $M$ that is perpendicular to the line $AB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{x^3 \\times x^4}{x^7}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out the area of a rectangle that is $9.5\\text{ m}$ long and $6.8\\text{ m}$ wide."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{m}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The probability of picking a red sweet from a bag is $0.05$."
+        },
+        {
+          "type": "text",
+          "content": "Find the probability of not picking a red sweet."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Measure the bearing of point $B$ from point $A$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper13/Q06/Q06_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out the value of $$3m + 3k$$ when $$m = 4$$ and $$k = 7$$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A box, in the shape of a cuboid, has volume $357\\text{ cm}^3$."
+        },
+        {
+          "type": "text",
+          "content": "It has a length of $8.5\\text{ cm}$ and a width of $6\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the height of the box."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$PQRS$ is a quadrilateral."
+        },
+        {
+          "type": "text",
+          "content": "$RST$ is a straight line."
+        },
+        {
+          "type": "text",
+          "content": "Find angle $PST$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper13/Q09/Q09_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "Angle $PST$ =",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "These are the masses, in kg, of 12 parcels."
+        },
+        {
+          "type": "text",
+          "content": "$0.3 \\quad 0.4 \\quad 1.2 \\quad 0.8 \\quad 1.1 \\quad 2.1 \\quad 1.7 \\quad 1.8 \\quad 1.2 \\quad 2.3 \\quad 0.7 \\quad 1.1$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper13/Q10/Q10_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the stem-and-leaf diagram for the 12 parcels."
+            },
+            {
+              "type": "text",
+              "content": "$$\\begin{array}{l|l} 0 & 3 \\quad 4 \\\\ 1 & \\\\ 2 & \\end{array}$$"
+            },
+            {
+              "type": "text",
+              "content": "Key: $0 \\mid 3$ represents $0.3\\text{ kg}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the median."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{kg}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The grid shows point $P$ and point $R$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper13/Q11/Q11_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the coordinates of point $P$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$\\vec{PQ} = \\begin{pmatrix} -3 \\\\ 2 \\end{pmatrix}$$"
+            },
+            {
+              "type": "text",
+              "content": "Mark point $Q$ on the grid."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\\vec{QR}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete this statement."
+            },
+            {
+              "type": "text",
+              "content": "$$\\vec{PQ} + \\vec{QR} = \\dots$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$y^3 \\times y^5$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$7x^0$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scatter diagram shows the number of visitors and the total amount spent, in thousands of dollars, at a zoo on each of eight days."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper13/Q13/Q13_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper13/Q13/Q13_Stem_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On one of the eight days there are 410 visitors."
+            },
+            {
+              "type": "text",
+              "content": "Find the total amount spent by visitors during this day."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "\\$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Information for the ninth day is shown in the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|}\\hline Number of visitors & 175 \\\\ \\hline Total amount spent (\\$1000) & 9 \\\\ \\hline\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Plot this information on the scatter diagram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw a line of best fit on the scatter diagram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the tenth day the total amount spent is $\\$22\\,000$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Estimate the number of visitors on this day."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper13/Q14/Q14_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the height, $h$, of the triangle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$h$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper13/Q14/Q14_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "The triangle is one face of a square-based pyramid."
+            },
+            {
+              "type": "text",
+              "content": "On the $1\\text{ cm}^2$ grid, draw a net of this pyramid."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise completely."
+        },
+        {
+          "type": "text",
+          "content": "$$18px - 27p$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The $n$th term of a sequence is $n^2 - 1$."
+        },
+        {
+          "type": "text",
+          "content": "Find the first three terms of this sequence."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": ","
+          },
+          {
+            "suffix": ","
+          },
+          {}
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two right-angled triangles, $ABC$ and $PQR$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper13/Q17/Q17_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete this statement with a geometrical term."
+            },
+            {
+              "type": "text",
+              "content": "Triangle $ABC$ is ............................................... to triangle $PQR$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "Triangle $ABC$ is",
+                "suffix": "to triangle $PQR$."
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate angle $ABC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $ABC$ =",
+            "suffix": "$°$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the lowest common multiple (LCM) of 32 and 40."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Joe thinks of a number, $n$, trebles it, and subtracts 5."
+        },
+        {
+          "type": "text",
+          "content": "The result is 22."
+        },
+        {
+          "type": "text",
+          "content": "Write this as an equation in terms of $n$, and solve the equation."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$n$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the gradient of line $L$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper13/Q20/Q20_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Dominic asks 30 students in his class if they are right-handed or left-handed."
+        },
+        {
+          "type": "text",
+          "content": "7 students are left-handed."
+        },
+        {
+          "type": "text",
+          "content": "Work out the expected number of left-handed students in the whole school of 960 students."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $$4 \\frac{1}{6} - 1 \\frac{7}{8}$$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "text",
+          "content": "$$\\begin{cases} 5x + 6y = 13 \\\\ 4x - 3y = 26 \\end{cases}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x = $ ____\n$y = $ ____"
+      },
+      "meta": {}
+    }
+  ]
+}

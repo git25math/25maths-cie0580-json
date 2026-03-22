@@ -1,0 +1,1482 @@
+{
+  "v": "1.0",
+  "paper": "2022March-Paper32",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "March",
+  "paperNum": "32",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q01/Q01_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "One day, Mahika records the number of teachers and students who cycle to school."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|l|}\\hline& Tally & Frequency \\\\\\hline Teachers & \\| \\| \\| \\| & \\\\\\hline Students & \\| \\| \\| \\| \\ \\ \\| \\| \\| \\| \\ \\ \\| \\| \\| \\| \\ \\ \\| \\| \\| \\| \\ \\ \\| \\| \\| & \\\\\\hline\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the frequency column in the table."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the percentage of people who cycle that are students."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q01/Q01_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "Mahika records how $120$ students from Year 1 and Year 2 travel to school."
+            },
+            {
+              "type": "text",
+              "content": "Each student walks, cycles or travels by bus."
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "$48$ students are in Year 1.",
+                "$77$ students walk.",
+                "$5$ students in Year 2 cycle.",
+                "$36$ students travel by bus.",
+                "$\\frac{4}{9}$ of the students who travel by bus are in Year 1."
+              ]
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|l|l|l|l|}\\hline& Walk & Cycle & Bus & Total \\\\\\hline Year 1 & & & & \\\\\\hline Year 2 & & & & \\\\\\hline Total & & & & 120 \\\\\\hline\\end{tabular}"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One of the $120$ students is chosen at random."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the probability that this student does not travel by bus to school."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q01/Q01_Subc_Fig2.png"
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q01/Q01_Subc_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "There have been $24$ complaints about one of the buses."
+            },
+            {
+              "type": "text",
+              "content": "The complaints are:"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "The bus is late.",
+                "The price is too high.",
+                "The bus is crowded."
+              ]
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|l|l|}\\hline Complaint & Frequency & Pie chart sector angle \\\\\\hline Late & 10 & \\\\\\hline Price & 6 & \\\\\\hline Crowded & 8 & \\\\\\hline\\end{tabular}"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the pie chart."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q02/Q02_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the interior angle of a regular pentagon."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows three congruent regular pentagons and a triangle."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the value of $x$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give a geometrical reason for your answer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$x$ =",
+                    "suffix": "because"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the value of $y$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give a geometrical reason for your answer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$y$ =",
+                    "suffix": "because"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the ratio $x : y$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "",
+                    "suffix": ":"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q03/Q03_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q03/Q03_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 11,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows three quadrilaterals, $A$, $B$ and $C$, on a $1\\text{cm}^2$ grid."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)(a)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name for quadrilateral $B$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(i)(b)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the area of quadrilateral $B$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give the units of your answer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Measure angle $w$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $w$ ="
+              }
+            },
+            {
+              "label": "(a)(iii)(a)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Describe fully the single transformation that maps"
+                },
+                {
+                  "type": "text",
+                  "content": "quadrilateral $A$ onto quadrilateral $B$,"
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "____\n____"
+              }
+            },
+            {
+              "label": "(a)(iii)(b)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "quadrilateral $A$ onto quadrilateral $C$."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "____\n____"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a parallelogram and a line $AB$ on a $1\\text{cm}^2$ grid."
+            },
+            {
+              "type": "text",
+              "content": "On the grid, complete a triangle, $ABC$, that has the same area as the parallelogram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q04/Q04_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q04/Q04_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$X$, $Y$ and $Z$ lie on a circle, centre $O$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)(a)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name of the line"
+                },
+                {
+                  "type": "text",
+                  "content": "$OX$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(i)(b)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$YZ$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Measure the length of $OX$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Another circle has a radius of $18\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the circumference of this circle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "In this part, all angles are in degrees."
+            },
+            {
+              "type": "text",
+              "content": "$A$, $B$, $C$ and $D$ lie on a circle, centre $O$, diameter $AC$."
+            },
+            {
+              "type": "text",
+              "content": "$XY$ is a tangent to the circle at $D$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use the information in the diagram to complete these two simultaneous equations."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "$x + 3y =$ ____\n$4x - y =$ ____"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Solve your simultaneous equations."
+                },
+                {
+                  "type": "text",
+                  "content": "You must show all your working."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "$x =$ ____\n$y =$ ____"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q05/Q05_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q05/Q05_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "A closed box, in the shape of a cuboid, has length $5\\text{ cm}$, width $4\\text{ cm}$ and height $2\\text{ cm}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Draw a net of the box on the $1\\text{cm}^2$ grid."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A container is a cube with volume $1\\text{ m}^3$."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the maximum number of these boxes that can be packed into this container."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "A shop sells three different sized boxes of rice."
+            },
+            {
+              "type": "text",
+              "content": "The boxes all have the same cost per kilogram."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the cost in rupees of box B."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "rupees"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\$1 = 64$ rupees.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the mass of box C."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in kilograms."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{kg}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Change $75\\text{ cm}^3$ into litres."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "suffix": "litres"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q06/Q06_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q06/Q06_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a fair $9$-sided spinner."
+            },
+            {
+              "type": "text",
+              "content": "The numbers on the spinner are $2$, $3$, $5$, $5$, $5$, $6$, $6$, $7$ and $8$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)(a)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The spinner is spun once."
+                },
+                {
+                  "type": "text",
+                  "content": "Write down the probability that the spinner lands on"
+                },
+                {
+                  "type": "text",
+                  "content": "the number $8$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(i)(b)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a number less than $7$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The spinner is spun $135$ times."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the expected number of times the spinner lands on the number $6$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Hitesh throws a dice $80$ times."
+            },
+            {
+              "type": "text",
+              "content": "The results are shown in the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|l|l|l|l|l|}\\hline Number thrown & 1 & 2 & 3 & 4 & 5 & 6 \\\\\\hline Frequency & 15 & 16 & 14 & 11 & 9 & 15 \\\\\\hline\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mode."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the median."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the mean."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q07/Q07_Subc_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q07/Q07_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$1\\text{ mile} = 1.609344\\text{ kilometres}$"
+            },
+            {
+              "type": "text",
+              "content": "Change $6$ miles into metres."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to the nearest metre."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The bearing of a boat from a harbour is $322^\\circ$."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the bearing of the harbour from the boat."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The boat is $12\\text{ km}$ from the harbour."
+                },
+                {
+                  "type": "text",
+                  "content": "At $2.30\\text{ pm}$ the boat starts to sail to the harbour."
+                },
+                {
+                  "type": "text",
+                  "content": "The speed of the boat is $5\\text{ km/h}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the time the boat arrives at the harbour."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The scale drawing shows the positions of Shakti's house, $S$, and Mairi's house, $M$, on a map."
+            },
+            {
+              "type": "text",
+              "content": "The scale is $1\\text{ cm}$ represents $4\\text{ km}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Measure the bearing of $M$ from $S$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "This scale drawing shows another map with Shakti's house, $S$, marked on it."
+                },
+                {
+                  "type": "text",
+                  "content": "The scale of this map is $1\\text{ cm}$ represents $5\\text{ km}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Mark the position of Mairi's house, $M$, on this map."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 13,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 11,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q08/Q08_Suba_Fig2.png"
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q08/Q08_Suba_Fig1.png"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table of values for $y = x^2 + 6x - 160$."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|c|c|c|c|c|c|}\\hline $x$ & -20 & -15 & -10 & -5 & 0 & 5 & 10 & 15 \\\\\\hline $y$ & 120 & & -120 & -165 & -160 & -105 & & \\\\\\hline\\end{tabular}"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the graph of $y = x^2 + 6x - 160$ for $-20 \\le x \\le 15$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)(a)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the equation of the line of symmetry of the graph."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)(b)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the coordinates of the lowest point on the graph."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your graph to solve the equation $x^2 + 6x - 160 = 0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$x$ =",
+                    "suffix": "or $x$ ="
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rearrange the formula $y = mx + c$ to make $x$ the subject."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$x$ ="
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Tarak has two fields."
+        },
+        {
+          "type": "text",
+          "content": "He grows wheat, barley and corn in his fields."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper32/Q09/Q09_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows Tarak’s two triangular fields, $PQR$ and $PRS$."
+            },
+            {
+              "type": "text",
+              "content": "Angle $RPS = 90^\\circ$ and angle $PRS = 53^\\circ$."
+            },
+            {
+              "type": "text",
+              "content": "$PQ = 174\\text{ m}$, $QR = 120\\text{ m}$ and $PR = 126\\text{ m}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that angle $PRQ = 90^\\circ$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 5,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the area of the quadrilateral $PQRS$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer correct to 4 significant figures."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{m}^2$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The mass, $m$ tonnes, of wheat grown in 2021 is $4.3$ tonnes, correct to 1 decimal place."
+                },
+                {
+                  "type": "text",
+                  "content": "Complete this statement about the value of $m$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "",
+                    "suffix": "$\\le m <$"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In 2020, $2.6$ tonnes of barley is grown."
+                },
+                {
+                  "type": "text",
+                  "content": "In 2021, $3.25$ tonnes of barley is grown."
+                },
+                {
+                  "type": "text",
+                  "content": "Show that the percentage increase in barley grown from 2020 to 2021 is $25\\%$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In 2019, $2.4$ tonnes of corn is grown."
+                },
+                {
+                  "type": "text",
+                  "content": "In 2020, $20\\%$ more corn is grown than in 2019."
+                },
+                {
+                  "type": "text",
+                  "content": "In 2021, $20\\%$ less corn is grown than in 2020."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the amount of corn grown in 2021."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "tonnes"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,901 @@
+{
+  "v": "1.0",
+  "paper": "2020MayJune-Paper12",
+  "board": "cie",
+  "code": "0580",
+  "year": 2020,
+  "session": "MayJune",
+  "paperNum": "12",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write in figures the number fifty-three thousand and thirty-five."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 8379 correct to the nearest hundred."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper12/Q02/Q02_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Write down the mathematical name for this type of angle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper12/Q02/Q02_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "$A$ and $B$ lie on a circle, centre $O$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name for line $AB$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$OA = 8 \\text{ cm}$"
+                },
+                {
+                  "type": "text",
+                  "content": "Write down the length of the diameter of this circle."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the reciprocal of 10."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $\\sqrt{196}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $15^3$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Put one pair of brackets in each statement to make it correct."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$16 \\div 8 + 4 \\times 2 = 1$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$16 \\div 8 + 4 \\times 2 = 12$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The 840 students in a school are asked if they want a change of school uniform."
+        },
+        {
+          "type": "text",
+          "content": "The results are shown in the pie chart."
+        },
+        {
+          "type": "text",
+          "content": "Show that the number of students who said Yes is 266."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper12/Q06/Q06_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Change 5.3 kilometres into metres."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{m}$"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows the positions of town $A$ and town $B$."
+        },
+        {
+          "type": "text",
+          "content": "The scale is 1 cm represents 12 kilometres."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper12/Q08/Q08_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the actual distance between town $A$ and town $B$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Town $C$ is 72 km from town $A$ and 96 km from town $B$."
+            },
+            {
+              "type": "text",
+              "content": "On the scale drawing, construct the position of town $C$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the order of rotational symmetry of the diagram."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper12/Q09/Q09_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The bearing of $B$ from $A$ is $105^{\\circ}$."
+        },
+        {
+          "type": "text",
+          "content": "Find the bearing of $A$ from $B$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper12/Q10/Q10_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a square number greater than 10,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "an irrational number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Points $A$, $B$ and $C$ are shown on the grid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper12/Q12/Q12_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the coordinates of point $C$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, plot point $D$ so that $ABCD$ is a parallelogram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, plot point $E$ so that $\\overrightarrow{EA} = \\begin{pmatrix} -4 \\\\ 3 \\end{pmatrix}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The height, $h$ metres, of a tower is 76.3 m, correct to 1 decimal place."
+        },
+        {
+          "type": "text",
+          "content": "Complete this statement about the value of $h$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": "$\\le h <$"
+          },
+          {
+            "prefix": "",
+            "suffix": ""
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Rovers, United and City are football teams."
+        },
+        {
+          "type": "text",
+          "content": "Rovers scored $x$ goals."
+        },
+        {
+          "type": "text",
+          "content": "United scored 8 goals more than Rovers."
+        },
+        {
+          "type": "text",
+          "content": "City scored 3 goals less than twice the number of goals scored by Rovers."
+        },
+        {
+          "type": "text",
+          "content": "The three teams scored a total of 117 goals."
+        },
+        {
+          "type": "text",
+          "content": "Write down and solve an equation to find the value of $x$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate the area of the trapezium."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper12/Q15/Q15_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper12/Q16/Q16_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "On the Venn diagram, shade the region $A \\cup B$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper12/Q16/Q16_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "$\\mathscr{E} = \\{1, 2, 3, 4, 5, 6\\}$"
+            },
+            {
+              "type": "text",
+              "content": "$P = \\{x : x \\text{ is an even number}\\}$"
+            },
+            {
+              "type": "text",
+              "content": "$Q = \\{x : x \\text{ is a prime number}\\}$"
+            },
+            {
+              "type": "text",
+              "content": "Complete the Venn diagram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 17,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write $2^{-4}$ as a decimal."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $1 \\frac{3}{4} - \\frac{11}{12}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Roberto buys a toy for $\\$5.00$ .",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "He then sells it for $\\$4.60$ .",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate his percentage loss."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\%$"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify $\\frac{8t^8}{4t^4}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 45 000 in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $2.06 \\times 10^{-2}$ as an ordinary number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 22,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down all the factors of 28."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 54 as a product of its prime factors."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the lowest common multiple (LCM) of 48 and 60."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 23,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper12/Q23/Q23_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the gradient of line $L$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the equation of line $L$ in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        }
+      ]
+    }
+  ]
+}

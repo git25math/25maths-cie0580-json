@@ -1,0 +1,1457 @@
+{
+  "v": "1.0",
+  "paper": "2020March-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2020,
+  "session": "March",
+  "paperNum": "42",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Dhanu has a model railway."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "He has a train that consists of a locomotive and 4 coaches."
+            },
+            {
+              "type": "text",
+              "content": "The mass of the locomotive is $87 \\text{ g}$ and the mass of each coach is $52 \\text{ g}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the total mass of the train."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{g}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the mass of the locomotive as a percentage of the total mass of the train."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The train is $61 \\text{ cm}$ long and travels at a speed of $18 \\text{ cm/s}$."
+            },
+            {
+              "type": "text",
+              "content": "It takes 4 seconds for the whole of the train to cross a bridge."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the length of the bridge."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A new locomotive costs $\\$64$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the cost of the locomotive in rupees when the exchange rate is $1 \\text{ rupee} = \\$0.0154$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to the nearest 10 rupees."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{rupees}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The cost of a railway magazine increases by $12.5\\%$ to $\\$2.70$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the cost of the magazine before this increase."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Dhanu plays with his model railway from 06 50 to 11 15."
+            },
+            {
+              "type": "text",
+              "content": "He then rides his bicycle for 3 hours."
+            },
+            {
+              "type": "text",
+              "content": "Find the ratio time playing with model railway : time riding bicycle."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": ":"
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The value of Dhanu's model railway is $\\$550$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "This value increases exponentially at a rate of $r\\%$ per year."
+            },
+            {
+              "type": "text",
+              "content": "At the end of 5 years the value will be $\\$736$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of $r$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$r =$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A curve has equation $y = \\frac{x^3}{2} - \\frac{3x^2}{4} + 3$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper42/Q02/Q02_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 11,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper42/Q02/Q02_Suba_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "The table shows some values for $y = \\frac{x^3}{2} - \\frac{3x^2}{4} + 3$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\\hline$x$ & $-1$ & $-0.5$ & $0$ & $0.5$ & $1$ & $1.5$ & $2$ \\\\\\hline$y$ & $-3$ & $1.75$ & & $0.75$ & & & $3$ \\\\\\hline\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the graph of $y = \\frac{x^3}{2} - \\frac{3x^2}{4} + 3$ for $-1 \\le x \\le 2$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your graph to solve the equation $\\frac{x^3}{2} - \\frac{3x^2}{4} + 1.5 = 0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$x =$",
+                    "suffix": "or"
+                  },
+                  {
+                    "prefix": "$x =$",
+                    "suffix": "or"
+                  },
+                  {
+                    "prefix": "$x =$",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The equation $\\frac{x^3}{2} - \\frac{3x^2}{4} + k = 0$ has only one solution for $-1 \\le x \\le 2$."
+                },
+                {
+                  "type": "text",
+                  "content": "Write down a possible integer value of $k$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper42/Q02/Q02_Subb_Fig1.png"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the tangent to the curve at $x = 1$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your tangent to estimate the gradient of the curve at $x = 1$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the equation of your tangent in the form $y = mx + c$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$y =$"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Answer the following independent questions."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Manjeet uses 220 litres of water each day."
+            },
+            {
+              "type": "text",
+              "content": "She reduces the amount of water she uses by $15\\%$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the number of litres of water she now uses each day."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{litres}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Manjeet has two mathematically similar bottles in her bathroom."
+            },
+            {
+              "type": "text",
+              "content": "The large bottle holds 1.35 litres and is $29.7 \\text{ cm}$ high."
+            },
+            {
+              "type": "text",
+              "content": "The small bottle holds 0.4 litres."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the height of the small bottle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Water from Manjeet's shower flows at a rate of 12 litres per minute."
+            },
+            {
+              "type": "text",
+              "content": "The water from the shower flows into a tank that is a cuboid of length $90 \\text{ cm}$ and width $75 \\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the increase in the level of water in the tank when the shower is used for 7 minutes."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A solid metal cone has radius $1.65 \\text{ cm}$ and slant height $4.70 \\text{ cm}$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the total surface area of the cone."
+            },
+            {
+              "type": "text",
+              "content": "[The curved surface area, $A$, of a cone with radius $r$ and slant height $l$ is $A = \\pi r l$.]"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the angle the slant height makes with the base of the cone."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 8,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the volume of the cone."
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, $V$, of a cone with radius $r$ and height $h$ is $V = \\frac{1}{3} \\pi r^2 h$.]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^3$"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A metal sphere with radius $5 \\text{ cm}$ is melted down to make cones identical to this one."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the number of complete identical cones that are made."
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\frac{4}{3} \\pi r^3$.]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Answer the following independent questions."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write as a single fraction in its simplest form."
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{3}{x-2} - \\frac{2}{x+3}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$2^{12} \\div 2^{k/2} = 32$$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $k$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k =$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify."
+            },
+            {
+              "type": "text",
+              "content": "$$(y+3)(y-4)(2y-1)$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Make $x$ the subject of the formula."
+            },
+            {
+              "type": "text",
+              "content": "$$y = \\frac{x+3}{x}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$x =$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Suleika has six cards numbered 1 to 6."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper42/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "She takes one card at random, records the number and replaces the card."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the probability that the number is 5 or 6."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Suleika does this 300 times."
+                },
+                {
+                  "type": "text",
+                  "content": "Find how many times she expects the number 5 or 6."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Suleika takes two cards at random, without replacement."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that the sum of the numbers on the two cards is 5."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that at least one of the numbers on the cards is a square number."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Answer the following independent questions."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Naga has $n$ marbles."
+            },
+            {
+              "type": "text",
+              "content": "Panav has three times as many marbles as Naga."
+            },
+            {
+              "type": "text",
+              "content": "Naga loses 5 marbles and Panav buys 10 marbles."
+            },
+            {
+              "type": "text",
+              "content": "Together they now have more than 105 marbles."
+            },
+            {
+              "type": "text",
+              "content": "Write down and solve an inequality in $n$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$y$ is inversely proportional to $x^2$."
+            },
+            {
+              "type": "text",
+              "content": "When $x = 4$, $y = 7.5$."
+            },
+            {
+              "type": "text",
+              "content": "Find $y$ when $x = 5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y =$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the $n$th term of each sequence."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$4 \\quad 2 \\quad 0 \\quad -2 \\quad -4 \\quad \\dots$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$1 \\quad 7 \\quad 17 \\quad 31 \\quad 49 \\quad \\dots$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 17,
+      "stem": [
+        {
+          "type": "text",
+          "content": "This question has two parts."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper42/Q08/Q08_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper42/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a quadrilateral $PQRS$ formed from two triangles, $PQS$ and $QRS$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$QR$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$QR =$",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$PS$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$PS =$",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the area of quadrilateral $PQRS$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows an open box $ABCDEFGH$ in the shape of a cuboid."
+            },
+            {
+              "type": "text",
+              "content": "$AB = 20 \\text{ cm}$, $BC = 18 \\text{ cm}$ and $AE = 16 \\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "A thin rod $AGX$ rests partly in the box as shown."
+            },
+            {
+              "type": "text",
+              "content": "The rod is $40 \\text{ cm}$ long."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate $GX$, the length of the rod which is outside the box."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$GX =$",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the angle the rod makes with the base of the box."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "This year, 40 students have each travelled by one or more of plane ($P$), train ($T$) or boat ($B$)."
+        },
+        {
+          "type": "text",
+          "content": "7 have travelled only by plane."
+        },
+        {
+          "type": "text",
+          "content": "11 have travelled only by train."
+        },
+        {
+          "type": "text",
+          "content": "9 have travelled only by boat."
+        },
+        {
+          "type": "text",
+          "content": "$$n(P \\cap T) = 8$$"
+        },
+        {
+          "type": "text",
+          "content": "$$n(T \\cap B) = 3$$"
+        },
+        {
+          "type": "text",
+          "content": "$$n(B \\cap P) = 6$$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper42/Q09/Q09_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the Venn diagram."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $n((P \\cup B)')$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use set notation to complete the statement."
+            },
+            {
+              "type": "text",
+              "content": "$(P \\cup B \\cup T)' = \\dots$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$(P \\cup B \\cup T)' =$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two students are chosen at random."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the probability that they both have travelled only by plane."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two students are chosen at random from those who have travelled by train."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the probability that they both have also travelled by plane."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$f(x) = 4x - 1$$"
+        },
+        {
+          "type": "text",
+          "content": "$$g(x) = x^2$$"
+        },
+        {
+          "type": "text",
+          "content": "$$h(x) = 3^{-x}$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find in its simplest form"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$f(x - 3)$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$g(5x)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $f^{-1}(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$f^{-1}(x) =$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $hh(1)$, correct to 4 significant figures."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 6,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that $g(3x - 2) - h(-3)$ can be written as $9x^2 - 12x - 23$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use the quadratic formula to solve $9x^2 - 12x - 23 = 0$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answers correct to 2 decimal places."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$x =$",
+                    "suffix": "or"
+                  },
+                  {
+                    "prefix": "$x =$",
+                    "suffix": ""
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $x$ when $f(h(x)) = 61$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A curve has equation $y = x^3 - 3x^2 + 4$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the coordinates of the two stationary points."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "(",
+                "suffix": ","
+              },
+              {
+                "prefix": "",
+                "suffix": ")"
+              },
+              {
+                "prefix": "(",
+                "suffix": ","
+              },
+              {
+                "prefix": "",
+                "suffix": ")"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Determine whether each stationary point is a maximum or a minimum."
+            },
+            {
+              "type": "text",
+              "content": "Give reasons for your answers."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "meta": {}
+    }
+  ]
+}

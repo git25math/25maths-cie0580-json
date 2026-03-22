@@ -11,183 +11,1164 @@
   "time": 150,
   "questions": [
     {
-      "qnum": 1, "marks": 19,
+      "qnum": 1,
+      "marks": 19,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 6, "content": [],
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Write 70 as a product of its prime factors." }], "answer": { "type": "expression" } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Find the highest common factor (HCF) of 70 and 112." }], "answer": { "type": "number" } },
-            { "label": "(iii)", "marks": 2, "content": [{ "type": "text", "content": "Find the lowest common multiple (LCM) of $70x^4y^2$ and $112x^3y^5$." }], "answer": { "type": "expression" } }
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write 70 as a product of its prime factors."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the highest common factor (HCF) of 70 and 112."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the lowest common multiple (LCM) of $70x^4y^2$ and $112x^3y^5$."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Simplify." }],
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "$a^{12} \\div a^4$" }], "answer": { "type": "expression" } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "$\\dfrac{5}{2b} \\times \\dfrac{bc}{20}$" }], "answer": { "type": "expression" } }
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$a^{12} \\div a^4$"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\dfrac{5}{2b} \\times \\dfrac{bc}{20}$"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         },
-        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "Solve." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$4 + 2x = 15$" }], "answer": { "type": "number" } },
-        { "label": "(d)", "marks": 3, "content": [{ "type": "text", "content": "Solve." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$\\dfrac{34 + 2x}{5} = 4 - x$" }], "answer": { "type": "number" } },
-        { "label": "(e)", "marks": 5, "content": [{ "type": "text", "content": "$P = d + \\sqrt[3]{m^2}$" }],
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$4 + 2x = 15$"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$\\dfrac{34 + 2x}{5} = 4 - x$"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "$P = d + \\sqrt[3]{m^2}$"
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Find $P$ when $d = 7$ and $m = -8$." }], "answer": { "type": "number" } },
-            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "Rearrange the formula to make $m$ the subject." }], "answer": { "type": "expression" } }
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $P$ when $d = 7$ and $m = -8$."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Rearrange the formula to make $m$ the subject."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         }
       ],
-      "meta": { "s": "1.1", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+      "meta": {
+        "s": "1.1",
+        "cat": "number",
+        "d": 2,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "calculate"
+      }
     },
     {
-      "qnum": 2, "marks": 9,
+      "qnum": 2,
+      "marks": 9,
       "stem": [
-        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q02/Q02_Stem_Fig1.png" }
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q02/Q02_Stem_Fig1.png"
+        }
       ],
       "parts": [
-        { "label": "(a)", "marks": 4, "content": [{ "type": "text", "content": "On the grid, draw" }],
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw"
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "the image of triangle $A$ after a reflection in the line $x = 1$" }], "answer": { "type": "none" } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "the image of triangle $A$ after an enlargement by scale factor $\\dfrac{1}{2}$ with centre $(5, 1)$." }], "answer": { "type": "none" } }
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the image of triangle $A$ after a reflection in the line $x = 1$"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the image of triangle $A$ after an enlargement by scale factor $\\dfrac{1}{2}$ with centre $(5, 1)$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Describe fully the **single** transformation that maps triangle $A$ onto triangle $B$." }], "answer": { "type": "expression" } },
-        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "The point $(a, b)$ is reflected in the line $y = k$ where $k$ is an integer and $b < k$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Write the coordinates of the image of point $(a, b)$ in terms of $a$, $b$ and $k$." }], "answer": { "type": "coordinate" } }
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the **single** transformation that maps triangle $A$ onto triangle $B$."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The point $(a, b)$ is reflected in the line $y = k$ where $k$ is an integer and $b < k$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Write the coordinates of the image of point $(a, b)$ in terms of $a$, $b$ and $k$."
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        }
       ],
-      "meta": { "s": "4.3", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "draw" }
+      "meta": {
+        "s": "4.3",
+        "cat": "geometry",
+        "d": 2,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "draw"
+      }
     },
     {
-      "qnum": 3, "marks": 8,
+      "qnum": 3,
+      "marks": 8,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 4, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q03/Q03_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The table shows the waiting times for 120 patients at a medical centre." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate an estimate of the mean waiting time." }], "answer": { "type": "number", "suffix": "min" } },
-        { "label": "(b)", "marks": 4, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q03/Q03_Subb_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The histogram shows some information about the waiting times at a different medical centre. The total number of patients is 90 and no patient waits for more than 80 minutes." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Complete the histogram for the patients that have a waiting time between 10 and 30 minutes." }], "answer": { "type": "none" } }
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q03/Q03_Stem_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The table shows the waiting times for 120 patients at a medical centre."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate an estimate of the mean waiting time."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "min"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q03/Q03_Subb_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The histogram shows some information about the waiting times at a different medical centre. The total number of patients is 90 and no patient waits for more than 80 minutes."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Complete the histogram for the patients that have a waiting time between 10 and 30 minutes."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
       ],
-      "meta": { "s": "9.2", "cat": "statistics", "d": 2, "topics": ["Statistics"], "cmd": "calculate" }
+      "meta": {
+        "s": "9.2",
+        "cat": "statistics",
+        "d": 2,
+        "topics": [
+          "Statistics"
+        ],
+        "cmd": "calculate"
+      }
     },
     {
-      "qnum": 4, "marks": 17,
+      "qnum": 4,
+      "marks": 17,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 14, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q04/Q04_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Enzo, Rashid and Blessy each swim as many lengths of a swimming pool as they can in 15 minutes." }],
+        {
+          "label": "(a)",
+          "marks": 14,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q04/Q04_Suba_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Enzo, Rashid and Blessy each swim as many lengths of a swimming pool as they can in 15 minutes."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Find the number of lengths Enzo swims **as a percentage** of the total number of lengths all three people swim." }], "answer": { "type": "number", "suffix": "%" } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Write the ratio of the number of lengths each person swims in the form Enzo : Rashid : Blessy. Give your answer in its simplest form." }], "answer": { "type": "expression" } },
-            { "label": "(iii)", "marks": 7, "content": [{ "type": "text", "content": "Each length of the pool is 25 m." }],
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the number of lengths Enzo swims **as a percentage** of the total number of lengths all three people swim."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "%"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write the ratio of the number of lengths each person swims in the form Enzo : Rashid : Blessy. Give your answer in its simplest form."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 7,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Each length of the pool is 25 m."
+                }
+              ],
               "subparts": [
-                { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "Work out Blessy's average swimming speed for the 15 minutes. Give your answer in metres per second." }], "answer": { "type": "number", "suffix": "m/s" } },
-                { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "Rashid continues to swim at the same rate. Calculate the time it takes Rashid to swim a total distance of 5 km. Give your answer in hours and minutes." }], "answer": { "type": "expression" } }
+                {
+                  "label": "(a)",
+                  "marks": 3,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Work out Blessy's average swimming speed for the 15 minutes. Give your answer in metres per second."
+                    }
+                  ],
+                  "answer": {
+                    "type": "number",
+                    "suffix": "m/s"
+                  }
+                },
+                {
+                  "label": "(b)",
+                  "marks": 4,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Rashid continues to swim at the same rate. Calculate the time it takes Rashid to swim a total distance of 5 km. Give your answer in hours and minutes."
+                    }
+                  ],
+                  "answer": {
+                    "type": "expression"
+                  }
+                }
               ]
             },
-            { "label": "(iv)", "marks": 3, "content": [{ "type": "text", "content": "Blessy swims for one hour. The number of lengths she swims decreases by 5% every 15 minutes." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the number of lengths she swims in the final 15 minutes." }], "answer": { "type": "number" } }
+            {
+              "label": "(iv)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Blessy swims for one hour. The number of lengths she swims decreases by 5% every 15 minutes."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the number of lengths she swims in the final 15 minutes."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Another swimmer, Adam, swims 450 m, correct to the nearest 25 metres. This takes 10 minutes, correct to the nearest minute." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the minimum distance Adam swims in one hour at this rate." }], "answer": { "type": "number", "suffix": "m" } }
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Another swimmer, Adam, swims 450 m, correct to the nearest 25 metres. This takes 10 minutes, correct to the nearest minute."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the minimum distance Adam swims in one hour at this rate."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "m"
+          }
+        }
       ],
-      "meta": { "s": "1.12", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+      "meta": {
+        "s": "1.12",
+        "cat": "number",
+        "d": 2,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "calculate"
+      }
     },
     {
-      "qnum": 5, "marks": 9,
+      "qnum": 5,
+      "marks": 9,
       "stem": [
-        { "type": "text", "content": "A box contains 3 blue pens and 5 red pens." }
+        {
+          "type": "text",
+          "content": "A box contains 3 blue pens and 5 red pens."
+        }
       ],
       "parts": [
-        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Mia picks a pen from the box at random. Find the probability that she picks a red pen." }], "answer": { "type": "expression" } },
-        { "label": "(b)", "marks": 5, "content": [{ "type": "text", "content": "Mia puts the pen back into the box. She then picks a pen at random and replaces it. She then picks a second pen at random." }],
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Mia picks a pen from the box at random. Find the probability that she picks a red pen."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Mia puts the pen back into the box. She then picks a pen at random and replaces it. She then picks a second pen at random."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q05/Q05_Subb_Fig1.png" }, { "type": "text", "content": "Complete the tree diagram." }], "answer": { "type": "none" } },
-            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "Find the probability that Mia picks two pens that have the same colour." }], "answer": { "type": "expression" } }
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "figure",
+                  "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q05/Q05_Subb_Fig1.png"
+                },
+                {
+                  "type": "text",
+                  "content": "Complete the tree diagram."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that Mia picks two pens that have the same colour."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         },
-        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Mia now picks 3 of the 8 pens in the box at random **without** replacement." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the probability that she picks 2 blue pens and 1 red pen." }], "answer": { "type": "expression" } }
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Mia now picks 3 of the 8 pens in the box at random **without** replacement."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that she picks 2 blue pens and 1 red pen."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
       ],
-      "meta": { "s": "8.3", "cat": "probability", "d": 2, "topics": ["Probability"], "cmd": "find" }
+      "meta": {
+        "s": "8.3",
+        "cat": "probability",
+        "d": 2,
+        "topics": [
+          "Probability"
+        ],
+        "cmd": "find"
+      }
     },
     {
-      "qnum": 6, "marks": 11,
+      "qnum": 6,
+      "marks": 11,
       "stem": [
-        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q06/Q06_Stem_Fig1.png" },
-        { "type": "newline", "lines": 1 },
-        { "type": "text", "content": "The diagram shows a field $ABCD$. A straight path $AC$ goes across the field. $AD = 420$ m, $DC = 830$ m, $AB = 1150$ m. Angle $ADC = 106°$ and angle $ABC = 62°$." }
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q06/Q06_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a field $ABCD$. A straight path $AC$ goes across the field. $AD = 420$ m, $DC = 830$ m, $AB = 1150$ m. Angle $ADC = 106°$ and angle $ABC = 62°$."
+        }
       ],
       "parts": [
-        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "Show that $AC = 1028$ m, correct to the nearest metre." }], "answer": { "type": "none" } },
-        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "Angle $ACB$ is obtuse. Calculate angle $ACB$." }], "answer": { "type": "number", "suffix": "$°$" } },
-        { "label": "(c)", "marks": 4, "content": [{ "type": "text", "content": "Part of the field, triangle $ACD$, is sold for $\\$41\\,500$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the cost of 1 hectare of this part of the field. Give your answer correct to the nearest dollar." }, { "type": "text", "content": "[$1$ hectare $= 10\\,000\\text{ m}^2$]" }], "answer": { "type": "number", "prefix": "$\\$$" } }
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that $AC = 1028$ m, correct to the nearest metre."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Angle $ACB$ is obtuse. Calculate angle $ACB$."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Part of the field, triangle $ACD$, is sold for $\\$41\\,500$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the cost of 1 hectare of this part of the field. Give your answer correct to the nearest dollar."
+            },
+            {
+              "type": "text",
+              "content": "[$1$ hectare $= 10\\,000\\text{ m}^2$]"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        }
       ],
-      "meta": { "s": "5.3", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "calculate" }
+      "meta": {
+        "s": "5.3",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "calculate"
+      }
     },
     {
-      "qnum": 7, "marks": 12,
+      "qnum": 7,
+      "marks": 12,
       "stem": [
-        { "type": "text", "content": "A company makes scientific calculators and graphic calculators. Each day they make $x$ scientific calculators and $y$ graphic calculators." },
-        { "type": "newline", "lines": 1 },
-        { "type": "text", "content": "These inequalities describe the number of scientific and graphic calculators they make each day." },
-        { "type": "newline", "lines": 1 },
-        { "type": "text", "content": "$x < 180 \\qquad y \\leq 90 \\qquad x + y \\leq 240$" }
+        {
+          "type": "text",
+          "content": "A company makes scientific calculators and graphic calculators. Each day they make $x$ scientific calculators and $y$ graphic calculators."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "These inequalities describe the number of scientific and graphic calculators they make each day."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$x < 180 \\qquad y \\leq 90 \\qquad x + y \\leq 240$"
+        }
       ],
       "parts": [
-        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Complete these two statements." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The company makes fewer than \\ldots scientific calculators each day." }, { "type": "text", "content": "The company can make a maximum of \\ldots calculators each day." }], "answer": { "type": "expression" } },
-        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "Scientific calculators cost $\\$12$ to make. Graphic calculators cost $\\$18$ to make. Each day the company spends at least $\\$2700$ making calculators." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Show that $2x + 3y \\geq 450$." }], "answer": { "type": "none" } },
-        { "label": "(c)", "marks": 7, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q07/Q07_Subc_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The region $R$ satisfies these four inequalities: $x < 180$, $y \\leq 90$, $x + y \\leq 240$, $2x + 3y \\geq 450$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "By drawing four suitable lines and shading unwanted regions, find and label the region $R$." }], "answer": { "type": "none" } },
-        { "label": "(d)", "marks": 2, "content": [{ "type": "text", "content": "Scientific calculators are sold for a profit of $\\$10$. Graphic calculators are sold for a profit of $\\$30$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the maximum profit made by the company in one day." }], "answer": { "type": "number", "prefix": "$\\$$" } }
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete these two statements."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The company makes fewer than \\ldots scientific calculators each day."
+            },
+            {
+              "type": "text",
+              "content": "The company can make a maximum of \\ldots calculators each day."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Scientific calculators cost $\\$12$ to make. Graphic calculators cost $\\$18$ to make. Each day the company spends at least $\\$2700$ making calculators."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Show that $2x + 3y \\geq 450$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q07/Q07_Subc_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The region $R$ satisfies these four inequalities: $x < 180$, $y \\leq 90$, $x + y \\leq 240$, $2x + 3y \\geq 450$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "By drawing four suitable lines and shading unwanted regions, find and label the region $R$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Scientific calculators are sold for a profit of $\\$10$. Graphic calculators are sold for a profit of $\\$30$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the maximum profit made by the company in one day."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        }
       ],
-      "meta": { "s": "2.8", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "show" }
+      "meta": {
+        "s": "2.8",
+        "cat": "algebra",
+        "d": 2,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "show"
+      }
     },
     {
-      "qnum": 8, "marks": 19,
+      "qnum": 8,
+      "marks": 19,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 16, "content": [{ "type": "text", "content": "$\\text{f}(x) = 7 - 3x \\qquad \\text{g}(x) = x^2 - 16$" }],
+        {
+          "label": "(a)",
+          "marks": 16,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\text{f}(x) = 7 - 3x \\qquad \\text{g}(x) = x^2 - 16$"
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Find the values of $x$ when $\\text{g}(x) = 20$." }], "answer": { "type": "multiline", "lines": [{ "label": "$x=$", "value": "" }, { "label": "$x=$", "value": "" }] } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Find $\\text{f}^{-1}(x)$." }], "answer": { "type": "expression" } },
-            { "label": "(iii)", "marks": 3, "content": [{ "type": "text", "content": "Find $\\text{gf}(x) + 1$, giving your answer in its simplest form." }], "answer": { "type": "expression" } },
-            { "label": "(iv)", "marks": 4, "content": [{ "type": "text", "content": "On the axes, sketch the graph of $y = \\text{g}(x)$. On your sketch, indicate the values where the graph crosses the axes." }], "answer": { "type": "none" } },
-            { "label": "(v)", "marks": 5, "content": [{ "type": "text", "content": "Find the equation of the tangent to the graph of $y = \\text{g}(x)$ when $x = -3$. Give your answer in the form $y = mx + c$." }], "answer": { "type": "expression" } }
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the values of $x$ when $\\text{g}(x) = 20$."
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": [
+                  {
+                    "label": "$x=$",
+                    "value": ""
+                  },
+                  {
+                    "label": "$x=$",
+                    "value": ""
+                  }
+                ],
+                "template": "$x=$ ____\n$x=$ ____"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $\\text{f}^{-1}(x)$."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $\\text{gf}(x) + 1$, giving your answer in its simplest form."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(iv)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the axes, sketch the graph of $y = \\text{g}(x)$. On your sketch, indicate the values where the graph crosses the axes."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(v)",
+              "marks": 5,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of the tangent to the graph of $y = \\text{g}(x)$ when $x = -3$. Give your answer in the form $y = mx + c$."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "$\\text{h}(x) = 3^x$" }],
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\text{h}(x) = 3^x$"
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "On the axes, sketch the graph of $y = \\text{h}(x)$." }], "answer": { "type": "none" } },
-            { "label": "(ii)", "marks": 1, "content": [{ "type": "text", "content": "Write down the equation of the asymptote to the graph of $y = \\text{h}(x)$." }], "answer": { "type": "expression" } }
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the axes, sketch the graph of $y = \\text{h}(x)$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the equation of the asymptote to the graph of $y = \\text{h}(x)$."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         }
       ],
-      "meta": { "s": "2.9", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+      "meta": {
+        "s": "2.9",
+        "cat": "algebra",
+        "d": 3,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "find"
+      }
     },
     {
-      "qnum": 9, "marks": 12,
+      "qnum": 9,
+      "marks": 12,
       "stem": [
-        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q09/Q09_Stem_Fig1.png" },
-        { "type": "newline", "lines": 1 },
-        { "type": "text", "content": "$ABCDEFGH$ is a solid cuboid. $AB = 10$ cm, $BC = 8$ cm and $CG = 17$ cm." }
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q09/Q09_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$ABCDEFGH$ is a solid cuboid. $AB = 10$ cm, $BC = 8$ cm and $CG = 17$ cm."
+        }
       ],
       "parts": [
-        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Work out the volume of the cuboid." }], "answer": { "type": "number", "suffix": "$\\text{cm}^3$" } },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Work out the total surface area of the cuboid." }], "answer": { "type": "number", "suffix": "$\\text{cm}^2$" } },
-        { "label": "(c)", "marks": 4, "content": [{ "type": "text", "content": "Calculate the angle between $GA$ and the base $ABCD$." }], "answer": { "type": "number", "suffix": "$°$" } },
-        { "label": "(d)", "marks": 4, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q09/Q09_Subd_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "A straight rod $PQ$ is placed inside the cuboid. One end of the rod, $P$, is placed at the midpoint of $AB$. The other end of the rod, $Q$, rests on $GH$. $HQ : QG = 4 : 1$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the length of the rod $PQ$." }], "answer": { "type": "number", "suffix": "cm" } }
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the volume of the cuboid."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the total surface area of the cuboid."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the angle between $GA$ and the base $ABCD$."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q09/Q09_Subd_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "A straight rod $PQ$ is placed inside the cuboid. One end of the rod, $P$, is placed at the midpoint of $AB$. The other end of the rod, $Q$, rests on $GH$. $HQ : QG = 4 : 1$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the length of the rod $PQ$."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "cm"
+          }
+        }
       ],
-      "meta": { "s": "4.6", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "calculate" }
+      "meta": {
+        "s": "4.6",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "calculate"
+      }
     },
     {
-      "qnum": 10, "marks": 14,
+      "qnum": 10,
+      "marks": 14,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 6, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q10/Q10_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "This rectangle has area $190\\text{ cm}^2$." }],
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q10/Q10_Suba_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "This rectangle has area $190\\text{ cm}^2$."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 4, "content": [{ "type": "text", "content": "By forming and solving an equation, show that $x = 8.5$." }], "answer": { "type": "none" } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Work out the perimeter of the rectangle." }], "answer": { "type": "number", "suffix": "cm" } }
+            {
+              "label": "(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "By forming and solving an equation, show that $x = 8.5$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the perimeter of the rectangle."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "cm"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 8, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q10/Q10_Subb_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a sector $OAB$ of a circle, with centre $O$, and a chord $AB$. The shaded segment has area $30\\text{ cm}^2$. The angle $AOB = 50°$." }],
+        {
+          "label": "(b)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper41/Q10/Q10_Subb_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows a sector $OAB$ of a circle, with centre $O$, and a chord $AB$. The shaded segment has area $30\\text{ cm}^2$. The angle $AOB = 50°$."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 4, "content": [{ "type": "text", "content": "Show that $r = 23.7$ cm, correct to 1 decimal place." }], "answer": { "type": "none" } },
-            { "label": "(ii)", "marks": 4, "content": [{ "type": "text", "content": "Calculate the perimeter of the shaded segment." }], "answer": { "type": "number", "suffix": "cm" } }
+            {
+              "label": "(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that $r = 23.7$ cm, correct to 1 decimal place."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the perimeter of the shaded segment."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "cm"
+              }
+            }
           ]
         }
       ],
-      "meta": { "s": "4.5", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "calculate" }
+      "meta": {
+        "s": "4.5",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "calculate"
+      }
     }
   ]
 }

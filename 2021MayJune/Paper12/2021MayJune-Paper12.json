@@ -1,0 +1,716 @@
+{
+  "v": "1.0",
+  "paper": "2021MayJune-Paper12",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "MayJune",
+  "paperNum": "12",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Draw the line of symmetry on this shape."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q01/Q01_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down all the factors of $42$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "P is a point on a line.\nDraw a line through point P that is perpendicular to this line."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$253 \\quad 306 \\quad 185 \\quad 270 \\quad 386$\nCalculate the mean of these numbers."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The formula for changing a temperature measured in Celsius ($^\\circ\\text{C}$) to Fahrenheit ($^\\circ\\text{F}$) is\n$$F = \\frac{9}{5}C + 32$$\nUse this formula to change $65^\\circ\\text{C}$ to Fahrenheit."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$^\\circ\\text{F}$"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Without using a calculator, work out $9 + 5 \\times 7 - 4 \\div 2$.\nYou must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Insert one pair of brackets into this statement to make it correct.\n$9 + 5 \\times 7 - 4 \\div 2 = 96$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 7,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$a = \\begin{pmatrix} 5 \\\\ -7 \\end{pmatrix} \\quad b = \\begin{pmatrix} 2 \\\\ -6 \\end{pmatrix}$$\nWork out $a - b$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "vector",
+        "fields": 2
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the number that you"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "add to $-4$ to give an answer of $9$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "subtract from $-9$ to give an answer of $-4$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The bar chart shows the marks scored by a group of 55 students in an examination.\nWork out the percentage of this group of students who scored marks from 21 to 80."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q09/Q09_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\%$"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The probability that Jane wins a game is $\\frac{7}{10}$.\nFind the probability that Jane does not win the game."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate $\\frac{0.0256}{4}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Emma has 15 mathematics questions to complete.\nThe stem-and-leaf diagram shows the time, in minutes, it takes her to complete each question.\nComplete the table."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q12/Q12_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "Mode",
+            "suffix": "min"
+          },
+          {
+            "prefix": "Median",
+            "suffix": "min"
+          },
+          {
+            "prefix": "Range",
+            "suffix": "min"
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete these statements."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "The reciprocal of $0.2$ is",
+                "suffix": ""
+              },
+              {
+                "prefix": "A prime number between $90$ and $100$ is",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\frac{5}{7} \\quad 0.6 \\quad \\sqrt{7} \\quad \\sqrt{8} \\quad \\sqrt{9}$\nFrom this list, write down an irrational number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 14,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the value of $x$ when $\\frac{7^x}{7^4} = 7^9$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q15/Q15_Subb_Fig3.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q15/Q15_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q15/Q15_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q15/Q15_Subb_Fig4.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q15/Q15_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Henrik draws this scatter diagram.\nPut a ring around the one correct statement about this scatter diagram."
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "It shows no correlation.",
+                "It is not possible to tell if there is correlation as there are not enough points.",
+                "It shows negative correlation.",
+                "It shows positive correlation."
+              ]
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Each of the four scatter diagrams shows the same set of data.\nA line has been drawn on each diagram.\nComplete the statement."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "The line in Diagram",
+                "suffix": "is the most appropriate line of best fit."
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A cuboid has a square base.\nThe volume of this cuboid is $867 \\text{ cm}^3$ and its height is $12 \\text{ cm}$.\nCalculate the length of one side of the square base."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A rhombus has side length $6.5 \\text{ cm}$.\nThe rhombus can be constructed by drawing two triangles.\nUsing a ruler and compasses only, construct the rhombus.\nLeave in your construction arcs.\nOne diagonal of the rhombus has been drawn for you."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q17/Q17_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $\\frac{2}{3} \\div 1 \\frac{3}{7}$.\nYou must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A bag contains $5$ red balls and $3$ blue balls.\nSophie takes a ball at random, notes its colour and then puts it back in the bag.\nShe does this a second time."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q19/Q19_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the tree diagram."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the probability that both of the balls she takes are blue."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two cylinders.\nShow that the two cylinders are mathematically similar."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q20/Q20_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $0.00654$ in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The number $1.467 \\times 10^{102}$ is written as an ordinary number.\nWrite down the number of zeros that follow the digit $7$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a quadrilateral.\nWork out the value of $x$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q22/Q22_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out the lowest common multiple (LCM) of $24$ and $54$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 24,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand and simplify.\n$5(x - 2) - 3(7 - 5x)$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 25,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a sector of a circle, centre $O$, radius $9 \\text{ cm}$.\nThe sector angle is $72^\\circ$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper12/Q25/Q25_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the length of the arc $AB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the area of the sector $AOB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        }
+      ],
+      "answer": null
+    }
+  ]
+}

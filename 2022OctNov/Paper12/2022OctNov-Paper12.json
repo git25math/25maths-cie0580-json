@@ -1,0 +1,899 @@
+{
+  "v": "1.0",
+  "paper": "2022OctNov-Paper12",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "OctNov",
+  "paperNum": "12",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the number eighty thousand and eighty in figures."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number eighty thousand and eighty in figures."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the value of the 4 in the number $643\\,719$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the value of $$\\sqrt{53.29}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A football team has 16 players at a training session."
+        },
+        {
+          "type": "text",
+          "content": "Kim records the colour of each of their shirts."
+        },
+        {
+          "type": "text",
+          "content": "Blue \nSilver \nGreen \nGreen \nSilver \nSilver \nRed \nSilver\nGreen \nRed \nSilver \nSilver \nBlue \nGreen \nWhite \nBlue"
+        },
+        {
+          "type": "text",
+          "content": "Complete the frequency table."
+        },
+        {
+          "type": "text",
+          "content": "You may use the tally column to help you."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper12/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "table_input"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Complete the net of this cuboid on the $1\\text{ cm}^2$ grid."
+        },
+        {
+          "type": "text",
+          "content": "One face has been drawn for you."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper12/Q04/Q04_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper12/Q04/Q04_Stem_Fig2.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Draw all the lines of symmetry on this shape."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper12/Q05/Q05_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Put one pair of brackets in each statement to make it correct."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$10 - 4 \\div 2 + 18 = 21$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$7 \\times 3 + 1 + 2 = 30$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows an isosceles triangle."
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $x$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper12/Q07/Q07_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$6a - 3b + 2a - 5b$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$s = 5t + \\frac{1}{2}at^2$$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $s$ when $t = 6$ and $a = 3$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$s$ ="
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$\\begin{pmatrix} 6 \\\\ -4 \\end{pmatrix} + \\begin{pmatrix} -3 \\\\ 5 \\end{pmatrix}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$2 \\begin{pmatrix} 6 \\\\ -3 \\end{pmatrix}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $$\\frac{5}{6} - \\frac{1}{9}$$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A 4-faced dice is numbered 1 to 4."
+        },
+        {
+          "type": "text",
+          "content": "The table shows some of the probabilities of scoring each number."
+        },
+        {
+          "type": "text",
+          "content": "Complete the table."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper12/Q11/Q11_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "table_input"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "These are the first five terms of a sequence."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$27 \\quad 26 \\quad 23 \\quad 18 \\quad 11$"
+            },
+            {
+              "type": "text",
+              "content": "Find the next two terms in the sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "suffix": ","
+              },
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first five terms of a different sequence."
+            },
+            {
+              "type": "text",
+              "content": "$3 \\quad 10 \\quad 17 \\quad 24 \\quad 31$"
+            },
+            {
+              "type": "text",
+              "content": "Find the $n$th term."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Daryl records the number of hours in a week 8 people spend exercising."
+        },
+        {
+          "type": "text",
+          "content": "$5 \\quad 2 \\quad 1.5 \\quad 3 \\quad 18 \\quad 4.5 \\quad 2 \\quad 4$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the median."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "h"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Explain why the mean may not be a suitable average to use."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$2000 \\times 1.23$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$2 \\frac{1}{8} \\times \\frac{6}{17}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$3^2 + 4.5^2 - 2(3)(4.5)\\cos 30^\\circ$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Jenna buys 2.4 m of ribbon and 4.8 m of fabric."
+        },
+        {
+          "type": "text",
+          "content": "The total cost is $\\$33.48$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Ribbon costs $\\$0.85$ per metre.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Find the cost of 1 m of fabric."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$x(x + 8)$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise completely."
+            },
+            {
+              "type": "text",
+              "content": "$6a - 3ab$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve."
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{x}{3} + 5 = x - 6$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\mathcal{E} = \\{ \\text{people in a group} \\}$"
+        },
+        {
+          "type": "text",
+          "content": "$B = \\{ \\text{people who own a bicycle} \\}$"
+        },
+        {
+          "type": "text",
+          "content": "$C = \\{ \\text{people who own a car} \\}$"
+        },
+        {
+          "type": "text",
+          "content": "There are 120 people in the group."
+        },
+        {
+          "type": "text",
+          "content": "21 people own a bicycle."
+        },
+        {
+          "type": "text",
+          "content": "15 people own both a bicycle and a car."
+        },
+        {
+          "type": "text",
+          "content": "35 people do not own a bicycle and do not own a car."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper12/Q17/Q17_Suba_Fig1.png"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the Venn diagram."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A person from the group is chosen at random."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the probability that this person owns a car."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper12/Q17/Q17_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Shade the region $D \\cup E$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The right-angled triangular prism has height $6\\text{ cm}$, width $w\\text{ cm}$ and length $18\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "The volume of the prism is $810\\text{ cm}^3$."
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $w$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper12/Q18/Q18_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$w$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In a survey of 1200 people, 150 people are left-handed."
+        },
+        {
+          "type": "text",
+          "content": "Work out the expected number of left-handed people in a town with 56 000 people."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$5^8 \\div 5^x = 5^2$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $(x^5)^3$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$ABC$ is a right-angled triangle."
+        },
+        {
+          "type": "text",
+          "content": "Calculate $BC$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper12/Q21/Q21_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$BC$ =",
+        "suffix": "$\\text{cm}$"
+      },
+      "meta": {}
+    }
+  ]
+}

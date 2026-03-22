@@ -1,0 +1,777 @@
+{
+  "v": "1.0",
+  "paper": "2023MayJune-Paper12",
+  "board": "cie",
+  "code": "0580",
+  "year": 2023,
+  "session": "MayJune",
+  "paperNum": "12",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down all the factors of $18$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the reciprocal of $8$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper12/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw a line perpendicular to the line $AB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure the line $AB$ in centimetres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Shade two squares so that the diagram has rotational symmetry of order $4$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper12/Q03/Q03_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Kai and Ava each have a piece of wood $57 \\text{ cm}$ long."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Kai cuts his piece into $4$ equal length parts.\nFind the length of one part."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Ava cuts her piece into two parts and the lengths are in the ratio $5 : 1$.\nFind the length of the longer part."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In the diagram, $ABC$ is a triangle and $ACD$ is a straight line.\nFind the value of $x$ and the value of $y$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper12/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x = $ ____\n$y = $ ____"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the temperature that is $8^\\circ\\text{C}$ colder than $-5^\\circ\\text{C}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$^\\circ\\text{C}$"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "There are two prime numbers in this list.\n$27 \\quad 47 \\quad 57 \\quad 61 \\quad 75 \\quad 93$\nWork out the sum of these two prime numbers."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On ten days, Stefan records the number of minutes he has to wait for a train.\n$1 \\quad 3 \\quad 12 \\quad 5 \\quad 4 \\quad 23 \\quad 5 \\quad 24 \\quad 11 \\quad 8$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper12/Q08/Q08_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Complete the stem-and-leaf diagram to show this information.\nKey: $0 \\mid 1$ represents $1 \\text{ minute}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the median."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{min}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows the positions of town A and town B.\nMeasure the bearing of town B from town A."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper12/Q09/Q09_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a right-angled triangular prism.\nOn the $1 \\text{ cm}^2$ grid, complete the net of this prism.\nOne face has been drawn for you."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper12/Q10/Q10_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper12/Q10/Q10_Stem_Fig2.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The distance from town A to town B on a map is $3.5 \\text{ cm}$.\nThe scale on the map is $1 : 250\\,000$.\nFind the actual distance, in kilometres, from town A to town B."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{km}$"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A spinner is spun.\nThe possible outcomes are A, B, C or D.\nThe probability of spinning A, C or D is shown in the table."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|}\n\\hline\nLetter on spinner & A & B & C & D \\\\\n\\hline\nProbability & 0.2 & & 0.05 & 0.35 \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "text",
+          "content": "Complete the table."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper12/Q12/Q12_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "table_input"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\mathcal{E} = \\{x : 1 \\leqslant x \\leqslant 20\\}$\n$E = \\{\\text{even numbers}\\}$\n$M = \\{\\text{multiples of 5}\\}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $n(M)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the elements in the set $E \\cap M$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $1 \\frac{4}{7} \\div \\frac{5}{21}$.\nYou must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$F$ is the point $(-1, 4)$, $\\overrightarrow{FG} = \\begin{pmatrix} 3 \\\\ -8 \\end{pmatrix}$ and $\\overrightarrow{GH} = \\begin{pmatrix} 35 \\\\ -12 \\end{pmatrix}$.\nFind"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$3 \\overrightarrow{FG}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\overrightarrow{FG} + \\overrightarrow{GH}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the coordinates of the point $G$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$x$ is an integer where $-3 \\leqslant x < 1$.\nWrite down all the possible values of $x$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the size of an interior angle of a regular $15$-sided polygon."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$^\\circ$"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $45\\,000$ in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $4.2 \\times 10^5 \\times 6.75 \\times 10^{-3}$.\nGive your answer in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 19,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify.\n$18x^{12} \\div 3x^3$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Buses at a station go to the port or to the town.\nBuses leave every $28 \\text{ minutes}$ for the port.\nBuses leave every $48 \\text{ minutes}$ for the town.\nAt 10 18 a bus for the port and a bus for the town leave the station together.\nFind the next time when a bus for the port and a bus for the town leave the station together."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Triangle $ABC$ is similar to triangle $PQR$.\nCalculate $QR$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper12/Q21/Q21_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$QR =$",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper12/Q22/Q22_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows a right-angled triangle $ABC$.\nCalculate $AB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$AB =$",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper12/Q22/Q22_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows right-angled triangles $PQS$ and $PRS$.\n$PQ = 23.8 \\text{ cm}$, $QS = 11.2 \\text{ cm}$ and $SR = 20 \\text{ cm}$.\nCalculate $PR$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$PR =$",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 23,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The mass, $m \\text{ kilograms}$, of object A is $350 \\text{ kg}$, correct to the nearest $10 \\text{ kg}$.\nComplete this statement about the value of $m$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": "$\\leqslant m <$"
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The mass of object B is $348 \\text{ kg}$, correct to the nearest kilogram.\nShow that the mass of object B may be more than the mass of object A."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    }
+  ]
+}

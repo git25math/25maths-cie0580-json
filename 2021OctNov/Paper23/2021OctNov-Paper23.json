@@ -1,0 +1,847 @@
+{
+  "v": "1.0",
+  "paper": "2021OctNov-Paper23",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "OctNov",
+  "paperNum": "23",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write $26\\text{ g}$ as a percentage of $208\\text{ g}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\%$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two parallel lines intersecting a straight line."
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $x$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper23/Q02/Q02_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$11 \\quad 13 \\quad 15 \\quad 17 \\quad 19$"
+        },
+        {
+          "type": "text",
+          "content": "From this list, write down the number that is both a prime number and a factor of $195$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Put a ring around each of the symbols that make this statement correct."
+            },
+            {
+              "type": "text",
+              "content": "$$= \\quad \\neq \\quad < \\quad >$$"
+            },
+            {
+              "type": "text",
+              "content": "$0.5 \\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots 5\\%$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Insert one pair of brackets to make this statement correct."
+            },
+            {
+              "type": "text",
+              "content": "$$7 - 3 - 1 + 2 = 7$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Nina changes $153$ euros into dollars when the exchange rate is $\\$1 = 0.9$ euros.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate the amount Nina receives."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "\\$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Marek buys a computer for $\\$420$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "He sells it at a loss of $15\\%$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the selling price of this computer."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "\\$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "text",
+          "content": "$$32g^4 \\div 4g^4$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Beatrice walks $1\\text{ km}$ at a speed of $4\\text{ km/h}$ and then $2\\text{ km}$ at a speed of $4.5\\text{ km/h}$."
+        },
+        {
+          "type": "text",
+          "content": "Work out Beatrice's average speed for the whole journey."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{km/h}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the recurring decimal $0.\\dot{2}\\dot{7}$ as a fraction."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "These are the first four terms of a sequence."
+        },
+        {
+          "type": "text",
+          "content": "$$3 \\quad -1 \\quad -5 \\quad -9$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the next term in this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the $n$th term."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$P = 2M + \\frac{g^2}{h}$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $P$ when $M = 100$, $g = 3$ and $h = 4.5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$P$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rearrange the formula to write $g$ in terms of $P$, $M$ and $h$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$g$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $\\frac{11}{12} + \\frac{3}{4}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate $0.04 \\times 0.28 + 0.03^2$."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in standard form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper23/Q14/Q14_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the statement."
+            },
+            {
+              "type": "text",
+              "content": "$$P \\cup Q = \\{ \\dots \\}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $n(Q)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $n(P \\cup Q)'$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The cost of a train journey is increased by $6\\%$ to a new cost of $\\$153.70$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate the original cost of the train journey."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "\\$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Jo and Mo share $\\$26$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Jo receives $\\$5$ more than Mo.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Find the ratio Jo's money : Mo's money."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": ":"
+          },
+          {
+            "prefix": "",
+            "suffix": ""
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Each interior angle of a regular polygon is $178.5^\\circ$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the number of sides of this polygon."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the equation of the straight line that passes through the points $(2, -2)$ and $(3, 10)$."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in the form $y = mx + c$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$y$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a sector of a circle, centre $O$, radius $12.6\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the perimeter of the shaded segment."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper23/Q19/Q19_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A lake has an area of $3\\text{ km}^2$."
+        },
+        {
+          "type": "text",
+          "content": "On a map the area of the lake is $18.75\\text{ cm}^2$."
+        },
+        {
+          "type": "text",
+          "content": "Find the scale of the map in the form $1 : n$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$1$ :"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify fully."
+        },
+        {
+          "type": "text",
+          "content": "$$(243y^{10})^{\\frac{3}{5}}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "text",
+          "content": "$$y = 3x - 13$$"
+        },
+        {
+          "type": "text",
+          "content": "$$y = x^2 - 2x - 1$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x = $ ____\n$y = $ ____"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a triangular prism."
+        },
+        {
+          "type": "text",
+          "content": "Angle $BPC = 90^\\circ$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper23/Q23/Q23_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $AC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$AC$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the angle between $AC$ and the base $ABPQ$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\tan x = 3$ and $0^\\circ \\leq x \\leq 360^\\circ$."
+        },
+        {
+          "type": "text",
+          "content": "Find all the possible values of $x$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{6ax - 2a + 12cx - 3c}{18x^2 - 2}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 26,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$ORT$ is a triangle."
+        },
+        {
+          "type": "text",
+          "content": "$X$ is a point on $TR$ so that $TX : XR = 3 : 2$."
+        },
+        {
+          "type": "text",
+          "content": "$O$ is the origin, $\\vec{OR} = \\mathbf{r}$ and $\\vec{OT} = \\mathbf{t}$."
+        },
+        {
+          "type": "text",
+          "content": "Find the position vector of $X$."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in terms of $\\mathbf{r}$ and $\\mathbf{t}$ in its simplest form."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper23/Q26/Q26_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,949 @@
+{
+  "v": "1.0",
+  "paper": "2020MayJune-Paper21",
+  "board": "cie",
+  "code": "0580",
+  "year": 2020,
+  "session": "MayJune",
+  "paperNum": "21",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Rectangle $A$ measures $3\\text{ cm}$ by $8\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Five rectangles congruent to $A$ are joined to make a shape."
+        },
+        {
+          "type": "text",
+          "content": "Work out the perimeter of this shape."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper21/Q01/Q01_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper21/Q01/Q01_Stem_Fig2.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the highest odd number that is a factor of 60 and a factor of 90."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Mrs Salaman gives her class two mathematics tests."
+        },
+        {
+          "type": "text",
+          "content": "The scatter diagram shows information about the marks each student scored."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper21/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the highest mark scored on test 1."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the type of correlation shown in the scatter diagram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw a line of best fit on the scatter diagram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Hamish scored a mark of 40 on test 1."
+            },
+            {
+              "type": "text",
+              "content": "He was absent for test 2."
+            },
+            {
+              "type": "text",
+              "content": "Use your line of best fit to find an estimate for his mark on test 2."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A bag contains blue, red, yellow and green balls only."
+        },
+        {
+          "type": "text",
+          "content": "A ball is taken from the bag at random."
+        },
+        {
+          "type": "text",
+          "content": "The table shows some information about the probabilities."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|}\\hline Colour & Blue & Red & Yellow & Green \\\\\\hline Probability & 0.15 & 0.2 & 0.43 & \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper21/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Abdul takes a ball at random and replaces it in the bag."
+            },
+            {
+              "type": "text",
+              "content": "He does this 200 times."
+            },
+            {
+              "type": "text",
+              "content": "Find how many times he expects to take a red ball."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The $n$th term of a sequence is $\\frac{60}{n} - 8$."
+            },
+            {
+              "type": "text",
+              "content": "Find the largest number in this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here are the first five terms of a different sequence."
+            },
+            {
+              "type": "text",
+              "content": "$12 \\quad 19 \\quad 26 \\quad 33 \\quad 40$"
+            },
+            {
+              "type": "text",
+              "content": "Find an expression for the $n$th term of this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a trapezium."
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $x$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper21/Q06/Q06_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$234 = 2 \\times 3^2 \\times 13$$"
+        },
+        {
+          "type": "text",
+          "content": "$$1872 = 2^4 \\times 3^2 \\times 13$$"
+        },
+        {
+          "type": "text",
+          "content": "$$234 \\times 1872 = 438048$$"
+        },
+        {
+          "type": "text",
+          "content": "Use this information to write 438 048 as a product of its prime factors."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $2 \\frac{1}{8} - \\frac{7}{25} \\times \\frac{6}{7}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise completely."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$21a + 28ab$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$20x^2 - 45y^2$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Points $A$, $B$, $C$, $D$, $E$ and $F$ lie on the circle, centre $O$."
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $x$ and the value of $y$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper21/Q10/Q10_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x = $ ____\n$y = $ ____"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the speed–time graph for 90 seconds of a journey."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the total distance travelled during the 90 seconds."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper21/Q11/Q11_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{m}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Gemma records the times, in seconds, taken for a group of children and a group of adults to complete a puzzle."
+        },
+        {
+          "type": "text",
+          "content": "The box-and-whisker plot shows information about the times taken for the children to complete the puzzle."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper21/Q12/Q12_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the interquartile range of the times taken for the children to complete the puzzle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{seconds}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper21/Q12/Q12_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "The table shows some information about the times, in seconds, taken for the adults to complete the puzzle."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline & Minimum & Lower quartile & Median & Upper quartile & Maximum \\\\\\hline Adults & 28 & 42 & 58 & 70 & 75 \\\\\\hline\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "On the grid above, draw the box-and-whisker plot for the adults."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$C$ lies on a circle with diameter $AD$."
+        },
+        {
+          "type": "text",
+          "content": "$B$ lies on $AC$ and $E$ lies on $AD$ such that $BE$ is parallel to $CD$."
+        },
+        {
+          "type": "text",
+          "content": "$AB = 21\\text{ cm}$, $CD = 18\\text{ cm}$ and $BE = 13.5\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the radius of the circle."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper21/Q13/Q13_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$\\text{f}(x) = 4x + 3 \\qquad \\text{g}(x) = 5x - 4$$"
+            },
+            {
+              "type": "text",
+              "content": "$$\\text{fg}(x) = 20x + p$$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $p$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$p$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$\\text{h}(x) = \\frac{5x - 1}{3}$$"
+            },
+            {
+              "type": "text",
+              "content": "Find $\\text{h}^{-1}(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$\\text{h}^{-1}(x)$ ="
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$P$, $R$ and $Q$ are points on the circle."
+        },
+        {
+          "type": "text",
+          "content": "$AB$ is a tangent to the circle at $Q$."
+        },
+        {
+          "type": "text",
+          "content": "$QR$ bisects angle $PQB$."
+        },
+        {
+          "type": "text",
+          "content": "Angle $BQR = x^\\circ$ and $x < 60$."
+        },
+        {
+          "type": "text",
+          "content": "Use this information to show that triangle $PQR$ is an isosceles triangle."
+        },
+        {
+          "type": "text",
+          "content": "Give a geometrical reason for each step of your work."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper21/Q15/Q15_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$m$ is inversely proportional to the square of $(p - 1)$."
+        },
+        {
+          "type": "text",
+          "content": "When $p = 4$, $m = 5$."
+        },
+        {
+          "type": "text",
+          "content": "Find $m$ when $p = 6$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$m$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\mathbf{m} = \\begin{pmatrix} 5 \\\\ 7 \\end{pmatrix}$"
+                },
+                {
+                  "type": "text",
+                  "content": "Find $3\\mathbf{m}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "vector",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\overrightarrow{VW} = \\begin{pmatrix} 10 \\\\ -24 \\end{pmatrix}$"
+                },
+                {
+                  "type": "text",
+                  "content": "Find $|\\overrightarrow{VW}|$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper21/Q17/Q17_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "$OABC$ is a parallelogram."
+            },
+            {
+              "type": "text",
+              "content": "$\\overrightarrow{OA} = \\mathbf{p}$ and $\\overrightarrow{OC} = \\mathbf{q}$."
+            },
+            {
+              "type": "text",
+              "content": "$E$ is the point on $AB$ such that $AE : EB = 3 : 1$."
+            },
+            {
+              "type": "text",
+              "content": "Find $\\overrightarrow{OE}$, in terms of $\\mathbf{p}$ and $\\mathbf{q}$, in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$\\overrightarrow{OE}$ ="
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$P = 2(w + h)$"
+        },
+        {
+          "type": "text",
+          "content": "$w = 12$ correct to the nearest whole number."
+        },
+        {
+          "type": "text",
+          "content": "$h = 4$ correct to the nearest whole number."
+        },
+        {
+          "type": "text",
+          "content": "Work out the upper bound for the value of $P$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows cuboid $ABCDEFGH$ of length $20\\text{ cm}$ and width $5.5\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "The volume of the cuboid is $495\\text{ cm}^3$."
+        },
+        {
+          "type": "text",
+          "content": "Find the angle between the line $AG$ and the base of the cuboid $ABCD$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper21/Q19/Q19_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The curve $y = x^2 - 2x + 1$ is drawn on a grid."
+        },
+        {
+          "type": "text",
+          "content": "A line is drawn on the same grid."
+        },
+        {
+          "type": "text",
+          "content": "The points of intersection of the line and the curve are used to solve the equation $x^2 - 7x + 5 = 0$."
+        },
+        {
+          "type": "text",
+          "content": "Find the equation of the line in the form $y = mx + c$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$y$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand and simplify $(x + 3)(x - 5)(3x - 1)$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the area of a regular hexagon with side length $7.4\\text{ cm}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      },
+      "meta": {}
+    }
+  ]
+}

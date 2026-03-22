@@ -1,0 +1,1558 @@
+{
+  "v": "1.0",
+  "paper": "2021MayJune-Paper43",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "MayJune",
+  "paperNum": "43",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 14,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Yasmin and Zak share an amount of money in the ratio $21 : 19$."
+                },
+                {
+                  "type": "text",
+                  "content": "Yasmin receives $\\$6$ more than Zak.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the total amount of money shared by Yasmin and Zak."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            },
+            {
+              "label": "(a)(ii)(a)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In a sale, all prices are reduced by $15\\%$."
+                },
+                {
+                  "type": "text",
+                  "content": "Yasmin buys a blouse with an original price of $\\$40$.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the sale price of the blouse."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            },
+            {
+              "label": "(a)(ii)(b)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Zak buys a shirt with a sale price of $\\$29.75$.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the original price of the shirt."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Xavier’s salary increases by $2\\%$ each year."
+            },
+            {
+              "type": "text",
+              "content": "In 2010, his salary was $\\$40\\,100$.",
+              "_dollar_warning": true
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate his salary in 2015."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer correct to the nearest dollar."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In which year is Xavier’s salary first greater than $\\$47\\,500$?",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In January 2020, the population of a town was $5\\%$ more than its population in January 2018."
+            },
+            {
+              "type": "text",
+              "content": "In January 2021, the population of this town was $2\\%$ less than its population in January 2020."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the overall percentage increase in the population from January 2018 to January 2021."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 15,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$y = px + t^2$$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of $y$ when $p = 3$, $x = 2$ and $t = -13$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$y$ ="
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Rearrange the formula to write $x$ in terms of $p$, $t$ and $y$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$x$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Factorise."
+                },
+                {
+                  "type": "text",
+                  "content": "$$15x^2 - 8x - 2$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Solve the equation."
+                },
+                {
+                  "type": "text",
+                  "content": "$$15x^2 - 8x - 2 = 0$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 1,
+                "template": "$x = $ ____ or $x = $ ____"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise completely."
+            },
+            {
+              "type": "text",
+              "content": "$$16x^3 - xy^2$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{x^2 + ax - 2x - 2a}{x^2 - 4}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper43/Q03/Q03_Subd_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper43/Q03/Q03_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper43/Q03/Q03_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Zoe’s test scores last term were"
+            },
+            {
+              "type": "text",
+              "content": "$6$  $7$  $7$  $7$  $8$  $9$  $9$  $10$  $10$."
+            },
+            {
+              "type": "text",
+              "content": "Find"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the range,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the mode,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the median."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The cumulative frequency diagram shows information about the time taken by each of $200$ students to solve a problem."
+            },
+            {
+              "type": "text",
+              "content": "Use the diagram to find an estimate of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the median,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "min"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the interquartile range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "min"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The test scores of $200$ students are shown in the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|c|}\n\\hline\nScore & 5 & 6 & 7 & 8 & 9 & 10 \\\\\n\\hline\nFrequency & 3 & 10 & 43 & 75 & 48 & 21 \\\\\n\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Calculate the mean."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The height, in cm, of each of $200$ plants is measured."
+            },
+            {
+              "type": "text",
+              "content": "The histogram shows the results."
+            },
+            {
+              "type": "text",
+              "content": "Calculate an estimate of the mean height."
+            },
+            {
+              "type": "text",
+              "content": "You must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper43/Q04/Q04_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A$ is the point $(1, 5)$ and $B$ is the point $(3, 9)$."
+            },
+            {
+              "type": "text",
+              "content": "$M$ is the midpoint of $AB$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the coordinates of $M$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of the line that is perpendicular to $AB$ and passes through $M$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in the form $y = mx + c$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$y$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The position vector of $P$ is $\\begin{pmatrix} 2 \\\\ -3 \\end{pmatrix}$ and the position vector of $Q$ is $\\begin{pmatrix} -2 \\\\ 5 \\end{pmatrix}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the vector $\\overrightarrow{PQ}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "vector",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$R$ is the point such that $\\overrightarrow{PR} = 3\\overrightarrow{PQ}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the position vector of $R$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "vector",
+                "fields": 2
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\overrightarrow{OT} = \\mathbf{t}$, $\\overrightarrow{OU} = \\mathbf{u}$ and $UY = 2YT$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $\\overrightarrow{OY}$ in terms of $\\mathbf{t}$ and $\\mathbf{u}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$\\overrightarrow{OY}$ ="
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$Z$ is on $OT$ and $YZ$ is parallel to $UO$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find $\\overrightarrow{OZ}$ in terms of $\\mathbf{t}$ and/or $\\mathbf{u}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$\\overrightarrow{OZ}$ ="
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$5x + y = 22$$"
+            },
+            {
+              "type": "text",
+              "content": "$$2x + y = 13$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "$x = $ ____\n$y = $ ____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$y = x^2 + x + 2$$"
+            },
+            {
+              "type": "text",
+              "content": "$$y = 2 - 2x$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "$x = $ ____ , $y = $ ____\n$x = $ ____ , $y = $ ____"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In a class of $24$ students, $18$ students like homework ($H$), $15$ students like tests ($T$) and $1$ student does not like homework and does not like tests."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper43/Q06/Q06_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the Venn diagram to show this information."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the number of students who like both homework and tests."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $n((H \\cup T)')$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A student is picked at random from the class."
+            },
+            {
+              "type": "text",
+              "content": "Write down the probability that this student likes tests but does not like homework."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two students are picked at random from the class."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that both students do not like homework and do not like tests."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two of the students who like homework are picked at random."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that both students also like tests."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper43/Q07/Q07_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the inequality in $x$ shown by the number line."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 8,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write $x^2 + 4x + 1$ in the form $(x+p)^2 + q$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your answer to part (b)(i) to solve the equation $x^2 + 4x + 1 = 0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 1,
+                "template": "$x = $ ____ or $x = $ ____"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your answer to part (b)(i) to write down the coordinates of the minimum point on the graph of $y = x^2 + 4x + 1$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(b)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the diagram, sketch the graph of $y = x^2 + 4x + 1$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper43/Q08/Q08_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "A solid cuboid measures $20\\text{ cm}$ by $12\\text{ cm}$ by $5\\text{ cm}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the volume of the cuboid."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^3$"
+              }
+            },
+            {
+              "label": "(a)(ii)(a)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the total surface area of the cuboid."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            },
+            {
+              "label": "(a)(ii)(b)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The surface of the cuboid is painted."
+                },
+                {
+                  "type": "text",
+                  "content": "The cost of the paint used is $\\$1.52$.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "Find the cost to paint $1\\text{ cm}^2$ of the cuboid."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in cents."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "cents"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A solid metal cylinder with radius $x$ and height $\\frac{9x}{2}$ is melted."
+            },
+            {
+              "type": "text",
+              "content": "All the metal is used to make a sphere with radius $r$."
+            },
+            {
+              "type": "text",
+              "content": "Find $r$ in terms of $x$."
+            },
+            {
+              "type": "text",
+              "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\frac{4}{3}\\pi r^3$.]"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$r$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a cylinder of length $150\\text{ cm}$ on horizontal ground."
+            },
+            {
+              "type": "text",
+              "content": "The cylinder has radius $20\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "The cylinder contains water to a depth of $5\\text{ cm}$, as shown in the diagram."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the volume of water in the cylinder."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in litres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "litres"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper43/Q09/Q09_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper43/Q09/Q09_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the perimeter of the quadrilateral $ABCD$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a cube."
+            },
+            {
+              "type": "text",
+              "content": "The length of the diagonal $AB$ is $8.5\\text{ cm}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the length of an edge of the cube."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the angle between $AB$ and the base of the cube."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 10,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$f(x) = 3 - 2x$$"
+        },
+        {
+          "type": "text",
+          "content": "$$g(x) = \\frac{7}{x} - 5$$"
+        },
+        {
+          "type": "text",
+          "content": "$$h(x) = x^2 + x$$"
+        },
+        {
+          "type": "text",
+          "content": "$$j(x) = 3^x$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$f(2)$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$g(2)$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$gf(2)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $f^{-1}(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$f^{-1}(x)$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $hf(x)$, giving your answer in the form $ax^2 + bx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the derivative of $h(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(e)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $x$ when $j^{-1}(x) = 4$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            },
+            {
+              "label": "(e)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Simplify $j^{-1}(j(x))$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 11,
+      "marks": 9,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first four terms of a sequence."
+            },
+            {
+              "type": "text",
+              "content": "$11$   $7$   $3$   $-1$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the next term."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the term to term rule for this sequence."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the $n$th term of this sequence."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The $n$th term of a different sequence is $\\frac{2n}{n+1}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the difference between the 5th term and the 6th term of this sequence."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer as a fraction."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Is $\\frac{4}{3}$ a term in this sequence?"
+                },
+                {
+                  "type": "text",
+                  "content": "Show how you decide."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

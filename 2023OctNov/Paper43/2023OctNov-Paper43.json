@@ -1,0 +1,1780 @@
+{
+  "v": "1.0",
+  "paper": "2023OctNov-Paper43",
+  "board": "cie",
+  "code": "0580",
+  "year": 2023,
+  "session": "OctNov",
+  "paperNum": "43",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows the amount received when exchanging $100 in some countries.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|c|c|}\\hline Country & Amount received for $100$ \\\\ \\hline Wales & $77.05$ pounds \\\\ India & $7437.05$ rupees \\\\ China & $671.20$ yuan \\\\ Spain & $85.35$ euros \\\\ \\hline\\end{tabular}"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper43/Q01/Q01_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Brad changes $250 to Indian rupees.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the amount he receives correct to the nearest rupee."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " rupees"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Wang changes 5400 Chinese yuan into dollars."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate how much he receives in dollars, correct to the nearest cent."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "Gretal lives in Spain and goes on holiday to Wales."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "She spends 3500 euros in total on travel and hotels in the ratio"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "travel: hotels = $4:3$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out how much Gretal spends, in euros, on travel."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": " euros"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out how much she spends, in pounds, on hotels."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": " pounds"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Gretal flies home to Spain."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "The plane flies a distance of 2200 km, correct to the nearest 100 km."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "The average speed of the plane is 740 km/h, correct to the nearest 20 km/h."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the lower bound of the time taken, in hours and minutes, for this flight."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "suffix": " h"
+                  },
+                  {
+                    "suffix": " min"
+                  }
+                ]
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows the number of each type of bird seen in a garden on Monday."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|}\\hline Type of bird & Frequency & Pie chart sector angle \\\\ \\hline Goldfinch & $8$ & $96°$ \\\\ Jay & $6$ & \\\\ Starling & $11$ & \\\\ Robin & $5$ & \\\\ \\hline\\end{tabular}"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper43/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the percentage of the birds that are Starlings."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper43/Q02/Q02_Subb_Fig2.png"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In the table, complete the column for the pie chart sector angle."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the pie chart to show the information in the table."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Goldfinch"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On Tuesday, the number of Goldfinches seen in the garden increased by 262.5%."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the number of Goldfinches seen on Tuesday."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the most common birds in the world is the Red-Billed Quelea which lives in Sub-Saharan Africa."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "There are approximately 1500 million of these birds in this area."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write 1500 million in standard form."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The land area of Sub-Saharan Africa is approximately 21.2 million square kilometres."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the average number of these birds per square kilometre."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": " birds/km$^2$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper43/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle A onto triangle B."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw the image of triangle A after"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a reflection in the line $y=1$"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a translation by the vector $\\begin{pmatrix} -5 \\\\ 7 \\end{pmatrix}$"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "an enlargement, scale factor 2, centre $(-4, 5)$."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper43/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the size of one interior angle of a regular 10-sided polygon."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The points A, B, C, D and E lie on a circle."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "FG is a tangent to the circle at D."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "EB is parallel to DC."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the value of each of w, x, y and z."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "w = "
+              },
+              {
+                "prefix": "x = "
+              },
+              {
+                "prefix": "y = "
+              },
+              {
+                "prefix": "z = "
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Indira records the time taken for workers in her company to travel to work."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The table and the histogram each show part of this information."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|}\\hline Time (t minutes) & Frequency & Frequency density \\\\ \\hline $0 < t \\le 10$ & $57$ & \\\\ $10 < t \\le 25$ & $38$ & \\\\ $25 < t \\le 40$ & & $4$ \\\\ $40 < t \\le 60$ & & $2$ \\\\ $60 < t \\le 80$ & & $1$ \\\\ \\hline\\end{tabular}"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper43/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper43/Q05/Q05_Stem_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table and the histogram."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate an estimate of the mean time."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " min"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rashid says:"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "‘The longest time that any of these workers take to travel to work is 80 minutes.’"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Give a reason why Rashid may be wrong."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Indira picks three workers at random from those who take longer than 25 minutes to travel to work."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the probability that one worker takes 60 minutes or less and the other two each take more than 60 minutes."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$f(x) = \\frac{5}{x-3}$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$g(x) = \\frac{64}{x}$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$h(x) = 2x+1$, $x \\ne -1$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$f(2)$"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$gf(0.5)$"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $h^{-1}(x)$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$h^{-1}(x) = $"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find x when $g(x) = \\frac{1}{5}$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x = $"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write as a single fraction in its simplest form $f(x) - h(x)$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 11,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper43/Q07/Q07_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Complete the table of values for $y = 3 \\cos x°$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Values are given correct to 1 decimal place."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}\\hline x & $0$ & $10$ & $20$ & $30$ & $40$ & $45$ & $50$ & $60$ & $70$ & $80$ & $90$ \\\\ \\hline y & $3.0$ & $2.8$ & $2.3$ & & $1.5$ & & $0.5$ & & $-0.5$ & $-2.3$ & $-3.0$ \\\\ \\hline\\end{tabular}"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw the graph of $y = 3 \\cos x°$ for $0 \\le x \\le 90$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to solve the equation $3 \\cos x° = -2$ for $0 \\le x \\le 90$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x = $"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "By drawing a suitable straight line, solve the equation $3 \\cos x° = \\frac{x}{20} - 80$ for $0 \\le x \\le 90$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x = $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 17,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper43/Q08/Q08_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 14,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a shape made from a major sector AOB and triangles OBC and AOD."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$OB = 6\\text{cm}$, $BC = 2\\text{cm}$, obtuse angle $AOC = 135°$ and angle $BCO = 90°$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that angle $BOC = 19.5°$, correct to 1 decimal place."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the area of the major sector AOB."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": " cm$^2$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 5,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "C is the midpoint of OD."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate AD."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": " cm"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the total area of the shape."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": " cm$^2$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A sector of a circle has radius 8 cm and area 160 cm$^2$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "A mathematically similar sector has radius 20 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the area of the larger sector."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " cm$^2$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A is the point (0, 2), B is the point (3, 3) and C is the point (4, 0)."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Determine if triangle ABC is scalene, isosceles or equilateral."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "You must show all your working."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 10,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of the line AC."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in the form $y = mx+c$."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$y = $"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of the perpendicular bisector of AC."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in the form $y = mx+c$."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$y = $"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "ABCD is a kite."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "The point D has coordinates $(w, w+1)$."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Find the coordinates of D."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 14,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$(x-4)(2x-1) - 6(3-x)$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise completely."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$6x^2y + 9xy^2$"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$4x^2 - 8y^2 + 4x + 2y$"
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "Antonio travels 100 km at an average speed of x km/h."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "He then travels a further 150 km at an average speed of $(x+10)$ km/h."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The time taken for the whole journey is 4 hours 20 minutes."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that $x^2 - 13x - 3000 = 0$."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Solve $x^2 - 13x - 3000 = 0$ to find the speed Antonio travels for the first 100 km of the journey."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "You must show all your working and give your answer correct to 1 decimal place."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": " km/h"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a sketch of $y = x^2 - 5x + \\frac{18}{x}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper43/Q11/Q11_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the points A, B and C."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "A (",
+                "suffix": ")"
+              },
+              {
+                "prefix": "B (",
+                "suffix": ")"
+              },
+              {
+                "prefix": "C (",
+                "suffix": ")"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Differentiate $x^2 - 5x + \\frac{18}{x}$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the point on $y = x^2 - 5x + \\frac{18}{x}$ where the gradient is 17."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

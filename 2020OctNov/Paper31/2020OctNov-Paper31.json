@@ -1,0 +1,1408 @@
+{
+  "v": "1.0",
+  "paper": "2020OctNov-Paper31",
+  "board": "cie",
+  "code": "0580",
+  "year": 2020,
+  "session": "OctNov",
+  "paperNum": "31",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Sean is the manager of a museum."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q01/Q01_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "He buys a Chinese pot costing $1200$ yuan.\nThe exchange rate is $\\$1 = 6.4$ yuan.\nWork out the cost of this pot in dollars.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$ $"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Sean records the maximum and minimum temperatures, in $^\\circ\\text{C}$, at the museum.\nSome of the results for one week are shown in the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|c|c|}\\hline Day & Mon & Tue & Wed & Thu & Fri & Sat & Sun \\\\ \\hline Maximum temperature ($^\\circ\\text{C}$) & 8 & 12 & 15 & 14 & 11 & 7 & 4 \\\\ \\hline Minimum temperature ($^\\circ\\text{C}$) & 5 & -2 & -4 & -1 & -3 & & \\\\ \\hline\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the difference between the maximum temperature and the minimum temperature on Wednesday."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$^\\circ\\text{C}$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The minimum temperature on Saturday was $2 ^\\circ\\text{C}$ higher than the minimum temperature on Monday.\nFind the minimum temperature on Saturday."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$^\\circ\\text{C}$"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In this week the range of temperatures was $23 ^\\circ\\text{C}$.\nFind the minimum temperature on Sunday."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$^\\circ\\text{C}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the opening times for the museum.\nMonday to Friday $09\\ 00$ to $17\\ 00$\nSaturday and Sunday $10\\ 00$ to $16\\ 00$\nDuring opening hours the museum has $4$ security guards working.\nEach guard works a maximum of $30$ hours each week.\nWork out the smallest number of guards needed each week."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The entry price to the museum is $\\$18$.\nThis price is increased by $28\\%$.\nFind the increased entry price.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$ $"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 2,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Jian has a fair spinner in the shape of a regular hexagon."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q02/Q02_Subb_Fig3.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q02/Q02_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q02/Q02_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q02/Q02_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The spinner is numbered $2, 2, 3, 4, 4, 5$.\nJian spins the spinner.\nFind the probability that the spinner lands on"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "an even number,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a number less than $6$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the number $1$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q02/Q02_Subb_Fig3.png"
+            },
+            {
+              "type": "text",
+              "content": "Mei has two fair square spinners, A and B.\nSpinner A is numbered $1, 2, 2, 4$ and spinner B is numbered $3, 3, 4, 5$.\nShe spins both spinners and adds the two numbers."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table to show all the possible outcomes."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline\\multicolumn{2}{|c|}{\\multirow{2}{*}{}} & \\multicolumn{4}{c|}{Spinner B} \\\\ \\cline{3-6}\\multicolumn{2}{|c|}{} & 3 & 3 & 4 & 5 \\\\ \\hline\\multirow{4}{*}{Spinner A} & 1 & 4 & 4 & & \\\\ \\cline{2-6}& 2 & 5 & 5 & 6 & 7 \\\\ \\cline{2-6}& 2 & 5 & 5 & 6 & 7 \\\\ \\cline{2-6}& 4 & 7 & 7 & & \\\\ \\hline\\end{tabular}"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use the table to write down the probability that the total is"
+                }
+              ],
+              "subparts": [
+                {
+                  "label": "(a)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "$5$,"
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "expression"
+                  }
+                },
+                {
+                  "label": "(b)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "more than $5$."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "expression"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Ning has a spinner numbered $1$ to $6$.\nShe spins it $50$ times and her results are shown in the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|c|}\\hline Number on spinner & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline Frequency & 15 & 12 & 9 & 5 & 2 & 7 \\\\ \\hline\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mode."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the median."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the mean."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 3,
+      "marks": 11,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$8 \\qquad 15 \\qquad 18 \\qquad 33 \\qquad 39 \\qquad 41 \\qquad 51 \\qquad 57 \\qquad 60 \\qquad 81$"
+            },
+            {
+              "type": "text",
+              "content": "From this list, write down"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a factor of $54$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a multiple of $19$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a prime number."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the reciprocal of $64$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write $4.81 \\times 10^{-3}$ as an ordinary number."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write $75\\ 000$ in standard form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate $6.3 \\times 10^2 \\times 7 \\times 10^{-3}$.\nWrite your answer in standard form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q03/Q03_Subd_Fig2.png"
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q03/Q03_Subd_Fig1.png"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\mathscr{E} = \\{2, 4, 8, 16, 32, 64\\}$\n$A = \\{\\text{square numbers}\\}$\n$B = \\{\\text{cube numbers}\\}$\nUse this information to complete the Venn diagram."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On this Venn diagram, shade the region $P \\cup Q'$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 4,
+      "marks": 14,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify.\n$$6a - 3b + 2a - 4b$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand.\n$$3(x - 5)$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve these equations."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$\\frac{x}{3} = 18$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x =$"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$\\frac{x}{5} + 8 = 18$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x =$"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$12x - 3 = 4x + 21$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x =$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$6^{10} \\times 6^2 = 6^x$$\nFind the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The Fraser family and the Singh family go to the cinema.\nThe Fraser family buys $6$ adult tickets and $2$ child tickets for $\\$124$.\nThe Singh family buys $3$ adult tickets and $5$ child tickets for $\\$100$.\nFind the price of an adult ticket and the price of a child ticket."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "Adult ticket $\\$ $ ____\nChild ticket $\\$ $ ____"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 5,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q05/Q05_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write one hundred and twenty thousand and twenty in figures."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $\\sqrt{3481}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the fraction of the rectangle that is shaded."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the percentage of the rectangle that is not shaded."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write these numbers in order, starting with the smallest.\n$$27\\% \\qquad \\frac{5}{17} \\qquad 0.268 \\qquad \\frac{7}{29}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "suffix": ","
+              },
+              {
+                "suffix": ","
+              },
+              {
+                "suffix": ","
+              },
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $0.3728$ correct to $1$ decimal place."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the value of $19^0$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(g)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The height, $h$ metres, of a tower is $128\\text{ m}$, correct to the nearest metre.\nComplete the statement about the value of $h$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "suffix": "$\\le h <$"
+              },
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(h)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the highest common factor (HCF) of $126$ and $180$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down an irrational number with a value between $6$ and $7$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 6,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a right-angled triangular prism."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q06/Q06_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q06/Q06_Suba_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "On the $1\\text{ cm}^2$ grid, complete the net of the prism.\nOne face has been drawn for you."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the surface area of the prism."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the volume of the prism."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 7,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q07/Q07_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q07/Q07_Subd_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q07/Q07_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q07/Q07_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows an isosceles triangle and a straight line.\nWork out the value of $w$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$w =$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$ABCD$ is a rectangle.\n$AE$ is parallel to $DBF$.\nFind the value of $x$ and the value of $y$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "$x = $ ____\n$y = $ ____"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A$, $B$ and $C$ are points on a circle.\n$AC$ is a diameter of the circle.\nFind the value of $a$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$a =$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two regular octagons and a square meet at point $P$.\nShow, by calculation, that the three interior angles at $P$ add up to $360^\\circ$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 8,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ onto triangle $B$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ onto triangle $C$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ onto triangle $D$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the image of triangle $A$ after a reflection in the line $x = -2$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 9,
+      "marks": 9,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table of values for $y = \\frac{15}{x}$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|c|c|c|}\\hline $x$ & -5 & -3 & -2 & -1 & 1 & 2 & 3 & 5 \\\\ \\hline $y$ & & & & -15 & 15 & & & \\\\ \\hline\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper31/Q09/Q09_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = \\frac{15}{x}$ for $-5 \\le x \\le -1$ and $1 \\le x \\le 5$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the line $y = 6$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to solve $\\frac{15}{x} = 6$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 10,
+      "marks": 8,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first four terms of a sequence.\n$$8 \\qquad 15 \\qquad 22 \\qquad 29$$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the next term."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the term to term rule for continuing this sequence."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find an expression for the $n$th term."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the next term in each of these sequences."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$18, \\qquad 21, \\qquad 26, \\qquad 33, \\qquad 42, \\qquad \\dots$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$18, \\qquad 20, \\qquad 24, \\qquad 32, \\qquad 48, \\qquad \\dots$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the first three terms of the sequence with $n$th term $n^2 + 5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "suffix": ","
+              },
+              {
+                "suffix": ","
+              },
+              {}
+            ]
+          }
+        }
+      ],
+      "answer": null
+    }
+  ]
+}

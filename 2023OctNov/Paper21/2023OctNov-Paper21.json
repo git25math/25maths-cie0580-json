@@ -1,0 +1,1133 @@
+{
+  "v": "1.0",
+  "paper": "2023OctNov-Paper21",
+  "board": "cie",
+  "code": "0580",
+  "year": 2023,
+  "session": "OctNov",
+  "paperNum": "21",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows an isosceles triangle."
+        },
+        {
+          "type": "text",
+          "content": "NOT TO SCALE"
+        },
+        {
+          "type": "text",
+          "content": "$x°$"
+        },
+        {
+          "type": "text",
+          "content": "$41°$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the value of x."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper21/Q01/Q01_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "x ="
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The stem‑and‑leaf diagram shows the time, in minutes, it takes each of 15 people to complete a race."
+        },
+        {
+          "type": "text",
+          "content": "1 6     6     7"
+        },
+        {
+          "type": "text",
+          "content": "2 1     3     3     4     5     6     7     7     7"
+        },
+        {
+          "type": "text",
+          "content": "3 0     1     1"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Key: 1 6 represents 16 minutes"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper21/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the mode"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "min"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the range"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "min"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the median."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "min"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Complete these statements."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "When $x = $ ..................... , $x^3 + 8 = 0$ ."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "When $\\frac{y}{7} = \\frac{63}{10}$, $y = $ ....................."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows some information about Amir’s shopping."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|}\\hline Fruit & Cost per kilogram & Number of kilograms Amir buys & Cost \\\\ \\hline Oranges & \\$2.35 & 3.2 & \\$................... \\\\ Bananas & \\$................... & 2.8 & \\$................... \\\\ \\hline Total & & & \\$13.54 \\\\ \\hline\\end{tabular}"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Complete the table."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper21/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "table_input"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise completely."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$42mk - 35m$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$h^2 - 144$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "For each of 10 people working in an office, the scatter diagram shows their salary and the value of their car."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper21/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of these people has a salary of $28 000.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "Find the value of their car."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$ "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Another person starts to work in the office."
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "Their salary is $54 000 and the value of their car is $6100."
+            },
+            {
+              "type": "newline",
+              "lines": 3
+            },
+            {
+              "type": "text",
+              "content": "Plot this information on the scatter diagram."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "What type of correlation is shown in the scatter diagram?"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 7,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The exchange rate between Singapore dollars and euros is $1$ Singapore dollar $= 0.62$ euros."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $161.20$ euros in Singapore dollars."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "Singapore dollars"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate."
+        },
+        {
+          "type": "newline",
+          "lines": 3
+        },
+        {
+          "type": "text",
+          "content": "$7 \\times 10^3 - 3 \\times 10^3$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the highest common factor (HCF) of 140 and 126."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$n^5 \\times n$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$x^8 \\div x^2 \\times x^6 \\div x^2$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$(243y^{20})^\\frac{2}{5}$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve."
+        },
+        {
+          "type": "newline",
+          "lines": 3
+        },
+        {
+          "type": "text",
+          "content": "$4(2x - 3) \\ge 43$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write $0.4\\dot{2}$ as a fraction in its simplest form."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "At the end of 2021 there were 27 000 rhinos living in the wild."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The number of rhinos is expected to decrease exponentially by 3% each year."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Work out the number of rhinos expected to be living in the wild 4 years later, at the end of 2025."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest whole number."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper21/Q14/Q14_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper21/Q14/Q14_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The Venn diagram shows information about the number of elements in sets A, B and $\\mathcal{E}$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$n(\\mathcal{E}) = 52$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find $n(A \\cup B)$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "In this Venn diagram, shade the region $C \\cup D \\cup E$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 15,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "By shading the unwanted regions of the grid, draw and label the region R which satisfies these inequalities."
+        },
+        {
+          "type": "newline",
+          "lines": 3
+        },
+        {
+          "type": "text",
+          "content": "$y \\ge \\frac{1}{2}x$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$x \\ge 2$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$y \\le x + 2$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper21/Q15/Q15_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$P = w^2 + h^2$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$w = 11$ and $h = 9.5$, both correct to 2 significant figures."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the lower bound and the upper bound for P."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "Lower bound = _______________\nUpper bound = _______________"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A, B and C are points on the circumference of a circle, centre O."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Tangent DE touches the circle at C."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Angle BCE = $53°$ and angle ACO = $20°$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the value of x."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper21/Q17/Q17_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "x ="
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate the value of y."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper21/Q18/Q18_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "y ="
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Sketch the graph of $y = \\cos x$ for $0° \\le x \\le 360°$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "When $\\cos x = 0.21$, find the reflex angle x."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 20,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write as a single fraction in its simplest form."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\frac{x}{x^2 - 3x - 10} - \\frac{2}{x - 6}$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\frac{7}{x+3} + \\frac{1}{x-8} - 5$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a cuboid ABCDEFGH."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "AB = 15.1 $\\text{cm}$, BC = 4.5 $\\text{cm}$ and CG = 9.2 $\\text{cm}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the angle that the diagonal BH makes with the face ADHE."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper21/Q21/Q21_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "ABCD is a rhombus with side length 13.6 $\\text{cm}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Angle ABC = $41°$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "BAC is a sector of a circle with centre B."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "DAC is a sector of a circle with centre D."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the shaded area."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper21/Q22/Q22_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^2$"
+      }
+    }
+  ]
+}

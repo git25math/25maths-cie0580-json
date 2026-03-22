@@ -11,201 +11,1235 @@
   "time": 150,
   "questions": [
     {
-      "qnum": 1, "marks": 12,
+      "qnum": 1,
+      "marks": 12,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 4, "content": [{ "type": "text", "content": "Anvi buys a new car." }],
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Anvi buys a new car."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "The price of the car is $\\$28\\,240$. She is given a 7.5% discount. Calculate the amount she pays." }], "answer": { "type": "number", "prefix": "$\\$$" } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "The fuel tank in the new car has a capacity of 45 litres. This is 72% of the capacity of the fuel tank in her old car. Calculate the capacity of the fuel tank in her old car." }], "answer": { "type": "number", "suffix": "litres" } }
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The price of the car is $\\$28\\,240$. She is given a 7.5% discount. Calculate the amount she pays."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The fuel tank in the new car has a capacity of 45 litres. This is 72% of the capacity of the fuel tank in her old car. Calculate the capacity of the fuel tank in her old car."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "litres"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "Aadi buys a new car costing $\\$28\\,000$. He pays for the car using a finance plan. The finance plan is: a deposit, 47 equal monthly payments of $\\$330$, a final payment of $\\$11\\,490$. Using this finance plan, Aadi pays a total of $\\$31\\,900$ for the car." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the deposit paid as a percentage of $\\$28\\,000$." }], "answer": { "type": "number", "suffix": "%" } },
-        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "A car travels 64 km and uses 2.5 litres of fuel. It then travels 128 km and uses 6 litres of fuel." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the rate at which the car uses fuel during the whole journey. Give your answer in litres per 100 km." }], "answer": { "type": "number", "suffix": "litres per 100 km" } },
-        { "label": "(d)", "marks": 2, "content": [{ "type": "text", "content": "At the start of 2021 the value of a car was $\\$46\\,500$. At the end of 2021 the value of the car was 20% less. At the end of 2022 the value of the car was 15% less than its value at the end of 2021." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the value of the car at the end of 2022." }], "answer": { "type": "number", "prefix": "$\\$$" } }
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Aadi buys a new car costing $\\$28\\,000$. He pays for the car using a finance plan. The finance plan is: a deposit, 47 equal monthly payments of $\\$330$, a final payment of $\\$11\\,490$. Using this finance plan, Aadi pays a total of $\\$31\\,900$ for the car."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the deposit paid as a percentage of $\\$28\\,000$."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "%"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A car travels 64 km and uses 2.5 litres of fuel. It then travels 128 km and uses 6 litres of fuel."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the rate at which the car uses fuel during the whole journey. Give your answer in litres per 100 km."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "litres per 100 km"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "At the start of 2021 the value of a car was $\\$46\\,500$. At the end of 2021 the value of the car was 20% less. At the end of 2022 the value of the car was 15% less than its value at the end of 2021."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of the car at the end of 2022."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        }
       ],
-      "meta": { "s": "1.12", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+      "meta": {
+        "s": "1.12",
+        "cat": "number",
+        "d": 2,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "calculate"
+      }
     },
     {
-      "qnum": 2, "marks": 13,
+      "qnum": 2,
+      "marks": 13,
       "stem": [
-        { "type": "text", "content": "The table shows some values for $y = x^3 + 4x^2 - 4$." },
-        { "type": "newline", "lines": 1 },
-        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q02/Q02_Stem_Fig1.png" }
+        {
+          "type": "text",
+          "content": "The table shows some values for $y = x^3 + 4x^2 - 4$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q02/Q02_Stem_Fig1.png"
+        }
       ],
       "parts": [
-        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Complete the table." }], "answer": { "type": "table_input" } },
-        { "label": "(b)", "marks": 4, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q02/Q02_Stem_Fig2.png" }, { "type": "text", "content": "On the grid, draw the graph of $y = x^3 + 4x^2 - 4$ for $-4.5 \\leq x \\leq 1.5$." }], "answer": { "type": "none" } },
-        { "label": "(c)", "marks": 3, "content": [],
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q02/Q02_Stem_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = x^3 + 4x^2 - 4$ for $-4.5 \\leq x \\leq 1.5$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [],
           "subparts": [
-            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Draw the tangent to the graph at the point $(1, 1)$." }], "answer": { "type": "none" } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Use your tangent to estimate the gradient of the curve at the point $(1, 1)$." }], "answer": { "type": "number" } }
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Draw the tangent to the graph at the point $(1, 1)$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your tangent to estimate the gradient of the curve at the point $(1, 1)$."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
           ]
         },
-        { "label": "(d)", "marks": 4, "content": [{ "type": "text", "content": "By drawing a suitable straight line on the grid, solve the equation $x^3 + 4x^2 - x - 6 = 0$." }], "answer": { "type": "expression" } }
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "By drawing a suitable straight line on the grid, solve the equation $x^3 + 4x^2 - x - 6 = 0$."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
       ],
-      "meta": { "s": "2.10", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "draw" }
+      "meta": {
+        "s": "2.10",
+        "cat": "algebra",
+        "d": 3,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "draw"
+      }
     },
     {
-      "qnum": 3, "marks": 17,
+      "qnum": 3,
+      "marks": 17,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 6, "content": [{ "type": "text", "content": "Simplify." }],
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "$3m - 5n - 4m + 8n$" }], "answer": { "type": "expression" } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "$(3a^2c^3)^4$" }], "answer": { "type": "expression" } },
-            { "label": "(iii)", "marks": 2, "content": [{ "type": "text", "content": "$\\dfrac{4x}{5} - \\dfrac{3x}{10} + \\dfrac{2x}{15}$" }], "answer": { "type": "expression" } }
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$3m - 5n - 4m + 8n$"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$(3a^2c^3)^4$"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\dfrac{4x}{5} - \\dfrac{3x}{10} + \\dfrac{2x}{15}$"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q03/Q03_Subb_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "This isosceles triangle has a perimeter of 35.5 cm. Find the value of $a$." }], "answer": { "type": "number" } },
-        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Using the quadratic formula, solve $5x^2 - 4x - 3 = 0$. You must show all your working." }], "answer": { "type": "multiline", "lines": [{ "label": "$x=$", "value": "" }, { "label": "$x=$", "value": "" }] } },
-        { "label": "(d)", "marks": 5, "content": [{ "type": "text", "content": "Solve these simultaneous equations. You must show all your working." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$y = x^2 - 4x + 5$" }, { "type": "text", "content": "$y = 2x - 3$" }], "answer": { "type": "expression" } }
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q03/Q03_Subb_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "This isosceles triangle has a perimeter of 35.5 cm. Find the value of $a$."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Using the quadratic formula, solve $5x^2 - 4x - 3 = 0$. You must show all your working."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": [
+              {
+                "label": "$x=$",
+                "value": ""
+              },
+              {
+                "label": "$x=$",
+                "value": ""
+              }
+            ],
+            "template": "$x=$ ____\n$x=$ ____"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve these simultaneous equations. You must show all your working."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$y = x^2 - 4x + 5$"
+            },
+            {
+              "type": "text",
+              "content": "$y = 2x - 3$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
       ],
-      "meta": { "s": "2.7", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "solve" }
+      "meta": {
+        "s": "2.7",
+        "cat": "algebra",
+        "d": 2,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "solve"
+      }
     },
     {
-      "qnum": 4, "marks": 15,
+      "qnum": 4,
+      "marks": 15,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "The angles of a quadrilateral are $w°$, $x°$, $y°$ and $z°$. The ratio $w : (x + y + z) = 3 : 5$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the value of $w$." }], "answer": { "type": "number" } },
-        { "label": "(b)", "marks": 5, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q04/Q04_Subb_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$A$, $B$, $C$ and $D$ are points on a circle. $PQ$ is the tangent to the circle at $A$. $BMND$ is a straight line. Angle $ACD = 49°$, angle $AMB = 105°$ and angle $PAB = 45°$." }],
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The angles of a quadrilateral are $w°$, $x°$, $y°$ and $z°$. The ratio $w : (x + y + z) = 3 : 5$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $w$."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q04/Q04_Subb_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$A$, $B$, $C$ and $D$ are points on a circle. $PQ$ is the tangent to the circle at $A$. $BMND$ is a straight line. Angle $ACD = 49°$, angle $AMB = 105°$ and angle $PAB = 45°$."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Find angle $BAM$." }], "answer": { "type": "number" } },
-            { "label": "(ii)", "marks": 3, "content": [],
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find angle $BAM$."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [],
               "subparts": [
-                { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Find angle $BAD$." }], "answer": { "type": "number" } },
-                { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "Give a geometrical reason why $BD$ is **not** the diameter of the circle." }], "answer": { "type": "expression" } }
+                {
+                  "label": "(a)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Find angle $BAD$."
+                    }
+                  ],
+                  "answer": {
+                    "type": "number"
+                  }
+                },
+                {
+                  "label": "(b)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Give a geometrical reason why $BD$ is **not** the diameter of the circle."
+                    }
+                  ],
+                  "answer": {
+                    "type": "expression"
+                  }
+                }
               ]
             }
           ]
         },
-        { "label": "(c)", "marks": 8, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q04/Q04_Subc_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$A$, $B$, $C$ and $D$ are points on a circle, centre $O$. $TA$ and $TC$ are tangents to the circle. $OA = 6.75$ cm and $OT = 11.5$ cm." }],
+        {
+          "label": "(c)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q04/Q04_Subc_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$A$, $B$, $C$ and $D$ are points on a circle, centre $O$. $TA$ and $TC$ are tangents to the circle. $OA = 6.75$ cm and $OT = 11.5$ cm."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 3, "content": [{ "type": "text", "content": "Show that angle $AOC = 108.12°$, correct to 2 decimal places." }], "answer": { "type": "none" } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Calculate the length of the **minor** arc $ABC$." }], "answer": { "type": "number", "suffix": "cm" } },
-            { "label": "(iii)", "marks": 3, "content": [{ "type": "text", "content": "Calculate the area of the **major** sector $OCDA$." }], "answer": { "type": "number", "suffix": "$\\text{cm}^2$" } }
+            {
+              "label": "(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that angle $AOC = 108.12°$, correct to 2 decimal places."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the length of the **minor** arc $ABC$."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "cm"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the area of the **major** sector $OCDA$."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            }
           ]
         }
       ],
-      "meta": { "s": "4.7", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "calculate" }
+      "meta": {
+        "s": "4.7",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "calculate"
+      }
     },
     {
-      "qnum": 5, "marks": 15,
+      "qnum": 5,
+      "marks": 15,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 5, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q05/Q05_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The cumulative frequency diagram shows information about the distance travelled by each of 80 motorists in a month." }],
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q05/Q05_Suba_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The cumulative frequency diagram shows information about the distance travelled by each of 80 motorists in a month."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 3, "content": [{ "type": "text", "content": "Use the cumulative frequency diagram to find an estimate for" }],
+            {
+              "label": "(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use the cumulative frequency diagram to find an estimate for"
+                }
+              ],
               "subparts": [
-                { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "the median" }], "answer": { "type": "number", "suffix": "km" } },
-                { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "the interquartile range" }], "answer": { "type": "number", "suffix": "km" } }
+                {
+                  "label": "(a)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "the median"
+                    }
+                  ],
+                  "answer": {
+                    "type": "number",
+                    "suffix": "km"
+                  }
+                },
+                {
+                  "label": "(b)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "the interquartile range"
+                    }
+                  ],
+                  "answer": {
+                    "type": "number",
+                    "suffix": "km"
+                  }
+                }
               ]
             },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "One of these motorists is picked at random. Find the probability that this motorist travels more than 1800 km." }], "answer": { "type": "expression" } }
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One of these motorists is picked at random. Find the probability that this motorist travels more than 1800 km."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "The distance around a racing track is 5.104 km. The time taken by a car to complete one lap of the track is 1 min 18 s." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the average speed of the car. Give your answer in km/h." }], "answer": { "type": "number", "suffix": "km/h" } },
-        { "label": "(c)", "marks": 7, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q05/Q05_Subc_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The top speed, $v$ km/h, of each of 160 cars is recorded. The histogram shows this information." }],
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The distance around a racing track is 5.104 km. The time taken by a car to complete one lap of the track is 1 min 18 s."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the average speed of the car. Give your answer in km/h."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "km/h"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q05/Q05_Subc_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The top speed, $v$ km/h, of each of 160 cars is recorded. The histogram shows this information."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Show that there are 8 cars with a top speed in the interval $120 < v \\leq 160$." }], "answer": { "type": "none" } },
-            { "label": "(ii)", "marks": 6, "content": [{ "type": "text", "content": "Calculate an estimate of the mean top speed. You must show all your working." }], "answer": { "type": "number", "suffix": "km/h" } }
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that there are 8 cars with a top speed in the interval $120 < v \\leq 160$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 6,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate an estimate of the mean top speed. You must show all your working."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "km/h"
+              }
+            }
           ]
         }
       ],
-      "meta": { "s": "9.2", "cat": "statistics", "d": 2, "topics": ["Statistics"], "cmd": "find" }
+      "meta": {
+        "s": "9.2",
+        "cat": "statistics",
+        "d": 2,
+        "topics": [
+          "Statistics"
+        ],
+        "cmd": "find"
+      }
     },
     {
-      "qnum": 6, "marks": 13,
+      "qnum": 6,
+      "marks": 13,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Work out $2\\begin{pmatrix} 3 \\\\ -5 \\end{pmatrix} - \\begin{pmatrix} 2 \\\\ -7 \\end{pmatrix}$." }], "answer": { "type": "vector" } },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "$\\vec{MN} = \\begin{pmatrix} -6 \\\\ 4 \\end{pmatrix}$." }],
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $2\\begin{pmatrix} 3 \\\\ -5 \\end{pmatrix} - \\begin{pmatrix} 2 \\\\ -7 \\end{pmatrix}$."
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\vec{MN} = \\begin{pmatrix} -6 \\\\ 4 \\end{pmatrix}$."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "$M$ is the point $(2, -5)$. Find the coordinates of $N$." }], "answer": { "type": "coordinate" } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Find $|\\vec{MN}|$." }], "answer": { "type": "number" } }
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$M$ is the point $(2, -5)$. Find the coordinates of $N$."
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $|\\vec{MN}|$."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
           ]
         },
-        { "label": "(c)", "marks": 8, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q06/Q06_Subc_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$OACB$ is a trapezium with $OB = 2AC$. $\\vec{OA} = \\mathbf{a}$ and $\\vec{OB} = 2\\mathbf{c}$. $AP : PB = 4 : 1$ and $AQ = \\dfrac{4}{5}AC$." }],
+        {
+          "label": "(c)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q06/Q06_Subc_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$OACB$ is a trapezium with $OB = 2AC$. $\\vec{OA} = \\mathbf{a}$ and $\\vec{OB} = 2\\mathbf{c}$. $AP : PB = 4 : 1$ and $AQ = \\dfrac{4}{5}AC$."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 6, "content": [{ "type": "text", "content": "Write each of the following in terms of $\\mathbf{a}$ and $\\mathbf{c}$. Give each answer in its simplest form." }],
+            {
+              "label": "(i)",
+              "marks": 6,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write each of the following in terms of $\\mathbf{a}$ and $\\mathbf{c}$. Give each answer in its simplest form."
+                }
+              ],
               "subparts": [
-                { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "$\\vec{AB}$" }], "answer": { "type": "expression" } },
-                { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "$\\vec{CB}$" }], "answer": { "type": "expression" } },
-                { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "$\\vec{OP}$" }], "answer": { "type": "expression" } },
-                { "label": "(d)", "marks": 2, "content": [{ "type": "text", "content": "$\\vec{QP}$" }], "answer": { "type": "expression" } }
+                {
+                  "label": "(a)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "$\\vec{AB}$"
+                    }
+                  ],
+                  "answer": {
+                    "type": "expression"
+                  }
+                },
+                {
+                  "label": "(b)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "$\\vec{CB}$"
+                    }
+                  ],
+                  "answer": {
+                    "type": "expression"
+                  }
+                },
+                {
+                  "label": "(c)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "$\\vec{OP}$"
+                    }
+                  ],
+                  "answer": {
+                    "type": "expression"
+                  }
+                },
+                {
+                  "label": "(d)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "$\\vec{QP}$"
+                    }
+                  ],
+                  "answer": {
+                    "type": "expression"
+                  }
+                }
               ]
             },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Use your answers to make **two** statements about the relationship between lines $QP$ and $CB$." }], "answer": { "type": "expression" } }
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your answers to make **two** statements about the relationship between lines $QP$ and $CB$."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         }
       ],
-      "meta": { "s": "7.2", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+      "meta": {
+        "s": "7.2",
+        "cat": "algebra",
+        "d": 3,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "find"
+      }
     },
     {
-      "qnum": 7, "marks": 20,
+      "qnum": 7,
+      "marks": 20,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 17, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q07/Q07_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a field, $ABCD$ with $B$ north of $A$. $BD$ is a path across the field. $AB = 85$ m, $AD = 72$ m, $BD = 129$ m. Angle $BDC = 39°$ and angle $BCD = 60°$." }],
+        {
+          "label": "(a)",
+          "marks": 17,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper42/Q07/Q07_Suba_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows a field, $ABCD$ with $B$ north of $A$. $BD$ is a path across the field. $AB = 85$ m, $AD = 72$ m, $BD = 129$ m. Angle $BDC = 39°$ and angle $BCD = 60°$."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Show that angle $CBD = 81°$." }], "answer": { "type": "none" } },
-            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "Calculate $CD$." }], "answer": { "type": "number", "suffix": "m" } },
-            { "label": "(iii)", "marks": 4, "content": [{ "type": "text", "content": "Show that angle $ABD = 31.6°$, correct to 1 decimal place." }], "answer": { "type": "none" } },
-            { "label": "(iv)", "marks": 3, "content": [{ "type": "text", "content": "Find the shortest distance from $A$ to $BD$." }], "answer": { "type": "number", "suffix": "m" } },
-            { "label": "(v)", "marks": 2, "content": [{ "type": "text", "content": "Find the bearing of $B$ from $C$." }], "answer": { "type": "number" } },
-            { "label": "(vi)", "marks": 4, "content": [{ "type": "text", "content": "Trees are planted in the field. The number of trees planted is 1100 per hectare. Calculate the total number of trees planted in the field." }, { "type": "text", "content": "[$1$ hectare $= 10\\,000\\text{ m}^2$]" }], "answer": { "type": "number" } }
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that angle $CBD = 81°$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate $CD$."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "m"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that angle $ABD = 31.6°$, correct to 1 decimal place."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(iv)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the shortest distance from $A$ to $BD$."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "m"
+              }
+            },
+            {
+              "label": "(v)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the bearing of $B$ from $C$."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(vi)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Trees are planted in the field. The number of trees planted is 1100 per hectare. Calculate the total number of trees planted in the field."
+                },
+                {
+                  "type": "text",
+                  "content": "[$1$ hectare $= 10\\,000\\text{ m}^2$]"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "A rectangle has an area of $9400\\text{ cm}^2$, correct to the nearest $100\\text{ cm}^2$. The length of the rectangle is 80 cm, correct to the nearest 10 cm." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the upper bound of the width of the rectangle." }], "answer": { "type": "number", "suffix": "cm" } }
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A rectangle has an area of $9400\\text{ cm}^2$, correct to the nearest $100\\text{ cm}^2$. The length of the rectangle is 80 cm, correct to the nearest 10 cm."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the upper bound of the width of the rectangle."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "cm"
+          }
+        }
       ],
-      "meta": { "s": "5.3", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "calculate" }
+      "meta": {
+        "s": "5.3",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "calculate"
+      }
     },
     {
-      "qnum": 8, "marks": 8,
+      "qnum": 8,
+      "marks": 8,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "A bag contains 24 coloured beads. Some are red, some are blue and 10 are yellow. One bead is picked at random from the bag." }],
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A bag contains 24 coloured beads. Some are red, some are blue and 10 are yellow. One bead is picked at random from the bag."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Find the probability that the bead is yellow." }], "answer": { "type": "expression" } },
-            { "label": "(ii)", "marks": 1, "content": [{ "type": "text", "content": "Find the probability that the bead is not yellow." }], "answer": { "type": "expression" } }
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that the bead is yellow."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that the bead is not yellow."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 6, "content": [{ "type": "text", "content": "Another bag contains 5 green marbles, 6 white marbles and 4 black marbles. Meera picks 2 marbles at random from the bag, without replacement." }],
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Another bag contains 5 green marbles, 6 white marbles and 4 black marbles. Meera picks 2 marbles at random from the bag, without replacement."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Find the probability that the first marble is black and the second marble is white." }], "answer": { "type": "expression" } },
-            { "label": "(ii)", "marks": 4, "content": [{ "type": "text", "content": "Find the probability that both marbles have different colours." }], "answer": { "type": "expression" } }
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that the first marble is black and the second marble is white."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that both marbles have different colours."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         }
       ],
-      "meta": { "s": "8.3", "cat": "probability", "d": 2, "topics": ["Probability"], "cmd": "find" }
+      "meta": {
+        "s": "8.3",
+        "cat": "probability",
+        "d": 2,
+        "topics": [
+          "Probability"
+        ],
+        "cmd": "find"
+      }
     },
     {
-      "qnum": 9, "marks": 8,
+      "qnum": 9,
+      "marks": 8,
       "stem": [
-        { "type": "text", "content": "$\\text{f}(x) = 2x - 5 \\qquad \\text{g}(x) = x^2 - 2x$" }
+        {
+          "type": "text",
+          "content": "$\\text{f}(x) = 2x - 5 \\qquad \\text{g}(x) = x^2 - 2x$"
+        }
       ],
       "parts": [
-        { "label": "(a)", "marks": 4, "content": [{ "type": "text", "content": "Find" }],
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find"
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "$\\text{f}(7)$" }], "answer": { "type": "number" } },
-            { "label": "(ii)", "marks": 1, "content": [{ "type": "text", "content": "$\\text{gf}(7)$" }], "answer": { "type": "number" } },
-            { "label": "(iii)", "marks": 2, "content": [{ "type": "text", "content": "$\\text{f}^{-1}(x)$." }], "answer": { "type": "expression" } }
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\text{f}(7)$"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\text{gf}(7)$"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\text{f}^{-1}(x)$."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "Find $\\text{gf}(x) - 3\\text{g}(x)$. Give your answer in the form $ax^2 + bx + c$." }], "answer": { "type": "expression" } }
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\\text{gf}(x) - 3\\text{g}(x)$. Give your answer in the form $ax^2 + bx + c$."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
       ],
-      "meta": { "s": "2.9", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "find" }
+      "meta": {
+        "s": "2.9",
+        "cat": "algebra",
+        "d": 2,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "find"
+      }
     },
     {
-      "qnum": 10, "marks": 9,
+      "qnum": 10,
+      "marks": 9,
       "stem": [
-        { "type": "text", "content": "A curve has the equation $y = x^3 - 9x^2 - 48x$." }
+        {
+          "type": "text",
+          "content": "A curve has the equation $y = x^3 - 9x^2 - 48x$."
+        }
       ],
       "parts": [
-        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Differentiate $x^3 - 9x^2 - 48x$." }], "answer": { "type": "expression" } },
-        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "Find the coordinates of the turning points of the graph of $y = x^3 - 9x^2 - 48x$. You must show all your working." }], "answer": { "type": "expression" } },
-        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "Determine whether each of the turning points is a maximum or a minimum. Give reasons for your answers." }], "answer": { "type": "expression" } }
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Differentiate $x^3 - 9x^2 - 48x$."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the turning points of the graph of $y = x^3 - 9x^2 - 48x$. You must show all your working."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Determine whether each of the turning points is a maximum or a minimum. Give reasons for your answers."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
       ],
-      "meta": { "s": "2.11", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+      "meta": {
+        "s": "2.11",
+        "cat": "algebra",
+        "d": 3,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "find"
+      }
     }
   ]
 }

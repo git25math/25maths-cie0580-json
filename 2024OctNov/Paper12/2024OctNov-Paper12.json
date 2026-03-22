@@ -1,0 +1,1321 @@
+{
+  "v": "1.0",
+  "paper": "2024OctNov-Paper12",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "OctNov",
+  "paperNum": "12",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the number half a million in figures."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Anton records the colour of each car in a car park."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "His results are shown in the table."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|c|c|c|c|c|}\\hline Colour & Black & Grey & White & Blue \\\\ Frequency & 12 & 9 & 11 & 4 \\\\ \\hline\\end{tabular}"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "On the grid, draw a bar chart to show this information."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Complete the scale on the frequency axis."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper12/Q02/Q02_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper12/Q02/Q02_Stem_Fig2.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\frac{x}{5} = 14$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$x + 6 = 25$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a regular polygon."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper12/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name for this polygon."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the diagram, draw all the lines of symmetry."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the order of rotational symmetry."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write 53 683.588 correct to"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the nearest hundred"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "1 decimal place."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Triangle $ABC$ has sides $AC = 4.2\\text{ cm}$ and $CB = 5.6\\text{ cm}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Using a ruler and compasses only, construct triangle $ABC$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Leave in your construction arcs."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The side $AB$ has been drawn for you."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper12/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Put one pair of brackets in each calculation to make it correct."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$15 \\times 12 + 3 - 4 = 51$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$15 \\times 12 + 3 - 4 = 96$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$\\frac{c^8 d^3}{c^3 d^{-2}}$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows an isosceles triangle."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $x$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper12/Q09/Q09_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$0.25 \\quad 3.142 \\quad -\\sqrt{3} \\quad 24 \\quad -0.4 \\quad 1.2 \\quad -\\frac{1}{4}$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Complete each statement with a number from the list."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": " is a natural number."
+          },
+          {
+            "prefix": "",
+            "suffix": " is an irrational number."
+          },
+          {
+            "prefix": "",
+            "suffix": " is the reciprocal of 4."
+          }
+        ]
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The temperature in town A is $-8\\text{ °C}$ and the temperature in town B is $16\\text{ °C}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the difference in these two temperatures."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°\\text{C}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The temperature in town A rises by $12\\text{ °C}$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the temperature in town A now."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°\\text{C}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows the positions of two ships, A and B."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The scale is 1 cm represents 6 km."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper12/Q12/Q12_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure the bearing of ship B from ship A."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the actual distance between the two ships."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{km}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scatter diagram shows the number of rooms and the number of people in each of eight buildings."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper12/Q13/Q13_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the buildings has 67 rooms."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Write down the number of people in this building."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "In another building there are 42 people and 33 rooms."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "On the scatter diagram, plot this point."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the scatter diagram, draw a line of best fit."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "There are 45 people in a different building."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Find an estimate for the number of rooms in this building."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "What type of correlation is shown in the scatter diagram?"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a trapezium."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The area of the trapezium is $42\\text{ cm}^2$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of $x$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper12/Q14/Q14_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In a league, teams gain 4 points for each win, 2 points for each draw and bonus points."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "A team has $x$ wins, $y$ draws and $b$ bonus points."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Write down an expression, in terms of $x$, $y$ and $b$, for the total number of points the team has."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Dana invests $3600 at a rate of 3.8% per year compound interest.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of her investment at the end of 5 years."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a parallelogram."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Work out the size of the smallest interior angle of the parallelogram."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper12/Q17/Q17_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$\\frac{x^3}{x^6} \\times \\frac{18}{2}$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$\\vec{AB} = \\begin{pmatrix} -3 \\\\ 2 \\end{pmatrix}$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Mark point A on the grid."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper12/Q19/Q19_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Points A and B lie on a circle, centre O and radius $r$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The area of the circle is $120\\text{ cm}^2$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the area of the right-angled triangle AOB."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024OctNov/Paper12/Q20/Q20_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^2$"
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $2\\frac{1}{4} \\times 3\\frac{1}{2}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$2x + 7y = 34$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$3x + 5y = 18$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x$ = ____\\n$y$ = ____"
+      },
+      "meta": {
+        "s": null,
+        "cat": null,
+        "d": null,
+        "topics": [],
+        "cmd": null
+      }
+    }
+  ]
+}

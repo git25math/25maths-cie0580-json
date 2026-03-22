@@ -1,0 +1,885 @@
+{
+  "v": "1.0",
+  "paper": "2019MayJune-Paper13",
+  "board": "cie",
+  "code": "0580",
+  "year": 2019,
+  "session": "MayJune",
+  "paperNum": "13",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write 3.058 correct to 3 significant figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write 0.45 as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise $x^2 - 2x$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the co-ordinates of the point where the line $y = 3x - 8$ crosses the $y$-axis."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "coordinate",
+        "fields": 2
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Giulio’s reaction times are measured in two games."
+        },
+        {
+          "type": "text",
+          "content": "In the first game his reaction time is $\\frac{1}{3}$ of a second."
+        },
+        {
+          "type": "text",
+          "content": "In the second game his reaction time is $\\frac{1}{8}$ of a second."
+        },
+        {
+          "type": "text",
+          "content": "Find the difference between the two reaction times."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "s"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The probability that Alex wins a prize is $0.27$."
+        },
+        {
+          "type": "text",
+          "content": "Find the probability that Alex does not win a prize."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows the different methods of travel for 20 people going to work."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|}\\hlineMethod of travel & Car & Walk & Bike & Bus \\\\\\hlineFrequency & 10 & 5 & 3 & 2 \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "text",
+          "content": "Which type of average, mean, median or mode, can be used for this information?"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper13/Q07/Q07_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$-12 \\div -2$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$3^3 + 2^2$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "text",
+          "content": "$4x + 12y + 10x - 25y$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a list of numbers."
+        },
+        {
+          "type": "text",
+          "content": "$21 \\quad \\sqrt{3} \\quad 2 \\quad 13 \\quad 31 \\quad 121 \\quad 51 \\quad 0.7$"
+        },
+        {
+          "type": "text",
+          "content": "From this list, write down"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a prime number,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "an irrational number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\mathbf{p} = \\begin{pmatrix} 5 \\\\ 0 \\end{pmatrix} \\quad \\mathbf{q} = \\begin{pmatrix} 1 \\\\ 6 \\end{pmatrix}$"
+        },
+        {
+          "type": "text",
+          "content": "Work out $2\\mathbf{p} + 3\\mathbf{q}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "vector",
+        "fields": 2
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the type of correlation you would expect for the following."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The average speed of a train and the time taken for a journey."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The distance travelled by a car and the amount of fuel used."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows a rock, $R$."
+        },
+        {
+          "type": "text",
+          "content": "The scale is 1 centimetre represents 30 metres."
+        },
+        {
+          "type": "text",
+          "content": "A lighthouse, $L$, is 210 m from $R$, on a bearing of $125^\\circ$."
+        },
+        {
+          "type": "text",
+          "content": "On the diagram, mark the position of $L$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper13/Q13/Q13_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Rearrange $P = 2(w + h)$ to make $w$ the subject."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$w$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Genaro measures the length, $l$ cm, of his desk as $120 \\text{ cm}$, correct to the nearest centimetre."
+        },
+        {
+          "type": "text",
+          "content": "Complete the statement about the value of $l$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": "$\\leq l <$"
+          },
+          {
+            "prefix": "",
+            "suffix": ""
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{x}{5} - 7 = 16$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $\\frac{5}{12} \\times \\frac{9}{7}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Shape $ABCD$ is similar to shape $PQRS$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $a$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper13/Q18/Q18_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$a$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Harry invests $\\$800$ for 2 years at a rate of $3\\%$ per year compound interest.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate the amount of interest he receives at the end of the 2 years."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "\\$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "text",
+          "content": "$$5x - 2y = 26$$"
+        },
+        {
+          "type": "text",
+          "content": "$$7x + 6y = 10$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x = $ ____\n$y = $ ____"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the next term in each sequence."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$12, 7, 2, -3, -8, \\dots$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$4, 7, 13, 25, 49, \\dots$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find an expression, in terms of $n$, for the $n$th term of this sequence."
+            },
+            {
+              "type": "text",
+              "content": "$5, 8, 11, 14, \\dots$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A closed box in the shape of a cuboid has length $5 \\text{ cm}$, width $4 \\text{ cm}$ and height $2 \\text{ cm}$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper13/Q22/Q22_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the volume of the box."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the $1 \\text{ cm}^2$ grid, complete the net of this box."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two regular pentagons."
+        },
+        {
+          "type": "text",
+          "content": "Pentagon $FGHJK$ is an enlargement of pentagon $ABCDE$, centre $O$."
+        },
+        {
+          "type": "text",
+          "content": "Find angle $AEK$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper13/Q23/Q23_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "Angle $AEK$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A vertical flagpole, $BD$, stands on horizontal ground and is held by two ropes, $AD$ and $CD$."
+        },
+        {
+          "type": "text",
+          "content": "$AD = 15 \\text{ m}$, $BC = 10.7 \\text{ m}$ and angle $DAB = 38^\\circ$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper13/Q24/Q24_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Using trigonometry, calculate $BD$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$BD$ =",
+            "suffix": "m"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $CD$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$CD$ =",
+            "suffix": "m"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Jason spends 480 minutes at school each day."
+        },
+        {
+          "type": "text",
+          "content": "The pie chart shows the time he spends in three of his lessons."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper13/Q25/Q25_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure the sector angle for science."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the time, in minutes, Jason spends in English."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "min"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Jason spends 100 minutes in geography and the rest of the day is free time."
+            },
+            {
+              "type": "text",
+              "content": "Complete the pie chart."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

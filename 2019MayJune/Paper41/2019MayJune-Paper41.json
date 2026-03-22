@@ -1,0 +1,1238 @@
+{
+  "v": "1.0",
+  "paper": "2019MayJune-Paper41",
+  "board": "cie",
+  "code": "0580",
+  "year": 2019,
+  "session": "MayJune",
+  "paperNum": "41",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper41/Q01/Q01_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Translate shape T by the vector $\\begin{pmatrix} -1 \\\\ 6 \\end{pmatrix}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Label the image A."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Rotate shape T about the point $(5, 3)$ through $180^\\circ$."
+                },
+                {
+                  "type": "text",
+                  "content": "Label the image B."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Describe fully the single transformation that maps shape A onto shape B."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Reflect shape T in the line $y = x$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the matrix that represents the transformation in part (b)(i)."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows some values for $y = \\frac{x^3}{3} + \\frac{x^2}{2}$."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}\\hline $x$ & -3.5 & -3 & -2.5 & -2 & -1.5 & -1 & -0.5 & 0 & 0.5 & 1 & 1.5 \\\\ \\hline $y$ & -4.1 & & 5.1 & 6 & 5.4 & 4 & 2.6 & & 2.9 & & 12.1 \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper41/Q02/Q02_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper41/Q02/Q02_Stem_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = \\frac{x^3}{3} + \\frac{x^2}{2}$ for $-3.5 \\le x \\le 1.5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to solve the equation $\\frac{x^3}{3} + \\frac{x^2}{2} = 0$ for $-3.5 \\le x \\le 1.5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "By drawing a suitable straight line, solve the equation $\\frac{x^3}{3} + \\frac{x^2}{2} + 2x = 0$ for $-3.5 \\le x \\le 1.5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "For $-3.5 \\le x \\le 1.5$, the equation $\\frac{x^3}{3} + \\frac{x^2}{2} = k$ has three solutions and $k$ is an integer."
+            },
+            {
+              "type": "text",
+              "content": "Write down a possible value of $k$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a field $ABCDE$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper41/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the perimeter of the field $ABCDE$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate angle $ABD$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $ABD$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate angle $CBD$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $CBD$ ="
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The point $C$ is due north of the point $B$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the bearing of $D$ from $B$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the area of the field $ABCDE$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in hectares."
+            },
+            {
+              "type": "text",
+              "content": "[1 hectare = 10 000 $\\text{m}^2$]"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "hectares"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 18,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper41/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "The test scores of 14 students are shown below."
+            },
+            {
+              "type": "text",
+              "content": "21 21 23 26 25 21 22 20 21 23 23 27 24 21"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 6,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the range, mode, median and mean of the test scores."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 4,
+                "template": "Range = ____\nMode = ____\nMedian = ____\nMean = ____"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A student is chosen at random."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the probability that this student has a test score of more than 24."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Petra records the score in each test she takes."
+            },
+            {
+              "type": "text",
+              "content": "The mean of the first $n$ scores is $x$."
+            },
+            {
+              "type": "text",
+              "content": "The mean of the first $(n - 1)$ scores is $(x + 1)$."
+            },
+            {
+              "type": "text",
+              "content": "Find the $n$th score in terms of $n$ and $x$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "During one year the midday temperatures, $t^\\circ\\text{C}$, in Zedford were recorded."
+            },
+            {
+              "type": "text",
+              "content": "The table shows the results."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline Temperature ($t^\\circ\\text{C}$) & $0 < t \\le 10$ & $10 < t \\le 15$ & $15 < t \\le 20$ & $20 < t \\le 25$ & $25 < t \\le 35$ \\\\ \\hline Number of days & 50 & 85 & 100 & 120 & 10 \\\\ \\hline \\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate an estimate of the mean."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$^\\circ\\text{C}$"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the histogram to show the information in the table."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the surface of a garden pond, made from a rectangle and two semicircles."
+        },
+        {
+          "type": "text",
+          "content": "The rectangle measures $3\\text{ m}$ by $1.2\\text{ m}$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper41/Q05/Q05_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the area of this surface."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The pond is a prism and the water in the pond has a depth of $20\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the number of litres of water in the pond."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "litres"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "After a rainfall, the number of litres of water in the pond is 1007."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the increase in the depth of water in the pond."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in centimetres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\mathscr{E} = \\{\\text{students in a school}\\}$"
+        },
+        {
+          "type": "text",
+          "content": "$F = \\{\\text{students who play football}\\}$"
+        },
+        {
+          "type": "text",
+          "content": "$B = \\{\\text{students who play baseball}\\}$"
+        },
+        {
+          "type": "text",
+          "content": "There are 240 students in the school."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "120 students play football",
+            "40 students play baseball",
+            "90 students play football but not baseball."
+          ]
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper41/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the Venn diagram to show this information."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $n(F \\cup B)'$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A student in the school is chosen at random."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that this student plays baseball but not football."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two students who play baseball are chosen at random."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that they both also play football."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper41/Q07/Q07_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper41/Q07/Q07_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "$s = ut + \\frac{1}{2}at^2$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $s$ when $t = 26.5$, $u = 104.3$ and $a = -2.2$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in standard form, correct to 4 significant figures."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$s$ ="
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Rearrange the formula to write $a$ in terms of $u$, $t$ and $s$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$a$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "The difference between the areas of the two rectangles is $62\\text{ cm}^2$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that $x^2 + 2x - 63 = 0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Factorise $x^2 + 2x - 63$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Solve the equation $x^2 + 2x - 63 = 0$ to find the difference between the perimeters of the two rectangles."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The price of a book increases from $\\$2.50$ to $\\$2.65$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the percentage increase."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$ "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Scott invests $\\$500$ for 7 years at a rate of $1.5\\%$ per year simple interest.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of his investment at the end of the 7 years."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In a city the population is increasing exponentially at a rate of $1.6\\%$ per year."
+            },
+            {
+              "type": "text",
+              "content": "Find the overall percentage increase at the end of 20 years."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$ "
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The population of a village is 6400."
+            },
+            {
+              "type": "text",
+              "content": "The population is decreasing exponentially at a rate of $r\\%$ per year."
+            },
+            {
+              "type": "text",
+              "content": "After 22 years, the population will be 2607."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $r$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$r$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$f(x) = 7 - 2x$"
+        },
+        {
+          "type": "text",
+          "content": "$g(x) = x^2 + 1$"
+        },
+        {
+          "type": "text",
+          "content": "$h(x) = 3^x$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $gh(2)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $f^{-1}(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$f^{-1}(x)$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$gg(x) = ax^4 + bx^2 + c$"
+            },
+            {
+              "type": "text",
+              "content": "Find the values of $a$, $b$ and $c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3,
+            "template": "$a = $ ____\n$b = $ ____\n$c = $ ____"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $x$ when $hf(x) = 81$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The volume of each of the following solids is $1000\\text{ cm}^3$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of $x$ for each solid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper41/Q10/Q10_Subd_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper41/Q10/Q10_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A cube with side length $x\\text{ cm}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A sphere with radius $x\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\frac{4}{3}\\pi r^3$]"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "A cone with radius $x\\text{ cm}$ and slant height $x\\sqrt{5}\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "[The volume, $V$, of a cone with radius $r$ and height $h$ is $V = \\frac{1}{3}\\pi r^2 h$]"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "A prism with a right-angled triangle as its cross-section."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Brad travelled from his home in New York to Chamonix."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "He left his home at 16 30 and travelled by taxi to the airport in New York. This journey took 55 minutes and had an average speed of $18\\text{ km/h}$.",
+            "He then travelled by plane to Geneva, departing from New York at 22 15. The flight path can be taken as an arc of a circle of radius $6400\\text{ km}$ with a sector angle of $55.5^\\circ$. The local time in Geneva is 6 hours ahead of the local time in New York. Brad arrived in Geneva at 11 25 the next day.",
+            "To complete his journey, Brad travelled by bus from Geneva to Chamonix. This journey started at 13 00 and took 1 hour 36 minutes. The average speed was $65\\text{ km/h}$. The local time in Chamonix is the same as the local time in Geneva."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Find the overall average speed of Brad’s journey from his home in New York to Chamonix."
+        },
+        {
+          "type": "text",
+          "content": "Show all your working and give your answer in km/h."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{km/h}$"
+      },
+      "meta": {}
+    }
+  ]
+}

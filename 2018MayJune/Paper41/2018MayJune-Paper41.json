@@ -1,0 +1,1451 @@
+{
+  "v": "1.0",
+  "paper": "2018MayJune-Paper41",
+  "board": "cie",
+  "code": "0580",
+  "year": 2018,
+  "session": "MayJune",
+  "paperNum": "41",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Adele, Barbara and Collette share $\\$680$ in the ratio $9 : 7 : 4$.",
+          "_dollar_warning": true
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that Adele receives $\\$306$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the amount that Barbara and Collette each receives."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "Barbara $\\$ $"
+              },
+              {
+                "prefix": "Collette $\\$ $"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Adele changes her $\\$306$ into euros ($€$) when the exchange rate is $€1 = \\$1.125$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the number of euros she receives."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$€$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Barbara spends a total of $\\$17.56$ on $5\\text{ kg}$ of apples and $3\\text{ kg}$ of bananas.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Apples cost $\\$2.69$ per kilogram.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the cost per kilogram of bananas."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$ $"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Collette spends half of her share on clothes and $\\frac{1}{5}$ of her share on books."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the amount she has left."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$ $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows two boundaries, $AB$ and $BC$, of a field $ABCD$."
+        },
+        {
+          "type": "text",
+          "content": "The scale of the drawing is $1\\text{ cm}$ represents $8\\text{ m}$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper41/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The boundaries $CD$ and $AD$ of the field are each $72\\text{ m}$ long."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the length of $CD$ and $AD$ on the scale drawing."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Using a ruler and compasses only, complete accurately the scale drawing of the field."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "A tree in the field is\n- equidistant from $A$ and $B$\nand\n- equidistant from $AB$ and $BC$."
+            },
+            {
+              "type": "text",
+              "content": "On the scale drawing, construct two lines to find the position of the tree."
+            },
+            {
+              "type": "text",
+              "content": "Use a straight edge and compasses only and leave in your construction arcs."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The price of a house decreased from $\\$82\\,500$ to $\\$77\\,500$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the percentage decrease."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Roland invests $\\$12\\,000$ in an account that pays compound interest at a rate of $2.2\\%$ per year.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of his investment at the end of 6 years."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to the nearest dollar."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$ $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper41/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ onto triangle $B$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ onto triangle $C$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ onto triangle $D$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the image of triangle $A$ after an enlargement by scale factor 2, centre $(7, 3)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 19,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$2m^2 - 6mn - 3m$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$4y^2 - 81$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$t^2 - 6t + 8$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rearrange the formula to make $x$ the subject."
+            },
+            {
+              "type": "text",
+              "content": "$k = \\frac{2x - m}{x}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the simultaneous equations."
+            },
+            {
+              "type": "text",
+              "content": "You must show all your working."
+            },
+            {
+              "type": "text",
+              "content": "$3x - 2y = 9$"
+            },
+            {
+              "type": "text",
+              "content": "$5x + y = 28$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ ="
+              },
+              {
+                "prefix": "$y$ ="
+              }
+            ]
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\frac{3}{m+4} + \\frac{4}{m-6} = 2$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that this equation can be written as $2m^2 + 16m + 25 = 0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Solve the equation $2m^2 + 16m + 25 = 0$."
+                },
+                {
+                  "type": "text",
+                  "content": "Show all your working and give your answers correct to 2 decimal places."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$m$ ="
+                  },
+                  {
+                    "prefix": "or $m$ ="
+                  }
+                ]
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A solid hemisphere has volume $230\\text{ cm}^3$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper41/Q06/Q06_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the radius of the hemisphere."
+            },
+            {
+              "type": "text",
+              "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\frac{4}{3}\\pi r^3$.]"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "A solid cylinder with radius $1.6\\text{ cm}$ is attached to the hemisphere to make a toy."
+            },
+            {
+              "type": "text",
+              "content": "The total volume of the toy is $300\\text{ cm}^3$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the height of the cylinder."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A mathematically similar toy has volume $19\\,200\\text{ cm}^3$."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the radius of the cylinder for this toy."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The graph of $y = \\frac{8}{x^2} - 10$ for $-1.5 \\le x \\le 1.5$ is drawn on the grid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper41/Q07/Q07_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper41/Q07/Q07_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the equation of the line of symmetry of the graph."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid opposite, draw the tangent to the curve at the point where $x = 0.5$."
+            },
+            {
+              "type": "text",
+              "content": "Find the gradient of this tangent."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows some values for $y = x^3 + 3x + 4$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\\hline $x$ & $-1.5$ & $-1$ & $-0.5$ & $0$ & $0.5$ & $1$ & $1.5$ \\\\\\hline $y$ & $-3.9$ & & & & $5.6$ & $8$ & $11.9$ \\\\\\hline\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid opposite, draw the graph of $y = x^3 + 3x + 4$ for $-1.5 \\le x \\le 1.5$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that the values of $x$ where the two curves intersect are the solutions to the equation $x^3 + 2x^2 - 6x - 8 = 0$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "By drawing a suitable straight line, solve the equation $x^3 + 2x + 5 = 0$ for $-1.5 \\le x \\le 1.5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper41/Q08/Q08_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper41/Q08/Q08_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The exterior angle of a regular polygon is $x^\\circ$ and the interior angle is $8x^\\circ$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the number of sides of the polygon."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A$, $B$, $C$ and $D$ are points on the circumference of the circle, centre $O$."
+            },
+            {
+              "type": "text",
+              "content": "$DOB$ is a straight line and angle $DAC = 58^\\circ$."
+            },
+            {
+              "type": "text",
+              "content": "Find angle $CDB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $CDB$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "$P$, $Q$ and $R$ are points on the circumference of the circle, centre $O$."
+            },
+            {
+              "type": "text",
+              "content": "$PO$ is parallel to $QR$ and angle $POQ = 48^\\circ$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find angle $OPR$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $OPR$ ="
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The radius of the circle is $5.4\\text{ cm}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the length of the major arc $PQ$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The probability that it will rain tomorrow is $\\frac{5}{8}$."
+        },
+        {
+          "type": "text",
+          "content": "If it rains, the probability that Rafael walks to school is $\\frac{1}{6}$."
+        },
+        {
+          "type": "text",
+          "content": "If it does not rain, the probability that Rafael walks to school is $\\frac{7}{10}$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper41/Q09/Q09_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the tree diagram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the probability that it will rain tomorrow and Rafael walks to school."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the probability that Rafael does not walk to school."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper41/Q10/Q10_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "In 2017, the membership fee for a sports club was $\\$79.50$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "This was an increase of $6\\%$ on the fee in 2016."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the fee in 2016."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$ $"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On one day, the number of members using the exercise machines was $40$, correct to the nearest $10$."
+            },
+            {
+              "type": "text",
+              "content": "Each member used a machine for $30$ minutes, correct to the nearest $5$ minutes."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the lower bound for the number of minutes the exercise machines were used on this day."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{min}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "On another day, the number of members using the exercise machines ($E$), the swimming pool ($S$) and the tennis courts ($T$) is shown on the Venn diagram."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the number of members using only the tennis courts."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the number of members using the swimming pool."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A member using the swimming pool is chosen at random."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the probability that this member also uses the tennis courts and the exercise machines."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $n(S \\cup E \\cup T)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper41/Q11/Q11_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\vec{OA} = \\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix}$, $\\vec{AB} = \\begin{pmatrix} -7 \\\\ 8 \\end{pmatrix}$, $\\vec{AC} = \\begin{pmatrix} -6 \\\\ 3 \\end{pmatrix}$."
+            },
+            {
+              "type": "text",
+              "content": "Find"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\vec{OB}$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "vector",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\vec{BC}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "vector",
+                "fields": 2
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$PQRS$ is a parallelogram with diagonals $PR$ and $SQ$ intersecting at $X$."
+            },
+            {
+              "type": "text",
+              "content": "$\\vec{PQ} = a$ and $\\vec{PS} = b$."
+            },
+            {
+              "type": "text",
+              "content": "Find $\\vec{QX}$ in terms of $a$ and $b$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$QX$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "$M = \\begin{pmatrix} 8 & 5 \\\\ 1 & 2 \\end{pmatrix}$"
+            },
+            {
+              "type": "text",
+              "content": "Calculate"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$M^2$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$M^{-1}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Marco is making patterns with grey and white circular mats."
+        },
+        {
+          "type": "text",
+          "content": "The patterns form a sequence."
+        },
+        {
+          "type": "text",
+          "content": "Marco makes a table to show some information about the patterns."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline Pattern number & 1 & 2 & 3 & 4 & 5 \\\\\\hline Number of grey mats & 6 & 9 & 12 & 15 & \\\\\\hline Total number of mats & 6 & 10 & 15 & 21 & \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper41/Q12/Q12_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018MayJune/Paper41/Q12/Q12_Stem_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table for Pattern 5."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find an expression, in terms of $n$, for the number of grey mats in Pattern $n$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Marco makes a pattern with $24$ grey mats."
+            },
+            {
+              "type": "text",
+              "content": "Find the total number of mats in this pattern."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Marco needs a total of 6 mats to make the first pattern."
+            },
+            {
+              "type": "text",
+              "content": "He needs a total of 16 mats to make the first two patterns."
+            },
+            {
+              "type": "text",
+              "content": "He needs a total of $an^3 + bn^2 + \\frac{1}{6}n$ mats to make the first $n$ patterns."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $a$ and the value of $b$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$a$ ="
+              },
+              {
+                "prefix": "$b$ ="
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,891 @@
+{
+  "v": "1.0",
+  "paper": "2020March-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2020,
+  "session": "March",
+  "paperNum": "22",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$3.56 \\quad 5 \\\\ \\sqrt{196} \\quad 8 \\\\ \\sqrt{7} \\quad 12$"
+        },
+        {
+          "type": "text",
+          "content": "From the list, write down a number that is"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a multiple of 3,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a cube number,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a prime number,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "an irrational number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The number of people swimming in a pool is recorded each day for 12 days."
+        },
+        {
+          "type": "text",
+          "content": "$24 \\quad 28 \\quad 13 \\quad 38 \\quad 15 \\quad 26$\n$45 \\quad 21 \\quad 48 \\quad 36 \\quad 18 \\quad 38$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper22/Q02/Q02_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the stem-and-leaf diagram."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{l|l}\n1 & \\\\\n2 & \\\\\n3 & \\\\\n4 & \\\\\n\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Key: $1 \\mid 3$ represents 13 swimmers"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the median number of swimmers."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Point $A$ has coordinates $(6, 4)$ and point $B$ has coordinates $(2, 7)$."
+        },
+        {
+          "type": "text",
+          "content": "Write $\\overrightarrow{AB}$ as a column vector."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "vector",
+        "fields": 2,
+        "prefix": "$\\overrightarrow{AB} = $"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the interior angle of a regular polygon with 24 sides."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$^\\circ$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $\\frac{15}{28} \\div \\frac{4}{7}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows the marks scored by 40 students in a test."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|c|}\n\\hline\nMark & 5 & 6 & 7 & 8 & 9 & 10 \\\\\n\\hline\nFrequency & 8 & 5 & 11 & 7 & 5 & 4 \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the mean mark."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper22/Q06/Q06_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a right-angled triangle."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper22/Q07/Q07_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the area."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the perimeter."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate the value of $(2.3 \\times 10^{-3}) + (6.8 \\times 10^{-4})$."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in standard form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": " "
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise completely."
+            },
+            {
+              "type": "text",
+              "content": "$3x^2 - 12xy$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify."
+            },
+            {
+              "type": "text",
+              "content": "$(m - 3)(m + 2)$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Sketch the graph of each function."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$y = x - 3$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$y = \\frac{1}{x}$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Describe fully the single transformation that maps"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper22/Q11/Q11_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "shape $A$ onto shape $B$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "shape $A$ onto shape $C$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "shape $A$ onto shape $D$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The population of a town decreases exponentially at a rate of $1.7\\%$ per year."
+        },
+        {
+          "type": "text",
+          "content": "The population now is $250\\,000$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the population at the end of 5 years."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest hundred."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the recurring decimal $0.2\\dot{6}$ as a fraction."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The box-and-whisker plot gives information about the heights, in centimetres, of some plants."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper22/Q14/Q14_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the median."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the range,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the interquartile range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$A$, $B$, $C$ and $D$ lie on the circle."
+        },
+        {
+          "type": "text",
+          "content": "$PCQ$ is a tangent to the circle at $C$."
+        },
+        {
+          "type": "text",
+          "content": "Angle $ACQ = 64^\\circ$."
+        },
+        {
+          "type": "text",
+          "content": "Work out angle $ABC$, giving reasons for your answer."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020March/Paper22/Q15/Q15_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "Angle $ABC$ =",
+            "suffix": "because"
+          },
+          {}
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "text",
+          "content": "$x - 3y = 7$\n$x^2 - y^2 = 39$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$x$ =",
+            "suffix": "$y$ ="
+          },
+          {
+            "prefix": "$x$ =",
+            "suffix": "$y$ ="
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$A$ is the point $(3, 5)$ and $B$ is the point $(-1, 7)$."
+        },
+        {
+          "type": "text",
+          "content": "Find the equation of the line perpendicular to $AB$ that passes through the point $A$."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in the form $y = mx + c$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$y$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A car travels at a constant speed."
+        },
+        {
+          "type": "text",
+          "content": "It travels a distance of $146.2 \\text{ m}$, correct to 1 decimal place."
+        },
+        {
+          "type": "text",
+          "content": "This takes 7 seconds, correct to the nearest second."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the upper bound for the speed of the car."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{m/s}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": " "
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the diagram, sketch the graph of $y = \\cos x$ for $0^\\circ \\le x \\le 360^\\circ$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the equation $4\\cos x + 2 = 3$ for $0^\\circ \\le x \\le 360^\\circ$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ =",
+                "suffix": "and $x$ ="
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$x^2 - 12x + a = (x + b)^2$"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $a$ and the value of $b$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$a = $ ____\n$b = $ ____"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\overrightarrow{XY} = 3\\mathbf{a} + 2\\mathbf{b}$ and $\\overrightarrow{ZY} = 6\\mathbf{a} + 4\\mathbf{b}$."
+        },
+        {
+          "type": "text",
+          "content": "Write down two statements about the relationship between the points $X$, $Y$ and $Z$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "1"
+          },
+          {
+            "prefix": "2"
+          }
+        ]
+      },
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,852 @@
+{
+  "v": "1.0",
+  "paper": "2022March-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "March",
+  "paperNum": "22",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Measure the marked angle."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper22/Q01/Q01_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out $\\frac{5}{6^2}$."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 2 decimal places."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A journey starts at 21 15 one day and ends at 04 33 the next day."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the time taken, in hours and minutes."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": "h"
+          },
+          {
+            "prefix": "",
+            "suffix": "min"
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate the total surface area of this cuboid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper22/Q04/Q04_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the gradient of the line $y = 5x + 7$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the point where the line $y = 5x + 7$ crosses the y-axis."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Using a ruler and compasses only, construct this triangle."
+        },
+        {
+          "type": "text",
+          "content": "Leave in your construction arcs."
+        },
+        {
+          "type": "text",
+          "content": "The side of length 12 cm has been drawn for you."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper22/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "– 2  – 1  0  1  n"
+        },
+        {
+          "type": "text",
+          "content": "Write down the inequality, in terms of $n$, shown by the number line."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper22/Q08/Q08_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the image of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A after a reflection in the y-axis,"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A after a translation by the vector $\\begin{pmatrix} -3 \\\\ -4 \\end{pmatrix}$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle A onto triangle B."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise completely."
+        },
+        {
+          "type": "text",
+          "content": "$12a^3 - 21a$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The nth term of a sequence is $n^2 + 7$."
+            },
+            {
+              "type": "text",
+              "content": "Find the first three terms of this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": ","
+              },
+              {
+                "prefix": "",
+                "suffix": ","
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first four terms of a different sequence."
+            },
+            {
+              "type": "text",
+              "content": "15    7    −1    -9"
+            },
+            {
+              "type": "text",
+              "content": "Find the nth term of this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 11,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "As the temperature increases, people eat more ice cream."
+        },
+        {
+          "type": "text",
+          "content": "What type of correlation does this statement describe?"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Sanjay invests $\\$700$ in an account paying simple interest at a rate of $2.5\\%$ per year.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of his investment at the end of 6 years."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Meera invests $\\$700$ in an account paying compound interest at a rate of $r\\%$ per year.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "At the end of 17 years the value of her investment is $\\$1030.35$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $r$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$r =$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $h^2 \\times h^5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $(x^3)^{-7}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$a^8 \\div a^2 = a^p$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $p$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$p =$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate the circumference of a circle with radius 4.7 cm."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $2 \\frac{1}{3} \\times \\frac{11}{14}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A is the point (- 6, 5) and B is the point (- 2, - 3)."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper22/Q16/Q16_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of the straight line, l, that passes through point A and point B."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y =$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of the line that is perpendicular to l and passes through the origin."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 17,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a rectangle OPQR with length 11 cm and width 4 cm."
+        },
+        {
+          "type": "text",
+          "content": "OQ is a diagonal and OPX is a sector of a circle, centre O."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the percentage of the rectangle that is shaded."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper22/Q17/Q17_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\%$"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Mrs Kohli buys a jacket, 2 shirts and a hat."
+        },
+        {
+          "type": "text",
+          "content": "The jacket costs $\\$x$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "The shirts each cost $\\$24$ less than the jacket and the hat costs $\\$16$ less than the jacket."
+        },
+        {
+          "type": "text",
+          "content": "Mrs Kohli spends exactly $\\$100$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Write down an equation in terms of $x$."
+        },
+        {
+          "type": "text",
+          "content": "Solve this equation to find the cost of the jacket."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "y is inversely proportional to the square root of (x +4)."
+        },
+        {
+          "type": "text",
+          "content": "When x = 5, y = 2."
+        },
+        {
+          "type": "text",
+          "content": "Find y when x = 77."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$y =$"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "text",
+          "content": "$$3x + 2y = 11$$"
+        },
+        {
+          "type": "text",
+          "content": "$$2x - y = 18$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x = $ ____\n$y = $ ____"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows an open rectangular box ABCDEFGH."
+        },
+        {
+          "type": "text",
+          "content": "AB = 18.6 cm, BC = 9 cm and CG = 14.5 cm."
+        },
+        {
+          "type": "text",
+          "content": "A straight stick AGM rests against A and G and extends outside the box to M."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper22/Q21/Q21_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the angle between the stick and the base of the box."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "AM = 30 cm."
+            },
+            {
+              "type": "text",
+              "content": "Show that GM = 4.8 cm, correct to 1 decimal place."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a trapezium $OPQR$."
+        },
+        {
+          "type": "text",
+          "content": "$O$ is the origin, $\\overrightarrow{OR} = \\mathbf{a}$ and $\\overrightarrow{OP} = \\mathbf{b}$."
+        },
+        {
+          "type": "text",
+          "content": "$\\overrightarrow{RQ} = \\frac{3}{5}\\overrightarrow{OP}$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper22/Q22/Q22_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\\overrightarrow{PQ}$ in terms of $\\mathbf{a}$ and $\\mathbf{b}$ in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$PQ =$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "When PQ and OR are extended, they intersect at W."
+            },
+            {
+              "type": "text",
+              "content": "Find the position vector of W."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    }
+  ]
+}

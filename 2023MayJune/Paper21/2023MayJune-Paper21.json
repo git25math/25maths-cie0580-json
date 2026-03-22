@@ -10,54 +10,932 @@
   "totalMarks": 70,
   "time": 90,
   "questions": [
-    { "qnum": 1, "marks": 2, "stem": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q01/Q01_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$CDE$ is a straight line." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find angle $ADE$." }], "parts": [], "answer": { "type": "number" }, "meta": { "s": "4.1", "cat": "geometry", "d": 1, "topics": ["Geometry"], "cmd": "find" } },
-    { "qnum": 2, "marks": 1, "stem": [{ "type": "text", "content": "A train journey starts at 21 43. It takes 8 hours and 32 minutes." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the time the journey finishes." }], "parts": [], "answer": { "type": "expression" }, "meta": { "s": "1.12", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "find" } },
-    { "qnum": 3, "marks": 4, "stem": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q03/Q03_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a straight line intersecting two parallel lines." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the value of $a$ and the value of $b$, giving a geometrical reason for each answer." }], "parts": [], "answer": { "type": "expression" }, "meta": { "s": "4.1", "cat": "geometry", "d": 1, "topics": ["Geometry"], "cmd": "find" } },
-    { "qnum": 4, "marks": 2, "stem": [{ "type": "text", "content": "By writing each number in the calculation correct to 1 significant figure, work out an estimate for the value of" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$\\dfrac{6.7 \\times 2.1}{18 - 5.9}$" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "You must show all your working." }], "parts": [], "answer": { "type": "number" }, "meta": { "s": "1.9", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "estimate" } },
-    { "qnum": 5, "marks": 2, "stem": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q05/Q05_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Eric has four colours of paint. The table shows the probability that he uses each colour." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the value of $x$." }], "parts": [], "answer": { "type": "number" }, "meta": { "s": "8.1", "cat": "probability", "d": 1, "topics": ["Probability"], "cmd": "find" } },
-    { "qnum": 6, "marks": 2, "stem": [{ "type": "text", "content": "Calculate the volume of a sphere with diameter 4.8 cm." }, { "type": "text", "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\dfrac{4}{3}\\pi r^3$.]" }], "parts": [], "answer": { "type": "number", "suffix": "$\\text{cm}^3$" }, "meta": { "s": "4.6", "cat": "geometry", "d": 1, "topics": ["Geometry"], "cmd": "calculate" } },
-    { "qnum": 7, "marks": 2, "stem": [{ "type": "text", "content": "The scale of a map is $1 : 125\\,000$. On a map, the length of an island is 9.4 cm." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the actual length of the island, giving your answer in kilometres." }], "parts": [], "answer": { "type": "number", "suffix": "km" }, "meta": { "s": "1.6", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "calculate" } },
-    { "qnum": 8, "marks": 4, "stem": [], "parts": [
-        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "The $n$th term of a sequence is $10 - n^2$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Write down the first three terms of this sequence." }], "answer": { "type": "expression" } },
-        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "These are the first four terms of another sequence." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$7, \\quad 10, \\quad 13, \\quad 16$" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find an expression for the $n$th term of this sequence." }], "answer": { "type": "expression" } }
-      ], "meta": { "s": "6.1", "cat": "algebra", "d": 1, "topics": ["Algebra"], "cmd": "find" } },
-    { "qnum": 9, "marks": 2, "stem": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q09/Q09_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Triangle $ABC$ is similar to triangle $DEF$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the value of $h$." }], "parts": [], "answer": { "type": "number" }, "meta": { "s": "4.8", "cat": "geometry", "d": 1, "topics": ["Geometry"], "cmd": "calculate" } },
-    { "qnum": 10, "marks": 3, "stem": [{ "type": "text", "content": "**Without using a calculator**, work out $2\\dfrac{1}{7} \\div \\dfrac{5}{9}$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "You must show all your working and give your answer as a mixed number in its simplest form." }], "parts": [], "answer": { "type": "expression" }, "meta": { "s": "1.5", "cat": "number", "d": 1, "topics": ["Number"], "cmd": "calculate" } },
-    { "qnum": 11, "marks": 6, "stem": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q11/Q11_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Describe the **single** transformation that maps" }], "parts": [
-        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "triangle $A$ onto triangle $B$" }], "answer": { "type": "expression" } },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "triangle $A$ onto triangle $C$." }], "answer": { "type": "expression" } }
-      ], "meta": { "s": "4.3", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "describe" } },
-    { "qnum": 12, "marks": 4, "stem": [], "parts": [
-        { "label": "(a)", "marks": 1, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q12/Q12_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$AO$, $OB$ and $OC$ are all radii of the circle. $AB = BC$. Therefore triangle $AOB$ is congruent to triangle $COB$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Draw a ring around the correct criterion for this statement." }], "answer": { "type": "expression" } },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q12/Q12_Subb_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$P$, $Q$, $R$ and $S$ are points on the circle and $TQU$ is a tangent to the circle at $Q$. $PR$ and $SQ$ intersect at the centre, $O$, and $PQ$ is parallel to $SR$. Angle $RQU = 42°$. Calculate" }],
+    {
+      "qnum": 1,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q01/Q01_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$CDE$ is a straight line."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find angle $ADE$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": "4.1",
+        "cat": "geometry",
+        "d": 1,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A train journey starts at 21 43. It takes 8 hours and 32 minutes."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the time the journey finishes."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "1.12",
+        "cat": "number",
+        "d": 1,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q03/Q03_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a straight line intersecting two parallel lines."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $a$ and the value of $b$, giving a geometrical reason for each answer."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "4.1",
+        "cat": "geometry",
+        "d": 1,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "By writing each number in the calculation correct to 1 significant figure, work out an estimate for the value of"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "$\\dfrac{6.7 \\times 2.1}{18 - 5.9}$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": "1.9",
+        "cat": "number",
+        "d": 1,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "estimate"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Eric has four colours of paint. The table shows the probability that he uses each colour."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $x$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": "8.1",
+        "cat": "probability",
+        "d": 1,
+        "topics": [
+          "Probability"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate the volume of a sphere with diameter 4.8 cm."
+        },
+        {
+          "type": "text",
+          "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\dfrac{4}{3}\\pi r^3$.]"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^3$"
+      },
+      "meta": {
+        "s": "4.6",
+        "cat": "geometry",
+        "d": 1,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale of a map is $1 : 125\\,000$. On a map, the length of an island is 9.4 cm."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the actual length of the island, giving your answer in kilometres."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "km"
+      },
+      "meta": {
+        "s": "1.6",
+        "cat": "number",
+        "d": 1,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The $n$th term of a sequence is $10 - n^2$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Write down the first three terms of this sequence."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first four terms of another sequence."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$7, \\quad 10, \\quad 13, \\quad 16$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find an expression for the $n$th term of this sequence."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "6.1",
+        "cat": "algebra",
+        "d": 1,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q09/Q09_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Triangle $ABC$ is similar to triangle $DEF$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of $h$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": "4.8",
+        "cat": "geometry",
+        "d": 1,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "**Without using a calculator**, work out $2\\dfrac{1}{7} \\div \\dfrac{5}{9}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "1.5",
+        "cat": "number",
+        "d": 1,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q11/Q11_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Describe the **single** transformation that maps"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "triangle $A$ onto triangle $B$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "triangle $A$ onto triangle $C$."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "4.3",
+        "cat": "geometry",
+        "d": 2,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "describe"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q12/Q12_Suba_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$AO$, $OB$ and $OC$ are all radii of the circle. $AB = BC$. Therefore triangle $AOB$ is congruent to triangle $COB$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Draw a ring around the correct criterion for this statement."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q12/Q12_Subb_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$P$, $Q$, $R$ and $S$ are points on the circle and $TQU$ is a tangent to the circle at $Q$. $PR$ and $SQ$ intersect at the centre, $O$, and $PQ$ is parallel to $SR$. Angle $RQU = 42°$. Calculate"
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "angle $QSR$" }], "answer": { "type": "number" } },
-            { "label": "(ii)", "marks": 1, "content": [{ "type": "text", "content": "angle $PQS$" }], "answer": { "type": "number" } },
-            { "label": "(iii)", "marks": 1, "content": [{ "type": "text", "content": "angle $POS$." }], "answer": { "type": "number" } }
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "angle $QSR$"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "angle $PQS$"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "angle $POS$."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
           ]
         }
-      ], "meta": { "s": "4.7", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "find" } },
-    { "qnum": 13, "marks": 3, "stem": [{ "type": "text", "content": "Anya invests $\\$6000$ in an account that pays compound interest at a rate of $r\\%$ per year. At the end of 8 years, the account has earned $\\$621.70$ in interest." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the value of $r$." }], "parts": [], "answer": { "type": "number" }, "meta": { "s": "1.12", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" } },
-    { "qnum": 14, "marks": 3, "stem": [{ "type": "text", "content": "$y$ is directly proportional to the square of $(x + 3)$. When $x = 2$, $y = 5$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find $y$ when $x = 1$." }], "parts": [], "answer": { "type": "number" }, "meta": { "s": "1.11", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "find" } },
-    { "qnum": 15, "marks": 3, "stem": [{ "type": "text", "content": "A bag contains 5 green buttons, 2 blue buttons and 6 white buttons. Maya takes two buttons at random from the bag, without replacement." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the probability that one button is green and the other button is not green." }], "parts": [], "answer": { "type": "expression" }, "meta": { "s": "8.3", "cat": "probability", "d": 2, "topics": ["Probability"], "cmd": "calculate" } },
-    { "qnum": 16, "marks": 3, "stem": [], "parts": [
-        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Find the magnitude of the vector $\\begin{pmatrix} -4 \\\\ 5 \\end{pmatrix}$." }], "answer": { "type": "number" } },
-        { "label": "(b)", "marks": 1, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q16/Q16_Subb_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a triangle $OAC$. $A$ is the midpoint of the straight line $OB$. $\\vec{OA} = \\mathbf{x}$ and $\\vec{OC} = \\mathbf{y}$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find $\\vec{CB}$ in terms of $\\mathbf{x}$ and $\\mathbf{y}$." }], "answer": { "type": "expression" } }
-      ], "meta": { "s": "7.2", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "find" } },
-    { "qnum": 17, "marks": 2, "stem": [{ "type": "text", "content": "Simplify $(81x^{12})^{\\frac{3}{4}}$." }], "parts": [], "answer": { "type": "expression" }, "meta": { "s": "2.2", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "simplify" } },
-    { "qnum": 18, "marks": 4, "stem": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q18/Q18_Stem_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows the position of three towns, $U$, $V$ and $W$. $U$ is due west of $V$ and angle $UVW = 125°$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the bearing of $U$ from $W$." }], "parts": [], "answer": { "type": "number" }, "meta": { "s": "5.3", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "calculate" } },
-    { "qnum": 19, "marks": 5, "stem": [], "parts": [
-        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "On the diagram, sketch the graph of $y = \\cos x$ for $0° \\leq x \\leq 360°$." }], "answer": { "type": "none" } },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Solve the equation $5\\cos x + 3 = 0$ for $0° \\leq x \\leq 360°$." }], "answer": { "type": "multiline", "lines": [{ "label": "$x=$", "value": "126.9" }, { "label": "$x=$", "value": "233.1" }] } }
-      ], "meta": { "s": "5.2", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "solve" } },
-    { "qnum": 20, "marks": 7, "stem": [{ "type": "text", "content": "The table shows some values for $y = 3x^2 - 2x - 1$." }, { "type": "newline", "lines": 1 }, { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q20/Q20_Stem_Fig1.png" }], "parts": [
-        { "label": "(a)", "marks": 1, "content": [{ "type": "text", "content": "Complete the table." }], "answer": { "type": "table_input" } },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q20/Q20_Subb_Fig2.png" }, { "type": "text", "content": "On the grid, draw the graph of $y = 3x^2 - 2x - 1$ for $-1 \\leq x \\leq 1.5$." }], "answer": { "type": "none" } },
-        { "label": "(c)", "marks": 3, "content": [{ "type": "text", "content": "By drawing a suitable straight line, solve the equation $3x^2 - 4x - 2 = 0$ for $-1 \\leq x \\leq 1.5$." }], "answer": { "type": "number" } }
-      ], "meta": { "s": "2.10", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "draw" } },
-    { "qnum": 21, "marks": 6, "stem": [{ "type": "text", "content": "A curve has equation $y = x^3 - 12x$." }], "parts": [
-        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "Find the gradient of the curve at the point $(1, -11)$." }], "answer": { "type": "number" } },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Find the coordinates of the turning points of the curve." }], "answer": { "type": "expression" } }
-      ], "meta": { "s": "2.11", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" } }
+      ],
+      "meta": {
+        "s": "4.7",
+        "cat": "geometry",
+        "d": 2,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Anya invests $\\$6000$ in an account that pays compound interest at a rate of $r\\%$ per year. At the end of 8 years, the account has earned $\\$621.70$ in interest."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of $r$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": "1.12",
+        "cat": "number",
+        "d": 2,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$y$ is directly proportional to the square of $(x + 3)$. When $x = 2$, $y = 5$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find $y$ when $x = 1$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": "1.11",
+        "cat": "number",
+        "d": 2,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A bag contains 5 green buttons, 2 blue buttons and 6 white buttons. Maya takes two buttons at random from the bag, without replacement."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the probability that one button is green and the other button is not green."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "8.3",
+        "cat": "probability",
+        "d": 2,
+        "topics": [
+          "Probability"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the magnitude of the vector $\\begin{pmatrix} -4 \\\\ 5 \\end{pmatrix}$."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q16/Q16_Subb_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows a triangle $OAC$. $A$ is the midpoint of the straight line $OB$. $\\vec{OA} = \\mathbf{x}$ and $\\vec{OC} = \\mathbf{y}$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find $\\vec{CB}$ in terms of $\\mathbf{x}$ and $\\mathbf{y}$."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "7.2",
+        "cat": "algebra",
+        "d": 2,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "find"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify $(81x^{12})^{\\frac{3}{4}}$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {
+        "s": "2.2",
+        "cat": "algebra",
+        "d": 2,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "simplify"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q18/Q18_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows the position of three towns, $U$, $V$ and $W$. $U$ is due west of $V$ and angle $UVW = 125°$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Calculate the bearing of $U$ from $W$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {
+        "s": "5.3",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "calculate"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the diagram, sketch the graph of $y = \\cos x$ for $0° \\leq x \\leq 360°$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the equation $5\\cos x + 3 = 0$ for $0° \\leq x \\leq 360°$."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": [
+              {
+                "label": "$x=$",
+                "value": "126.9"
+              },
+              {
+                "label": "$x=$",
+                "value": "233.1"
+              }
+            ],
+            "template": "$x=$ ____\n$x=$ ____"
+          }
+        }
+      ],
+      "meta": {
+        "s": "5.2",
+        "cat": "geometry",
+        "d": 2,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "solve"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows some values for $y = 3x^2 - 2x - 1$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q20/Q20_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper21/Q20/Q20_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = 3x^2 - 2x - 1$ for $-1 \\leq x \\leq 1.5$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "By drawing a suitable straight line, solve the equation $3x^2 - 4x - 2 = 0$ for $-1 \\leq x \\leq 1.5$."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.10",
+        "cat": "algebra",
+        "d": 2,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "draw"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A curve has equation $y = x^3 - 12x$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the gradient of the curve at the point $(1, -11)$."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the turning points of the curve."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.11",
+        "cat": "algebra",
+        "d": 3,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "find"
+      }
+    }
   ]
 }

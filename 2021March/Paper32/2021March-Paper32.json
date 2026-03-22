@@ -1,0 +1,1580 @@
+{
+  "v": "1.0",
+  "paper": "2021March-Paper32",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "March",
+  "paperNum": "32",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "20 students choose their favourite science subject."
+        },
+        {
+          "type": "text",
+          "content": "The results are shown in the bar chart."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q01/Q01_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out how many more students choose biology than physics."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the fraction of students whose favourite science subject is chemistry."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the 20 students is picked at random."
+            },
+            {
+              "type": "text",
+              "content": "Write down the probability that this student did not choose biology."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Only one of the averages, median, mode and mean can be found for these results."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the average that can be found."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find this average for these results."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(d)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Explain why the range cannot be found."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(e)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q01/Q01_Sube_Fig2.png"
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q01/Q01_Sube_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "The results are to be shown in a pie chart."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(e)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|}\\hlineFavourite science & Frequency & Pie chart sector angle \\\\\\hlineBiology & & \\\\Chemistry & & \\\\Physics & & \\\\\\hline\\end{tabular}"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(e)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the pie chart."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A family go on a skiing holiday to America."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The hotel has 840 rooms."
+            },
+            {
+              "type": "text",
+              "content": "735 rooms are occupied."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the percentage of rooms that are occupied."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The temperature in the hotel is 21 °C."
+            },
+            {
+              "type": "text",
+              "content": "The temperature in the hotel is 26.7 °C warmer than at the top of the mountain."
+            },
+            {
+              "type": "text",
+              "content": "The temperature at the top of the mountain is 3.2 °C colder than at the bottom of the mountain."
+            },
+            {
+              "type": "text",
+              "content": "Work out the temperature at the bottom of the mountain."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°\\text{C}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q02/Q02_Subc_Fig2.png"
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q02/Q02_Subc_Fig1.png"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|}\\hline\\multicolumn{1}{|c|}{Equipment} & \\multicolumn{3}{c|}{Hire cost (\\$)} \\\\\\cline{2-4}& 3 days & 4 days & 7 days \\\\\\hline\\textbf{Adult} & & & \\\\Ski equipment & 80.80 & 94.60 & 128.00 \\\\Snowboard equipment & 96.80 & 112.60 & 151.20 \\\\Helmet & 12.80 & 15.20 & 20.70 \\\\\\textbf{Child} & & & \\\\Ski equipment & 47.60 & 55.40 & 75.80 \\\\Snowboard equipment & 59.00 & 70.20 & 94.60 \\\\Helmet & 10.40 & 12.00 & 16.70 \\\\\\hline\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "There are two adults and one child in the family."
+            },
+            {
+              "type": "text",
+              "content": "They hire all their equipment."
+            },
+            {
+              "type": "text",
+              "content": "The child skis for 3 days and snowboards for 4 days."
+            },
+            {
+              "type": "text",
+              "content": "Both adults ski for 7 days."
+            },
+            {
+              "type": "text",
+              "content": "All three of them hire a helmet for 7 days."
+            },
+            {
+              "type": "text",
+              "content": "Work out the total cost of the equipment hire for the family."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "\\$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A ski lift, when full, takes 4000 passengers per hour."
+            },
+            {
+              "type": "text",
+              "content": "This lift works for 10 hours a day."
+            },
+            {
+              "type": "text",
+              "content": "One day, this lift is 90% full for 3 hours and 75% full for 7 hours."
+            },
+            {
+              "type": "text",
+              "content": "Work out the number of passengers who take the lift that day."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The family buy their lift passes before the holiday for a total of 51 400 rupees."
+            },
+            {
+              "type": "text",
+              "content": "In America, the passes cost a total of $684.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "The exchange rate is 1 rupee = $0.0129 .",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Show that the family save 1620 rupees, correct to the nearest 10 rupees, by buying the passes before their holiday."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The height, $h$ metres, of the mountain is 2642 m, correct to the nearest metre."
+            },
+            {
+              "type": "text",
+              "content": "Complete this statement about the value of $h$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "suffix": "$\\leqslant h <$"
+              },
+              {}
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows three triangles A, B and C on a grid."
+        },
+        {
+          "type": "text",
+          "content": "Triangle A is shaded."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure angle $w$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $w$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Explain why triangle B is congruent to triangle C."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A onto triangle B,"
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "____\n____"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle B onto triangle C."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "____\n____"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the image of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "shape A after a translation by the vector $\\begin{pmatrix} -7 \\\\ 1 \\end{pmatrix}$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "shape A after a reflection in the line $y = -1$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows the positions of Kendra’s house, K, and Latika’s house, L, on a map."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Jesminder’s house, J, is on a bearing of 036° from K and on a bearing of 284° from L."
+            },
+            {
+              "type": "text",
+              "content": "Mark the position of J on the map."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The actual distance between K and L is 9600 metres."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the scale of the map."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "1 cm represents",
+                "suffix": "metres"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Kendra walks from K to L at a constant speed of 4.5 km/h."
+                },
+                {
+                  "type": "text",
+                  "content": "She leaves K at 10 15."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the time she arrives at L."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)(i)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q04/Q04_Subc_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Kendra and Latika leave Latika’s house at 15 00 to go to the cinema."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)(a)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "They walk for 20 minutes at a constant speed of 4.5 km/h."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the distance they walk."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km}$"
+              }
+            },
+            {
+              "label": "(c)(i)(b)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "After walking for 20 minutes, they then run a distance of 6 km at a constant speed for 40 minutes."
+                },
+                {
+                  "type": "text",
+                  "content": "Draw their journey to the cinema on the travel graph."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)(ii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Kendra and Latika leave the cinema at 18 05."
+            },
+            {
+              "type": "text",
+              "content": "They travel back to Latika’s house in a taxi at a constant speed of 30 km/h."
+            },
+            {
+              "type": "text",
+              "content": "Complete the travel graph."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q05/Q05_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Complete the table of values for $y = -x^2 - x + 14$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\\hline$x$ & $-5$ & $-4$ & $-3$ & $-2$ & $-1$ & $0$ & $1$ & $2$ & $3$ & $4$ \\\\\\hline$y$ & & & $8$ & $12$ & & & $12$ & $8$ & & \\\\\\hline\\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q05/Q05_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = -x^2 - x + 14$ for $-5 \\leqslant x \\leqslant 4$."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the equation of the line of symmetry of the graph."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the coordinates of the highest point on the graph."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to solve the equation $-x^2 - x + 14 = -2$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ ="
+              },
+              {
+                "prefix": "or $x$ ="
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a point P, a shape S and lines A and B on a $1\\text{ cm}^2$ grid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Line A is parallel to line B."
+            },
+            {
+              "type": "text",
+              "content": "Explain what parallel means."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the coordinates of point P."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name for shape S."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the area of shape S."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the gradient of line A."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the equation of line A."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Prakash buys 45 flowers from a shop."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q07/Q07_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Special offer"
+            },
+            {
+              "type": "text",
+              "content": "Buy 3 bunches of flowers for the price of 2 bunches."
+            },
+            {
+              "type": "text",
+              "content": "Each bunch has 5 flowers."
+            },
+            {
+              "type": "text",
+              "content": "The price of one bunch of flowers is $2.68 .",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Using the special offer, work out how much Prakash pays for the 45 flowers."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "\\$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "15 of the flowers are red."
+            },
+            {
+              "type": "text",
+              "content": "18 of the flowers are orange."
+            },
+            {
+              "type": "text",
+              "content": "The rest of the flowers are yellow."
+            },
+            {
+              "type": "text",
+              "content": "Write down the ratio of the number of red flowers : orange flowers : yellow flowers."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "suffix": ":"
+              },
+              {
+                "suffix": ":"
+              },
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Prakash gives the 45 flowers to his family."
+            },
+            {
+              "type": "text",
+              "content": "He gives his grandmother $x$ flowers."
+            },
+            {
+              "type": "text",
+              "content": "He gives his mother 8 more flowers than his grandmother."
+            },
+            {
+              "type": "text",
+              "content": "He gives his cousin 6 fewer flowers than his grandmother."
+            },
+            {
+              "type": "text",
+              "content": "He gives his sister twice as many flowers as he gives his cousin."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use this information to show that $5x - 10 = 45$."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Solve the equation $5x - 10 = 45$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the number of flowers that Prakash gives to his cousin."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q08/Q08_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "A baker puts some cakes in the oven at 5.50 pm."
+            },
+            {
+              "type": "text",
+              "content": "The cakes take 20 minutes to bake."
+            },
+            {
+              "type": "text",
+              "content": "Complete the clock diagram to show the time when the cakes are baked."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A recipe uses 550 g of flour to make 8 cakes."
+            },
+            {
+              "type": "text",
+              "content": "Work out the amount of flour needed to make 360 cakes."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in kilograms."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{kg}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q08/Q08_Subc_Fig1.png"
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q08/Q08_Subc_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "Bag A 850 g 55 cents"
+            },
+            {
+              "type": "text",
+              "content": "Bag B 950 g 60 cents"
+            },
+            {
+              "type": "text",
+              "content": "Bag C 1250 g 80 cents"
+            },
+            {
+              "type": "text",
+              "content": "Work out which bag of flour is the best value."
+            },
+            {
+              "type": "text",
+              "content": "Show all your working."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "Bag"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "One cake costs 24 cents to make."
+            },
+            {
+              "type": "text",
+              "content": "The baker sells each cake for 65 cents."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the percentage profit the baker makes on each cake."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The baker asks some customers if they like lemon cake (L) and if they like chocolate cake (C)."
+            },
+            {
+              "type": "text",
+              "content": "The Venn diagram shows the results."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(e)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the statement."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$n(\\mathscr{E}) =$"
+              }
+            },
+            {
+              "label": "(e)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the fraction of the customers who like lemon cake or chocolate cake but not both."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(e)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use set notation to complete the statement."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "{Jai, Nera} ="
+              }
+            },
+            {
+              "label": "(e)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "What does the Venn diagram show about Taj?"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q09/Q09_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "On the $1\\text{ cm}^2$ grid, draw one rectangle that has"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "a perimeter of $22\\text{ cm}$"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "and"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "an area of $24\\text{ cm}^2$."
+              ]
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q09/Q09_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of $x$."
+            },
+            {
+              "type": "text",
+              "content": "Write down the two geometrical properties needed to find $x$."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "1"
+              },
+              {
+                "prefix": "2"
+              },
+              {
+                "prefix": "$x$ ="
+              }
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q09/Q09_Subc_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Draw a tangent to the circle at point P."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The exterior angle of a regular polygon is 24°."
+            },
+            {
+              "type": "text",
+              "content": "Work out the number of sides of this polygon."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper32/Q09/Q09_Sube_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

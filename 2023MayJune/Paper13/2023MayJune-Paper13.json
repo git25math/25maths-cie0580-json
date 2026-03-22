@@ -1,0 +1,874 @@
+{
+  "v": "1.0",
+  "paper": "2023MayJune-Paper13",
+  "board": "cie",
+  "code": "0580",
+  "year": 2023,
+  "session": "MayJune",
+  "paperNum": "13",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write 928 correct to the nearest ten."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down a fraction that is equivalent to $\\frac{7}{9}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out."
+        },
+        {
+          "type": "text",
+          "content": "$$-3 + 4 \\times 6$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Bobby records the number of days a shop is open during 30 days."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|}\\hline & \\text{Tally} & \\text{Frequency} \\\\\\hline \\text{Days open} & \\text{||||   ||||   ||||   ||||   |||} & \\\\\\hline \\text{Days not open} & & \\\\\\hline \\end{tabular}"
+        },
+        {
+          "type": "text",
+          "content": "Complete the table."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper13/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper13/Q05/Q05_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the statement."
+            },
+            {
+              "type": "text",
+              "content": "The diagram has rotational symmetry of order ........................ ."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the diagram, draw all the lines of symmetry."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the reciprocal of 16 as a decimal."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The stem-and-leaf diagram shows the ages of 21 people."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{c|l} 1 & 6 \\quad 9 \\\\ 2 & 1 \\quad 4 \\quad 4 \\quad 5 \\quad 8 \\\\ 3 & 2 \\quad 6 \\quad 7 \\quad 9 \\\\ 4 & 0 \\quad 2 \\quad 4 \\quad 6 \\quad 8 \\quad 9 \\\\ 5 & 3 \\quad 4 \\quad 5 \\quad 7 \\end{tabular}"
+        },
+        {
+          "type": "text",
+          "content": "Key: $1|6$ represents $16 \\text{ years}$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper13/Q07/Q07_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the fraction of people who are more than 30 years old."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the range."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the median."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the total surface area of the cuboid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper13/Q08/Q08_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a triangular prism."
+        },
+        {
+          "type": "text",
+          "content": "On the $1 \\text{ cm}^2$ grid, draw a net of the prism."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper13/Q09/Q09_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Olga thinks that 87 is a prime number."
+        },
+        {
+          "type": "text",
+          "content": "Is Olga correct?"
+        },
+        {
+          "type": "text",
+          "content": "Give a reason for your answer."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": "because"
+          },
+          {
+            "prefix": "",
+            "suffix": ""
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A film lasts for 2 hours 50 minutes."
+        },
+        {
+          "type": "text",
+          "content": "The film ends at 23 05."
+        },
+        {
+          "type": "text",
+          "content": "Find the time the film starts."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Triangle $ABC$ is isosceles."
+        },
+        {
+          "type": "text",
+          "content": "Angle $BAC = 38°$ and $AB = AC$."
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $x$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper13/Q12/Q12_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "By writing each number in the calculation correct to 1 significant figure, find an estimate for the value of"
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{10.6 \\times 3.2}{6.8 - 0.98}$$"
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scatter diagram shows information about the time spent in a shop and the number of items bought."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper13/Q14/Q14_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "What type of correlation is shown on the scatter diagram?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe the relationship between the time spent in the shop and the number of items bought."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw a line of best fit on the scatter diagram."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify $\\frac{8d^2}{d}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Maddie changes 4000 Swiss francs into dollars when the exchange rate is $\\$1 = 0.913$ Swiss francs.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Work out how many dollars she receives."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the highest common factor (HCF) of 32 and 120."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The probability that Tom is late for school is 0.12."
+        },
+        {
+          "type": "text",
+          "content": "There are 200 school days this year."
+        },
+        {
+          "type": "text",
+          "content": "Work out the expected number of times that Tom is late for school this year."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand and simplify."
+        },
+        {
+          "type": "text",
+          "content": "$$(x + 8)(x - 5)$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a circle, centre $O$, diameter $AB$."
+        },
+        {
+          "type": "text",
+          "content": "$A$, $B$ and $C$ lie on the circumference of the circle."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper13/Q20/Q20_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name of the line $AC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "text",
+              "content": "Give a geometrical reason for your answer."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ =",
+                "suffix": "because"
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A spinner has five sides."
+        },
+        {
+          "type": "text",
+          "content": "Each side is painted red, blue, green, yellow or orange."
+        },
+        {
+          "type": "text",
+          "content": "The table shows some of the probabilities of the spinner landing on each colour."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline \\text{Colour} & \\text{Red} & \\text{Blue} & \\text{Green} & \\text{Yellow} & \\text{Orange} \\\\\\hline \\text{Probability} & 0.3 & 0.16 & 0.18 & & 0.25 \\\\\\hline \\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper13/Q21/Q21_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Dan spins the spinner once."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that the spinner lands on red or blue."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Vanessa invests $\\$8500$ at a rate of $3.5\\%$ per year compound interest.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of her investment at the end of 6 years."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest dollar."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows three shapes, $A$, $B$ and $C$, on a $1 \\text{ cm}^2$ grid."
+        },
+        {
+          "type": "text",
+          "content": "Describe fully the single transformation that maps"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper13/Q23/Q23_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "shape $A$ onto shape $B$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "shape $A$ onto shape $C$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $2 \\frac{1}{4} + 5 \\frac{11}{12}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In this question, both lengths are in centimetres."
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows two lines, $AB$ and $CD$."
+        },
+        {
+          "type": "text",
+          "content": "The length of $AB$ is $10x - 12$."
+        },
+        {
+          "type": "text",
+          "content": "The length of $CD$ is $x + 3$."
+        },
+        {
+          "type": "text",
+          "content": "Line $AB$ is 3 times as long as line $CD$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $x$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023MayJune/Paper13/Q25/Q25_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    }
+  ]
+}

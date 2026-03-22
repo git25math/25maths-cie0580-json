@@ -1,0 +1,1443 @@
+{
+  "v": "1.0",
+  "paper": "2022OctNov-Paper43",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "OctNov",
+  "paperNum": "43",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q01/Q01_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q01/Q01_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here are the ingredients needed to make a pasta bake to serve 12 people."
+            },
+            {
+              "type": "text",
+              "content": "250 g butter\n600 g pasta\n460 g mushrooms\n280 g cheese\n800 ml milk"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the mass of the cheese as a percentage of the mass of the mushrooms."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the mass of butter needed to make a pasta bake to serve 18 people."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{g}$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Monica has 2.2 litres of milk and 1.5 kg of each other ingredient."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the greatest number of people she can serve with pasta bake."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "In 2019, a packet of pasta cost $\\$2.40$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "This was an increase of $25\\%$ of the cost of a packet in 2018."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the cost in 2018."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "\\$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In 2020, the cost of a packet increased by $15\\%$ from the cost in 2019."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the total percentage increase in the cost of a packet from 2018 to 2020."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Pasta is sold in packets with width $11.5 \\text{ cm}$, correct to the nearest $0.5 \\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "A shop places these packets in a single line on a shelf of length $2 \\text{ m}$, correct to the nearest $0.1 \\text{ m}$."
+            },
+            {
+              "type": "text",
+              "content": "Find the maximum number of these packets that will fit along this shelf."
+            },
+            {
+              "type": "text",
+              "content": "You must show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 19,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q02/Q02_Subd_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify fully."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$p^3 \\times p^{11}$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\frac{18m^6}{3m^2}$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\left(\\frac{64x^{27}}{27y^9}\\right)^{-\\frac{1}{3}}$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A sequence has $n$th term $3n^2$."
+            },
+            {
+              "type": "text",
+              "content": "Write down the first 3 terms of this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "suffix": ","
+              },
+              {
+                "suffix": ","
+              },
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the $n$th term for each of these sequences."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$13, 16, 19, 22, 25, \\dots$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$3, 17, 55, 129, 251, \\dots$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve."
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{3x - 22}{4} = 23$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the quadratic formula to solve $3x^2 + 8x - 20 = 0$."
+            },
+            {
+              "type": "text",
+              "content": "Show all your working and give your answers correct to 2 decimal places."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ =",
+                "suffix": ","
+              },
+              {
+                "prefix": "$x$ ="
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The height, $h \\text{ cm}$, of each of $100$ plants is recorded."
+        },
+        {
+          "type": "text",
+          "content": "The table shows information about the heights of these plants."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|c|c|c|c|c|c|}\\hline Height ($h$ cm) & $10 < h \\le 15$ & $15 < h \\le 25$ & $25 < h \\le 40$ & $40 < h \\le 60$ & $60 < h \\le 70$ \\\\ \\hline Frequency & $8$ & $18$ & $28$ & $33$ & $13$ \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q03/Q03_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q03/Q03_Suba_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "Complete the histogram to show this information."
+            },
+            {
+              "type": "text",
+              "content": "The first two blocks have been drawn for you."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate an estimate of the mean height."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw the reflection of triangle $T$ in the line $y = -2$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw the enlargement of triangle $T$ with scale factor $\\frac{1}{2}$ and centre of enlargement $(-5, -3)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle $T$ onto triangle $A$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": ".....................................................................................................................................................\n....................................................................................................................................................."
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a water trough in the shape of a prism."
+        },
+        {
+          "type": "text",
+          "content": "The prism has a cross-section in the shape of an isosceles trapezium."
+        },
+        {
+          "type": "text",
+          "content": "The trough is completely filled with water."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q05/Q05_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that the volume of water in the trough is $206.4$ litres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The water from the trough is emptied at a rate of $600 \\text{ ml}$ per second."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the time taken, in minutes and seconds, for the trough to be emptied."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "suffix": "minutes"
+              },
+              {
+                "suffix": "seconds"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q05/Q05_Subc_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "All the water from the trough is emptied into a vertical cylindrical tank."
+            },
+            {
+              "type": "text",
+              "content": "The depth of the water in the tank is $84 \\text{ cm}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the radius of the tank."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The tank is $60\\%$ full."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the height of the tank."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "A steel rod $AM$ is placed inside the empty water trough as shown in the diagram."
+            },
+            {
+              "type": "text",
+              "content": "$A$ is a vertex at the base of the isosceles trapezium and $M$ is the midpoint of the top edge on the opposite face."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the length of the steel rod, $AM$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$AM$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q06/Q06_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$P = \\frac{7k - 2}{5}$$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of $P$ when $k = 3$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$P$ ="
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Rearrange the formula to make $k$ the subject."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$k$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q06/Q06_Subb_Fig1.png"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Solve."
+                },
+                {
+                  "type": "text",
+                  "content": "$3x + 5 \\le 7x$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show your answer to part (b)(i) on the number line."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "The line $y = 16$ is drawn on the grid."
+            },
+            {
+              "type": "text",
+              "content": "The region $R$ satisfies the following inequalities."
+            },
+            {
+              "type": "text",
+              "content": "$y \\ge 16$ \\\\ $x \\ge 2$ \\\\ $2x + 3y \\le 72$ \\\\ $y \\le 32 - x$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 6,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "By drawing three more lines and shading the region not required, find and label region $R$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the integer coordinates $(x, y)$ in the region $R$ that give the maximum value of $x + 2y$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Regan is playing a game with these six number cards."
+        },
+        {
+          "type": "text",
+          "content": "$-3 \\quad -2 \\quad 2 \\quad 3 \\quad 5 \\quad 7$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q07/Q07_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "She takes two cards at random, without replacement, and multiplies the two numbers to give a score."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the score is $35$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the score is a positive number."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Regan now takes three cards at random from the six cards, without replacement, and adds the three numbers to give a total."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that her total is $5$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$A$, $B$ and $C$ are points on the circle, centre $O$."
+        },
+        {
+          "type": "text",
+          "content": "$DE$ is a tangent to the circle at $C$."
+        },
+        {
+          "type": "text",
+          "content": "$AC = 10 \\text{ cm}$, $AB = 9.5 \\text{ cm}$ and $BC = 7.7 \\text{ cm}$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q08/Q08_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that angle $ABC = 70.2^\\circ$, correct to 1 decimal place."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "angle $AOC$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $AOC$ ="
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "angle $ACO$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $ACO$ ="
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "angle $ACD$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $ACD$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the radius, $OC$, of the circle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$OC$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the area of triangle $ABC$ as a percentage of the area of the circle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 17,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q09/Q09_Suba_Fig3.png"
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q09/Q09_Suba_Fig2.png"
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q09/Q09_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Sketch the following graphs."
+            },
+            {
+              "type": "text",
+              "content": "On each sketch, indicate any intercepts with the axes."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$y = 3x - 12$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$y = x^2 - 3x - 4$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$y = 6^x$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 9,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the derivative, $\\frac{\\text{d}y}{\\text{d}x}$, of $y = \\frac{4}{3}x^3 - \\frac{5}{8}x^2$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the gradient of $y = \\frac{4}{3}x^3 - \\frac{5}{8}x^2$ at $x = -1$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 5,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A tangent is drawn to the graph of $y = \\frac{4}{3}x^3 - \\frac{5}{8}x^2$."
+                },
+                {
+                  "type": "text",
+                  "content": "The gradient of the tangent is $-28$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the coordinates of the two possible points where this tangent meets the graph."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "(",
+                    "suffix": ","
+                  },
+                  {
+                    "suffix": ")"
+                  },
+                  {
+                    "prefix": "(",
+                    "suffix": ","
+                  },
+                  {
+                    "suffix": ")"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 10,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q10/Q10_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q10/Q10_Suba_Fig2.png"
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper43/Q10/Q10_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "$$\\mathbf{a} = \\begin{pmatrix} 1 \\\\ 2 \\end{pmatrix} \\quad \\mathbf{b} = \\begin{pmatrix} -3 \\\\ 5 \\end{pmatrix}$$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw and label vector $2\\mathbf{a}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw and label vector $(\\mathbf{a} - \\mathbf{b})$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "$OABC$ is a trapezium with $OA$ parallel to $CB$."
+            },
+            {
+              "type": "text",
+              "content": "$M$ is the midpoint of $CB$ and $N$ is the point on $AB$ such that $AN : NB = 1 : 2$."
+            },
+            {
+              "type": "text",
+              "content": "$O$ is the origin, $\\mathbf{OA} = \\mathbf{p}$, $\\mathbf{OC} = \\mathbf{q}$ and $\\mathbf{CB} = \\frac{3}{4}\\mathbf{p}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)(a)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find, in terms of $\\mathbf{p}$ and/or $\\mathbf{q}$, in its simplest form"
+                },
+                {
+                  "type": "text",
+                  "content": "$\\mathbf{OB}$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$\\mathbf{OB} =$"
+              }
+            },
+            {
+              "label": "(b)(i)(b)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\mathbf{AB}$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$\\mathbf{AB} =$"
+              }
+            },
+            {
+              "label": "(b)(i)(c)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\mathbf{MN}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$\\mathbf{MN} =$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$OA$ and $MN$ are extended to meet at $G$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the position vector of $G$ in terms of $\\mathbf{p}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

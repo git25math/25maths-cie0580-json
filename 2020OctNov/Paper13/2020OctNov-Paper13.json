@@ -1,0 +1,803 @@
+{
+  "v": "1.0",
+  "paper": "2020OctNov-Paper13",
+  "board": "cie",
+  "code": "0580",
+  "year": 2020,
+  "session": "OctNov",
+  "paperNum": "13",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "This bar chart shows the amount of rainfall, in mm, for each month of one year in a city."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q01/Q01_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q01/Q01_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the month with the least amount of rainfall."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "This bar chart shows the number of days it rained each month for the same year in this city."
+            },
+            {
+              "type": "text",
+              "content": "Mia says that the months with the most rainfall also have the greatest number of days it rained."
+            },
+            {
+              "type": "text",
+              "content": "Explain why she is wrong."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Complete this bill."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "2.5 kg potatoes at $\\$1.12$ per kg $ ........................"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "............... kg bananas at $\\$1.05$ per kg $ ........................"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Total = $\\$ 4.69$",
+          "_dollar_warning": true
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 97.4236 correct to 3 decimal places."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the reciprocal of 2."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the order of rotational symmetry of each shape."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q04/Q04_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q04/Q04_Stem_Fig2.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The mean of seven numbers is 16."
+        },
+        {
+          "type": "text",
+          "content": "Six of these numbers are 12, 20, 19, 10, 21 and 13."
+        },
+        {
+          "type": "text",
+          "content": "Find the seventh number."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In triangle $ABC$, $BC = 7.6$ cm and $AC = 6.2$ cm."
+        },
+        {
+          "type": "text",
+          "content": "Using a ruler and compasses only, construct triangle $ABC$."
+        },
+        {
+          "type": "text",
+          "content": "Leave in your construction arcs."
+        },
+        {
+          "type": "text",
+          "content": "The side $AB$ has been drawn for you."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "This table shows the temperature, in °C, at midnight and at 3 pm for four cities on the same day."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|}\\hlineCity & Temperature at midnight (°C) & Temperature at 3 pm (°C) \\\\\\hlineSydney & 21 & 28 \\\\Oslo & $-3$ & 1 \\\\Toronto & $-18$ & $-8$ \\\\Seoul & $-5$ & 4 \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q07/Q07_Stem_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the table to complete this statement."
+            },
+            {
+              "type": "text",
+              "content": "The city with the biggest difference in temperature between midnight and 3 pm is .................................................. with a difference of ................................°C."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The temperature at midnight in Moscow was $-11$ °C."
+            },
+            {
+              "type": "text",
+              "content": "At 3 pm the temperature has increased by $5$ °C."
+            },
+            {
+              "type": "text",
+              "content": "Work out the temperature at 3 pm."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "°C"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 8,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{0.0025}{4}$$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q08/Q08_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Thor changes 40 000 Icelandic Krona into dollars when the exchange rate is 1 krona = $\\$0.0099$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Work out how many dollars he receives."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ethan invests $\\$6400$ at a rate of $2.6\\%$ per year simple interest.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate the total value of his investment at the end of 3 years."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A straight line, $l$, has equation $y = 5x + 12$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the gradient of line $l$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the point where line $l$ crosses the $x$-axis."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 12,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A cuboid has length 5 cm, width 4 cm and height 3 cm."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q12/Q12_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the $1 \\text{ cm}^2$ grid, complete the net of the cuboid."
+            },
+            {
+              "type": "text",
+              "content": "One face has been drawn for you."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the volume of the cuboid."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The area of the parallelogram is the same as the area of the trapezium."
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $x$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q13/Q13_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q13/Q13_Stem_Fig2.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The length, $l$ cm, of a line is 18.3 cm, correct to the nearest millimetre."
+        },
+        {
+          "type": "text",
+          "content": "Complete this statement about the value of $l$."
+        },
+        {
+          "type": "text",
+          "content": ".................... $\\le l <$ .................."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "By writing each number correct to 1 significant figure, estimate the value of"
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{28.5 \\times 22.1}{37.8 + 13.2}$$"
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q15/Q15_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A bag contains 7 red discs, 5 green discs and 2 pink discs."
+        },
+        {
+          "type": "text",
+          "content": "Helen takes one disc at random, records the colour and replaces it in the bag."
+        },
+        {
+          "type": "text",
+          "content": "She does this 140 times."
+        },
+        {
+          "type": "text",
+          "content": "Find how many times she expects to take a green disc."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand the brackets and simplify."
+        },
+        {
+          "type": "text",
+          "content": "$$4(2m + 3) - 5(m - 2)$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ramond walks 2460 metres in 33 minutes."
+        },
+        {
+          "type": "text",
+          "content": "Work out Ramond’s average speed in kilometres per hour."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{km/h}$"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A regular polygon has an exterior angle of 20°."
+        },
+        {
+          "type": "text",
+          "content": "Work out the number of sides of this polygon."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $1 \\frac{1}{2} \\times \\frac{7}{10}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\mathcal{E} = \\{ \\text{children in a group} \\}$"
+        },
+        {
+          "type": "text",
+          "content": "$R = \\{ \\text{children who own a rabbit} \\}$"
+        },
+        {
+          "type": "text",
+          "content": "$H = \\{ \\text{children who own a hamster} \\}$"
+        },
+        {
+          "type": "text",
+          "content": "There are 40 children in the group."
+        },
+        {
+          "type": "text",
+          "content": "19 children own a rabbit."
+        },
+        {
+          "type": "text",
+          "content": "27 children own a hamster."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q21/Q21_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the Venn diagram."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down $n(R \\cup H)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate $PQ$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper13/Q22/Q22_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$PQ$ =",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "text",
+          "content": "$$x + 4y = 4$$"
+        },
+        {
+          "type": "text",
+          "content": "$$3x - 8y = 22$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x = $ ____\n$y = $ ____"
+      }
+    }
+  ]
+}

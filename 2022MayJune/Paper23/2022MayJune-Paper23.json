@@ -1,0 +1,908 @@
+{
+  "v": "1.0",
+  "paper": "2022MayJune-Paper23",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "MayJune",
+  "paperNum": "23",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The probability of picking a red sweet from a bag is $0.05$ ."
+        },
+        {
+          "type": "text",
+          "content": "Find the probability of not picking a red sweet."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out the value of $m^3 k^3$ when $m = 4$ and $k = 7$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "PQRS is a quadrilateral."
+        },
+        {
+          "type": "text",
+          "content": "RST is a straight line."
+        },
+        {
+          "type": "text",
+          "content": "Find angle PST."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper23/Q03/Q03_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "Angle $PST$ ="
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "These are the masses, in kg, of 12 parcels."
+        },
+        {
+          "type": "text",
+          "content": "$0.3 \\quad 0.4 \\quad 1.2 \\quad 0.8 \\quad 1.1 \\quad 2.1 \\quad 1.7 \\quad 1.8 \\quad 1.2 \\quad 2.3 \\quad 0.7 \\quad 1.1$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper23/Q04/Q04_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the stem-and-leaf diagram for the 12 parcels."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the median."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{kg}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The $n$th term of a sequence is $n^2 - 1$."
+        },
+        {
+          "type": "text",
+          "content": "Find the first three terms of this sequence."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": ","
+          },
+          {
+            "suffix": ","
+          },
+          {}
+        ]
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$y^5 \\div y^3$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$7x^0$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scatter diagram shows the number of visitors and the total amount spent, in thousands of dollars, at a zoo on each of eight days."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper23/Q07/Q07_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On one of the eight days there are $410$ visitors."
+            },
+            {
+              "type": "text",
+              "content": "Find the total amount spent by visitors during this day."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Information for the ninth day is shown in the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|}\\hline Number of visitors & 175 \\\\ \\hline Total amount spent ($1000) & 9 \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Plot this information on the scatter diagram."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw a line of best fit on the scatter diagram."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the tenth day the total amount spent is $\\$22000$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Estimate the number of visitors on this day."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $\\frac{5}{6} \\div \\frac{2}{9}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Change $300 \\text{ m} / \\text{min}$ to $\\text{km} / \\text{h}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{km} / \\text{h}$"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find $n(A \\cup B)'$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper23/Q10/Q10_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "ABC, DEF and GHK are triangles with all vertices on the circumference of a circle."
+        },
+        {
+          "type": "text",
+          "content": "From the list, draw a ring around the line that is a diameter of the circle."
+        },
+        {
+          "type": "text",
+          "content": "$AB \\quad AC \\quad DE \\quad DF \\quad GH \\quad GK$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper23/Q11/Q11_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$f$ is a common factor of $14$ and $28$."
+        },
+        {
+          "type": "text",
+          "content": "$m$ is a common multiple of $10$ and $25$."
+        },
+        {
+          "type": "text",
+          "content": "$p$ is a prime number."
+        },
+        {
+          "type": "text",
+          "content": "Work out the largest possible value of $\\frac{mp}{f}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise completely."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$27p - 18px$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$m - nt - mt + n$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the $n$th term of this sequence."
+        },
+        {
+          "type": "text",
+          "content": "$8, \\quad 17, \\quad 32, \\quad 53, \\quad 80, \\quad \\dots$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{x}{3} + \\frac{x}{4} = \\frac{13}{12}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Abdul draws this speed–time graph for a journey."
+        },
+        {
+          "type": "text",
+          "content": "The graph has four sections A, B, C and D."
+        },
+        {
+          "type": "text",
+          "content": "Complete these statements about the speed–time graph."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper23/Q16/Q16_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "Section",
+            "suffix": "cannot be correct."
+          },
+          {
+            "prefix": "Section",
+            "suffix": "shows constant speed."
+          },
+          {
+            "prefix": "Section",
+            "suffix": "shows deceleration."
+          },
+          {
+            "prefix": "Section A shows acceleration of",
+            "suffix": "$\\text{m} / \\text{s}^2$."
+          },
+          {
+            "prefix": "The distance travelled in the first 30 seconds of the journey is",
+            "suffix": "$\\text{m}$."
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In triangle ABC, $AC = AB$."
+        },
+        {
+          "type": "text",
+          "content": "D is the point on BC such that AD is perpendicular to BC."
+        },
+        {
+          "type": "text",
+          "content": "Complete the following statements to show that triangle ACD and triangle ABD are congruent."
+        },
+        {
+          "type": "text",
+          "content": "$AC = AB$ is given information."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper23/Q17/Q17_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "AD is perpendicular to BC so that Angle",
+            "suffix": "="
+          },
+          {
+            "prefix": "Angle",
+            "suffix": "="
+          },
+          {
+            "suffix": "$°$"
+          },
+          {
+            "prefix": "Side",
+            "suffix": "is common to both triangles."
+          },
+          {
+            "prefix": "Triangle ACD is congruent to triangle ABD because of the congruency criterion",
+            "suffix": ""
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The bearing of B from A is $x°$."
+        },
+        {
+          "type": "text",
+          "content": "The bearing of A from B is $y°$."
+        },
+        {
+          "type": "text",
+          "content": "$x : y = 2 : 7$"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of $y$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper23/Q18/Q18_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$y$ ="
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$\\text{f}(x) = kx^2 \\qquad \\text{g}(x) = \\frac{1}{x} \\qquad \\text{h}(x) = \\frac{7x - 2}{5} \\qquad \\text{j}(x) = \\frac{3x - 14}{10}$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\text{f}(-5) = 675$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $k$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\\text{gh}(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\\text{h}^{-1}(x) + \\text{j}(x)$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a square ABCD with side length $k \\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "MDE is a sector of a circle, centre D."
+        },
+        {
+          "type": "text",
+          "content": "E lies on the diagonal, BD, of the square."
+        },
+        {
+          "type": "text",
+          "content": "M is the midpoint of AD."
+        },
+        {
+          "type": "text",
+          "content": "Find the percentage of the square that is shaded."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper23/Q20/Q20_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\%$"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Neha has a piece of ribbon of length $23 \\text{ cm}$, correct to the nearest cm."
+        },
+        {
+          "type": "text",
+          "content": "From this ribbon she cuts off a piece with length $87 \\text{ mm}$, correct to the nearest mm."
+        },
+        {
+          "type": "text",
+          "content": "Work out the lower bound and the upper bound for the length of the remaining ribbon."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in centimetres."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "Lower bound =",
+            "suffix": "$\\text{cm}$"
+          },
+          {
+            "prefix": "Upper bound =",
+            "suffix": "$\\text{cm}$"
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{x^2 - 25}{x^2 - 5x}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the equation $3 \\sin x + 1 = 0$ for $0° \\le x \\le 360°$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$x$ =",
+            "suffix": "or"
+          },
+          {
+            "prefix": "$x$ ="
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 24,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$y$ is inversely proportional to the cube of $(x - 1)$."
+        },
+        {
+          "type": "text",
+          "content": "$y = 9.45$ when $x = 3$."
+        },
+        {
+          "type": "text",
+          "content": "Find $y$ when $x = 4$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$y$ ="
+      }
+    },
+    {
+      "qnum": 25,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$m^{-1/4} = 27^{-1/4}$$"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $m$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$m$ ="
+      }
+    }
+  ]
+}

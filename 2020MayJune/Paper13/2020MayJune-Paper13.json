@@ -1,0 +1,824 @@
+{
+  "v": "1.0",
+  "paper": "2020MayJune-Paper13",
+  "board": "cie",
+  "code": "0580",
+  "year": 2020,
+  "session": "MayJune",
+  "paperNum": "13",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write six hundred and seven thousand and twenty-one in figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On the grid, draw a shape that is congruent to shape A."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper13/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Edelgard tries to calculate $\\frac{18 + 68}{5 - 9}$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "She types into her calculator $18 + 68 \\div 5 - 9$."
+            },
+            {
+              "type": "text",
+              "content": "Explain why this does not give Edelgard the correct answer."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the correct answer to $\\frac{18 + 68}{5 - 9}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A train from Woodton to Northley takes 6 hours 25 minutes."
+        },
+        {
+          "type": "text",
+          "content": "The train leaves Woodton at 19 46."
+        },
+        {
+          "type": "text",
+          "content": "Work out the time the train arrives at Northley."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the number that is 7 more than $-38$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "text",
+          "content": "$5w + 3h - 7w + 8h$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": " "
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name of a quadrilateral that has"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "rotational symmetry of order 1\n\nand",
+                "only one line of symmetry."
+              ]
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper13/Q07/Q07_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Reflect the shape in line $L$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In the diagram, $AB$ is parallel to $CD$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper13/Q08/Q08_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "text",
+              "content": "Give a geometrical reason for your answer."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ =",
+                "suffix": "because"
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of $y$."
+            },
+            {
+              "type": "text",
+              "content": "Give a geometrical reason for your answer."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$y$ =",
+                "suffix": "because"
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$32 \\quad 33 \\quad 34 \\quad 35 \\quad 36 \\quad 37 \\quad 38 \\quad 39$"
+        },
+        {
+          "type": "text",
+          "content": "From this list of numbers, write down"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a multiple of 8,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a square number,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a prime number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 10,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": " "
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A circular garden has diameter $11.4\\text{ m}$."
+            },
+            {
+              "type": "text",
+              "content": "Draw the garden accurately, using a scale of $1\\text{ cm}$ represents $1.5\\text{ m}$."
+            },
+            {
+              "type": "text",
+              "content": "Scale: $1\\text{ cm}$ to $1.5\\text{ m}$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On a map, the distance between two towns is $9.6\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "The scale of the map is $1 : 50\\,000$."
+            },
+            {
+              "type": "text",
+              "content": "Work out the actual distance between the two towns in kilometres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Triangle $ABC$ is isosceles."
+        },
+        {
+          "type": "text",
+          "content": "Angle $ABC = 32^\\circ$ and $AB = AC$."
+        },
+        {
+          "type": "text",
+          "content": "Find angle $BAC$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper13/Q11/Q11_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "Angle $BAC$ ="
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A bag contains yellow balls, pink balls and green balls only."
+        },
+        {
+          "type": "text",
+          "content": "The ratio yellow balls : pink balls : green balls = $7 : 3 : 5$."
+        },
+        {
+          "type": "text",
+          "content": "There are 42 yellow balls in the bag."
+        },
+        {
+          "type": "text",
+          "content": "Work out the total number of balls in the bag."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On any day, the probability that Marcus will get a seat on the school bus is $0.93$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the probability that he will not get a seat on the school bus today."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "There are 200 school days in a year."
+            },
+            {
+              "type": "text",
+              "content": "Work out the expected number of days in a year that Marcus will not get a seat."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$p^2 \\times p^4$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$m^{15} \\div m^5$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$(k^3)^5$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Describe fully the single transformation that maps shape A onto shape B."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020MayJune/Paper13/Q15/Q15_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "____\n____"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $3 \\frac{1}{4} - 2 \\frac{2}{3}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A chef buys some cheese from France."
+        },
+        {
+          "type": "text",
+          "content": "$200\\text{ g}$ of cheese costs $3.45$ euros."
+        },
+        {
+          "type": "text",
+          "content": "The exchange rate is $\\$1 = 0.84$ euros.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Work out the maximum mass of cheese the chef can buy with $\\$150$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in kilograms, correct to 1 decimal place."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{kg}$"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Sonia wants to invest $\\$5000$ for 6 years.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Bank A pays compound interest at a rate of $3.5\\%$ per year."
+        },
+        {
+          "type": "text",
+          "content": "Bank B increases the $\\$5000$ by $22\\%$ at the end of 6 years.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Which bank will give Sonia the most money at the end of 6 years and by how much?"
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "Bank A",
+            "suffix": ""
+          },
+          {
+            "prefix": "Bank B",
+            "suffix": ""
+          },
+          {
+            "prefix": "Bank",
+            "suffix": "will give $"
+          },
+          {
+            "prefix": "",
+            "suffix": "more money."
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "By rounding each number correct to 1 significant figure, estimate the value of"
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{4.8 \\times 71.2}{32.4}$$"
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Des thinks of two numbers."
+        },
+        {
+          "type": "text",
+          "content": "The sum of his two numbers is $-6$."
+        },
+        {
+          "type": "text",
+          "content": "The difference between his two numbers is $62$."
+        },
+        {
+          "type": "text",
+          "content": "Find the two numbers."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": "and"
+          },
+          {
+            "prefix": "",
+            "suffix": ""
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A solid cylinder has radius $3\\text{ cm}$ and height $4.5\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the total surface area of the cylinder."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      }
+    }
+  ]
+}

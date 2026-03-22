@@ -1,0 +1,948 @@
+{
+  "v": "1.0",
+  "paper": "2019OctNov-Paper23",
+  "board": "cie",
+  "code": "0580",
+  "year": 2019,
+  "session": "OctNov",
+  "paperNum": "23",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the temperature that is $7 \\text{ } ^\\circ\\text{C}$ below $-3 \\text{ } ^\\circ\\text{C}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$^\\circ\\text{C}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate $\\frac{25.6}{4} + 8 \\times 0.25$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a list of numbers."
+        },
+        {
+          "type": "text",
+          "content": "$87 \\quad 77 \\quad 57 \\quad 47 \\quad 27$"
+        },
+        {
+          "type": "text",
+          "content": "From this list, write down"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a cube number,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a prime number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the highest common factor (HCF) of $84$ and $105$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write in standard form."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$72\\,000$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$0.0018$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand and simplify $(x + 3)(x + 5)$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the gradient of the line that is perpendicular to the line $y = \\frac{2}{3}x + 5$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "When $\\sin x^\\circ = 0.36$, find"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the acute angle $x^\\circ$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the obtuse angle $x^\\circ$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A cuboid measures $5\\text{ cm}$ by $7\\text{ cm}$ by $9.5\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the surface area of this cuboid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper23/Q09/Q09_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$5n$ is the mean of the three numbers $391$, $n$ and $n - 1$."
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $n$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$n =$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$12x + 15$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$2xy - 3x + 6y - 9$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$A$ is the point $(2, 1)$ and $B$ is the point $(9, 4)$."
+        },
+        {
+          "type": "text",
+          "content": "Find the length of $AB$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A straight line joins the points $(3k, 6)$ and $(k, -5)$."
+        },
+        {
+          "type": "text",
+          "content": "The line has a gradient of $2$."
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $k$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$k =$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the $n$th term of each sequence."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\frac{1}{2}, \\frac{1}{4}, \\frac{1}{6}, \\frac{1}{8}, \\frac{1}{10}, \\dots$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$1, \\quad 5, \\quad 25, \\quad 125, \\quad 625, \\dots$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $2\\frac{1}{4} \\times 3\\frac{2}{3}$."
+        },
+        {
+          "type": "text",
+          "content": "Write down all the steps of your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ten athletes compete in both the $100\\text{ metre}$ race and the triple jump."
+        },
+        {
+          "type": "text",
+          "content": "Their results are shown in the scatter diagram."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper23/Q16/Q16_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of these athletes jumps $15.12\\text{ m}$ in the triple jump."
+            },
+            {
+              "type": "text",
+              "content": "Write down his time for the $100\\text{ metre}$ race."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "s"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper23/Q16/Q16_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "The values for two other athletes are shown in the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|}\\hline Distance in the triple jump (m) & 14.74 & 15.2 \\\\ \\hline Time for 100 m (seconds) & 13.2 & 12.76 \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "On the scatter diagram, plot these points."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the scatter diagram, draw a line of best fit."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "What type of correlation is shown in the scatter diagram?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "By shading the unwanted regions on the grid, draw and label the region $R$ that satisfies the following inequalities."
+        },
+        {
+          "type": "text",
+          "content": "$-1 \\le x \\le 2 \\quad \\text{and} \\quad y \\le x + 3$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper23/Q17/Q17_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$M = \\{x \\mid x \\text{ is an integer and } 1 \\le x \\le 6\\}$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $n(M)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down a set $N$ where $N \\subset M$ and $N \\neq \\emptyset$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "\\{",
+                "suffix": "\\}"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper23/Q18/Q18_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "In each Venn diagram, shade the required region."
+            },
+            {
+              "type": "text",
+              "content": "$(A \\cup B)' \\qquad (C \\cup D) \\cap E'$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the speed–time graph for $70\\text{ seconds}$ of a car journey."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper23/Q19/Q19_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the deceleration of the car during the first $20\\text{ seconds}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m/s}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the total distance travelled by the car during the $70\\text{ seconds}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "m"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$t$ is inversely proportional to the square of $(x + 1)$."
+        },
+        {
+          "type": "text",
+          "content": "When $x = 2$, $t = 5$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $t$ in terms of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$t =$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "When $t = 1.8$, find the positive value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the inverse of the matrix $\\begin{pmatrix} 3 & -5 \\\\ -1 & 10 \\end{pmatrix}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of $x$ and the value of $y$ in this matrix calculation."
+            },
+            {
+              "type": "text",
+              "content": "$$\\begin{pmatrix} x & 1 \\\\ y & 2 \\end{pmatrix} \\begin{pmatrix} 5 & 2 \\\\ 4 & 1 \\end{pmatrix} - \\begin{pmatrix} 9 \\\\ 6 \\end{pmatrix} = \\begin{pmatrix} 46 \\\\ 65 \\end{pmatrix}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "$x =$ ____\n$y =$ ____"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A container is made from a cylinder and a cone, each of radius $5\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "The height of the cylinder is $12\\text{ cm}$ and the height of the cone is $4.8\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "The cylinder is filled completely with water."
+        },
+        {
+          "type": "text",
+          "content": "The container is turned upside down as shown below."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the depth, $d$, of the water."
+        },
+        {
+          "type": "text",
+          "content": "[The volume, $V$, of a cone with radius $r$ and height $h$ is $V = \\frac{1}{3}\\pi r^2 h$]"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper23/Q22/Q22_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$d =$",
+        "suffix": "$\\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The time, $t$ minutes, it takes each of $50$ students to travel to school is recorded."
+        },
+        {
+          "type": "text",
+          "content": "The table shows the results."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|c|c|c|c|c|}\\hline Time ($t$ minutes) & $0 < t \\le 10$ & $10 < t \\le 15$ & $15 < t \\le 20$ & $20 < t \\le 40$ \\\\ \\hline Frequency & 7 & 19 & 16 & 8 \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper23/Q23/Q23_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the modal class."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "suffix": "min"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper23/Q23/Q23_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "On the grid, complete the histogram to show the information in the table."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

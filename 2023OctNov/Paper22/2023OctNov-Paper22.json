@@ -1,0 +1,1021 @@
+{
+  "v": "1.0",
+  "paper": "2023OctNov-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2023,
+  "session": "OctNov",
+  "paperNum": "22",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write 24.07839"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "correct to 2 decimal places"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "correct to the nearest 10."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the number that is 9 greater than $-23$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$v = u + at$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the value of v when $u=30$, $a=-2$ and $t=7$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$v$ ="
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Change 62 000 millimetres into kilometres."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{km}$"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two intersecting straight lines crossing two parallel lines."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Find the value of x."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper22/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Explain why 111 is not a prime number."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find a prime number between 110 and 120."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the bearing of Q from P."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper22/Q07/Q07_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $3\frac{1}{8} - 1\frac{3}{4}$."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write 90 as a product of its prime factors."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand and simplify."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "$(t+2)(w-3)+w$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The two shapes are mathematically similar."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper22/Q11/Q11_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of h."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$h$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The area of the smaller shape is $16\text{ cm}^2$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the area of the larger shape."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{cm}^2$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a speed–time graph for 16 seconds of a car journey."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper22/Q12/Q12_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the deceleration of the car in the final 4 seconds."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{m/s}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the total distance travelled during the 16 seconds."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{m}$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 13,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$3^p \\times 3^{2p} = 729$"
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Find the value of p."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$p$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "$(32x^{10})^{\frac{1}{5}}$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$y = \\frac{x^2}{w^2} - 2$"
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "Rearrange the formula to make w the subject."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$w$ ="
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper22/Q15/Q15_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "On the Venn diagram, shade the region $P' \\cap Q$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper22/Q15/Q15_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "$n(\\mathcal{E}) = 20 \\quad n(A' \\cap B) = 1 \\quad n(A) = 12 \\quad n(B) = 10$"
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Complete the Venn diagram."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": ".........."
+              },
+              {
+                "prefix": ".........."
+              },
+              {
+                "prefix": "............."
+              },
+              {
+                "prefix": "............."
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the lowest common multiple (LCM) of $12x^8$ and $8x^{12}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper22/Q17/Q17_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper22/Q17/Q17_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A, B and C are points on a circle, centre O."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Angle $OBA = 28°$."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Find angle ACB."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $ACB$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "P, Q and R are points on a circle."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "TU is a tangent to the circle at P."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Angle $TPR = 47°$ and angle $PRQ = 52°$."
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "text",
+              "content": "Find angle RPQ."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $RPQ$ ="
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A solid cylinder has radius 5 cm and height 8 cm."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "Calculate the total surface area of the cylinder."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^2$"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the nth term of each sequence."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$11, \\quad 8, \\quad 5, \\quad 2, \\quad -1, \\quad \\dots$"
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$1, \\quad 5, \\quad 25, \\quad 125, \\quad 625, \\quad \\dots$"
+            },
+            {
+              "type": "newline",
+              "lines": 2
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The area of a rectangle is $55.2\text{ cm}^2$, correct to 1 decimal place."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "The length of the rectangle is 9 cm, correct to the nearest cm."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "Calculate the upper bound of the width of the rectangle."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The line $y = x+1$ intersects the curve $y = x^2+x-3$ at two points."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "Find the coordinates of the two points."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "( ____ , ____ )\n( ____ , ____ )"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$x$ is inversely proportional to the square root of $w$."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "When $w=16$, $x=3$."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "Find $x$ in terms of $w$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Some students record their reaction times."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The table shows the results."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|c|c|}\\hline Reaction time\n(t seconds) & Frequency \\\\\\hline $0 < t \\le 6$ & 18 \\\\\\hline $6 < t \\le 10$ & 16 \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "On a histogram, the height of the block for the $0 < t \\le 6$ interval is 7.5 cm."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "Calculate the height of the block for the $6 < t \\le 10$ interval."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper22/Q23/Q23_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      }
+    },
+    {
+      "qnum": 24,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "$\frac{a^2-1}{ax-a-x+1}$"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 25,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The derivative of $ax^3 + \\frac{k}{x^2} - 7$ is $42x^6 + \\frac{15k}{x}$."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "Find the value of a and the value of k."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$a$ = ____\n$k$ = ____"
+      }
+    },
+    {
+      "qnum": 26,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a parallelogram OPQT."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "The position vector of P is a and the position vector of T is b."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "K is on PQ so that PK : KQ = 3 : 1."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "The lines OK and TQ are extended to meet at X."
+        },
+        {
+          "type": "newline",
+          "lines": 2
+        },
+        {
+          "type": "text",
+          "content": "Find the position vector of X in terms of a and b."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in its simplest form."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2023OctNov/Paper22/Q26/Q26_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    }
+  ]
+}

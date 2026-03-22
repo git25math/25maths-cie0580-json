@@ -1,0 +1,902 @@
+{
+  "v": "1.0",
+  "paper": "2021MayJune-Paper21",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "MayJune",
+  "paperNum": "21",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper21/Q01/Q01_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the order of rotational symmetry of this diagram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the diagram, draw all the lines of symmetry."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The probability that a train is late is $0.15$."
+        },
+        {
+          "type": "text",
+          "content": "Write down the probability that the train is not late."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The stem-and-leaf diagram shows the number of hours that each of $16$ students studied last week."
+        },
+        {
+          "type": "text",
+          "content": "Key: $1|2$ represents $12$ hours"
+        },
+        {
+          "type": "text",
+          "content": "Find"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper21/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the median,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{h}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the mode,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{h}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the range."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{h}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two parallel lines intersected by two straight lines."
+        },
+        {
+          "type": "text",
+          "content": "Find the values of $a$, $b$ and $c$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper21/Q04/Q04_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$a$ =",
+            "suffix": ""
+          },
+          {
+            "prefix": "$b$ =",
+            "suffix": ""
+          },
+          {
+            "prefix": "$c$ =",
+            "suffix": ""
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$\\begin{pmatrix} 6 \\\\ -5 \\end{pmatrix} + \\begin{pmatrix} 8 \\\\ -1 \\end{pmatrix}$$"
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$3 \\begin{pmatrix} -4 \\\\ 7 \\end{pmatrix}$$"
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The $n$th term of a sequence is $\\frac{n}{2n+3}$."
+            },
+            {
+              "type": "text",
+              "content": "Find the first three terms of this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": ""
+              },
+              {
+                "prefix": ",",
+                "suffix": ""
+              },
+              {
+                "prefix": ",",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first five terms of a different sequence."
+            },
+            {
+              "type": "text",
+              "content": "$25 \\quad 18 \\quad 11 \\quad 4 \\quad -3$"
+            },
+            {
+              "type": "text",
+              "content": "Find the $n$th term of this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "text",
+          "content": "$$2x + y = 3$$"
+        },
+        {
+          "type": "text",
+          "content": "$$x - 5y = 40$$"
+        },
+        {
+          "type": "space",
+          "height": "4cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$x$ =",
+            "suffix": ""
+          },
+          {
+            "prefix": "$y$ =",
+            "suffix": ""
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $1 \\frac{3}{8} - \\frac{5}{6}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "4cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$A$ is the point $(5, -5)$ and $B$ is the point $(9, 3)$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the midpoint of $AB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the length of $AB$."
+            },
+            {
+              "type": "space",
+              "height": "3cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper21/Q10/Q10_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ onto triangle $B$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "____\n____"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ onto triangle $C$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "____\n____"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw the image of triangle $A$ after a translation by the vector $\\begin{pmatrix} 2 \\\\ 10 \\end{pmatrix}$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify fully."
+            },
+            {
+              "type": "text",
+              "content": "$$(a^4b^5)^4$$"
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$p^{\\frac{2}{3}} = 16$$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $p$."
+            },
+            {
+              "type": "space",
+              "height": "1.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$p$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$81^2 \\div 3^t = 9$$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $t$."
+            },
+            {
+              "type": "space",
+              "height": "1.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$t$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The profit a company makes decreases exponentially at a rate of $0.9\\%$ per year."
+        },
+        {
+          "type": "text",
+          "content": "In 2014, the profit was $\\$9500$.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate the profit in 2019."
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On a map, a lake has an area of $32 \\text{ cm}^2$."
+        },
+        {
+          "type": "text",
+          "content": "The scale of the map is $1 : 24000$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the actual area of the lake."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in $\\text{km}^2$."
+        },
+        {
+          "type": "space",
+          "height": "2.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{km}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$y$ is directly proportional to the square root of $(x - 3)$."
+        },
+        {
+          "type": "text",
+          "content": "When $x = 28$, $y = 20$."
+        },
+        {
+          "type": "text",
+          "content": "Find $y$ when $x = 39$."
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$y$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Make $h$ the subject of the formula  $$mh = \\frac{1}{2}(g - h)$$."
+        },
+        {
+          "type": "space",
+          "height": "4cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$h$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper21/Q16/Q16_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the gradient of line $l$."
+            },
+            {
+              "type": "space",
+              "height": "1.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of line $l$ in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1.5cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of the line that is perpendicular to line $l$ and passes through the point $(12, -7)$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "3cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A bag contains $3$ blue buttons, $8$ white buttons and $5$ red buttons."
+        },
+        {
+          "type": "text",
+          "content": "Two buttons are picked at random from the bag, without replacement."
+        },
+        {
+          "type": "text",
+          "content": "Work out the probability that the two buttons are either both red or both white."
+        },
+        {
+          "type": "space",
+          "height": "3.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$S$ is a point on $PQ$ such that $PS : SQ = 4 : 5$."
+        },
+        {
+          "type": "text",
+          "content": "Find $\\mathbf{OS}$, in terms of $\\mathbf{a}$ and $\\mathbf{b}$, in its simplest form."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper21/Q18/Q18_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$OS$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper21/Q19/Q19_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Sketch the graph of $y = \\tan x$ for $0^{\\circ} \\le x \\le 360^{\\circ}$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the equation $\\tan x = \\frac{1}{5}$ for $0^{\\circ} \\le x \\le 360^{\\circ}$."
+            },
+            {
+              "type": "space",
+              "height": "1.5cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ =",
+                "suffix": ""
+              },
+              {
+                "prefix": "or $x$ =",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The distance between two towns is $600 \\text{ km}$, correct to the nearest $10 \\text{ km}$."
+        },
+        {
+          "type": "text",
+          "content": "A car takes $8$ hours $40$ minutes, correct to the nearest $10$ minutes, to travel this distance."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the lower bound for the average speed of the car in $\\text{km/h}$."
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{km/h}$"
+      },
+      "meta": {}
+    }
+  ]
+}

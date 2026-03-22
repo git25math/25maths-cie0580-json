@@ -1,0 +1,701 @@
+{
+  "v": "1.0",
+  "paper": "2022MayJune-Paper21",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "MayJune",
+  "paperNum": "21",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down a prime number between $30$ and $40$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate $\\frac{4}{5} - \\frac{5}{4}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Jason starts a run at $10.05$ am and finishes at $1.02$ pm.\nWork out the time Jason takes to complete the run."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": "$\\text{h}$"
+          },
+          {
+            "suffix": "$\\text{min}$"
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate $\\frac{0.45 - 0.38}{1 - 0.7}$, giving your answer correct to $4$ significant figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Kirsty changes $\\$380.80$ into pounds (£) when $£1 = \\$1.19$.\nCalculate the amount Kirsty receives."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "£"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write $180$ as a product of its prime factors."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $2 \\frac{1}{7} - \\frac{3}{21}$.\nYou must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$s = \\frac{1}{2} a t^2$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of $s$ when $a = 0.9$ and $t = 4$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$s$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rearrange the formula to find $t$ in terms of $s$ and $a$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$t$ ="
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise completely.\n$$14xy - 7y^2$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$22, 17, 12, 7, 2, \\dots$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the next term of the sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the $nth$ term of the sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Triangle $ABC$ is mathematically similar to triangle $PQR$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper21/Q11/Q11_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $QR$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$QR$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The two triangles are the cross-sections of two mathematically similar prisms.\nThe volume of the larger prism is $320 \\text{ cm}^3$.\nCalculate the volume of the smaller prism."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The interior angles of a pentagon are in the ratio $4 : 5 : 5 : 7 : 9$.\nFind the size of the largest angle."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out $2 \\times 10^{100} - 2 \\times 10^{98}$, giving your answer in standard form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A train passes through a station at a speed of $108 \\text{ km/h}$.\nThe length of the station is $120 \\text{ m}$.\nThe train takes $7$ seconds to completely pass through the station.\nWork out the length of the train."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{m}$"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$x^4 = \\frac{1}{64}$$\nFind the value of $x$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Describe fully the single transformation that maps triangle $T$ onto triangle $P$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper21/Q16/Q16_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the radius of a hemisphere of volume $80 \\text{ cm}^3$.\n[The volume, $V$, of a sphere with radius $r$ is $V = \\frac{4}{3} \\pi r^3$]"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$A$, $B$, $C$ and $D$ are points on a circle.\n$TU$ is a tangent to the circle at $D$.\n$DA$ is parallel to $CB$.\nFind the value of $x$ and the value of $y$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper21/Q18/Q18_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$x$ ="
+          },
+          {
+            "prefix": "$y$ ="
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In the diagram, $AB$ is parallel to $PQ$.\n$AQ$ and $PB$ intersect at $X$ with $AX = XQ$.\nComplete the following statements.\nIn triangles $ABX$ and $QPX$,\n$AX = XQ$ is given information.\nAngle $BAX$ = Angle ......................... because .........................................................................................\nAngle $AXB$ = Angle ......................... because .........................................................................................\nTriangle $ABX$ is congruent to triangle $QPX$ because of the congruency criterion ....................................\n$PX$ = .............................. because the triangles are congruent."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the speed–time graph for $24$ seconds of a car journey.\nCalculate"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper21/Q20/Q20_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the deceleration of the car in the final $8$ seconds,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m/s}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "the total distance travelled during the $24$ seconds."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise completely.\n$$1 - q - a + aq$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify fully $(216 y^{216})^{\\frac{2}{3}}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$x^2 + 8x + 10 = (x + p)^2 + q$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $p$ and the value of $q$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$p$ ="
+              },
+              {
+                "prefix": "$q$ ="
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve.\n$$x^2 + 8x + 10 = 30$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ ="
+              },
+              {
+                "prefix": "or $x$ ="
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 24,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A cuboid measures $24 \\text{ cm}$ by $12 \\text{ cm}$ by $8 \\text{ cm}$.\nCalculate the length of a diagonal of the cuboid."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 25,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$w$ is proportional to the square root of $y$.\n$y$ is inversely proportional to $x$.\nWhen $x = 4$, $y = 16$ and $w = 8$.\nFind $w$ in terms of $x$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$w$ ="
+      }
+    },
+    {
+      "qnum": 26,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a triangle $OAB$ and a parallelogram $OALK$.\nThe position vector of $A$ is $\\mathbf{a}$ and the position vector of $B$ is $\\mathbf{b}$.\n$K$ is a point on $AB$ so that $\\frac{AK}{KB} = \\frac{1}{2}$.\nFind the position vector of $L$, in terms of $\\mathbf{a}$ and $\\mathbf{b}$.\nGive your answer in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 27,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The line $y = x + 1$ intersects the graph of $y = x^2 - 3x - 11$ at the points $A$ and $B$.\nFind the coordinates of $A$ and the coordinates of $B$.\nYou must show all your working.\n$A$ ( ..................... , ...................... )\n$B$ ( ..................... , ...................... )"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    }
+  ]
+}

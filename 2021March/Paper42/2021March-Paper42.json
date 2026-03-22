@@ -1,0 +1,1562 @@
+{
+  "v": "1.0",
+  "paper": "2021March-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "March",
+  "paperNum": "42",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Painter"
+        },
+        {
+          "type": "text",
+          "content": "$\\$35$ per hour",
+          "_dollar_warning": true
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q01/Q01_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        },
+        {
+          "type": "text",
+          "content": "Plumber"
+        },
+        {
+          "type": "text",
+          "content": "Fixed charge $\\$40$",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "plus"
+        },
+        {
+          "type": "text",
+          "content": "$\\$26.50$ per hour",
+          "_dollar_warning": true
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        },
+        {
+          "type": "text",
+          "content": "Electrician"
+        },
+        {
+          "type": "text",
+          "content": "$\\$48$ per hour",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "for the first $2$ hours"
+        },
+        {
+          "type": "text",
+          "content": "then"
+        },
+        {
+          "type": "text",
+          "content": "$\\$32$ per hour",
+          "_dollar_warning": true
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        },
+        {
+          "type": "text",
+          "content": "These are the rates charged by a painter, a plumber and an electrician who do some work for Mr Sharma."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The painter works for $7$ hours."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the amount Mr Sharma pays the painter."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Mr Sharma pays the plumber $\\$252$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate how many hours the plumber works."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "hours"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Mr Sharma pays the electrician $\\$224$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate how many hours the electrician works."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "hours"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the ratio of the amount Mr Sharma pays to the painter, the plumber and the electrician."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its lowest terms."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "painter : plumber : electrician ="
+              },
+              {
+                "prefix": ":"
+              },
+              {
+                "prefix": ":"
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q02/Q02_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ onto triangle $B$,"
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle $A$ onto triangle $C$."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw the image of triangle $A$ after a translation by the vector $\\begin{pmatrix} 5 \\\\ -10 \\end{pmatrix}$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw the image of triangle $A$ after a reflection in the line $y = 4$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q03/Q03_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q03/Q03_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q03/Q03_Subc_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows two straight lines intersecting two parallel lines."
+            },
+            {
+              "type": "text",
+              "content": "Find the values of $a$, $b$ and $c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3,
+            "template": "$a$ = ____\n$b$ = ____\n$c$ = ____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Points $R$ and $S$ lie on a circle with diameter $PQ$."
+            },
+            {
+              "type": "text",
+              "content": "$RQ$ is parallel to $PS$."
+            },
+            {
+              "type": "text",
+              "content": "Angle $RPQ = 58^{\\circ}$."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$, giving a geometrical reason for each stage of your working."
+            },
+            {
+              "type": "space",
+              "height": "3cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Points $A$, $B$ and $C$ lie on a circle, centre $O$."
+            },
+            {
+              "type": "text",
+              "content": "Angle $AOC = 142^{\\circ}$."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $y$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A shop gives each of $1000$ people a voucher."
+            },
+            {
+              "type": "text",
+              "content": "$28$ people use their voucher."
+            },
+            {
+              "type": "text",
+              "content": "The shop now gives each of $16500$ people a voucher."
+            },
+            {
+              "type": "text",
+              "content": "Calculate how many of these $16500$ people are expected to use their voucher."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "In a class activity, all the $15$ students wear hats."
+            },
+            {
+              "type": "text",
+              "content": "$7$ students wear red hats, $6$ students wear green hats and $2$ students wear white hats."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One of these students is picked at random."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the probability that this student wears a red hat."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Two of the $15$ students are picked at random."
+                },
+                {
+                  "type": "text",
+                  "content": "Show that the probability that these two students wear hats of the same colour is $\\frac{37}{105}$."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Three of the $15$ students are picked at random."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the probability that at least two of these three students wear red hats."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate angle $ADB$."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $ADB$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $DC$."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$DC$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the shortest distance from $C$ to $BD$."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 18,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q06/Q06_Suba_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The grid shows the graph of $y = a + bx^2$."
+            },
+            {
+              "type": "text",
+              "content": "The graph passes through the points with coordinates $(0, 4)$ and $(1, 1)$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of $a$ and the value of $b$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "$a$ = ____\n$b$ = ____"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the equation of the tangent to the graph at $(0, 4)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The equation of the tangent to the graph at $x = -1$ is $y = 6x + 7$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the equation of the tangent to the graph at $x = 1$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows some values for $y = 1 + \\frac{5}{3-x}$ for $-2 \\leqslant x \\leqslant 1.5$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\\hline $x$ & $-2$ & $-1.5$ & $-1$ & $-0.5$ & $0$ & $0.5$ & $1$ & $1.5$ \\\\ \\hline $y$ & $2$ & $2.11$ & & $2.43$ & & $3$ & & $4.33$ \\\\ \\hline \\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the graph of $y = 1 + \\frac{5}{3-x}$ for $-2 \\leqslant x \\leqslant 1.5$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the values of $x$ where the two graphs intersect."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$x$ ="
+                  },
+                  {
+                    "prefix": "or $x$ ="
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The answers to part(c)(i) are two solutions of a cubic equation in terms of $x$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find this equation in the form $ax^3 + bx^2 + cx + d = 0$, where $a$, $b$, $c$ and $d$ are integers."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q07/Q07_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q07/Q07_Suba_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q07/Q07_Subc_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q07/Q07_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q07/Q07_Subc_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The box-and-whisker plot shows information about the marks scored by some students in a test."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the median mark."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Jais scored a mark in the test that was higher than the marks scored by $75\\%$ of the students."
+                },
+                {
+                  "type": "text",
+                  "content": "Write down a possible mark for Jais."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "This box-and-whisker plot shows information about the marks scored by the same students in a second test."
+                },
+                {
+                  "type": "text",
+                  "content": "Make one comparison between the distributions of marks in the two tests."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows information about the height, $h\\text{ cm}$, of each of $50$ plants."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline \\text{Height } ($h\\text{ cm}$) & $0 < h \\leqslant 20$ & $20 < h \\leqslant 30$ & $30 < h \\leqslant 34$ & $34 < h \\leqslant 40$ & $40 < h \\leqslant 60$ \\\\ \\hline \\text{Frequency} & $4$ & $9$ & $20$ & $15$ & $2$ \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Calculate an estimate of the mean."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Some apples are weighed and the mass, $m\\text{ grams}$, of each apple is recorded."
+            },
+            {
+              "type": "text",
+              "content": "The table shows the results."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|}\\hline \\text{Mass } ($m\\text{ grams}$) & $100 < m \\leqslant 110$ & $110 < m \\leqslant 115$ & $115 < m \\leqslant 125$ & $125 < m \\leqslant 140$ \\\\ \\hline \\text{Frequency} & $50$ & $x$ & $44$ & $51$ \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "The histogram shows some of the information from the table."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the value of $x$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the histogram."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q08/Q08_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q08/Q08_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper42/Q08/Q08_Suba_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a sector $OXY$ of a circle with centre $O$ and radius $9.5\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "The sector angle is $53^{\\circ}$."
+            },
+            {
+              "type": "text",
+              "content": "$A$ lies on $OX$, $B$ lies on $OY$ and $OA = OB$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that the area of the sector is $41.7\\text{ cm}^2$, correct to 1 decimal place."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The area of triangle $OAB$ is $\\frac{1}{3}$ of the area of sector $OXY$."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate $OA$."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$OA$ =",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a sector $OPQ$ of a circle with centre $O$ and radius $24\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "The sector angle is $60^{\\circ}$."
+            },
+            {
+              "type": "text",
+              "content": "A cone is made from this sector by joining $OP$ to $OQ$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the volume of the cone."
+            },
+            {
+              "type": "text",
+              "content": "[The volume, $V$, of a cone with radius $r$ and height $h$ is $V = \\frac{1}{3}\\pi r^2 h$.]"
+            },
+            {
+              "type": "space",
+              "height": "3cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$5am - 10ap + bm - 2bp$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$15(k+g)^2 - 20(k+g)$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$4x^2 - y^4$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify."
+            },
+            {
+              "type": "text",
+              "content": "$(x-3)(x+1)(3x-4)$"
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$(x+a)^2 = x^2 + 22x + b$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $a$ and the value of $b$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "$a$ = ____\n$b$ = ____"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A box is a cuboid with length $45\\text{ cm}$, width $30\\text{ cm}$ and height $42\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "The box is completely filled with $90.72\\text{ kg}$ of sand."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the density of this sand in $\\text{kg/m}^3$."
+            },
+            {
+              "type": "text",
+              "content": "[Density = mass $\\div$ volume]"
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{kg/m}^3$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A bag contains $15000\\text{ cm}^3$ of sand."
+            },
+            {
+              "type": "text",
+              "content": "Some of this sand is used to completely fill a hole in the shape of a cylinder."
+            },
+            {
+              "type": "text",
+              "content": "The hole is $30\\text{ cm}$ deep and has radius $10\\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the percentage of the sand from the bag that is used."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Sand costs $\\$98.90$ per tonne.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "This cost includes a tax of $15\\%$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the amount of tax paid per tonne of sand."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Raj buys some sand for $3540$ rupees."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the cost in dollars when the exchange rate is $\\$1 = 70.8$ rupees.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Gaya spends $\\$48$ to buy books that cost $\\$x$ each."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down an expression, in terms of $x$, for the number of books Gaya buys."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Myra spends $\\$60$ to buy books that cost $\\$(x+2)$ each."
+            },
+            {
+              "type": "text",
+              "content": "Gaya buys 4 more books than Myra."
+            },
+            {
+              "type": "text",
+              "content": "Show that $x^2 + 5x - 24 = 0$."
+            },
+            {
+              "type": "space",
+              "height": "3cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve by factorisation."
+            },
+            {
+              "type": "text",
+              "content": "$x^2 + 5x - 24 = 0$"
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ ="
+              },
+              {
+                "prefix": "or $x$ ="
+              }
+            ]
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the number of books Myra buys."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the gradient of the curve $y = x^3 - 4x^2 + 7$ when $x = -2$."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 11,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A$ is the point $(7, 2)$ and $B$ is the point $(-5, 8)$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the length of $AB$."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of the line that is perpendicular to $AB$ and that passes through the point $(-1, 3)$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in the form $y = mx + c$."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$y$ ="
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$AB$ is one side of the parallelogram $ABCD$ and"
+                },
+                {
+                  "type": "list",
+                  "style": "bullet",
+                  "items": [
+                    "$\\vec{BC} = \\begin{pmatrix} -a \\\\ -b \\end{pmatrix}$ where $a > 0$ and $b > 0$",
+                    "the gradient of $BC$ is $1$",
+                    "$BC = 8$"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": "Find the coordinates of $D$."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

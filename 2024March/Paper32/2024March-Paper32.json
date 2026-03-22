@@ -1,0 +1,1514 @@
+{
+  "v": "1.0",
+  "paper": "2024March-Paper32",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "March",
+  "paperNum": "32",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q01/Q01_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q01/Q01_Subd_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q01/Q01_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw a line through point $P$ that is perpendicular to line $l$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical names for two different quadrilaterals with"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "two lines of symmetry"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "and"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "rotational symmetry of order two."
+              ]
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": "and"
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a quadrilateral on a $1 \\text{ cm}^2$ grid."
+            },
+            {
+              "type": "text",
+              "content": "Find the area of this quadrilateral."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a quadrilateral $DEFG$ and a straight line $FGH$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Angle $DEF = 82^\\circ$."
+                },
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name for this type of angle."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the value of $x$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give a geometrical reason for your answer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$x$ =",
+                    "suffix": "because"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(d)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the value of $y$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give a geometrical reason for your answer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$y$ =",
+                    "suffix": "because"
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 18,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q02/Q02_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q02/Q02_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "Fuel\nGarage A\n$\\$1.41$ per litre",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Fuel\nGarage B\n$\\$1.50$ per litre",
+              "_dollar_warning": true
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Tiya buys $55$ litres of fuel from garage A."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the change she receives from $\\$100$.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out how much cheaper it is to buy $20$ litres of fuel from garage A than from garage B."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "These are the amounts that $6$ people spend on fuel at garage A."
+                },
+                {
+                  "type": "text",
+                  "content": "$\\$63 \\quad \\$84.50 \\quad \\$72.23 \\quad \\$46 \\quad \\$54.10 \\quad \\$80$"
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the mean number of litres that they buy."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "litres"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The cost of fuel at garage B increases from $\\$1.50$ to $\\$1.53$."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the percentage increase."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The fuel tank of a car is $\\frac{2}{5}$ full."
+            },
+            {
+              "type": "text",
+              "content": "It takes $39$ more litres of fuel to fill the tank."
+            },
+            {
+              "type": "text",
+              "content": "Work out the number of litres of fuel in a full tank."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "litres"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use $1 \\text{ litre} = 0.22 \\text{ gallons}$ to complete this conversion graph."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use $1 \\text{ litre} = 0.22 \\text{ gallons}$ to complete this statement."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$1 \\text{ gallon} =$",
+                "suffix": "litres"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A cylindrical tank for storing fuel has radius $1.5$ metres and height $8$ metres."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the volume of the tank in litres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "litres"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q03/Q03_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q03/Q03_Subc_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q03/Q03_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q03/Q03_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In triangle $DEF$, $DE = 6 \\text{ cm}$ and $DF = 4.8 \\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "Using a ruler and compasses only, construct triangle $DEF$."
+            },
+            {
+              "type": "text",
+              "content": "Leave in your construction arcs."
+            },
+            {
+              "type": "text",
+              "content": "The line $EF$ has been drawn for you."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the letter of the triangle that is congruent to triangle $T$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the letter of the triangle that is similar but not congruent to triangle $T$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows an isosceles triangle."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that the perpendicular height, $h$, is $6.58 \\text{ cm}$, correct to 3 significant figures."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the area of the triangle."
+                },
+                {
+                  "type": "text",
+                  "content": "Give the units of your answer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Kalpit tries to arrange some of these triangles to make a regular polygon with centre $O$."
+                },
+                {
+                  "type": "text",
+                  "content": "Show that Kalpit cannot make a regular polygon."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q04/Q04_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q04/Q04_Subd_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q04/Q04_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "A shop sells $58$ televisions in one week."
+            },
+            {
+              "type": "text",
+              "content": "The bar chart shows the number of televisions that the shop sells on five of the days."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the number of televisions that the shop sells on Monday."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the fraction of the televisions that the shop sells on Sunday."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The number of televisions that the shop sells on the other two days is in the ratio"
+                },
+                {
+                  "type": "text",
+                  "content": "$\\text{Wednesday} : \\text{Friday} = 2 : 3$."
+                },
+                {
+                  "type": "text",
+                  "content": "Complete the bar chart."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mode."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A television has a price of $\\$550$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "This price is reduced by $4\\%$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the new price of this television."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The scatter diagram shows the prices of different sized televisions."
+            },
+            {
+              "type": "text",
+              "content": "Write down the type of correlation shown in the scatter diagram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Hemang buys two televisions."
+            },
+            {
+              "type": "text",
+              "content": "The probability that a television is faulty is $0.02$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the tree diagram."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that Hemang buys two faulty televisions."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(d)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The shop sells $4150$ televisions in one year."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the expected number of faulty televisions."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q05/Q05_Subd_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 9,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table of values for $y = -x^2 + 5x + 7$."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\n\\hline\n$x$ & $-1$ & $0$ & $1$ & $2$ & $3$ & $4$ & $5$ & $6$ \\\\\n\\hline\n$y$ & & & $11$ & & & $11$ & & $1$ \\\\\n\\hline\n\\end{tabular}"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the graph of $y = -x^2 + 5x + 7$ for $-1 \\le x \\le 6$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)(a)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the equation of the line of symmetry of the graph."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)(b)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The points $(-8, -97)$ and $(t, -97)$ also lie on the graph of $y = -x^2 + 5x + 7$."
+                },
+                {
+                  "type": "text",
+                  "content": "Use symmetry to find the value of $t$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$t$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the gradient of the line $y = 4x - 9$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the equation of a line parallel to $y = -5x + 19$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of line $L$ in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Make $x$ the subject of the formula $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$x$ ="
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q06/Q06_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q06/Q06_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Town $S$ is $44 \\text{ km}$ from town $R$ on a bearing of $117^\\circ$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Using a scale of $1 \\text{ cm}$ represents $8 \\text{ km}$, mark the position of town $S$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Anvi cycles the $44 \\text{ km}$ from $R$ to $S$."
+                },
+                {
+                  "type": "text",
+                  "content": "She leaves $R$ at $13\\,15$ and cycles at a speed of $12 \\text{ km/h}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the time she arrives at $S$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A tower has a height of $16$ metres."
+            },
+            {
+              "type": "text",
+              "content": "When Jai makes a scale drawing of the tower it has a height of $20 \\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "Work out the scale Jai uses, giving your answer in the form $1 : n$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$1 :$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "$X$, $Y$ and $Z$ are three towns."
+            },
+            {
+              "type": "text",
+              "content": "$X$ is on a bearing of $288^\\circ$ from $Y$."
+            },
+            {
+              "type": "text",
+              "content": "$Z$ is on a bearing of $018^\\circ$ from $Y$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that angle $XYZ$ is $90^\\circ$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$XY = 6 \\text{ km}$ and $YZ = 9.7 \\text{ km}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate $XZ$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$XZ =$ ",
+                "suffix": "$\\text{km}$"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q07/Q07_Subg_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$P = \\frac{a}{3} + 5$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $P$ when $a = 2$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$P$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve these equations."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\frac{x}{7} = -42$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\frac{8(x - 9)}{7} = 72$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$5^k \\times 5^8 = 5^{-24}$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $k$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the simultaneous equations."
+            },
+            {
+              "type": "text",
+              "content": "$6x - y = 13$\n$-8x + y = -51$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ =",
+                "suffix": ""
+              },
+              {
+                "prefix": "$y$ =",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$n$ is an integer where $n \\ge -2$ and $n \\le 1$."
+            },
+            {
+              "type": "text",
+              "content": "Write down all the possible values of $n$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A boy walks for $35$ minutes at $x$ metres per minute."
+            },
+            {
+              "type": "text",
+              "content": "He then runs for $t$ minutes at $160$ metres per minute."
+            },
+            {
+              "type": "text",
+              "content": "Write down an expression, in terms of $x$ and $t$, for the total distance, in metres, the boy travels."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "suffix": "$\\text{m}$"
+          }
+        },
+        {
+          "label": "(g)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find an expression for the area of this rectangle."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in the form $x^2 + ax + b$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q08/Q08_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper32/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "$120$ people teach in a university mathematics department."
+            },
+            {
+              "type": "text",
+              "content": "Some information is shown in the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|}\n\\hline\n & Lecturers & Professors & Total \\\\\n\\hline\nPart-time & $11$ & & \\\\\n\\hline\nFull-time & & & \\\\\n\\hline\nTotal & & & $120$ \\\\\n\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "One fifth of the people are professors."
+            },
+            {
+              "type": "text",
+              "content": "$30\\%$ of the people are part-time."
+            },
+            {
+              "type": "text",
+              "content": "Work out the number of full-time lecturers."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\mathscr{E} = \\{\\text{children in a school}\\}$"
+            },
+            {
+              "type": "text",
+              "content": "$F = \\{\\text{children who like fruit}\\}$"
+            },
+            {
+              "type": "text",
+              "content": "$V = \\{\\text{children who like vegetables}\\}$"
+            },
+            {
+              "type": "text",
+              "content": "$24$ children like vegetables but do not like fruit."
+            },
+            {
+              "type": "text",
+              "content": "$8$ children do not like fruit and do not like vegetables."
+            },
+            {
+              "type": "text",
+              "content": "$n(F \\cap V) = 9$"
+            },
+            {
+              "type": "text",
+              "content": "$n(F) = 3 \\times n(V)$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the Venn diagram."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out $n(F \\cup V)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,893 @@
+{
+  "v": "1.0",
+  "paper": "2019OctNov-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2019,
+  "session": "OctNov",
+  "paperNum": "22",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The lowest temperature recorded at Scott Base in Antarctica is $-57.0~^\\circ\\text{C}$."
+        },
+        {
+          "type": "text",
+          "content": "The highest temperature recorded at Scott Base is $63.8~^\\circ\\text{C}$ more than this."
+        },
+        {
+          "type": "text",
+          "content": "What is the highest temperature recorded at Scott Base?"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$^\\circ\\text{C}$"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{5}{8} + \\sqrt[3]{340}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand."
+        },
+        {
+          "type": "text",
+          "content": "$$a(a^3 + 3)$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On the Venn diagram, shade the region $(A \\cup B)'$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper22/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The mass, correct to the nearest kilogram, of each of 11 parcels is shown below."
+        },
+        {
+          "type": "text",
+          "content": "24 23 23 26 25 27 18 96 16 17 32"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper22/Q05/Q05_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the mode."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{kg}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Give a reason why the mean would be an unsuitable average to use."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows how children in Ivan’s class travel to school."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|}\\hline Travel to school & Number of children \\\\\\hline Walk & 12 \\\\ Car & 7 \\\\ Bicycle & 9 \\\\ Bus & 4 \\\\\\hline \\end{tabular}"
+        },
+        {
+          "type": "text",
+          "content": "Ivan wants to draw a pie chart to show this information."
+        },
+        {
+          "type": "text",
+          "content": "Find the sector angle for children who walk to school."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper22/Q06/Q06_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Rashid changes $30 000$ rupees to dollars when the exchange rate is $\\$1 = 68.14$ rupees.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "How many dollars does he receive?"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$\\$$"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The bearing of $P$ from $B$ is $102^\\circ$."
+        },
+        {
+          "type": "text",
+          "content": "Find the bearing of $B$ from $P$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper22/Q08/Q08_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the inequality."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{x}{2} - 13 > 12 + 3x$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the recurring decimal $0.6\\dot{7}$ as a fraction."
+        },
+        {
+          "type": "text",
+          "content": "Show all your working and give your answer in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $$3 \\frac{5}{8} - 1 \\frac{2}{3}$$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A regular polygon has an interior angle of $176^\\circ$."
+        },
+        {
+          "type": "text",
+          "content": "Find the number of sides of this polygon."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Two mathematically similar containers have heights of $30~\\text{cm}$ and $75~\\text{cm}$."
+        },
+        {
+          "type": "text",
+          "content": "The larger container has a capacity of $5.5$ litres."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the capacity of the smaller container."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in millilitres."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{ml}$"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Show that the line $y = \\frac{4}{5}x - 10$ is perpendicular to the line $y + \\frac{5}{4}x = 35$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Esme buys $x$ magazines at $\\$2.45$ each and $y$ cards at $\\$3.15$ each."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down an expression, in terms of $x$ and $y$, for the total cost, in dollars, of the magazines and the cards."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$\\$$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Esme spends $\\$60.55$ in total.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "She buys 8 magazines."
+            },
+            {
+              "type": "text",
+              "content": "How many cards does she buy?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "By shading the unwanted regions of the grid, find and label the region $R$ that satisfies the following inequalities."
+        },
+        {
+          "type": "text",
+          "content": "$$y \\leqslant 5$$"
+        },
+        {
+          "type": "text",
+          "content": "$$2x + y \\geqslant 6$$"
+        },
+        {
+          "type": "text",
+          "content": "$$y \\geqslant x + 1$$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper22/Q16/Q16_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a scale drawing of Lei’s garden, $PQRS$."
+        },
+        {
+          "type": "text",
+          "content": "The scale is 1 centimetre represents 2 metres."
+        },
+        {
+          "type": "text",
+          "content": "Lei has a bird table in the garden that is"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "equidistant from $PQ$ and $QR$"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "and"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "$13~\\text{m}$ from $R$."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "On the diagram, construct the position of the bird table."
+        },
+        {
+          "type": "text",
+          "content": "Use a ruler and compasses only and show all your construction arcs."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper22/Q17/Q17_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Harris is taking a driving test."
+        },
+        {
+          "type": "text",
+          "content": "The probability that he passes the driving test at the first attempt is $0.6$."
+        },
+        {
+          "type": "text",
+          "content": "If he fails, the probability that he passes at any further attempt is $0.75$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the probability that Harris"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "passes the driving test at the second attempt,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "takes no more than three attempts to pass the driving test."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In the diagram, $A$, $B$, $C$ and $D$ lie on the circumference of a circle, centre $O$."
+        },
+        {
+          "type": "text",
+          "content": "Angle $ACD = x^\\circ$ and angle $OAB = 2x^\\circ$."
+        },
+        {
+          "type": "text",
+          "content": "Find an expression, in terms of $x$, in its simplest form for"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper22/Q19/Q19_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "angle $AOB$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "Angle $AOB$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "angle $ACB$,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "Angle $ACB$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "angle $DAB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "Angle $DAB$ ="
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise."
+            },
+            {
+              "type": "text",
+              "content": "$$18y - 3ay + 12x - 2ax$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise."
+            },
+            {
+              "type": "text",
+              "content": "$$3x^2 - 48y^2$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 21,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$3^{-2} \\times 3^x = 81$$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$x^{-\\frac{1}{3}} x^2 = 32$$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 22,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$A = \\begin{pmatrix} 3 & 2 \\\\ -5 & 0 \\end{pmatrix}$$  $$B = \\begin{pmatrix} -2 & 5 \\\\ 4 & 1 \\end{pmatrix}$$  $$C = \\begin{pmatrix} -1 & k \\end{pmatrix}$$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $AB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$CA = \\begin{pmatrix} -13 & -2 \\end{pmatrix}$$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $k$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $A^{-1}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 23,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The speed–time graph shows information about a train journey."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019OctNov/Paper22/Q23/Q23_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "By drawing a suitable tangent to the graph, estimate the gradient of the curve at $t = 24$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "What does this gradient represent?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the distance travelled by the train when it is travelling at constant speed."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km}$"
+          }
+        }
+      ],
+      "answer": null
+    }
+  ]
+}

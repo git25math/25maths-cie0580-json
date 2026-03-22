@@ -1,0 +1,892 @@
+{
+  "v": "1.0",
+  "paper": "2021MayJune-Paper11",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "MayJune",
+  "paperNum": "11",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Zachary asks the 30 students in his class which is their favourite sport."
+        },
+        {
+          "type": "text",
+          "content": "The table shows the results."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|c|c|}\\hline Netball & 7 \\\\\\hline Football & 12 \\\\\\hline Hockey & 6 \\\\\\hline Tennis & 5 \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "text",
+          "content": "Complete the pictogram."
+        },
+        {
+          "type": "text",
+          "content": "Key: represents 4 people"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper11/Q01/Q01_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper11/Q01/Q01_Stem_Fig2.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $\\sqrt{225}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the reciprocal of $\\frac{3}{2}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out three-quarters of one-third."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $(-7) - (-6) - 8$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper11/Q03/Q03_Suba_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the order of rotational symmetry of this diagram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the diagram, draw all the lines of symmetry."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The stem-and-leaf diagram shows the number of hours that each of 16 students studied last week."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{c|ccccc} 1 & 2 & 5 & 6 & 8 \\\\ 2 & 0 & 1 & 1 & 7 & 9 \\\\ 3 & 2 & 3 & 4 & 5 \\\\ 4 & 4 & 5 & 7 \\end{tabular}"
+        },
+        {
+          "type": "text",
+          "content": "Key: $1|2$ represents 12 hours"
+        },
+        {
+          "type": "text",
+          "content": "Find"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper11/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the median,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "h"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the mode,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "h"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the range."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "h"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The volume of a cuboid is $24 \\text{ cm}^3$."
+        },
+        {
+          "type": "text",
+          "content": "The base of the cuboid is $3 \\text{ cm}$ by $2 \\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Draw a net of the cuboid on the $1\\text{cm}^2$ grid."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The travel graph shows a student's journey."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper11/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Explain what is happening between 14 20 and 14 40."
+            },
+            {
+              "type": "space",
+              "height": "1.5cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the statement."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "The student is travelling fastest between the times",
+                "suffix": "and"
+              },
+              {
+                "prefix": "",
+                "suffix": "because"
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The probability that a train is late is $0.15$."
+        },
+        {
+          "type": "text",
+          "content": "Write down the probability that the train is not late."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Nazaneen changes $\\$6500$ into $5798$ euros at a bank.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Work out the exchange rate the bank uses."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$\\$1 =$",
+        "suffix": "euros"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$\\begin{pmatrix} 6 \\\\ -5 \\end{pmatrix} + \\begin{pmatrix} -8 \\\\ 1 \\end{pmatrix}$$"
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$3 \\begin{pmatrix} -4 \\\\ 7 \\end{pmatrix}$$"
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "vector",
+            "fields": 2
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two parallel lines intersected by two straight lines."
+        },
+        {
+          "type": "text",
+          "content": "Find the values of $a$, $b$ and $c$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper11/Q10/Q10_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 3,
+        "template": "$a = $ ____\n$b = $ ____\n$c = $ ____"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name for a polygon with 5 sides."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the interior angle of a regular 18-sided polygon."
+            },
+            {
+              "type": "space",
+              "height": "1.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The $n$th term of a sequence is $4n - 6$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the first 3 terms in this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": ","
+              },
+              {
+                "prefix": "",
+                "suffix": ","
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The $k$th term of this sequence is $422$."
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of $k$."
+            },
+            {
+              "type": "space",
+              "height": "1.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k =$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The radius of a circle is $42 \\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Work out the circumference of the circle."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in terms of $\\pi$."
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Change $680 000 \\text{ cm}^3$ into $\\text{m}^3$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{m}^3$"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The length, $l$ metres, of a piece of rope is $5.67 \\text{ m}$, correct to the nearest centimetre."
+        },
+        {
+          "type": "text",
+          "content": "Complete this statement about the value of $l$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "",
+            "suffix": "$\\le l <$"
+          },
+          {
+            "prefix": "",
+            "suffix": ""
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $1 \\frac{5}{6} - \\frac{3}{8}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "4cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{1}{2 \\times 2 \\times 2 \\times 2 \\times 2}$ as a power of 2."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$3^t \\div 3^6 = 3^{18}$$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $t$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$t =$"
+          }
+        },
+        {
+          "label": "(b)(ii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            },
+            {
+              "type": "text",
+              "content": "$$8w^{10} \\times 5w^6$$"
+            },
+            {
+              "type": "space",
+              "height": "1.5cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Annie invests $\\$8300$ at a rate of $5.6\\%$ per year compound interest.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of her investment at the end of 6 years."
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$\\$$"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down an irrational number, $n$, where $31 < n < 32$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$n =$"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "By rounding each number in the calculation correct to 1 significant figure, estimate the value of"
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{38.7 \\times 3.115}{20.3 - 4.12}$$"
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "space",
+          "height": "2.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "text",
+          "content": "$$2x + 3y = 5$$"
+        },
+        {
+          "type": "text",
+          "content": "$$x - y = 40$$"
+        },
+        {
+          "type": "space",
+          "height": "4cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x = $ ____\n$y = $ ____"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "There is a straight road between town A and town B of length $130 \\text{ km}$."
+        },
+        {
+          "type": "text",
+          "content": "Maxi travels from town A to town B."
+        },
+        {
+          "type": "text",
+          "content": "Pippa travels from town B to town A."
+        },
+        {
+          "type": "text",
+          "content": "Both travel at a constant speed of $40 \\text{ km/h}$."
+        },
+        {
+          "type": "text",
+          "content": "Maxi leaves 30 minutes before Pippa."
+        },
+        {
+          "type": "text",
+          "content": "Work out how far from town A they will be when they pass each other."
+        },
+        {
+          "type": "space",
+          "height": "4cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{km}$"
+      }
+    }
+  ]
+}

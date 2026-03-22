@@ -1,0 +1,834 @@
+{
+  "v": "1.0",
+  "paper": "2022OctNov-Paper23",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "OctNov",
+  "paperNum": "23",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Marco starts work at 20 45 and finishes at 02 08 the next day."
+        },
+        {
+          "type": "text",
+          "content": "Find the length of time, in hours and minutes, he works."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": "$\\text{h}$"
+          },
+          {
+            "suffix": "$\\text{min}$"
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "120 121 149 164 216"
+        },
+        {
+          "type": "text",
+          "content": "From this list, write down"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a square number"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a cube number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate."
+        },
+        {
+          "type": "text",
+          "content": "$15.2^2 + 4.8$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The mean mass of four men in a rowing team is 97.5 kg."
+        },
+        {
+          "type": "text",
+          "content": "The modal mass is 101 kg."
+        },
+        {
+          "type": "text",
+          "content": "The range of the masses is 8 kg."
+        },
+        {
+          "type": "text",
+          "content": "Find the mass of each of the four men."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": "$\\text{kg}$"
+          },
+          {
+            "suffix": "$\\text{kg}$"
+          },
+          {
+            "suffix": "$\\text{kg}$"
+          },
+          {
+            "suffix": "$\\text{kg}$"
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $\\frac{7}{5} - \\frac{3}{2}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A spinner can land on the colours green, black or red."
+        },
+        {
+          "type": "text",
+          "content": "The table shows the probabilities of the spinner landing on green or black."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|}\\hlineColour & Green & Black & Red \\\\\\hlineProbability & $\\frac{2}{5}$ & $\\frac{1}{4}$ & \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper23/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Chang spins the spinner 120 times."
+            },
+            {
+              "type": "text",
+              "content": "Find the expected number of times it lands on green."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the lowest common multiple (LCM) of 36 and 60."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A is the point (-3, 5) and B is the point (5, 2)."
+        },
+        {
+          "type": "text",
+          "content": "Find the coordinates of the midpoint of the line AB."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "coordinate",
+        "fields": 2
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "$$\\begin{aligned} 3x - 2y &= 21 \\\\ 5x + 2y &= 51 \\end{aligned}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$x$ ="
+          },
+          {
+            "prefix": "$y$ ="
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a right-angled triangle."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper23/Q10/Q10_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the value of h."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$h$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the perimeter of this triangle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two sides of a regular polygon."
+        },
+        {
+          "type": "text",
+          "content": "The interior angle of the polygon is $(7x + 44)^{\\circ}$ and the exterior angle is $(x + 8)^{\\circ}$."
+        },
+        {
+          "type": "text",
+          "content": "Find the number of sides of this polygon."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper23/Q11/Q11_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Keita invests $4000 at a rate of 2.6% per year compound interest.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Work out the interest earned on the investment at the end of 3 years."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Convert $0.0\\dot{2}\\dot{4}$ to a fraction."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A map has a scale of 1 : 200 000."
+        },
+        {
+          "type": "text",
+          "content": "Find the area, in square kilometres, of a lake that has an area of $12.4 \\text{ cm}^2$ on the map."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{km}^2$"
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the speed–time graph for part of the journey of a car."
+        },
+        {
+          "type": "text",
+          "content": "The car starts from rest and accelerates at a uniform rate for 15 seconds before reaching a constant speed of 30 m/s."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper23/Q15/Q15_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the acceleration for the first 15 seconds."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m/s}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "After T minutes, the total distance travelled is 45 kilometres."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of T."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$T$ =",
+            "suffix": "$\\text{min}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A kite is drawn on a coordinate grid."
+        },
+        {
+          "type": "text",
+          "content": "The diagonals of the kite intersect at the point (-2, -5)."
+        },
+        {
+          "type": "text",
+          "content": "One diagonal has equation $y = 4x + 3$."
+        },
+        {
+          "type": "text",
+          "content": "Find the equation of the other diagonal of the kite."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in the form $y = mx + c$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$y$ ="
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "y is proportional to the square of $(x - 7)$."
+        },
+        {
+          "type": "text",
+          "content": "When x = 12, y = 2."
+        },
+        {
+          "type": "text",
+          "content": "Find y when x = 17."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$y$ ="
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Two bottles are mathematically similar."
+        },
+        {
+          "type": "text",
+          "content": "The small bottle has a capacity of 324 ml and a height of 12 cm."
+        },
+        {
+          "type": "text",
+          "content": "The large bottle has a capacity of 768 ml."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the height of the large bottle."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$f(x) = \\frac{3}{x - 5}, x \\neq 5$"
+        },
+        {
+          "type": "text",
+          "content": "$g(x) = \\frac{10}{x - 2}, x \\neq 2$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find gf(x)."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $g^{-1}(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$g^{-1}(x)$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $f^{-1}(f(x))$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Sketch the graph of $y = \\sin x$ for $0^{\\circ} \\le x \\le 360^{\\circ}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve\nsinx\n3\n2\n4\n13\n-\n=\nfor $0^{\\circ} \\le x \\le 360^{\\circ}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ ="
+              },
+              {
+                "prefix": "or $x$ ="
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 21,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the positions of three ships A, B and C."
+        },
+        {
+          "type": "text",
+          "content": "AC = 17.6 km, BC = 12.8 km and angle BAC = 25°."
+        },
+        {
+          "type": "text",
+          "content": "The bearing of C from B is 112° and angle ABC is obtuse."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the bearing of B from A."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper23/Q21/Q21_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify."
+            },
+            {
+              "type": "text",
+              "content": "$(2x - 1)(x + 4)(x - 3)$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write as a single fraction in its simplest form."
+            },
+            {
+              "type": "text",
+              "content": "$\\frac{2x^2 + 11x + 14}{x^2 - 4} \\div \\frac{2x + 1}{x - 3}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    }
+  ]
+}

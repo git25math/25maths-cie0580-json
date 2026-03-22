@@ -1,0 +1,908 @@
+{
+  "v": "1.0",
+  "paper": "2021March-Paper22",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "March",
+  "paperNum": "22",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper22/Q01/Q01_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "0.1cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete this statement."
+            },
+            {
+              "type": "text",
+              "content": "The diagram has rotational symmetry of order ..................."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the diagram, draw all the lines of symmetry."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Sahil and Anika share $78 in the ratio 5 : 8.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate the amount each receives."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "Sahil $\\$ $",
+            "suffix": ""
+          },
+          {
+            "prefix": "Anika $\\$ $",
+            "suffix": ""
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The number of passengers on a bus is recorded each day for 14 days."
+        },
+        {
+          "type": "text",
+          "content": "15 \\quad 18 \\quad 22 \\quad 17 \\quad 35 \\quad 38 \\quad 24 \\quad 19 \\quad 19 \\quad 24 \\quad 25 \\quad 31 \\quad 36 \\quad 29"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper22/Q03/Q03_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Complete the stem-and-leaf diagram."
+            },
+            {
+              "type": "text",
+              "content": "1 |\n2 |\n3 |"
+            },
+            {
+              "type": "text",
+              "content": "Key: 1 | 5 represents 15 passengers"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the median."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "By writing each number correct to 1 significant figure, find an estimate for the value of"
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{2.8 \\times 82.6}{27.8 - 13.9}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The number of bowls of hot soup sold decreases when the temperature rises."
+        },
+        {
+          "type": "text",
+          "content": "What type of correlation does this statement describe?"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Joseph spends $\\frac{2}{5}$ of one week’s earnings to buy a jacket."
+        },
+        {
+          "type": "text",
+          "content": "The cost of the jacket is $56.50 .",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate the amount Joseph earns in a week."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $2 \\frac{1}{4} \\times 3 \\frac{2}{3}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write $0.\\dot{3}\\dot{7}$ as a fraction."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate $4.8 \\times 10^6 + 3.7 \\times 10^7$."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in standard form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On a map, the positions of the towns L, M and N form an equilateral triangle."
+        },
+        {
+          "type": "text",
+          "content": "The bearing of M from L is 103°."
+        },
+        {
+          "type": "text",
+          "content": "Work out the bearing of L from N."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper22/Q10/Q10_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the highest common factor (HCF) of 36 and 84."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a shape made from a quarter-circle, OAB, and a right-angled triangle OBC."
+        },
+        {
+          "type": "text",
+          "content": "The radius of the circle is 5 cm and OC = 6 cm."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the area of the shape."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper22/Q12/Q12_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The population of one variety of butterfly is decreasing exponentially at a rate of 34% per year."
+        },
+        {
+          "type": "text",
+          "content": "At the end of 2014, the population was 125.9 million."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the population at the end of 2019."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "million"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "space",
+          "height": "0.1cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first four terms of a sequence."
+            },
+            {
+              "type": "text",
+              "content": "29 \\quad 22 \\quad 15 \\quad 8"
+            },
+            {
+              "type": "text",
+              "content": "Write down the next two terms."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "",
+                "suffix": ","
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first five terms of another sequence."
+            },
+            {
+              "type": "text",
+              "content": "4 \\quad 7 \\quad 12 \\quad 19 \\quad 28"
+            },
+            {
+              "type": "text",
+              "content": "Find the nth term."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Points E, F, G and H lie on the circle and $EG = EH$."
+        },
+        {
+          "type": "text",
+          "content": "HF and EG intersect at K."
+        },
+        {
+          "type": "text",
+          "content": "ET is a tangent to the circle at E."
+        },
+        {
+          "type": "text",
+          "content": "Angle FET = 47° and angle FEG = 25°."
+        },
+        {
+          "type": "text",
+          "content": "Find the value of x."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper22/Q15/Q15_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x =$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The region R satisfies these three inequalities."
+        },
+        {
+          "type": "text",
+          "content": "$$y \\geqslant 1 \\quad \\quad y \\leqslant 2x + 1 \\quad \\quad x + y \\leqslant 3$$"
+        },
+        {
+          "type": "text",
+          "content": "By drawing three suitable lines, and shading unwanted regions, find and label the region R."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper22/Q16/Q16_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Some students were asked how many books they each had in their school bags."
+        },
+        {
+          "type": "text",
+          "content": "The table shows some of this information."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|c|}\\hline Number of books & 5 & 6 & 7 & 8 & 9 & 10 \\\\\\hline Frequency & 4 & 5 & $x$ & 11 & 7 & 5 \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "text",
+          "content": "The mean number of books is 7.6 ."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of x."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper22/Q17/Q17_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x =$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify $(343x^9)^{\\frac{2}{3}}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "text",
+          "content": "$$x - y = 7$$"
+        },
+        {
+          "type": "text",
+          "content": "$$x^2 + y = 149$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "$x =$",
+            "suffix": ""
+          },
+          {
+            "prefix": "$y =$",
+            "suffix": ""
+          },
+          {
+            "prefix": "$x =$",
+            "suffix": ""
+          },
+          {
+            "prefix": "$y =$",
+            "suffix": ""
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "space",
+          "height": "0.1cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper22/Q20/Q20_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "Triangle ABC is mathematically similar to triangle PQR."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of x."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows two mathematically similar bowls."
+            },
+            {
+              "type": "text",
+              "content": "The larger bowl has capacity 7.8 litres and height 11.5 cm."
+            },
+            {
+              "type": "text",
+              "content": "The smaller bowl has capacity 4 litres."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the height of the smaller bowl."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On the axes, sketch the graph of each of these functions."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$y = \\frac{1}{x}$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$y = 4^x$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "space",
+          "height": "0.1cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A bag of rice has a mass of 25 kg, correct to the nearest kilogram."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the lower bound of the total mass of 10 of these bags."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{kg}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Virat has 200 metres of wire, correct to the nearest metre."
+            },
+            {
+              "type": "text",
+              "content": "He cuts the wire into n pieces of length 3 metres, correct to the nearest 20 centimetres."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the largest possible value of n."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$n =$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a pyramid VABCD with a rectangular base."
+        },
+        {
+          "type": "text",
+          "content": "V is vertically above M, the intersection of the diagonals AC and BD."
+        },
+        {
+          "type": "text",
+          "content": "AB = 12 cm, BC = 10 cm and VC = 14 cm."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the angle that VC makes with the base ABCD."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021March/Paper22/Q23/Q23_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A curve has equation $y = x^3 - 2x^2 + 5$."
+        },
+        {
+          "type": "text",
+          "content": "Find the coordinates of its two stationary points."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "prefix": "(",
+            "suffix": ","
+          },
+          {
+            "prefix": "",
+            "suffix": ") and ("
+          },
+          {
+            "prefix": "",
+            "suffix": ","
+          },
+          {
+            "prefix": "",
+            "suffix": ")"
+          }
+        ]
+      },
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "v": "1.0",
+  "paper": "2024March-Paper12",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "March",
+  "paperNum": "12",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the number thirty thousand and fifty in figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write 5926 correct to the nearest 10."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Mark the midpoint of the line ST."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper12/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper12/Q04/Q04_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Shade $\\frac{2}{9}$ of this shape."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{2}{9}$ as a percentage."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A night bus runs from 21 50 to 05 18 the next day."
+        },
+        {
+          "type": "text",
+          "content": "Work out the number of hours and minutes that the night bus runs."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": "h"
+          },
+          {
+            "suffix": "min"
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper12/Q06/Q06_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "34  55  76  83  111  121"
+            },
+            {
+              "type": "text",
+              "content": "From this list of numbers, write down all the multiples of 11."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Zaid has a non-calculator method for working out if a number is a multiple of 11."
+            },
+            {
+              "type": "text",
+              "content": "He shows his method for the number 919 281."
+            },
+            {
+              "type": "text",
+              "content": "Subtract and add alternately the digits in the number."
+            },
+            {
+              "type": "text",
+              "content": "$9 - 1 + 9 - 2 + 8 - 1 = 22$"
+            },
+            {
+              "type": "text",
+              "content": "Check if the answer is a multiple of 11."
+            },
+            {
+              "type": "text",
+              "content": "$22 = 2 \\times 11$"
+            },
+            {
+              "type": "text",
+              "content": "As 22 is a multiple of 11 then 919 281 is a multiple of 11."
+            },
+            {
+              "type": "text",
+              "content": "Show that the number 918 271 937 is a multiple of 11 by using Zaid’s method."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The range of eight numbers is 31."
+        },
+        {
+          "type": "text",
+          "content": "These are seven of the numbers."
+        },
+        {
+          "type": "text",
+          "content": "28  36  42  24  38  16  21"
+        },
+        {
+          "type": "text",
+          "content": "Find the two possible values of the eighth number."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {},
+          {}
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate $5.76 + 2.83$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify $m + 4k - 7m + 3k$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$-9 \\ -7 \\ -3 \\ -1 \\ 0 \\ 2 \\ 5 \\ 6 \\ 8$"
+        },
+        {
+          "type": "text",
+          "content": "From this list of numbers, find"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the highest number possible from the product of two of the numbers"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "the lowest number possible from the product of three of the numbers."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Sarah records the number of people who play golf on each of 14 days."
+        },
+        {
+          "type": "text",
+          "content": "50 28 64 46 77 54 68 71 72 70 45 65 58 49"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper12/Q11/Q11_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the stem-and-leaf diagram."
+            },
+            {
+              "type": "text",
+              "content": "Key : 2 8 represents 28"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the median."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the net of a cuboid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper12/Q12/Q12_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the surface area of this cuboid."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the volume of this cuboid."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{cm}^3$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "There are 20 cars in a car park and 3 of the cars are blue."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "James wants to draw a pie chart to show this information."
+            },
+            {
+              "type": "text",
+              "content": "Find the angle of the sector for the blue cars in this pie chart."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the 20 cars is picked at random."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that this car is not blue."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Factorise."
+        },
+        {
+          "type": "text",
+          "content": "$3x - 7xy^3$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write AB as a column vector."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper12/Q15/Q15_Stem_Fig1.png"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "vector",
+        "fields": 2
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Exchange rates"
+        },
+        {
+          "type": "text",
+          "content": "1 euro = 1.05 dollars"
+        },
+        {
+          "type": "text",
+          "content": "1 rupee = 0.013 dollars"
+        },
+        {
+          "type": "text",
+          "content": "Vani changes $x$ euros into dollars."
+        },
+        {
+          "type": "text",
+          "content": "She then changes the dollars into 17 850 rupees."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of $x$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper12/Q16/Q16_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The line $y = 2x - 5$ intersects the line $y = 3$ at the point P."
+        },
+        {
+          "type": "text",
+          "content": "Find the coordinates of the point P."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "coordinate",
+        "fields": 2
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two shapes, A and B, on a grid."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper12/Q18/Q18_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps shape A onto shape B."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the image of shape A after a reflection in the line $x = -1$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a small circle with radius 7 cm and a large circle with radius $R$ cm."
+        },
+        {
+          "type": "text",
+          "content": "The area of 16 small circles is the same as the area of one large circle."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of $R$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper12/Q19/Q19_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$R$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The nth term of a sequence is $3n - 2$."
+            },
+            {
+              "type": "text",
+              "content": "Find the first three terms of this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {},
+              {},
+              {}
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the first five terms of a different sequence."
+            },
+            {
+              "type": "text",
+              "content": "$2 \\ 9 \\ 16 \\ 23 \\ 30$"
+            },
+            {
+              "type": "text",
+              "content": "Find the nth term of this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The length, $l$ m, of a rope is 18.7 m, correct to the nearest 10 centimetres."
+        },
+        {
+          "type": "text",
+          "content": "Complete this statement about the value of $l$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": "$l <$"
+          },
+          {}
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate $n = \\frac{6.5 \\times 10^{19}}{5.46 \\times 10^{23}}$."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in standard form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$n$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Triangle ABC is mathematically similar to triangle DEF."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of $h$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024March/Paper12/Q23/Q23_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$h$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $1\\frac{4}{5} - \\frac{1}{6}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The highest common factor (HCF) of two numbers is 6."
+        },
+        {
+          "type": "text",
+          "content": "The lowest common multiple (LCM) of the two numbers is 90."
+        },
+        {
+          "type": "text",
+          "content": "Both numbers are greater than 6."
+        },
+        {
+          "type": "text",
+          "content": "Work out the two numbers."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {},
+          {}
+        ]
+      },
+      "meta": {}
+    }
+  ]
+}

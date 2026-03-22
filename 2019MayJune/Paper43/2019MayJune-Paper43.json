@@ -1,0 +1,1351 @@
+{
+  "v": "1.0",
+  "paper": "2019MayJune-Paper43",
+  "board": "cie",
+  "code": "0580",
+  "year": 2019,
+  "session": "MayJune",
+  "paperNum": "43",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 21,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is part of a train timetable for a journey from London to Marseille."
+        },
+        {
+          "type": "text",
+          "content": "All times given are in local time."
+        },
+        {
+          "type": "text",
+          "content": "The local time in Marseille is 1 hour ahead of the local time in London."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|}\n\\hline\nLondon & 07 19 \\\\\n\\hline\nAshford & 07 55 \\\\\n\\hline\nLyon & 13 00 \\\\\n\\hline\nAvignon & 14 08 \\\\\n\\hline\nMarseille & 14 46 \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper43/Q01/Q01_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper43/Q01/Q01_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 9,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the total journey time from London to Marseille."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in hours and minutes."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "suffix": "h"
+                  },
+                  {
+                    "suffix": "min"
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The distance from London to Ashford is 90 km."
+                },
+                {
+                  "type": "text",
+                  "content": "The local time in London is the same as the local time in Ashford."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the average speed, in km/h, of the train between London and Ashford."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "km/h"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "During the journey, the train takes 35 seconds to completely cross a bridge."
+                },
+                {
+                  "type": "text",
+                  "content": "The average speed of the train during this crossing is 90 km/h."
+                },
+                {
+                  "type": "text",
+                  "content": "The length of the train is 95 metres."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the length, in metres, of this bridge."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{m}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "The fares for the train journey are shown in the table below."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|}\n\\hline\nFrom London to Marseille & Standard fare & Premier fare \\\\\n\\hline\nAdult & \\$84 & \\$140 \\\\\n\\hline\nChild & \\$60 & \\$96 \\\\\n\\hline\n\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "For the standard fare, write the ratio adult fare : child fare in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "suffix": ":"
+                  },
+                  {}
+                ]
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "For an adult, find the percentage increase in the cost of the standard fare to the premier fare."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 5,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "For one journey from London to Marseille, the ratio"
+                },
+                {
+                  "type": "text",
+                  "content": "number of adults : number of children = 11 : 2."
+                },
+                {
+                  "type": "text",
+                  "content": "There were 220 adults in total on this journey."
+                },
+                {
+                  "type": "text",
+                  "content": "All of the children and 70% of the adults paid the standard fare."
+                },
+                {
+                  "type": "text",
+                  "content": "The remaining adults paid the premier fare."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the total of the fares paid by the adults and the children."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "\\$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "There were $$ 3.08 \\times 10^5 $$ passengers that made this journey in 2018."
+            },
+            {
+              "type": "text",
+              "content": "This was a 12% decrease in the number of passengers that made this journey in 2017."
+            },
+            {
+              "type": "text",
+              "content": "Find the number of passengers that made this journey in 2017."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 11,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve."
+            },
+            {
+              "type": "text",
+              "content": "$$ \\frac{5}{x - 3} = \\frac{7}{x + 17} $$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the integer values of $n$ that satisfy this inequality."
+            },
+            {
+              "type": "text",
+              "content": "$$ -8 \\le 4n - 7 \\le 1 $$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$ a^3 \\times a^6 $$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$ (x^2 y^5)^3 $$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$ \\left( \\frac{27x^3}{64y^{12}} \\right)^{-\\frac{1}{3}} $$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper43/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the image of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A after a translation by the vector $$ \\begin{pmatrix} 3 \\\\ -2 \\end{pmatrix} $$,"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A after a reflection in the line $y = x$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle A onto triangle B."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the matrix that represents an enlargement, scale factor -2, centre (0, 0)."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the determinant of the matrix in part (c)(i)."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 18,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper43/Q04/Q04_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper43/Q04/Q04_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper43/Q04/Q04_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a hemispherical bowl of radius 5.6 cm and a cylindrical tin of height 10 cm."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that the volume of the bowl is 368 cm³, correct to the nearest cm³."
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\frac{4}{3}\\pi r^3$]"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The tin is completely full of soup."
+                },
+                {
+                  "type": "text",
+                  "content": "When all the soup is poured into the empty bowl, 80% of the volume of the bowl is filled."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the radius of the tin."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 12,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a cone with radius 1.75 cm and height 6 cm."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 5,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the total surface area of the cone."
+                },
+                {
+                  "type": "text",
+                  "content": "[The curved surface area, $A$, of a cone with radius $r$ and slant height $l$ is $A = \\pi r l$]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            },
+            {
+              "label": "(ii)(a)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The cone contains salt to a depth of 4.5 cm."
+                },
+                {
+                  "type": "text",
+                  "content": "The top layer of the salt forms a circle that is parallel to the base of the cone."
+                },
+                {
+                  "type": "text",
+                  "content": "Show that the volume of the salt inside the cone is 18.9 cm³, correct to 1 decimal place."
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, $V$, of a cone with radius $r$ and height $h$ is $V = \\frac{1}{3}\\pi r^2 h$]"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)(b)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The salt is removed from the cone at a constant rate of 200 mm³ per second."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the time taken for the cone to be completely emptied."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in seconds, correct to the nearest second."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "s"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 17,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the graph of $y = f(x)$ where $f(x) = x^2 - \\frac{2}{x} - 2, x \\neq 0$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper43/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper43/Q05/Q05_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the graph to find"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$f(1)$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$ff(-2)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid opposite, draw a suitable straight line to solve the equation"
+            },
+            {
+              "type": "text",
+              "content": "$$ x^2 - \\frac{2}{x} - 7 = -3x \\text{ for } -3 \\le x \\le 3 $$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ ="
+              },
+              {
+                "prefix": "or $x$ ="
+              }
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "By drawing a suitable tangent, find an estimate of the gradient of the curve at $x = -2$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 7,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table for $y = g(x)$ where $g(x) = 2^{-x}$ for $-3 \\le x \\le 3$."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|c|c|c|c|c|}\n\\hline\n$x$ & -3 & -2 & -1 & 0 & 1 & 2 & 3 \\\\\n\\hline\n$y$ & & & 2 & 1 & 0.5 & & 0.125 \\\\\n\\hline\n\\end{tabular}"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid opposite, draw the graph of $y = g(x)$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your graph to find the positive solution to the equation $f(x) = g(x)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows the time, $t$ seconds, taken by each of 120 boys to solve a puzzle."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|}\n\\hline\nTime ($t$ seconds) & $20 < t \\le 30$ & $30 < t \\le 35$ & $35 < t \\le 40$ & $40 < t \\le 60$ & $60 < t \\le 100$ \\\\\n\\hline\nFrequency & 38 & 27 & 21 & 16 & 18 \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper43/Q06/Q06_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper43/Q06/Q06_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate an estimate of the mean time."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "s"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, complete the histogram to show the information in the frequency table."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A straight line joins the points $A(-2, -3)$ and $C(1, 9)$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of the line $AC$ in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the acute angle between $AC$ and the $x$-axis."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "ABCD is a kite, where AC is the longer diagonal of the kite."
+            },
+            {
+              "type": "text",
+              "content": "B is the point (3.5, 2)."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of the line BD in the form $y = mx + c$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$y$ ="
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The diagonals AC and BD intersect at (-0.5, 3)."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the co-ordinates of D."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 14,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": "Angelo has a bag containing 3 white counters and $x$ black counters."
+            },
+            {
+              "type": "text",
+              "content": "He takes two counters at random from the bag, without replacement."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the following statement."
+                },
+                {
+                  "type": "text",
+                  "content": "The probability that Angelo takes two black counters is $$ \\frac{x}{x + 3} \\times \\dots $$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)(a)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The probability that Angelo takes two black counters is $\\frac{7}{15}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Show that $4x^2 - 25x - 21 = 0$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)(b)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Solve by factorisation."
+                },
+                {
+                  "type": "text",
+                  "content": "$4x^2 - 25x - 21 = 0$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$x$ ="
+                  },
+                  {
+                    "prefix": "or $x$ ="
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(ii)(c)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the number of black counters in the bag."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Esme has a bag with 5 green counters and 4 red counters."
+            },
+            {
+              "type": "text",
+              "content": "She takes three counters at random from the bag without replacement."
+            },
+            {
+              "type": "text",
+              "content": "Work out the probability that the three counters are all the same colour."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2019MayJune/Paper43/Q09/Q09_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "In the diagram, $BC$ is a vertical wall standing on horizontal ground $AB$."
+            },
+            {
+              "type": "text",
+              "content": "$D$ is the point on $AB$ where $AD = 58 \\text{ m}$."
+            },
+            {
+              "type": "text",
+              "content": "The angle of elevation of $C$ from $A$ is $26^\\circ$."
+            },
+            {
+              "type": "text",
+              "content": "The angle of elevation of $C$ from $D$ is $72^\\circ$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 5,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that $AC = 76.7 \\text{ m}$, correct to 1 decimal place."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate $BD$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$BD$ =",
+                "suffix": "$\\text{m}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Triangle $EFG$ has an area of 70 m²."
+            },
+            {
+              "type": "text",
+              "content": "$EF : FG = 1 : 2$ and angle $EFG = 40^\\circ$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate $EF$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$EF$ =",
+                "suffix": "$\\text{m}$"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A different triangle $PQR$ also has an area of 70 m²."
+                },
+                {
+                  "type": "text",
+                  "content": "$PQ : QR = 1 : 2$ and $PQ = EF$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find angle $PQR$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $PQR$ ="
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 8,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "19, 15, 11, 7, ...."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the next two terms of the sequence."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "suffix": ","
+                  },
+                  {}
+                ]
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the $n$th term of this sequence."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of $n$ when the $n$th term is -65."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$n$ ="
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Another sequence has $n$th term $2n^2 + 5n - 15$."
+            },
+            {
+              "type": "text",
+              "content": "Find the difference between the 4th term and the 5th term of this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {}
+    }
+  ]
+}

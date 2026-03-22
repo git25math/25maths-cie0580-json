@@ -1,0 +1,1294 @@
+{
+  "v": "1.0",
+  "paper": "2024MayJune-Paper31",
+  "board": "cie",
+  "code": "0580",
+  "year": 2024,
+  "session": "MayJune",
+  "paperNum": "31",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q01/Q01_Sube_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The cost of a cinema ticket is $6.30 .",
+              "_dollar_warning": true
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the total cost of 4 tickets."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The cinema sells 10 tickets for the price of 9 tickets.\n\n A group of 10 people go to the cinema.\n\n Work out how much each person must pay."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The cinema has 650 seats."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "There are 26 seats in each row.\n\n Work out the number of rows."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "84% of the seats are occupied.\n\n Work out how many seats are not occupied."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Suki buys a bag of popcorn and a bottle of water.\n\nA bag of popcorn costs twice as much as a bottle of water.\n\nShe receives $3.55 change from $10. \n\nWork out the cost of a bag of popcorn and the cost of a bottle of water."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "Bag of popcorn $  ................................................\n\nBottle of water $  ................................................"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A film lasts for 155 minutes.\n\n Write 155 minutes in hours and minutes."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "suffix": " hours"
+                  },
+                  {
+                    "suffix": " minutes"
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Another film starts at 14 45 and lasts for 2 hours and 20 minutes.\n\n Work out the time that this film finishes."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(e)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows the hours that Trevor works in the cinema each week."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|}\\hlineMonday & No hours\\\\Tuesday & No hours\\\\Wednesday & 18 00 to 22 00\\\\Thursday & 18 00 to 22 00\\\\Friday & 12 00 to 17 30\\\\Saturday & 12 00 to 17 30\\\\Sunday & 13 00 to 18 00\\\\\\hline\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Trevor is paid $11.50 per hour for the time he works before 18 00.\n\n He is paid 30% more for the time he works after 18 00.\n\n Work out how much Trevor is paid each week.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q02/Q02_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q02/Q02_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q02/Q02_Suba_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 13,
+          "content": [
+            {
+              "type": "text",
+              "content": "Chen asks some people if they prefer a beach, cruise, lake or mountain holiday.\n\nThe pie chart shows the results."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the fraction of people who prefer a mountain holiday.\n\n Give your answer in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the percentage of people who prefer a beach holiday."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the ratio of people who prefer each type of holiday in the form\nbeach : cruise : lake : mountain.  \n\n Give your answer in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {},
+                  {},
+                  {},
+                  {}
+                ]
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One person is chosen at random.\n\n Find the probability that this person prefers a cruise or a lake holiday."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(v)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "675 people prefer a beach holiday.\n\n Show that the total number of people Chen asks is 1800."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(vi)",
+              "marks": 5,
+              "content": [],
+              "subparts": [
+                {
+                  "label": "(a)(vi)(a)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Complete the table."
+                    },
+                    {
+                      "type": "table",
+                      "content": "\\begin{tabular}{|c|c|c|}\\hlineType of holiday & Pie chart sector angle & Frequency\\\\Beach & 135° & 675\\\\Cruise & 30° & 150\\\\Lake & 75° & \\\\Mountain & 120° & \\\\\\hline\\end{tabular}"
+                    }
+                  ],
+                  "answer": {
+                    "type": "table_input"
+                  }
+                },
+                {
+                  "label": "(a)(vi)(b)",
+                  "marks": 3,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Complete the bar chart, including the scale on the frequency axis."
+                    }
+                  ],
+                  "answer": {
+                    "type": "none"
+                  }
+                }
+              ],
+              "answer": null
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Mr Gibb pays $2208 for a holiday.\n\n Mr Shah pays 2050 euros for the same holiday.\n\n The exchange rate is \n$1 = 1.15$ euro.\n\n Work out how much more, in euros, Mr Shah pays for the holiday than Mr Gibb.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " euros"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q03/Q03_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q03/Q03_Subii_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q03/Q03_Subd_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here is part of the timetable for trains from Hinton to Jarmouth.\n\n All trains take the same time to travel from Hinton to Jarmouth. "
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|}\\hlineHinton & 10 47 & ................\\\\Jarmouth & 11 15 & 12 35\\\\\\hline\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the timetable. "
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Marge arrives at Hinton station exactly 20 minutes before the 10 47 train leaves.\n\n Complete the clock diagram to show the time she arrives at Hinton station. "
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Each day, a bus leaves Texford to travel to Cranbrook every 45 minutes.\n\n The first bus leaves Texford at 07 10.\n\n The last bus leaves Texford at 22 10.\n\n Work out the number of buses that travel from Texford to Cranbrook each day."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The cost of a bus pass increases every year.\n\n On 1st January 2022 a bus pass costs $50.\n\n On 1st January 2023 the cost of the bus pass increases by 10%.\n\n On 1st January 2024 the cost of the bus pass increases by 5%.\n\n Calculate the cost of the bus pass on 1st January 2024.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The Venn diagram shows information about the number of workers in a hotel who travel to work \nby bus (B) and train (T). "
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the number of workers in the hotel."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out $n(B \\cup T)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(d)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Explain in words what the number 85 in the Venn diagram represents."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(d)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One of the workers is chosen at random.\n\n Find the probability that this worker travels to work by bus and train."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The hotel has single and double bedrooms in the ratio   \n$\\frac{\\text{single}}{\\text{double}} = \\frac{3}{8}$.\n\n There are 75 more double rooms than single rooms.\n\n Work out the number of single rooms."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The stem-and-leaf diagram shows the ages of the 16 workers in a shop on 1st January 2022.\n2\n3  5  7\n3\n4  6  6  6  9\n4\n1  1  7\n5\n0  7  7  8\n6\n1\n\nKey: 2 5 represents 25"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q04/Q04_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the range."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mode."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the median."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the percentage of workers that are older than 40 but younger than 60. "
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On 1st January 2023 the shop has the same 16 workers.\n\n Write down the range, the mode and the median on 1st January 2023."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3,
+            "template": "Range  ................................................\n\nMode  ................................................\n\nMedian  ................................................"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On 1st January 2024 the oldest worker leaves.\n\n His replacement is a new worker born on 12th November 1970.\n\n There are no other changes to the workers.\n\n Complete the stem-and-leaf diagram for 1st January 2024. "
+            },
+            {
+              "type": "text",
+              "content": "2\n5  7  9\n3\n6  8  8  8\n4\n5\n6\n\nKey: 2 5 represents 25"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The shop owner is $x$ years old.\n\n $x$ is a prime number.\n\n $x^2 + 2$ is a square number.\n\n $x^2 - 2$ is a multiple of 9.\n\n Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q05/Q05_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q05/Q05_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "NOT TO\nSCALE\nE\nG\nF\nH\nI\ne°\n105°\n52°\nf °\n\n The diagram shows a triangle EFG and a straight line HFI.\n\n HFI is parallel to EG."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Angle $EFG = 105°$.\n\n Write down the mathematical name for this type of angle."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the value of e.\n\n Give a geometrical reason for your answer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "e =",
+                    "suffix": ""
+                  },
+                  {
+                    "prefix": "because",
+                    "suffix": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of f.\n\n Give a geometrical reason for your answer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "f =",
+                    "suffix": ""
+                  },
+                  {
+                    "prefix": "because",
+                    "suffix": ""
+                  }
+                ]
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the interior angle of a regular 7-sided polygon.\n\n Give your answer correct to 2 decimal places."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a regular pentagon with sides 15 cm.\n(2w) cm\n15 cm\n(w + x + y) cm\n5(x + 7) cm\n15 cm\nNOT TO\nSCALE\n\n Work out the values of w, x and y. "
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3,
+            "template": "w =  ................................................\n\nx =  ................................................\n\ny =  ................................................"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, mark the image of point P after a reflection in the line $y=0$. "
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use trigonometry to calculate angle a."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle a ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps "
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A onto triangle B"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A onto triangle C."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Triangle A has been enlarged with centre (1, 0) to give triangle D.\n\n The grid is only large enough to show one vertex and part of two of the sides of triangle D."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(d)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the scale factor of the enlargement."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(d)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the coordinates of the other two vertices of triangle D."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "type": "coordinate",
+                    "fields": 2
+                  },
+                  {
+                    "type": "coordinate",
+                    "fields": 2
+                  }
+                ]
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q07/Q07_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q07/Q07_Subd_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The scale drawing shows the position of a castle, C.\n\n The scale is 1 centimetre represents 2 kilometres.\nNorth\nC\n\nScale: 1 cm to 2 km\n\n Micah walks at 4.8 km/h for 3 hours on a bearing of 236° from C, to his house, H.\n\n Mark the position of H on the scale drawing. "
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "A restaurant, R, is on a bearing of 083° from C."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the bearing of C from R."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The distance, $d$ km, from R to C is 5 km, correct to the nearest kilometre.\n\n Complete this statement about the value of $d$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "suffix": " $\\leqslant d <$ "
+                  },
+                  {}
+                ]
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A model of the castle is made.\n\n On the model, the length of one of the castle walls is 5 centimetres.\n\n The actual length of the wall is 90 metres.\n\n Find the scale of the model in the form  \n$1:n$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$1:$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The castle has two kitchens with rectangular floors.\n8.4 m\n5.6 m\n9.2 m\nx m\nA\nB\nD\nC\nF\nG\nH\nE\nNOT TO\nSCALE\n\n Rectangle ABCD is mathematically similar to rectangle EFGH.\n\n Calculate the value of x. "
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The castle has a cylindrical tower.\n\n The tower has a radius of 2.4 m and a height of 25 m.\n\n Calculate the curved surface area of the tower.\n\n Give the units of your answer."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {},
+              {
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows some values for   $y = x^2 - 3x - 2$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q08/Q08_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper31/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table. "
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\\hlinex & -3 & -2 & -1 & 0 & 1 & 2 & 3 & 4\\\\y & 1 & -1 & & & & & & 9\\\\\\hline\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of   $y = x^2 - 3x - 2$    for $-3 \\leqslant x \\leqslant 4$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the coordinates of the lowest point on the graph."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to solve the equation   $x^2 - 3x - 2 = 7$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ ="
+              },
+              {
+                "prefix": "or $x$ ="
+              }
+            ]
+          }
+        }
+      ],
+      "meta": {}
+    }
+  ]
+}

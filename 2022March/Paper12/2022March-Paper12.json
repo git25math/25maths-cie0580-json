@@ -1,0 +1,897 @@
+{
+  "v": "1.0",
+  "paper": "2022March-Paper12",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "March",
+  "paperNum": "12",
+  "type": "core-nocalc",
+  "totalMarks": 56,
+  "time": 60,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write the number sixteen thousand and thirty-seven in figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the six factors of 28."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {},
+          {
+            "prefix": ","
+          },
+          {
+            "prefix": ","
+          },
+          {
+            "prefix": ","
+          },
+          {
+            "prefix": ","
+          },
+          {
+            "prefix": ","
+          }
+        ]
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write 9876 correct to the nearest thousand."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The pictogram shows the number of different coloured cars a garage sells in a month.\nYellow\nRed\nWhite\nSilver\nKey:\n= 12 cars"
+        },
+        {
+          "type": "text",
+          "content": "Work out how many more white cars than red cars the garage sells."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper12/Q04/Q04_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write down the reciprocal of $\\frac{6}{5}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "This is Edha’s method to work out $99 \\times 27$ without using a calculator.\n$$99 \\times 27$$\n$$= (100 - 1) \\times 27$$\n$$= 2700 - 27$$\n$$= 2673$$"
+        },
+        {
+          "type": "text",
+          "content": "Show how to use Edha’s method to work out $99 \\times 68$ without using a calculator."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 5.26 pm using the 24-hour clock."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A journey starts at 21 15 one day and ends at 04 33 the next day."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the time taken, in hours and minutes."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "suffix": "h"
+              },
+              {
+                "suffix": "min"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Change 10 260 seconds into hours."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "hours"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper12/Q08/Q08_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper12/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure the marked angle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "12 cm\n8 cm\n9.5 cm\nNOT TO\nSCALE"
+            },
+            {
+              "type": "text",
+              "content": "Using a ruler and compasses only, construct this triangle."
+            },
+            {
+              "type": "text",
+              "content": "Leave in your construction arcs."
+            },
+            {
+              "type": "text",
+              "content": "The side of length 12 cm has been drawn for you."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Put one pair of brackets into this calculation to make it correct."
+        },
+        {
+          "type": "text",
+          "content": "$$150 - 17 \\times 5 - 2 = 33$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out $5 \\div 62$."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 2 decimal places."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Joe thinks of a positive number, $n$."
+        },
+        {
+          "type": "text",
+          "content": "He squares $n$, then adds it to $-24$."
+        },
+        {
+          "type": "text",
+          "content": "The answer is 25."
+        },
+        {
+          "type": "text",
+          "content": "Work out $n$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$n$ ="
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Indrani and Jagad share some money in the ratio Indrani : Jagad = 7 : 9."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the percentage of the money that Indrani receives."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\%$"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The equation of a line is $y = 5x + 7$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the gradient of this line."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the point where this line crosses the y-axis."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)(ii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the point where this line crosses the x-axis."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "6\n5\n4\n3\n2\n1\n– 1\n– 2\n– 3\n– 4\n– 5\n0\n– 1\n– 2\n– 3\n– 4\n– 5\n5\n6\n7\nx\ny\nA\n4\n3\n2\n1"
+        },
+        {
+          "type": "text",
+          "content": "On the grid, draw the image of"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper12/Q14/Q14_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "triangle A after a reflection in the y-axis,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "triangle A after a translation by the vector $\\begin{pmatrix} -3 \\\\ -4 \\end{pmatrix}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 15,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write 0.0001 as a power of 10."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "As the temperature increases, people eat more ice cream."
+        },
+        {
+          "type": "text",
+          "content": "What type of correlation does this statement describe?"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Sanjay invests $700 in an account paying simple interest at a rate of 2.5% per year.",
+          "_dollar_warning": true
+        },
+        {
+          "type": "text",
+          "content": "Calculate the value of his investment at the end of 6 years."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "These are the first four terms of a sequence.\n$1 \\quad 23 \\quad 45 \\quad 67$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the next two terms."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {},
+              {
+                "prefix": ","
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the $n$th term."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 19,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$5f + 7g - 8f + 2g$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$h^2 \\times h^5$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$16x^5 \\times 2y^0$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Balavan has $n$ marbles."
+        },
+        {
+          "type": "text",
+          "content": "He gives his sister $\\frac{n}{5}$ marbles."
+        },
+        {
+          "type": "text",
+          "content": "He gives his cousin $\\frac{n}{2}$ marbles."
+        },
+        {
+          "type": "text",
+          "content": "Write an expression, in terms of $n$, for the number of marbles that Balavan has now."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper12/Q21/Q21_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022March/Paper12/Q21/Q21_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A\nB"
+            },
+            {
+              "type": "text",
+              "content": "Use set notation to describe the shaded region."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "C\nb\nm\nk\np\ny\nh\nj\nf\ng\nD"
+            },
+            {
+              "type": "text",
+              "content": "Find $n(C)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $2 \\frac{1}{3} \\times \\frac{11}{14}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify."
+            },
+            {
+              "type": "text",
+              "content": "$$(x + 3)(x - 5)$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Renuka’s teacher asks her to factorise completely $8x^2 - 12x$."
+            },
+            {
+              "type": "text",
+              "content": "Renuka writes $2x(4x - 6)$ as her answer."
+            },
+            {
+              "type": "text",
+              "content": "Explain why she does not score full marks and give the correct answer."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "Reason"
+              },
+              {
+                "prefix": "Correct answer"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 24,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Udita thinks of two whole numbers."
+        },
+        {
+          "type": "text",
+          "content": "Both numbers are greater than 6."
+        },
+        {
+          "type": "text",
+          "content": "The lowest common multiple (LCM) of the two numbers is 90."
+        },
+        {
+          "type": "text",
+          "content": "The highest common factor (HCF) of the two numbers is 6."
+        },
+        {
+          "type": "text",
+          "content": "Find the two numbers."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {},
+          {
+            "prefix": "and"
+          }
+        ]
+      }
+    }
+  ]
+}

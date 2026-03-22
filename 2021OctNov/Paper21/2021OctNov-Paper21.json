@@ -1,0 +1,800 @@
+{
+  "v": "1.0",
+  "paper": "2021OctNov-Paper21",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "OctNov",
+  "paperNum": "21",
+  "type": "ext-nocalc",
+  "totalMarks": 70,
+  "time": 90,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$P$ is a prime number where $60 < P < 80$."
+        },
+        {
+          "type": "text",
+          "content": "$P$ is 2 less than a square number."
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $P$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$P$ ="
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Hank flies from Los Angeles to Shanghai."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The flight departs on Friday 22 July at 21 40."
+            },
+            {
+              "type": "text",
+              "content": "The flight takes 13 hours 35 minutes."
+            },
+            {
+              "type": "text",
+              "content": "The local time in Shanghai is 15 hours ahead of the local time in Los Angeles."
+            },
+            {
+              "type": "text",
+              "content": "Find the day, date and time in Shanghai when Hank’s flight arrives."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "Day"
+              },
+              {
+                "prefix": ", Date"
+              },
+              {
+                "prefix": ", Time"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The cost of the flight is $\\$920$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "The exchange rate is $\\$1 = 6.87$ Chinese yuan.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Find the cost of the flight in yuan."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "yuan"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{4.87 - 2.7}{0.2 + \\sqrt[3]{0.729}}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The number of items that each of 22 people buy in a supermarket is shown in the stem-and-leaf diagram."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper21/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the mode."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the median."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows the relative frequency of the games won by a football team."
+        },
+        {
+          "type": "text",
+          "content": "The number of games lost is twice the number of games drawn."
+        },
+        {
+          "type": "text",
+          "content": "Complete the table."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper21/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows the positions of two towns, $P$ and $Q$."
+        },
+        {
+          "type": "text",
+          "content": "The scale is $1\\text{ cm}$ represents $4\\text{ km}$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper21/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the actual distance between town $P$ and town $Q$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure the bearing of town $Q$ from town $P$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Town $X$ is $28\\text{ km}$ from town $P$ on a bearing of $140°$."
+            },
+            {
+              "type": "text",
+              "content": "On the scale drawing, mark the position of town $X$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Without using a calculator, work out $1 \\frac{5}{6} + \\frac{2}{5}$."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working and give your answer as a mixed number in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations."
+        },
+        {
+          "type": "text",
+          "content": "You must show all your working."
+        },
+        {
+          "type": "text",
+          "content": "$$4x - 2y = -13$$"
+        },
+        {
+          "type": "text",
+          "content": "$$-3x + 4y = 11$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x = $ ____\n$y = $ ____"
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calculate the value of $x$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper21/Q09/Q09_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A regular polygon has an interior angle of $174°$."
+        },
+        {
+          "type": "text",
+          "content": "Find the number of sides of this polygon."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Line $L$ has equation $y = -\\frac{4}{5}x$."
+        },
+        {
+          "type": "text",
+          "content": "Find the equation of a line that is perpendicular to line $L$ and passes through the point $(0, 6)$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$y$ ="
+      }
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Chai invests some money."
+        },
+        {
+          "type": "text",
+          "content": "By the end of the first year, the value of the investment has decreased by $35\\%$."
+        },
+        {
+          "type": "text",
+          "content": "By the end of the second year, the value of the investment has increased by $40\\%$ of its value at the end of the first year."
+        },
+        {
+          "type": "text",
+          "content": "Find the overall percentage change in the value of the investment."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\%$"
+      }
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{3x - 4}{5} \\ge x - 6$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$y$ is inversely proportional to the square root of $(x - 2)$."
+        },
+        {
+          "type": "text",
+          "content": "When $x = 4.25$, $y = 12$."
+        },
+        {
+          "type": "text",
+          "content": "Find $x$ when $y = 3$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows three shapes that are mathematically similar."
+        },
+        {
+          "type": "text",
+          "content": "The heights of the shapes are in the ratio small : medium : large = $1 : 5 : 8$."
+        },
+        {
+          "type": "text",
+          "content": "Find the ratio shaded area : total unshaded area."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in its simplest form."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper21/Q15/Q15_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "suffix": ":"
+          },
+          {}
+        ]
+      }
+    },
+    {
+      "qnum": 16,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the $n$th term of each sequence."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$8, 15, 34, 71, 132, \\dots$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$\\frac{1}{2}, \\frac{4}{3}, \\frac{16}{4}, \\frac{64}{5}, \\frac{256}{6}, \\dots$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$y = \\frac{3x - 1}{x - 2}$$"
+        },
+        {
+          "type": "text",
+          "content": "Make $x$ the subject of the formula."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$x$ ="
+      }
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows some land in the shape of a triangle $ABC$."
+        },
+        {
+          "type": "text",
+          "content": "Houses are built on this land."
+        },
+        {
+          "type": "text",
+          "content": "Each house requires $400\\text{ m}^2$ of land."
+        },
+        {
+          "type": "text",
+          "content": "Find the greatest number of houses that can be built on this land."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper21/Q18/Q18_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      }
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write as a single fraction in its simplest form."
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{3}{x + 2} + \\frac{7}{x - 2}$$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve $3 \\cos x + 2 = 5$ for $0° \\le x \\le 360°$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      }
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a pyramid $ABCDE$."
+        },
+        {
+          "type": "text",
+          "content": "The pyramid has a square horizontal base $ABCD$ with side $5\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "The vertex $E$ is vertically above the centre $O$ of the base."
+        },
+        {
+          "type": "text",
+          "content": "The height $OE$ of the pyramid is $9\\text{ cm}$."
+        },
+        {
+          "type": "text",
+          "content": "Calculate the angle that $EC$ makes with the base $ABCD$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper21/Q21/Q21_Stem_Fig1.png"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      }
+    },
+    {
+      "qnum": 22,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{x^{8/3}}{x^{2/3}}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$16 = 64^k$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $k$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve."
+            },
+            {
+              "type": "text",
+              "content": "$$3^{3x} \\times \\left(\\frac{1}{9}\\right)^{x - 3} = 3^4$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null
+    }
+  ]
+}

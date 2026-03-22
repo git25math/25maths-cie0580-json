@@ -1,0 +1,1458 @@
+{
+  "v": "1.0",
+  "paper": "2020OctNov-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2020,
+  "session": "OctNov",
+  "paperNum": "42",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Karel travelled from London to Johannesburg and then from Johannesburg to Windhoek."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The flight from London to Johannesburg took $11$ hours $10$ minutes."
+            },
+            {
+              "type": "text",
+              "content": "The average speed was $813 \\text{ km/h}$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the distance travelled from London to Johannesburg."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to the nearest $10 \\text{ km}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The total time for Karel’s journey from London to Windhoek was $15$ hours $42$ minutes."
+            },
+            {
+              "type": "text",
+              "content": "The total distance travelled from London to Windhoek was $10\\,260 \\text{ km}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the average speed for this journey."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km/h}$"
+              }
+            },
+            {
+              "label": "(b)(ii)(a)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The cost of Karel’s journey from London to Windhoek was $\\$470$.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the distance travelled per dollar."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km per dollar}$"
+              }
+            },
+            {
+              "label": "(b)(ii)(b)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the cost per $100 \\text{ km}$ of this journey."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer correct to the nearest cent."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$",
+                "suffix": "$\\text{per 100 km}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Karel changed $\\$300$ into $3891$ Namibian dollars.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Complete the statement."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$1 =$",
+            "suffix": "$\\text{Namibian dollars}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper42/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle $T$ onto triangle $P$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "_____________________________________________________________________________________________________\n_____________________________________________________________________________________________________"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Reflect triangle $T$ in the line $x = -1$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Rotate triangle $T$ through $90^\\circ$ anticlockwise about $(6, 0)$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Enlarge triangle $T$ by a scale factor of $-2$, centre $(1, 0)$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "Beth invests $\\$2000$ at a rate of $2\\%$ per year compound interest.",
+              "_dollar_warning": true
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the value of this investment at the end of $5$ years."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the overall percentage increase in the value of Beth’s investment at the end of $5$ years."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the minimum number of complete years it takes for the value of Beth’s investment to increase from $\\$2000$ to more than $\\$2500$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The population of a village decreases exponentially at a rate of $4\\%$ each year."
+            },
+            {
+              "type": "text",
+              "content": "The population is now $255$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the population $16$ years ago."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The height, $h \\text{ cm}$, of each of $120$ plants is measured."
+        },
+        {
+          "type": "text",
+          "content": "The cumulative frequency diagram shows this information."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper42/Q04/Q04_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper42/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the cumulative frequency diagram to find an estimate of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the median,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the interquartile range,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the 60th percentile,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the number of plants with a height greater than $40 \\text{ cm}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The information in the cumulative frequency diagram is shown in this frequency table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|}\\hlineHeight, $h$ cm & $0 < h \\le 10$ & $10 < h \\le 20$ & $20 < h \\le 30$ & $30 < h \\le 50$ \\\\\\hlineFrequency & 2 & 18 & 62 & 38 \\\\\\hline\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate an estimate of the mean height."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A histogram is drawn to show the information in the frequency table."
+                },
+                {
+                  "type": "text",
+                  "content": "The height of the bar representing the interval $10 < h \\le 20$ is $7.2 \\text{ cm}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the height of the bar representing the interval $30 < h \\le 50$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ahmed sells different types of cake in his shop."
+        },
+        {
+          "type": "text",
+          "content": "The cost of each cake depends on its type and its size."
+        },
+        {
+          "type": "text",
+          "content": "Every small cake costs $\\$x$ and every large cake costs $\\$(2x + 1)$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The total cost of $3$ small lemon cakes and $2$ large lemon cakes is $\\$12.36$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Find the cost of a small lemon cake."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The cost of $18$ small chocolate cakes is the same as the cost of $7$ large chocolate cakes."
+            },
+            {
+              "type": "text",
+              "content": "Find the cost of a small chocolate cake."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The number of small cherry cakes that can be bought for $\\$4$ is the same as the number of large cherry cakes that can be bought for $\\$13$."
+            },
+            {
+              "type": "text",
+              "content": "Find the cost of a small cherry cake."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "Petra spends $\\$20$ on small coffee cakes and $\\$10$ on large coffee cakes."
+            },
+            {
+              "type": "text",
+              "content": "The total number of cakes is $45$."
+            },
+            {
+              "type": "text",
+              "content": "Write an equation in terms of $x$."
+            },
+            {
+              "type": "text",
+              "content": "Solve this equation to find the cost of a small coffee cake."
+            },
+            {
+              "type": "text",
+              "content": "Show all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows six discs."
+        },
+        {
+          "type": "text",
+          "content": "Each disc has a colour and a number."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper42/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "One disc is picked at random."
+            },
+            {
+              "type": "text",
+              "content": "Write down the probability that"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the disc has the number $4$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the disc is red and has the number $3$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the disc is blue and has the number $4$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two of the six discs are picked at random without replacement."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "both discs have the number $3$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "both discs have the same colour."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two of the six discs are picked at random with replacement."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that both discs have the same colour."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$y = x^2 + \\frac{1}{x}, x \\neq 0$"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper42/Q07/Q07_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper42/Q07/Q07_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\\hline$x$ & 0.2 & 0.3 & 0.5 & 1 & 1.5 & 2 & 2.5 \\\\\\hline$y$ & 5.0 & 3.4 & 2.3 & & 2.9 & & 6.7 \\\\\\hline\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = x^2 + \\frac{1}{x}$ for $0.2 \\le x \\le 2.5$."
+            },
+            {
+              "type": "text",
+              "content": "The graph of $y = x^2 + \\frac{1}{x}$ for $-2.5 \\le x \\le -0.2$ has been drawn for you."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "By drawing suitable straight lines on the grid, solve the following equations."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$x^2 + \\frac{1}{x} = -2$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x =$"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$x^2 + \\frac{1}{x} + x - 1 = 0$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x =$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$k$ is an integer and the equation $x^2 + \\frac{1}{x} = k$ has three solutions."
+            },
+            {
+              "type": "text",
+              "content": "Write down a possible value of $k$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k =$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 17,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper42/Q08/Q08_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper42/Q08/Q08_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper42/Q08/Q08_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The points $A$, $B$, $C$, $D$ and $E$ lie on the circle."
+            },
+            {
+              "type": "text",
+              "content": "$PAQ$ is a tangent to the circle at $A$ and $EC = EB$."
+            },
+            {
+              "type": "text",
+              "content": "Angle $ECB = 80^\\circ$ and angle $ABE = 40^\\circ$."
+            },
+            {
+              "type": "text",
+              "content": "Find the values of $v$, $w$, $x$, $y$ and $z$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 5,
+            "template": "$v =$ ____\n$w =$ ____\n$x =$ ____\n$y =$ ____\n$z =$ ____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "In the diagram, $K$, $L$ and $M$ lie on the circle, centre $O$."
+            },
+            {
+              "type": "text",
+              "content": "Angle $KML = 2x^\\circ$ and reflex angle $KOL = 11x^\\circ$."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagonals of the cyclic quadrilateral $ABCD$ intersect at $X$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Explain why triangle $ADX$ is similar to triangle $BCX$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give a reason for each statement you make."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 4,
+                "template": "_____________________________________________________________________________________________________\n_____________________________________________________________________________________________________\n_____________________________________________________________________________________________________\n_____________________________________________________________________________________________________"
+              }
+            },
+            {
+              "label": "(c)(ii)(a)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$AD = 10 \\text{ cm}$, $BC = 8 \\text{ cm}$, $BX = 5 \\text{ cm}$ and $CX = 7 \\text{ cm}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate $DX$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$DX =$",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(c)(ii)(b)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate angle $BXC$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $BXC =$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a prism with a rectangular base, $ABFE$."
+        },
+        {
+          "type": "text",
+          "content": "The cross-section, $ABCD$, is a trapezium with $AD = BC$."
+        },
+        {
+          "type": "text",
+          "content": "$AB = 8 \\text{ cm}$, $GH = 5 \\text{ cm}$, $BF = 12 \\text{ cm}$ and angle $ABC = 70^\\circ$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper42/Q09/Q09_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the total surface area of the prism."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The perpendicular from $G$ onto $EF$ meets $EF$ at $X$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that $EX = 6.5 \\text{ cm}$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate $AX$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$AX =$",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the angle between the diagonal $AG$ and the base $ABFE$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$f(x) = 2x + 1$"
+        },
+        {
+          "type": "text",
+          "content": "$g(x) = 2x - 1$"
+        },
+        {
+          "type": "text",
+          "content": "$h(x) = \\frac{1}{x}, x \\neq 0$"
+        },
+        {
+          "type": "text",
+          "content": "$j(x) = 5^x$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$f(3)$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$gf(3)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $g^{-1}(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$g^{-1}(x) =$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $x$ when $h(x) = 2$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $g(x)g(x) - gg(x)$, giving your answer in the form $ax^2 + bx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $hh(x)$, giving your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $j(5)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(g)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $x$ when $j^{-1}(x) = 2$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        },
+        {
+          "label": "(h)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$j(x) = hg(-12)$"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x =$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2020OctNov/Paper42/Q11/Q11_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table for the three sequences."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|}\\hlineSequence & 1st term & 2nd term & 3rd term & 4th term & 5th term & $n$th term \\\\\\hlineA & 13 & 9 & 5 & 1 & & \\\\\\hlineB & 0 & 7 & 26 & 63 & & \\\\\\hlineC & $\\frac{7}{8}$ & $\\frac{8}{16}$ & $\\frac{9}{32}$ & $\\frac{10}{64}$ & & \\\\\\hline\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "One term in Sequence C is $\\frac{p}{q}$."
+            },
+            {
+              "type": "text",
+              "content": "Write down the next term in Sequence C in terms of $p$ and $q$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

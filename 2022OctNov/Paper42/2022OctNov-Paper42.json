@@ -1,0 +1,1537 @@
+{
+  "v": "1.0",
+  "paper": "2022OctNov-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "OctNov",
+  "paperNum": "42",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 16,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 9,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "At a football club, season tickets are sold for seated areas and for standing areas."
+                },
+                {
+                  "type": "text",
+                  "content": "The cost of season tickets are in the ratio $\\text{seated} : \\text{standing} = 5 : 3$."
+                },
+                {
+                  "type": "text",
+                  "content": "The cost of a season ticket for the standing area is $\\$45$.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "Find the cost of a season ticket for the seated area."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In 2021, the value of the team’s players was $\\$2.65$ million.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "In 2022 this value has decreased by $12\\%$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the value in 2022."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$",
+                "suffix": "million"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The number of people at a football match is $1455$."
+                },
+                {
+                  "type": "text",
+                  "content": "This is $6.25\\%$ of the total number of people allowed in the stadium."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the total number of people allowed in the stadium."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(a)(iv)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The average attendance increased exponentially by $4\\%$ each year for the three years from 2016 to 2019."
+                },
+                {
+                  "type": "text",
+                  "content": "In 2019 the average attendance was $1631$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the average attendance for 2016."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "Another club sells season tickets for individuals and for families."
+            },
+            {
+              "type": "text",
+              "content": "In 2018, the number of season tickets sold is in the ratio $\\text{family} : \\text{individual} = 2 : 7$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The number of family season tickets sold is $x$."
+                },
+                {
+                  "type": "text",
+                  "content": "Write an expression, in terms of $x$, for the number of individual season tickets sold."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In 2019, the number of family season tickets sold increases by $12$ and the number of individual season tickets sold decreases by $26$."
+                },
+                {
+                  "type": "text",
+                  "content": "Complete the table by writing expressions, in terms of $x$, for the number of tickets sold each year."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|}\\hline Year & Family tickets & Individual tickets \\\\\\hline 2018 & $x$ & \\\\\\hline 2019 & & \\\\\\hline\\end{tabular}"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In 2019, the number of individual season tickets sold is $3$ times the number of family season tickets sold."
+                },
+                {
+                  "type": "text",
+                  "content": "Write an equation in $x$ and solve it to find the number of family tickets sold in 2018."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "s": "1.3",
+        "cat": "number",
+        "d": 3,
+        "topics": [
+          "Ratio, Proportion and Rates of work",
+          "Percentages"
+        ]
+      }
+    },
+    {
+      "qnum": 2,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "All the lengths in this question are measured in centimetres."
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a solid cuboid with a square base."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper42/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper42/Q02/Q02_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "The volume, $V \\text{ cm}^3$, of the cuboid is $V = x^2(9 - x)$."
+            },
+            {
+              "type": "text",
+              "content": "The table shows some values of $V$ for $0 \\le x \\le 9$."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|c|c|c|c|c|}\\hline $x$ & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\\\\\hline $V$ & 0 & 8 & & 54 & 80 & 100 & 108 & 98 & 64 & 0 \\\\\\hline\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid on the opposite page, draw the graph of $V = x^2(9 - x)$ for $0 \\le x \\le 9$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the values of $x$ when the volume of the cuboid is $44 \\text{ cm}^3$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 1,
+                "template": "$x = $ ____ or $x = $ ____"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that the total surface area of the cuboid is $(36x - 2x^2) \\text{ cm}^2$."
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the surface area when the volume of the cuboid is a maximum."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "s": "2.12",
+        "cat": "algebra",
+        "d": 3,
+        "topics": [
+          "Functions",
+          "Graphs"
+        ]
+      }
+    },
+    {
+      "qnum": 3,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Kai and Ann carry out a survey on the distances travelled, in kilometres, by $200$ cars."
+        },
+        {
+          "type": "text",
+          "content": "Kai completes this frequency table for the data collected."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline Distance ($d$ km) & $80 < d \\le 100$ & $100 < d \\le 150$ & $150 < d \\le 200$ & $200 < d \\le 300$ & $300 < d \\le 400$ \\\\\\hline Frequency & 7 & 33 & 76 & 52 & 32 \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper42/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 9,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate an estimate of the mean."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "km"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Ann uses this frequency table for the same data."
+                },
+                {
+                  "type": "text",
+                  "content": "There is a different interval for the final group."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline Distance ($d$ km) & $80 < d \\le 100$ & $100 < d \\le 150$ & $150 < d \\le 200$ & $200 < d \\le 300$ & $300 < d \\le 360$ \\\\\\hline Frequency & 7 & 33 & 76 & 52 & 32 \\\\\\hline\\end{tabular}"
+                },
+                {
+                  "type": "text",
+                  "content": "Without calculating an estimate of the mean for this data, find the difference between Ann’s and Kai’s estimate of the mean."
+                },
+                {
+                  "type": "text",
+                  "content": "You must show all your working."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "km"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A histogram is drawn showing the information in Kai’s frequency table."
+                },
+                {
+                  "type": "text",
+                  "content": "The height of the block for the interval $200 < d \\le 300$ is $2.6 \\text{ cm}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the height of the block for each of the following intervals."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 3,
+                "template": "$80 < d \\le 100$ ____ $\\text{cm}$\n$150 < d \\le 200$ ____ $\\text{cm}$\n$300 < d \\le 400$ ____ $\\text{cm}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "One car is picked at random."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that the car has travelled more than $300 \\text{ km}$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two of the $200$ cars are picked at random."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "both cars have travelled $150 \\text{ km}$ or less,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "one car has travelled more than $200 \\text{ km}$ and the other car has travelled $100 \\text{ km}$ or less."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "s": "6.2",
+        "cat": "statistics",
+        "d": 3,
+        "topics": [
+          "Averages and Spread",
+          "Probability"
+        ]
+      }
+    },
+    {
+      "qnum": 4,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper42/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "shape A onto shape B,"
+                },
+                {
+                  "type": "space",
+                  "height": "1.5cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "________________________\n________________________"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "shape A onto shape C,"
+                },
+                {
+                  "type": "space",
+                  "height": "1.5cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "________________________\n________________________"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "shape A onto shape D."
+                },
+                {
+                  "type": "space",
+                  "height": "1.5cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "________________________\n________________________"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the image of shape A after a reflection in the line $y = x + 8$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "meta": {
+        "s": "5.2",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Transformations"
+        ]
+      }
+    },
+    {
+      "qnum": 5,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper42/Q05/Q05_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows the speed–time graph for part of a journey for two vehicles, a car and a bus."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the acceleration of the car during the first $18$ seconds."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{m/s}^2$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In the first $40$ seconds the car travelled $134 \\text{ m}$ more than the bus."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the constant speed, $v$, of the bus."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$v$ =",
+                "suffix": "$\\text{m/s}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A train takes $10$ minutes $30$ seconds to travel $16\\,240 \\text{ m}$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the average speed of the train."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in kilometres per hour."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km/h}$"
+          }
+        }
+      ],
+      "meta": {
+        "s": "1.9",
+        "cat": "kinematics",
+        "d": 3,
+        "topics": [
+          "Speed, Distance and Time",
+          "Kinematics Graphs"
+        ]
+      }
+    },
+    {
+      "qnum": 6,
+      "marks": 21,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve."
+            },
+            {
+              "type": "text",
+              "content": "$$ \\frac{x}{4} + 9 = 15 $$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise."
+            },
+            {
+              "type": "text",
+              "content": "$$ a^2 - 9 $$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write as a single fraction in its simplest form."
+            },
+            {
+              "type": "text",
+              "content": "$$ \\frac{5a}{4} \\div \\frac{10c}{3ad} $$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$ 5^n + 5^n + 5^n + 5^n + 5^n = 5^m $$"
+            },
+            {
+              "type": "text",
+              "content": "Find an expression for $m$ in terms of $n$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$m$ ="
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve by factorisation."
+            },
+            {
+              "type": "text",
+              "content": "$$ x^2 + 5x - 84 = 0 $$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "template": "$x = $ ____ or $x = $ ____"
+          }
+        },
+        {
+          "label": "(f)",
+          "marks": 5,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(f)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$y$ is directly proportional to $(x+3)^3$."
+                },
+                {
+                  "type": "text",
+                  "content": "When $x = 2$, $y = 13.5$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find $x$ when $y = 108$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            },
+            {
+              "label": "(f)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$g$ is inversely proportional to the square of $d$."
+                },
+                {
+                  "type": "text",
+                  "content": "When $d$ is halved, the value of $g$ is multiplied by a factor $n$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find $n$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$n$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(g)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify."
+            },
+            {
+              "type": "text",
+              "content": "$$ (x + 2)(3x - 1)(x + 3) $$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(h)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the derivative, $\\frac{\\text{d}y}{\\text{d}x}$, of $y = x^3 + 4x^2 - 1$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {
+        "s": "2.1",
+        "cat": "algebra",
+        "d": 4,
+        "topics": [
+          "Equations",
+          "Algebraic Fractions",
+          "Indices",
+          "Variation",
+          "Differentiation"
+        ]
+      }
+    },
+    {
+      "qnum": 7,
+      "marks": 18,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper42/Q07/Q07_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper42/Q07/Q07_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper42/Q07/Q07_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate angle $QPR$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $QPR$ ="
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the shortest distance from $Q$ to $PR$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a cuboid."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the length $AG$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$AG$ =",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the angle between $AG$ and the base $ABCD$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows the positions of a lighthouse, $L$, and two ships, $K$ and $M$."
+            },
+            {
+              "type": "text",
+              "content": "The bearing of $L$ from $K$ is $155^\\circ$ and $KL = 112 \\text{ km}$."
+            },
+            {
+              "type": "text",
+              "content": "The bearing of $K$ from $M$ is $010^\\circ$ and angle $KML = 96^\\circ$."
+            },
+            {
+              "type": "text",
+              "content": "Find the bearing and distance of ship $M$ from the lighthouse, $L$."
+            },
+            {
+              "type": "space",
+              "height": "1.5cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "Bearing ____________________\nDistance ____________________ $\\text{km}$"
+          }
+        }
+      ],
+      "meta": {
+        "s": "4.5",
+        "cat": "geometry",
+        "d": 4,
+        "topics": [
+          "Trigonometry",
+          "Bearings",
+          "3D Geometry"
+        ]
+      }
+    },
+    {
+      "qnum": 8,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$AB$ is a line with midpoint $M$."
+        },
+        {
+          "type": "text",
+          "content": "$A$ is the point $(2, 3)$ and $M$ is the point $(12, 7)$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of $B$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that the equation of the perpendicular bisector of $AB$ is $2y + 5x = 74$."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The perpendicular bisector of $AB$ passes through the point $N$."
+            },
+            {
+              "type": "text",
+              "content": "The point $N$ has coordinates $(2, n)$."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $n$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$n$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Points $A$, $M$ and $N$ form a triangle."
+            },
+            {
+              "type": "text",
+              "content": "Find the area of the triangle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "meta": {
+        "s": "3.2",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Coordinate Geometry"
+        ]
+      }
+    },
+    {
+      "qnum": 9,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the diagram, sketch the graph of $y = \\sin x$ for $0^\\circ \\le x \\le 360^\\circ$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the equation $5 \\sin x + 4 = 0$ for $0^\\circ \\le x \\le 360^\\circ$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "template": "$x = $ ____ or $x = $ ____"
+          }
+        }
+      ],
+      "meta": {
+        "s": "4.5",
+        "cat": "geometry",
+        "d": 4,
+        "topics": [
+          "Trigonometry Graphs",
+          "Trigonometric Equations"
+        ]
+      }
+    },
+    {
+      "qnum": 10,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper42/Q10/Q10_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper42/Q10/Q10_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The lengths of the sides of a triangle are $11.4 \\text{ cm}$, $14.8 \\text{ cm}$ and $15.7 \\text{ cm}$, all correct to 1 decimal place."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the upper bound of the perimeter of the triangle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a circle, radius $15.6 \\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "The angle of the minor sector is $150^\\circ$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the area of the minor sector."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a circle, radius $r \\text{ cm}$ and minor sector angle $x^\\circ$."
+            },
+            {
+              "type": "text",
+              "content": "The perimeter of the major sector is three times the perimeter of the minor sector."
+            },
+            {
+              "type": "text",
+              "content": "Show that $x = \\frac{90(\\pi - 2)}{\\pi}$."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "meta": {
+        "s": "1.7",
+        "cat": "geometry",
+        "d": 4,
+        "topics": [
+          "Bounds",
+          "Mensuration"
+        ]
+      }
+    },
+    {
+      "qnum": 11,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022OctNov/Paper42/Q11/Q11_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$$ \\left| m \\begin{pmatrix} 9 \\\\ 40 \\end{pmatrix} \\right| = 205 $$"
+            },
+            {
+              "type": "text",
+              "content": "Find the two possible values of $m$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "template": "$m = $ ____ or ____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "$OABC$ is a parallelogram."
+            },
+            {
+              "type": "text",
+              "content": "$\\overrightarrow{OA} = \\mathbf{a}$ and $\\overrightarrow{OC} = \\mathbf{c}$."
+            },
+            {
+              "type": "text",
+              "content": "$P$ is the point on $CB$ such that $CP : PB = 3 : 1$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find, in terms of $\\mathbf{a}$ and/or $\\mathbf{c}$, in their simplest form,"
+                }
+              ],
+              "subparts": [
+                {
+                  "label": "(a)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "$\\overrightarrow{AC}$,"
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "expression",
+                    "prefix": "$\\overrightarrow{AC}$ ="
+                  }
+                },
+                {
+                  "label": "(b)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "$\\overrightarrow{CP}$,"
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "expression",
+                    "prefix": "$\\overrightarrow{CP}$ ="
+                  }
+                },
+                {
+                  "label": "(c)",
+                  "marks": 1,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "$\\overrightarrow{OP}$."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "expression",
+                    "prefix": "$\\overrightarrow{OP}$ ="
+                  }
+                }
+              ]
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$OP$ and $AB$ are extended to meet at $Q$."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the position vector of $Q$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {
+        "s": "5.3",
+        "cat": "algebra",
+        "d": 4,
+        "topics": [
+          "Vectors"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1242 @@
+{
+  "v": "1.0",
+  "paper": "2021OctNov-Paper41",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "OctNov",
+  "paperNum": "41",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper41/Q01/Q01_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a brick in the shape of a cuboid."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the total surface area of the brick."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The density of the brick is $1.9 \\text{ g/cm}^3$."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the mass of the brick."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in kilograms."
+                },
+                {
+                  "type": "text",
+                  "content": "[Density = mass $\\div$ volume]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{kg}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "9000 bricks are needed to build a house."
+            },
+            {
+              "type": "text",
+              "content": "200 bricks cost $\\$175$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Work out the cost of the bricks needed to build 5 houses."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Saskia builds a wall using 1500 bricks."
+            },
+            {
+              "type": "text",
+              "content": "She can build at the rate of 40 bricks each hour."
+            },
+            {
+              "type": "text",
+              "content": "She works for 9 hours each day."
+            },
+            {
+              "type": "text",
+              "content": "Saskia starts work on 6 July and works every day until the wall is completed."
+            },
+            {
+              "type": "text",
+              "content": "Find the date when she completes the wall."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rafa has a cylindrical tank."
+            },
+            {
+              "type": "text",
+              "content": "The cylinder has a height of 105 cm and a diameter of 45 cm."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the capacity of the tank in litres."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "litres"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Bob, Chao and Mei take part in a run for charity."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Their times to complete the run are in the ratio Bob : Chao : Mei = 4 : 5 : 7."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find Chao’s time as a percentage of Mei’s time."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Bob’s time for the run is 55 minutes 40 seconds."
+                },
+                {
+                  "type": "text",
+                  "content": "Find Mei’s time for the run."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in minutes and seconds."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "suffix": "min"
+                  },
+                  {
+                    "suffix": "s"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Chao collects $\\$47.50$ for charity.",
+              "_dollar_warning": true
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Bob collects 28% more than Chao."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the amount Bob collects."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Chao collects 60% less than Mei."
+                },
+                {
+                  "type": "text",
+                  "content": "Find how much more money Mei collects than Chao."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "When running, Chao has a stride length of 70 cm, correct to the nearest 5 cm."
+            },
+            {
+              "type": "text",
+              "content": "Chao runs a distance of 11.2 km, correct to the nearest 0.1 km."
+            },
+            {
+              "type": "text",
+              "content": "Work out the minimum number of strides that Chao could take to complete this distance."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In 2015, a charity raised a total of $\\$1.6$ million.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "After 2015, this amount increased exponentially by 2.4% each year for the next 5 years."
+            },
+            {
+              "type": "text",
+              "content": "Work out the amount raised by the charity in 2020."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$\\$$",
+            "suffix": "million"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The cumulative frequency diagram shows information about the mass, $m$ kg, of each of 80 boys."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper41/Q03/Q03_Stem_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper41/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw a box-and-whisker plot to show the information in the cumulative frequency diagram."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the cumulative frequency diagram to find an estimate of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the 30th percentile,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "kg"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the number of boys with a mass greater than 75 kg."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 8,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use the cumulative frequency diagram to complete this frequency table."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\nMass ($m$ kg) & $30 < m \\le 40$ & $40 < m \\le 50$ & $50 < m \\le 60$ & $60 < m \\le 70$ & $70 < m \\le 80$ & $80 < m \\le 90$ \\\\\n\\hline\nFrequency & 8 & 12 & 14 & 10 & & \\\\\n\\hline\n\\end{tabular}"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate an estimate of the mean mass of the boys."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "kg"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Two boys are chosen at random from those with a mass greater than 70 kg."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the probability that one of them has a mass greater than 80 kg and the other has a mass of 80 kg or less."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$\\frac{6 - x}{2} - \\frac{7 - x}{3} = 8$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$\\frac{5}{x - 2} = \\frac{3}{2}$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise completely."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$288x^2 - 2y^2$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$$5x^2 + 17x - 40$$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $$\\frac{4}{x + 1} + \\frac{7}{x - 9} = \\frac{3}{2x - 3}$$."
+            },
+            {
+              "type": "text",
+              "content": "You must show all your working and give your answers correct to 2 decimal places."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ ="
+              },
+              {
+                "prefix": "or $x$ ="
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper41/Q05/Q05_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper41/Q05/Q05_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A$, $B$, $C$ and $D$ are points on a circle, centre $O$."
+            },
+            {
+              "type": "text",
+              "content": "Angle $COD = 124^\\circ$ and angle $BCO = 35^\\circ$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out angle $CBD$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give a geometrical reason for your answer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "Angle $CBD$ =",
+                    "suffix": "because"
+                  },
+                  {}
+                ]
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out angle $BAD$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give a geometrical reason for each step of your working."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "Angle $BAD$ =",
+                    "suffix": "because"
+                  },
+                  {}
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "$P$, $Q$, $R$ and $S$ are points on a circle, centre $O$."
+            },
+            {
+              "type": "text",
+              "content": "$QS$ is a diameter."
+            },
+            {
+              "type": "text",
+              "content": "Angle $PRS = 42^\\circ$ and $PQ = 5.9 \\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the circumference of the circle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "cm"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows some values for $y = \\frac{x^2}{2} - \\frac{3}{x}$, $x \\neq 0$, given correct to 1 decimal place."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper41/Q06/Q06_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\n$x$ & -3 & -2 & -1 & -0.5 & -0.2 & 0.2 & 0.5 & 1 & 2 & 3 \\\\\n\\hline\n$y$ & & 2.5 & 3.3 & 7.5 & & -7.5 & & -2.8 & -0.5 & 3.3 \\\\\n\\hline\n\\end{tabular}"
+                },
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 5,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the graph of $y = \\frac{x^2}{2} - \\frac{3}{x}$ for $-3 \\le x \\le -0.2$ and $0.2 \\le x \\le 3$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "By drawing a suitable straight line on the grid, solve the equation $x^3 - 5x^2 - 24x + 15 = 0$ for $-3 \\le x \\le -0.2$ and $0.2 \\le x \\le 3$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ ="
+              },
+              {
+                "prefix": "or $x$ ="
+              }
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The solutions to the equation $x^3 - 5x^2 - 24x + 15 = 0$ are also the solutions to an equation of the form $ax^3 + bx^2 + cx - 15 = 0$ where $a$, $b$ and $c$ are integers."
+            },
+            {
+              "type": "text",
+              "content": "Find the values of $a$, $b$ and $c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$a$ ="
+              },
+              {
+                "prefix": "$b$ ="
+              },
+              {
+                "prefix": "$c$ ="
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper41/Q07/Q07_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper41/Q07/Q07_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(a)(i)(a)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "shape A after an enlargement, scale factor 2, centre $(0, 1)$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(i)(b)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "shape A after a reflection in the line $y = -1$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Describe fully the single transformation that maps shape A onto shape B."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$OABC$ is a trapezium and $O$ is the origin."
+            },
+            {
+              "type": "text",
+              "content": "$M$ is the midpoint of $AB$."
+            },
+            {
+              "type": "text",
+              "content": "$\\overrightarrow{OA} = \\mathbf{p}$, $\\overrightarrow{OC} = \\mathbf{q}$ and $OA = 2CB$."
+            },
+            {
+              "type": "text",
+              "content": "Find, in terms of $\\mathbf{p}$ and $\\mathbf{q}$, the position vector of $M$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "$f(x) = x^3 - 5$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $x$ when $f(x) = -5$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $f^{-1}(x)$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$f^{-1}(x)$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 12,
+          "content": [
+            {
+              "type": "text",
+              "content": "$g(x) = 18 - 3x - x^2$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write $g(x)$ in the form $a - (x + b)^2$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Sketch the graph of $y = g(x)$."
+                },
+                {
+                  "type": "text",
+                  "content": "On your sketch, show the coordinates of the turning point."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 6,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of the tangent to the graph of $y = 18 - 3x - x^2$ at $x = 4$."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in the form $y = mx + c$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$y$ ="
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper41/Q09/Q09_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper41/Q09/Q09_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper41/Q09/Q09_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "This rectangle has perimeter 20 cm."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "This rhombus has perimeter 20 cm and angle $y$ is obtuse."
+            },
+            {
+              "type": "text",
+              "content": "$M$ is the midpoint of one of the sides."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $y$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "This sector of a circle has radius $r$ and perimeter 20 cm."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $z$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$z$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

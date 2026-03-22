@@ -1,0 +1,1398 @@
+{
+  "v": "1.0",
+  "paper": "2021OctNov-Paper33",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "OctNov",
+  "paperNum": "33",
+  "type": "core-calc",
+  "totalMarks": 104,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Roberto and his family fly from London to Los Angeles on a holiday."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q01/Q01_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q01/Q01_Sube_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The flight takes 11 hours 15 minutes."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The flight leaves London at 15 40 local time."
+                },
+                {
+                  "type": "text",
+                  "content": "The local time in Los Angeles is 8 hours behind the local time in London."
+                },
+                {
+                  "type": "text",
+                  "content": "Work out the local time in Los Angeles that the plane arrives."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The plane flies a total of $8760 \\text{ km}$."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the average speed of the plane."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km/h}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Roberto hires a car."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The cost of hiring a car is $\\$56$ per day, plus a fixed cost of $\\$436$."
+                },
+                {
+                  "type": "text",
+                  "content": "Write down a formula for the cost, $C$ dollars, of hiring a car for $d$ days."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Roberto is given a car at random."
+                },
+                {
+                  "type": "text",
+                  "content": "There are four colours of car."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|c|c|}\n\\hline\nColour & Red & Silver & Black & White \\\\\n\\hline\nProbability & $0.17$ & $0.24$ & $0.3$ & \\\\\n\\hline\n\\end{tabular}"
+                },
+                {
+                  "type": "text",
+                  "content": "Complete the table."
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The family visit a national park which has an area of $4986 \\text{ km}^2$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write 4986 correct to the nearest hundred."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write 4986 in standard form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A ticket for the park costs $\\$17.50$ plus $8\\%$ tax.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the amount of tax paid."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The scale drawing shows the positions of two viewing points, $A$ and $B$, in the park."
+            },
+            {
+              "type": "text",
+              "content": "The scale is $1 \\text{ centimetre}$ represents $5 \\text{ kilometres}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the actual distance between point $A$ and point $B$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{km}$"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Point $C$ is $20 \\text{ km}$ from point $A$ on a bearing of $072^\\circ$."
+                },
+                {
+                  "type": "text",
+                  "content": "On the scale drawing mark the position of point $C$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 2,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The bar chart shows the number of cars sold by a garage in each of six months."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q02/Q02_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q02/Q02_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In July, 11 cars were sold."
+                },
+                {
+                  "type": "text",
+                  "content": "Complete the bar chart."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "How many more cars were sold in March than in May?"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "These are the opening times of the garage."
+            },
+            {
+              "type": "list",
+              "style": "none",
+              "items": [
+                "Monday to Friday $8.30 \\text{ am}$ to $5.30 \\text{ pm}$",
+                "Saturday $8.30 \\text{ am}$ to $1.00 \\text{ pm}$",
+                "Sunday Closed"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "Work out how many hours the garage is open in one week."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{h}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Mohammed works at the garage."
+            },
+            {
+              "type": "text",
+              "content": "He works for 36 hours from Monday to Friday and for 2 hours on Saturday."
+            },
+            {
+              "type": "text",
+              "content": "He is paid $\\$10.50$ per hour from Monday to Friday.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "On Saturday he is paid $1 \\frac{1}{2}$ times this rate."
+            },
+            {
+              "type": "text",
+              "content": "Calculate how much Mohammed is paid for this week."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Viktor is saving to buy a car."
+            },
+            {
+              "type": "text",
+              "content": "He invests $\\$8000$ for 5 years at a rate of $2.4\\%$ per year compound interest.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of Viktor's investment at the end of the 5 years."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to the nearest dollar."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "At the garage, Pierre, Luigi and Freda sell cars."
+            },
+            {
+              "type": "text",
+              "content": "They share a bonus of $\\$12 000$ in the ratio Pierre : Luigi : Freda = 8 : 4 : 3.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the amount they each receive."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "Pierre $\\$"
+              },
+              {
+                "prefix": "Luigi $\\$"
+              },
+              {
+                "prefix": "Freda $\\$"
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 3,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q03/Q03_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q03/Q03_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the order of rotational symmetry of each shape."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 10,
+          "content": [
+            {
+              "type": "text",
+              "content": "Triangles $A$, $B$ and $C$ are shown on the grid."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 6,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Describe fully the single transformation that maps"
+                }
+              ],
+              "subparts": [
+                {
+                  "label": "(a)",
+                  "marks": 3,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "triangle $A$ onto triangle $B$,"
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "multiline",
+                    "lines": 2
+                  }
+                },
+                {
+                  "label": "(b)",
+                  "marks": 3,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "triangle $A$ onto triangle $C$."
+                    },
+                    {
+                      "type": "space",
+                      "height": "1cm"
+                    }
+                  ],
+                  "answer": {
+                    "type": "multiline",
+                    "lines": 2
+                  }
+                }
+              ]
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, reflect triangle $C$ in the line $x = -1$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, translate triangle $C$ by the vector $\\begin{pmatrix} 5 \\\\ -1 \\end{pmatrix}$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 4,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q04/Q04_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q04/Q04_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q04/Q04_Subc_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Measure the size of angle $x$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "Angle $x$ =",
+                "suffix": "$^\\circ$"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name of this type of angle."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$ABC$ is a straight line and $ABD$ is an isosceles triangle."
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $y$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "$E$, $F$ and $G$ are points on the circle, centre $O$."
+            },
+            {
+              "type": "text",
+              "content": "$EG = 12 \\text{ cm}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name for the line $FG$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Explain why angle $EFG$ is $90^\\circ$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the area of the circle."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 5,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q05/Q05_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "A cuboid measures $4 \\text{ cm}$ by $2 \\text{ cm}$ by $2 \\text{ cm}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the $1 \\text{ cm}^2$ grid, draw an accurate net of this cuboid."
+                },
+                {
+                  "type": "text",
+                  "content": "One face has been drawn for you."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the surface area of the cuboid."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A factory makes 5000 of these cuboids."
+                },
+                {
+                  "type": "text",
+                  "content": "25 of the cuboids are checked and 3 of these cuboids are faulty."
+                },
+                {
+                  "type": "text",
+                  "content": "How many of the 5000 cuboids are expected to be faulty?"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The surface area of a cube is $294 \\text{ cm}^2$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the volume of the cube."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The length, $l \\text{ cm}$, of a line is measured as $24 \\text{ cm}$, correct to the nearest centimetre."
+            },
+            {
+              "type": "text",
+              "content": "Complete the statement about the value of $l$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "suffix": "$\\leqslant l <$"
+              },
+              {}
+            ]
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 6,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q06/Q06_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q06/Q06_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "text",
+              "content": "Jean asks 600 people to choose their favourite sport."
+            },
+            {
+              "type": "text",
+              "content": "The pie chart shows some of this information."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that 100 people choose tennis."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out how many people choose rugby."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "125 people choose cricket and the rest choose swimming."
+                },
+                {
+                  "type": "text",
+                  "content": "Complete the pie chart to show this information."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(iv)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One of the 600 people is picked at random."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the probability that this person chooses tennis or cricket."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer as a fraction in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "There are 80 people in a group."
+            },
+            {
+              "type": "text",
+              "content": "$H = \\{\\text{people who play hockey}\\}$"
+            },
+            {
+              "type": "text",
+              "content": "$N = \\{\\text{people who play netball}\\}$"
+            },
+            {
+              "type": "text",
+              "content": "36 people play hockey."
+            },
+            {
+              "type": "text",
+              "content": "53 people play netball."
+            },
+            {
+              "type": "text",
+              "content": "8 people do not play hockey or netball."
+            },
+            {
+              "type": "text",
+              "content": "Complete the Venn diagram."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 7,
+      "marks": 11,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number six hundred and three thousand eight hundred and twenty-one in figures."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Pens cost 47 cents each."
+            },
+            {
+              "type": "text",
+              "content": "Aroha buys 8 pens."
+            },
+            {
+              "type": "text",
+              "content": "How much change does she receive from $\\$5$?",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\sqrt{81}$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$6^3$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$3^0$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 130 as a product of its prime factors."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A tower has two bells, $A$ and $B$."
+            },
+            {
+              "type": "text",
+              "content": "Bell $A$ rings every 12 minutes."
+            },
+            {
+              "type": "text",
+              "content": "Bell $B$ rings every 14 minutes."
+            },
+            {
+              "type": "text",
+              "content": "Both bells ring at 09 30."
+            },
+            {
+              "type": "text",
+              "content": "Find the next time both bells ring together."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 8,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q08/Q08_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q08/Q08_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021OctNov/Paper33/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Line $L$ is shown on the grid."
+            },
+            {
+              "type": "text",
+              "content": "Find the equation of line $L$ in the form $y = mx + c$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 8,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table of values for $y = x^2 + 4x$."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|c|c|c|c|c|c|c|c|}\n\\hline\n$x$ & $-6$ & $-5$ & $-4$ & $-3$ & $-2$ & $-1$ & $0$ & $1$ & $2$ & $3$ \\\\\n\\hline\n$y$ & $12$ & $5$ & $0$ & $-3$ & & $-3$ & $0$ & $5$ & $12$ & \\\\\n\\hline\n\\end{tabular}"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the graph of $y = x^2 + 4x$ for $-6 \\leqslant x \\leqslant 3$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your graph to solve the equation $x^2 + 4x = 10$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$x =$"
+                  },
+                  {
+                    "prefix": "or $x =$"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 9,
+      "marks": 10,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            },
+            {
+              "type": "text",
+              "content": "$3g + 7g - 4g$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve."
+            },
+            {
+              "type": "text",
+              "content": "$5x + 4 = 27$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$6^3 \\times 6^{17} = 6^p$"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of $p$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$p$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Mia buys 4 calculators and 2 pens for $\\$20.60$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Heidi buys 5 calculators and 3 pens for $\\$26.90$.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Write down a pair of simultaneous equations and solve them to find the cost of a calculator and the cost of a pen."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "Calculator $\\$"
+              },
+              {
+                "prefix": "Pen $\\$"
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null
+    }
+  ]
+}

@@ -11,194 +11,1290 @@
   "time": 150,
   "questions": [
     {
-      "qnum": 1, "marks": 13,
+      "qnum": 1,
+      "marks": 13,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 9, "content": [{ "type": "text", "content": "In 2023 a football club had 50 adult members and 70 child members. The membership fee for an adult was $\\$40$ and the membership fee for a child was $\\$15$." }],
+        {
+          "label": "(a)",
+          "marks": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "In 2023 a football club had 50 adult members and 70 child members. The membership fee for an adult was $\\$40$ and the membership fee for a child was $\\$15$."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Calculate the total of the membership fees received by the club in 2023." }], "answer": { "type": "number", "prefix": "$\\$$" } },
-            { "label": "(ii)", "marks": 1, "content": [{ "type": "text", "content": "The cost of running the club in 2023 was $\\$2780$. Calculate $\\$2780$ as a percentage of the total of the membership fees received by the club." }], "answer": { "type": "number", "suffix": "%" } },
-            { "label": "(iii)", "marks": 2, "content": [{ "type": "text", "content": "In 2023 there were 120 members. This was a decrease by 4% of the number of members in 2022. Calculate the number of members in 2022." }], "answer": { "type": "number" } },
-            { "label": "(iv)", "marks": 4, "content": [{ "type": "text", "content": "In 2024 the total number of members increased from the 120 members in 2023. The number of adult members and the number of child members each increased by the same number. The ratio number of adult members : number of child members changed to $14 : 19$." }],
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the total of the membership fees received by the club in 2023."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$\\$$"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The cost of running the club in 2023 was $\\$2780$. Calculate $\\$2780$ as a percentage of the total of the membership fees received by the club."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "%"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In 2023 there were 120 members. This was a decrease by 4% of the number of members in 2022. Calculate the number of members in 2022."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(iv)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "In 2024 the total number of members increased from the 120 members in 2023. The number of adult members and the number of child members each increased by the same number. The ratio number of adult members : number of child members changed to $14 : 19$."
+                }
+              ],
               "subparts": [
-                { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Find the total number of members in 2024." }], "answer": { "type": "number" } },
-                { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Calculate the percentage increase in the total number of members from 2023 to 2024." }], "answer": { "type": "number", "suffix": "%" } }
+                {
+                  "label": "(a)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Find the total number of members in 2024."
+                    }
+                  ],
+                  "answer": {
+                    "type": "number"
+                  }
+                },
+                {
+                  "label": "(b)",
+                  "marks": 2,
+                  "content": [
+                    {
+                      "type": "text",
+                      "content": "Calculate the percentage increase in the total number of members from 2023 to 2024."
+                    }
+                  ],
+                  "answer": {
+                    "type": "number",
+                    "suffix": "%"
+                  }
+                }
               ]
             }
           ]
         },
-        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "The population of a village is 2500. The population is decreasing exponentially at a rate of 3% per year." }],
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The population of a village is 2500. The population is decreasing exponentially at a rate of 3% per year."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Calculate the population at the end of 3 years." }], "answer": { "type": "number" } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Find the number of complete years it takes for the population to first fall below 2000." }], "answer": { "type": "number", "suffix": "years" } }
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the population at the end of 3 years."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the number of complete years it takes for the population to first fall below 2000."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "years"
+              }
+            }
           ]
         }
       ],
-      "meta": { "s": "1.12", "cat": "number", "d": 2, "topics": ["Number"], "cmd": "calculate" }
+      "meta": {
+        "s": "1.12",
+        "cat": "number",
+        "d": 2,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "calculate"
+      }
     },
     {
-      "qnum": 2, "marks": 12,
+      "qnum": 2,
+      "marks": 12,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 3, "content": [{ "type": "text", "content": "The $n$th term of a sequence is $120 - n^3$." }],
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The $n$th term of a sequence is $120 - n^3$."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Find the 4th term of this sequence." }], "answer": { "type": "number" } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Find the value of $n$ when the $n$th term is $-1211$." }], "answer": { "type": "number" } }
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the 4th term of this sequence."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the value of $n$ when the $n$th term is $-1211$."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 1, "content": [{ "type": "text", "content": "The $n$th term of a different sequence is $3 \\times (0.2)^{n-1}$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the 5th term of this sequence." }], "answer": { "type": "number" } },
-        { "label": "(c)", "marks": 8, "content": [{ "type": "text", "content": "The table shows the first four terms of sequences $A$, $B$ and $C$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Sequence $A$: $7, 4, 1, -2, \\ldots$" }, { "type": "text", "content": "Sequence $B$: $\\frac{1}{4}, \\frac{2}{5}, \\frac{3}{6}, \\frac{4}{7}, \\ldots$" }, { "type": "text", "content": "Sequence $C$: $0, 2, 6, 12, \\ldots$" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Complete the table for each sequence." }], "answer": { "type": "table_input" } }
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The $n$th term of a different sequence is $3 \\times (0.2)^{n-1}$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the 5th term of this sequence."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows the first four terms of sequences $A$, $B$ and $C$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Sequence $A$: $7, 4, 1, -2, \\ldots$"
+            },
+            {
+              "type": "text",
+              "content": "Sequence $B$: $\\frac{1}{4}, \\frac{2}{5}, \\frac{3}{6}, \\frac{4}{7}, \\ldots$"
+            },
+            {
+              "type": "text",
+              "content": "Sequence $C$: $0, 2, 6, 12, \\ldots$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Complete the table for each sequence."
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        }
       ],
-      "meta": { "s": "6.2", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "find" }
+      "meta": {
+        "s": "6.2",
+        "cat": "algebra",
+        "d": 2,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "find"
+      }
     },
     {
-      "qnum": 3, "marks": 11,
+      "qnum": 3,
+      "marks": 11,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 5, "content": [{ "type": "text", "content": "Rahul rolls a dice 60 times. The results are shown in the table." }, { "type": "newline", "lines": 1 }, { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q03/Q03_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the mode, the median and the mean." }], "answer": { "type": "multiline", "lines": [{ "label": "mode", "value": "" }, { "label": "median", "value": "" }, { "label": "mean", "value": "" }] } },
-        { "label": "(b)", "marks": 6, "content": [{ "type": "text", "content": "Sangita measures the speed of each of 100 cars. The results are shown in the table." }, { "type": "newline", "lines": 1 }, { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q03/Q03_Subb_Fig2.png" }],
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rahul rolls a dice 60 times. The results are shown in the table."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q03/Q03_Suba_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the mode, the median and the mean."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": [
+              {
+                "label": "mode",
+                "value": ""
+              },
+              {
+                "label": "median",
+                "value": ""
+              },
+              {
+                "label": "mean",
+                "value": ""
+              }
+            ],
+            "template": "mode ____\nmedian ____\nmean ____"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Sangita measures the speed of each of 100 cars. The results are shown in the table."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q03/Q03_Subb_Fig2.png"
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 4, "content": [{ "type": "text", "content": "Calculate an estimate of the mean speed." }], "answer": { "type": "number", "suffix": "km/h" } },
-            { "label": "(ii)", "marks": 2, "content": [{ "type": "text", "content": "Sangita draws a histogram to show the information in the table. The height of the bar that represents $20 < v \\leq 30$ is 3 cm. Calculate the height of each of the other two bars on this histogram." }], "answer": { "type": "multiline", "lines": [{ "label": "30<v≤50", "value": "" }, { "label": "50<v≤75", "value": "" }] } }
+            {
+              "label": "(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate an estimate of the mean speed."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "km/h"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Sangita draws a histogram to show the information in the table. The height of the bar that represents $20 < v \\leq 30$ is 3 cm. Calculate the height of each of the other two bars on this histogram."
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": [
+                  {
+                    "label": "30<v≤50",
+                    "value": ""
+                  },
+                  {
+                    "label": "50<v≤75",
+                    "value": ""
+                  }
+                ],
+                "template": "30<v≤50 ____\n50<v≤75 ____"
+              }
+            }
           ]
         }
       ],
-      "meta": { "s": "9.2", "cat": "statistics", "d": 2, "topics": ["Statistics"], "cmd": "find" }
+      "meta": {
+        "s": "9.2",
+        "cat": "statistics",
+        "d": 2,
+        "topics": [
+          "Statistics"
+        ],
+        "cmd": "find"
+      }
     },
     {
-      "qnum": 4, "marks": 9,
+      "qnum": 4,
+      "marks": 9,
       "stem": [
-        { "type": "text", "content": "In this question all the measurements are in centimetres." },
-        { "type": "newline", "lines": 1 },
-        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q04/Q04_Stem_Fig1.png" },
-        { "type": "newline", "lines": 1 },
-        { "type": "text", "content": "The area of the triangle is equal to the area of the square." }
+        {
+          "type": "text",
+          "content": "In this question all the measurements are in centimetres."
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q04/Q04_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The area of the triangle is equal to the area of the square."
+        }
       ],
       "parts": [
-        { "label": "(a)", "marks": 4, "content": [{ "type": "text", "content": "Show that $3r^2 + r - 6 = 0$." }], "answer": { "type": "none" } },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "text", "content": "Solve the equation $3r^2 + r - 6 = 0$. Give your answer to 2 decimal places. You must show all your working." }], "answer": { "type": "multiline", "lines": [{ "label": "$r=$", "value": "" }, { "label": "$r=$", "value": "" }] } },
-        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "Find the perimeter of the square." }], "answer": { "type": "number", "suffix": "cm" } }
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that $3r^2 + r - 6 = 0$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the equation $3r^2 + r - 6 = 0$. Give your answer to 2 decimal places. You must show all your working."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": [
+              {
+                "label": "$r=$",
+                "value": ""
+              },
+              {
+                "label": "$r=$",
+                "value": ""
+              }
+            ],
+            "template": "$r=$ ____\n$r=$ ____"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the perimeter of the square."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "cm"
+          }
+        }
       ],
-      "meta": { "s": "2.7", "cat": "algebra", "d": 2, "topics": ["Algebra"], "cmd": "show" }
+      "meta": {
+        "s": "2.7",
+        "cat": "algebra",
+        "d": 2,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "show"
+      }
     },
     {
-      "qnum": 5, "marks": 13,
+      "qnum": 5,
+      "marks": 13,
       "stem": [
-        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q05/Q05_Stem_Fig1.png" },
-        { "type": "newline", "lines": 1 },
-        { "type": "text", "content": "The diagram shows the graph of $y = \\text{f}(x)$ for values of $x$ from $-3$ to $3$." }
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q05/Q05_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows the graph of $y = \\text{f}(x)$ for values of $x$ from $-3$ to $3$."
+        }
       ],
       "parts": [
-        { "label": "(a)", "marks": 6, "content": [],
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [],
           "subparts": [
-            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "Use the graph to find $\\text{f}(2)$." }], "answer": { "type": "number" } },
-            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "Use the graph to solve the equation $\\text{f}(x) = 5$." }], "answer": { "type": "expression" } },
-            { "label": "(iii)", "marks": 1, "content": [{ "type": "text", "content": "The equation $\\text{f}(x) = k$ has exactly two solutions. Write down the value of $k$." }], "answer": { "type": "number" } },
-            { "label": "(iv)", "marks": 1, "content": [{ "type": "text", "content": "Choose the correct word from the box to complete the statement: The line $x = 0$ is the \\ldots\\ldots to the graph of $y = \\text{f}(x)$." }], "answer": { "type": "expression" } }
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use the graph to find $\\text{f}(2)$."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use the graph to solve the equation $\\text{f}(x) = 5$."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The equation $\\text{f}(x) = k$ has exactly two solutions. Write down the value of $k$."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Choose the correct word from the box to complete the statement: The line $x = 0$ is the \\ldots\\ldots to the graph of $y = \\text{f}(x)$."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 3, "content": [],
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "On the grid, draw the graph of $y = x - 2$ for values of $x$ from $-3$ to $3$." }], "answer": { "type": "none" } },
-            { "label": "(ii)", "marks": 1, "content": [{ "type": "text", "content": "Find $x$ when $\\text{f}(x) = x - 2$." }], "answer": { "type": "number" } }
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw the graph of $y = x - 2$ for values of $x$ from $-3$ to $3$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $x$ when $\\text{f}(x) = x - 2$."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
           ]
         },
-        { "label": "(c)", "marks": 2, "content": [{ "type": "text", "content": "$\\text{f}(x) = x^2 - \\dfrac{c}{x}, \\; x \\neq 0$" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Use the graph to show that $c = 2$." }], "answer": { "type": "none" } },
-        { "label": "(d)", "marks": 2, "content": [{ "type": "text", "content": "The equation $\\text{f}(x) = x - 2$ can be written as $x^3 + px^2 + qx = 2$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the value of $p$ and the value of $q$." }], "answer": { "type": "multiline", "lines": [{ "label": "$p=$", "value": "-1" }, { "label": "$q=$", "value": "2" }] } }
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\text{f}(x) = x^2 - \\dfrac{c}{x}, \\; x \\neq 0$"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Use the graph to show that $c = 2$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The equation $\\text{f}(x) = x - 2$ can be written as $x^3 + px^2 + qx = 2$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $p$ and the value of $q$."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": [
+              {
+                "label": "$p=$",
+                "value": "-1"
+              },
+              {
+                "label": "$q=$",
+                "value": "2"
+              }
+            ],
+            "template": "$p=$ ____\n$q=$ ____"
+          }
+        }
       ],
-      "meta": { "s": "2.10", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+      "meta": {
+        "s": "2.10",
+        "cat": "algebra",
+        "d": 3,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "find"
+      }
     },
     {
-      "qnum": 6, "marks": 15,
+      "qnum": 6,
+      "marks": 15,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 2, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q06/Q06_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a ladder, $GH$, on horizontal ground, leaning against a vertical wall, $HF$. $GF = 1.5$ m and $HF = 4$ m." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the length of the ladder, $GH$." }], "answer": { "type": "number", "suffix": "m" } },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q06/Q06_Subb_Fig2.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$W$ is 120 m north of $V$ and 50 m east of $V$. Calculate the bearing of $V$ from $W$." }], "answer": { "type": "number" } },
-        { "label": "(c)", "marks": 5, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q06/Q06_Subc_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "In the quadrilateral $ABCD$, $AD = DC = 5$ cm and $AB = BC$. Angle $ABD = 25°$ and angle $BAD = 15°$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the perimeter of the quadrilateral $ABCD$." }], "answer": { "type": "number", "suffix": "cm" } },
-        { "label": "(d)", "marks": 5, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q06/Q06_Subd_Fig2.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "$PQRS$ is a quadrilateral. $SR = 8$ cm, $PS = 11$ cm, $QR = 14$ cm, $PQ = 10$ cm. Angle $PSR = 110°$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate angle $PQR$." }], "answer": { "type": "number", "suffix": "$°$" } }
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q06/Q06_Suba_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows a ladder, $GH$, on horizontal ground, leaning against a vertical wall, $HF$. $GF = 1.5$ m and $HF = 4$ m."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the length of the ladder, $GH$."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "m"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q06/Q06_Subb_Fig2.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$W$ is 120 m north of $V$ and 50 m east of $V$. Calculate the bearing of $V$ from $W$."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q06/Q06_Subc_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "In the quadrilateral $ABCD$, $AD = DC = 5$ cm and $AB = BC$. Angle $ABD = 25°$ and angle $BAD = 15°$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the perimeter of the quadrilateral $ABCD$."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "cm"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q06/Q06_Subd_Fig2.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "$PQRS$ is a quadrilateral. $SR = 8$ cm, $PS = 11$ cm, $QR = 14$ cm, $PQ = 10$ cm. Angle $PSR = 110°$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate angle $PQR$."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°$"
+          }
+        }
       ],
-      "meta": { "s": "5.3", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "calculate" }
+      "meta": {
+        "s": "5.3",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "calculate"
+      }
     },
     {
-      "qnum": 7, "marks": 11,
+      "qnum": 7,
+      "marks": 11,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 5, "content": [],
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "A car travels 50 km at an average speed of 75 km/h. Find the time taken. Give your answer in minutes." }], "answer": { "type": "number", "suffix": "min" } },
-            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "Another car travels 47 km, correct to the nearest kilometre. The average speed of this car is 75 km/h, correct to the nearest 5 km/h." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the lower bound of the time taken. Give your answer in minutes." }], "answer": { "type": "number", "suffix": "min" } }
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "A car travels 50 km at an average speed of 75 km/h. Find the time taken. Give your answer in minutes."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "min"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Another car travels 47 km, correct to the nearest kilometre. The average speed of this car is 75 km/h, correct to the nearest 5 km/h."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the lower bound of the time taken. Give your answer in minutes."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "min"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 6, "content": [{ "type": "text", "content": "A train travels a total of 240 km. The train travels for $t$ **minutes** at an average speed of 100 km/h. It then travels for $(t + 60)$ **minutes** at an average speed of 110 km/h." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the average speed for the whole journey." }], "answer": { "type": "number", "suffix": "km/h" } }
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "A train travels a total of 240 km. The train travels for $t$ **minutes** at an average speed of 100 km/h. It then travels for $(t + 60)$ **minutes** at an average speed of 110 km/h."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the average speed for the whole journey."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "km/h"
+          }
+        }
       ],
-      "meta": { "s": "1.12", "cat": "number", "d": 3, "topics": ["Number"], "cmd": "calculate" }
+      "meta": {
+        "s": "1.12",
+        "cat": "number",
+        "d": 3,
+        "topics": [
+          "Number"
+        ],
+        "cmd": "calculate"
+      }
     },
     {
-      "qnum": 8, "marks": 14,
+      "qnum": 8,
+      "marks": 14,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 11, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q08/Q08_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a solid made from a cylinder and a cone. The height of the cylinder is 16 cm and the height of the cone is 1.5 cm. The radius of the cylinder and the base radius of the cone are each 0.35 cm." }],
+        {
+          "label": "(a)",
+          "marks": 11,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q08/Q08_Suba_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows a solid made from a cylinder and a cone. The height of the cylinder is 16 cm and the height of the cone is 1.5 cm. The radius of the cylinder and the base radius of the cone are each 0.35 cm."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 5, "content": [{ "type": "text", "content": "Calculate the total surface area of the solid." }, { "type": "text", "content": "[The curved surface area, $A$, of a cone with radius $r$ and slant height $l$ is $A = \\pi rl$.]" }], "answer": { "type": "number", "suffix": "$\\text{cm}^2$" } },
-            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "Calculate the volume of the solid." }, { "type": "text", "content": "[The volume, $V$, of a cone with radius $r$ and height $h$ is $V = \\dfrac{1}{3}\\pi r^2 h$.]" }], "answer": { "type": "number", "suffix": "$\\text{cm}^3$" } },
-            { "label": "(iii)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q08/Q08_Suba_Fig2.png" }, { "type": "text", "content": "10 of the solids are placed in a box in the shape of a cuboid of length 17.5 cm. The diagram shows one end of the box." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the volume of the empty space in the box." }], "answer": { "type": "number", "suffix": "$\\text{cm}^3$" } }
+            {
+              "label": "(i)",
+              "marks": 5,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the total surface area of the solid."
+                },
+                {
+                  "type": "text",
+                  "content": "[The curved surface area, $A$, of a cone with radius $r$ and slant height $l$ is $A = \\pi rl$.]"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^2$"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the volume of the solid."
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, $V$, of a cone with radius $r$ and height $h$ is $V = \\dfrac{1}{3}\\pi r^2 h$.]"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^3$"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "figure",
+                  "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q08/Q08_Suba_Fig2.png"
+                },
+                {
+                  "type": "text",
+                  "content": "10 of the solids are placed in a box in the shape of a cuboid of length 17.5 cm. The diagram shows one end of the box."
+                },
+                {
+                  "type": "newline",
+                  "lines": 1
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the volume of the empty space in the box."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^3$"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q08/Q08_Subb_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows two mathematically similar solids. The surface area of the larger solid is $200\\text{ cm}^2$ and the surface area of the smaller solid is $98\\text{ cm}^2$. The volume of the larger solid is $450\\text{ cm}^3$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Calculate the volume of the smaller solid." }], "answer": { "type": "number", "suffix": "$\\text{cm}^3$" } }
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q08/Q08_Subb_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows two mathematically similar solids. The surface area of the larger solid is $200\\text{ cm}^2$ and the surface area of the smaller solid is $98\\text{ cm}^2$. The volume of the larger solid is $450\\text{ cm}^3$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Calculate the volume of the smaller solid."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        }
       ],
-      "meta": { "s": "4.6", "cat": "geometry", "d": 2, "topics": ["Geometry"], "cmd": "calculate" }
+      "meta": {
+        "s": "4.6",
+        "cat": "geometry",
+        "d": 2,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "calculate"
+      }
     },
     {
-      "qnum": 9, "marks": 12,
+      "qnum": 9,
+      "marks": 12,
       "stem": [
-        { "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q09/Q09_Stem_Fig1.png" },
-        { "type": "newline", "lines": 1 },
-        { "type": "text", "content": "The diagram shows 7 cards." }
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q09/Q09_Stem_Fig1.png"
+        },
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows 7 cards."
+        }
       ],
       "parts": [
-        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Amir picks a card at random. Find the probability that the card shows" }],
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Amir picks a card at random. Find the probability that the card shows"
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 1, "content": [{ "type": "text", "content": "the letter H" }], "answer": { "type": "number" } },
-            { "label": "(ii)", "marks": 1, "content": [{ "type": "text", "content": "the letter B." }], "answer": { "type": "expression" } }
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the letter H"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the letter B."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         },
-        { "label": "(b)", "marks": 2, "content": [{ "type": "text", "content": "Fumika picks one of the 7 cards at random. She replaces it and picks a second card at random." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Find the probability that both cards show the letter I." }], "answer": { "type": "expression" } },
-        { "label": "(c)", "marks": 6, "content": [{ "type": "text", "content": "Marcos picks two of the 7 cards at random, **without** replacement." }],
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Fumika picks one of the 7 cards at random. She replaces it and picks a second card at random."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that both cards show the letter I."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Marcos picks two of the 7 cards at random, **without** replacement."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 3, "content": [{ "type": "text", "content": "Find the probability that one card shows the letter I and the other card shows the letter N." }], "answer": { "type": "expression" } },
-            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "Find the probability that the two cards show different letters." }], "answer": { "type": "expression" } }
+            {
+              "label": "(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that one card shows the letter I and the other card shows the letter N."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that the two cards show different letters."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
           ]
         },
-        { "label": "(d)", "marks": 2, "content": [{ "type": "text", "content": "Nina picks one of the 7 cards at random without replacement. She continues picking cards at random without replacement until she picks a card that shows the letter A." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The probability that this occurs when she picks the $n$th card is $\\dfrac{4}{21}$. Find the value of $n$." }], "answer": { "type": "number" } }
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Nina picks one of the 7 cards at random without replacement. She continues picking cards at random without replacement until she picks a card that shows the letter A."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The probability that this occurs when she picks the $n$th card is $\\dfrac{4}{21}$. Find the value of $n$."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
       ],
-      "meta": { "s": "8.3", "cat": "probability", "d": 3, "topics": ["Probability"], "cmd": "find" }
+      "meta": {
+        "s": "8.3",
+        "cat": "probability",
+        "d": 3,
+        "topics": [
+          "Probability"
+        ],
+        "cmd": "find"
+      }
     },
     {
-      "qnum": 10, "marks": 11,
+      "qnum": 10,
+      "marks": 11,
       "stem": [
-        { "type": "text", "content": "$y = x^7 - 7x^6$" }
+        {
+          "type": "text",
+          "content": "$y = x^7 - 7x^6$"
+        }
       ],
       "parts": [
-        { "label": "(a)", "marks": 2, "content": [{ "type": "text", "content": "Find the derivative of $y$ with respect to $x$." }], "answer": { "type": "expression" } },
-        { "label": "(b)", "marks": 4, "content": [{ "type": "text", "content": "Find the equation of the tangent to the graph of $y = x^7 - 7x^6$ at the point where $x = -1$. Give your answer in the form $y = mx + c$." }], "answer": { "type": "expression" } },
-        { "label": "(c)", "marks": 5, "content": [{ "type": "text", "content": "The graph of $y = x^7 - 7x^6$ has two turning points. Find the coordinates of these points. You must show all your working." }], "answer": { "type": "expression" } }
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the derivative of $y$ with respect to $x$."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the equation of the tangent to the graph of $y = x^7 - 7x^6$ at the point where $x = -1$. Give your answer in the form $y = mx + c$."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The graph of $y = x^7 - 7x^6$ has two turning points. Find the coordinates of these points. You must show all your working."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
       ],
-      "meta": { "s": "2.11", "cat": "algebra", "d": 3, "topics": ["Algebra"], "cmd": "find" }
+      "meta": {
+        "s": "2.11",
+        "cat": "algebra",
+        "d": 3,
+        "topics": [
+          "Algebra"
+        ],
+        "cmd": "find"
+      }
     },
     {
-      "qnum": 11, "marks": 9,
+      "qnum": 11,
+      "marks": 9,
       "stem": [],
       "parts": [
-        { "label": "(a)", "marks": 3, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q11/Q11_Suba_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "In the circle, centre $O$, the length of the minor arc $PQ$ is $\\dfrac{3}{7}$ of the length of the major arc $PQ$." }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "Show that $x = 108$." }], "answer": { "type": "none" } },
-        { "label": "(b)", "marks": 6, "content": [{ "type": "figure", "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q11/Q11_Subb_Fig1.png" }, { "type": "newline", "lines": 1 }, { "type": "text", "content": "The diagram shows a sector, $OAB$, of a circle with centre $O$ and radius $r$. The area of triangle $OAB$ is half the area of the sector. Angle $AOB = y°$ and is obtuse." }],
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q11/Q11_Suba_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "In the circle, centre $O$, the length of the minor arc $PQ$ is $\\dfrac{3}{7}$ of the length of the major arc $PQ$."
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "Show that $x = 108$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2024MayJune/Paper43/Q11/Q11_Subb_Fig1.png"
+            },
+            {
+              "type": "newline",
+              "lines": 1
+            },
+            {
+              "type": "text",
+              "content": "The diagram shows a sector, $OAB$, of a circle with centre $O$ and radius $r$. The area of triangle $OAB$ is half the area of the sector. Angle $AOB = y°$ and is obtuse."
+            }
+          ],
           "subparts": [
-            { "label": "(i)", "marks": 2, "content": [{ "type": "text", "content": "Show that $360 \\sin y = \\pi y$." }], "answer": { "type": "none" } },
-            { "label": "(ii)", "marks": 3, "content": [{ "type": "text", "content": "Complete the table, giving your answers correct to two decimal places." }], "answer": { "type": "table_input" } },
-            { "label": "(iii)", "marks": 1, "content": [{ "type": "text", "content": "The value of $y$, correct to one decimal place, that satisfies the equation $360 \\sin y = \\pi y$ is \\ldots" }], "answer": { "type": "number" } }
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that $360 \\sin y = \\pi y$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the table, giving your answers correct to two decimal places."
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The value of $y$, correct to one decimal place, that satisfies the equation $360 \\sin y = \\pi y$ is \\ldots"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
           ]
         }
       ],
-      "meta": { "s": "4.5", "cat": "geometry", "d": 3, "topics": ["Geometry"], "cmd": "show" }
+      "meta": {
+        "s": "4.5",
+        "cat": "geometry",
+        "d": 3,
+        "topics": [
+          "Geometry"
+        ],
+        "cmd": "show"
+      }
     }
   ]
 }

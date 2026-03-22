@@ -1,0 +1,1396 @@
+{
+  "v": "1.0",
+  "paper": "2021MayJune-Paper41",
+  "board": "cie",
+  "code": "0580",
+  "year": 2021,
+  "session": "MayJune",
+  "paperNum": "41",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "The total cost of a taxi journey is calculated as"
+            },
+            {
+              "type": "text",
+              "content": "• $0.50 per kilometre",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "plus"
+            },
+            {
+              "type": "text",
+              "content": "• $0.40 per minute.",
+              "_dollar_warning": true
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the total cost of a journey of 32 km that takes 30 minutes."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The total cost of a journey of 100 km is $98.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "Show that the time taken is 2 hours."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Three taxi drivers travel a total of 8190 km in the ratio $5 : 2 : 7$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the distance each driver travels."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "Driver 1",
+                "suffix": "km"
+              },
+              {
+                "prefix": "Driver 2",
+                "suffix": "km"
+              },
+              {
+                "prefix": "Driver 3",
+                "suffix": "km"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "After midnight, the cost of any taxi journey increases by 45%."
+            },
+            {
+              "type": "text",
+              "content": "One journey costs $84.10 after midnight.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the cost of the same journey before midnight."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the speed−time graph for the first 180 seconds of a train journey."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the acceleration, in $\\text{m/s}^2$, of the train during the first 50 seconds."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m/s}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "After 180 seconds, the train decelerates at a constant rate of $1944 \\text{ km/h}^2$."
+            },
+            {
+              "type": "text",
+              "content": "Show that the train decelerates for 60 seconds until it stops."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the speed−time graph."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the average speed of the train for the whole journey."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m/s}$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q03/Q03_Suba_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q03/Q03_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a solid cone and a solid hemisphere."
+            },
+            {
+              "type": "text",
+              "content": "The cone has radius 2.4 cm and slant height 6.3 cm."
+            },
+            {
+              "type": "text",
+              "content": "The hemisphere has radius $R$ cm."
+            },
+            {
+              "type": "text",
+              "content": "The total surface area of the cone is equal to the total surface area of the hemisphere."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of $R$."
+            },
+            {
+              "type": "text",
+              "content": "[The curved surface area, $A$, of a cone with radius $r$ and slant height $l$ is $A = \\pi r l$.]"
+            },
+            {
+              "type": "text",
+              "content": "[The curved surface area, $A$, of a sphere with radius $r$ is $A = 4 \\pi r^2$.]"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$R$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a solid cone with radius 7.6 cm and height 16 cm."
+            },
+            {
+              "type": "text",
+              "content": "A cut is made parallel to the base of the cone and the top section is removed."
+            },
+            {
+              "type": "text",
+              "content": "The remaining solid has height 12 cm, as shown in the diagram."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the volume of the remaining solid."
+            },
+            {
+              "type": "text",
+              "content": "[The volume, $V$, of a cone with radius $r$ and height $h$ is $V = \\frac{1}{3} \\pi r^2 h$.]"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The exchange rate is 1 euro = $1.142.",
+              "_dollar_warning": true
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Johann changes $500 into euros.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the number of euros Johann receives."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer correct to the nearest euro."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "euros"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Johann buys a computer for $329.",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "The same computer costs 275 euros."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the difference in cost in dollars."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Lucy spends $\\frac{3}{8}$ of the money she has saved this month on a book that costs $5.25.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate how much money Lucy has saved this month."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Kamal invests $6130 at a rate of $r\\%$ per year compound interest.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "The value of his investment at the end of 5 years is $6669.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of $r$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$r$ ="
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows triangle $ABC$."
+        },
+        {
+          "type": "text",
+          "content": "$X$ is a point on $BC$."
+        },
+        {
+          "type": "text",
+          "content": "$AX = 10.6 \\text{ cm}$, $XC = 6.4 \\text{ cm}$, angle $ABC = 58^\\circ$ and angle $AXB = 78^\\circ$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q05/Q05_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $AC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$AC$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $BX$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$BX$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the area of triangle $ABC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q06/Q06_Subb_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q06/Q06_Subc_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q06/Q06_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "In the Venn diagram, shade the region $(P \\cup Q)'$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "There are 50 students in a group."
+            },
+            {
+              "type": "text",
+              "content": "34 have a mobile phone ($M$)."
+            },
+            {
+              "type": "text",
+              "content": "39 have a computer ($C$)."
+            },
+            {
+              "type": "text",
+              "content": "5 have no mobile phone and no computer."
+            },
+            {
+              "type": "text",
+              "content": "Complete the Venn diagram to show this information."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "The Venn diagram shows the number of students in a group of 30 who have brothers ($B$), sisters ($S$) or cousins ($C$)."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the number of students who have brothers."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the number of students who have cousins but do not have sisters."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $n(B \\cup S \\cup C)'$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use set notation to describe the set of students who have both cousins and sisters but do not have brothers."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(v)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One student is picked at random from the 30 students."
+                },
+                {
+                  "type": "text",
+                  "content": "Find the probability that this student has cousins."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(vi)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Two students are picked at random from the students who have cousins."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the probability that both these students have brothers."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(vii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One student is picked at random from the 30 students."
+                },
+                {
+                  "type": "text",
+                  "content": "Event A: This student has sisters."
+                },
+                {
+                  "type": "text",
+                  "content": "Event B: This student has cousins but does not have brothers."
+                },
+                {
+                  "type": "text",
+                  "content": "Explain why event A and event B are equally likely."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{x^2 - 25}{x^2 - x - 20}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write as a single fraction in its simplest form."
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{5}{x+8} + \\frac{1}{x-1}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "A curve has equation $y = 2x^3 - 6x^2 + 4$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $\\frac{\\text{d}y}{\\text{d}x}$, the derived function of $y$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the gradient of the curve $y = 2x^3 - 6x^2 + 4$ at $x = 4$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the coordinates of the two stationary points on the curve."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "(",
+                    "suffix": ","
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ") and ("
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ","
+                  },
+                  {
+                    "prefix": "",
+                    "suffix": ")"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 10,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q08/Q08_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q08/Q08_Suba_Fig2.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q08/Q08_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows information about the mass, in kilograms, of each of 50 children."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hlineMass ($k$ kg) & $0 < k \\le 10$ & $10 < k \\le 25$ & $25 < k \\le 35$ & $35 < k \\le 40$ & $40 < k \\le 50$ \\\\\\hlineFrequency & 3 & 19 & 21 & 5 & 2 \\\\\\hline\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete the cumulative frequency table."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hlineMass ($k$ kg) & $k \\le 10$ & $k \\le 25$ & $k \\le 35$ & $k \\le 40$ & $k \\le 50$ \\\\\\hlineCumulative frequency & & & & & \\\\\\hline\\end{tabular}"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw a cumulative frequency diagram to show this information."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use your diagram to find an estimate of the number of children with a mass of 32 kg or less."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "This cumulative frequency diagram shows information about the height, in metres, of each of 100 students."
+            },
+            {
+              "type": "text",
+              "content": "The height of the tallest student is 1.83 metres."
+            },
+            {
+              "type": "text",
+              "content": "The height of the shortest student is 1.45 metres."
+            },
+            {
+              "type": "text",
+              "content": "On this grid, draw a box-and-whisker plot for the heights of the 100 students."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a prism, $ABCDEF$."
+        },
+        {
+          "type": "text",
+          "content": "$AB = 13 \\text{ cm}$, $AC = 20 \\text{ cm}$, $CF = 24 \\text{ cm}$ and angle $ABC = 90^\\circ$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q09/Q09_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the total surface area of the prism."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the volume of the prism."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the angle that $AF$ makes with the base $BCFE$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 10,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows some values of $y = 3 + 4x - x^2$ for $-1 \\le x \\le 5$."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|c|c|c|c|}\\hline$x$ & $-1$ & $-0.5$ & $0$ & $1$ & $2$ & $3$ & $4$ & $4.5$ & $5$ \\\\\\hline$y$ & $-2$ & & & $6$ & & $6$ & & & $-2$ \\\\\\hline\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q10/Q10_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = 3 + 4x - x^2$ for $-1 \\le x \\le 5$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down an integer value of $k$ for which the equation $3 + 4x - x^2 = k$ has no solutions."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "By drawing a suitable straight line on the grid, solve the equation $2x^2 - 9x + 1 = 0$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ =",
+                "suffix": "or $x$ ="
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 11,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "newline",
+          "lines": 1
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q11/Q11_Subb_Fig1.png"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2021MayJune/Paper41/Q11/Q11_Subd_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the size of an exterior angle of a regular polygon with 18 sides."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In triangle $ACD$, $B$ lies on $AC$ and $E$ lies on $AD$ such that $BE$ is parallel to $CD$."
+            },
+            {
+              "type": "text",
+              "content": "$AE = 5.2 \\text{ cm}$ and $ED = 2.6 \\text{ cm}$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate $BE$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$BE$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Two solids are mathematically similar."
+            },
+            {
+              "type": "text",
+              "content": "The smaller solid has height 2 cm and volume 32 $\\text{cm}^3$."
+            },
+            {
+              "type": "text",
+              "content": "The larger solid has volume 780 $\\text{cm}^3$."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the height of the larger solid."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "$PQ$ is parallel to $RS$, $PNS$ is a straight line and $N$ is the midpoint of $RQ$."
+            },
+            {
+              "type": "text",
+              "content": "Explain, giving reasons, why triangle $PQN$ is congruent to triangle $SRN$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 12,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$f(x) = 3 - 2x$"
+        },
+        {
+          "type": "text",
+          "content": "$g(x) = x^2 + 5$"
+        },
+        {
+          "type": "text",
+          "content": "$h(x) = x^3$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $f(-5)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $ff(x)$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $g(x) = f(x) + 37$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "$x$ =",
+                "suffix": "or $x$ ="
+              },
+              {
+                "prefix": "",
+                "suffix": ""
+              }
+            ]
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $f^{-1}(x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$f^{-1}(x)$ ="
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $hf(x) + g(x)$."
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ]
+    }
+  ]
+}

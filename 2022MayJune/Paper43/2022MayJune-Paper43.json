@@ -1,0 +1,1074 @@
+{
+  "v": "1.0",
+  "paper": "2022MayJune-Paper43",
+  "board": "cie",
+  "code": "0580",
+  "year": 2022,
+  "session": "MayJune",
+  "paperNum": "43",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is part of a bus timetable."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|}\\hline Abbots & 06 50 & 08 25 & 09 20 \\\\ \\hline Callet & 07 12 & 08 47 & 09 42 \\\\ \\hline North Moor & 07 30 & 09 05 & 10 00 \\\\ \\hline South Moor & 07 37 & 09 12 & 10 07 \\\\ \\hline Centre Point & 08 00 & 09 35 & 10 30 \\\\ \\hline\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper43/Q01/Q01_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rashid catches the 09 20 bus at Abbots.\nFind the time the bus arrives at South Moor."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Annisa leaves home at 8.27 am and takes 25 minutes to walk to the bus stop at Callet.\nShe catches the next bus to Centre Point.\nFind the total time, in minutes, for her journey from leaving home to arriving at Centre Point."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{min}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The distance from Abbots to Centre Point is $29.4 \\text{ km}$.\nEach bus takes the same time for the journey.\nCalculate the average speed of a bus for this journey.\nGive your answer in kilometres per hour."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km/h}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "On one journey, all 56 seats on the bus are filled.\nThe ratio of adults to children on this journey is adults : children = $5 : 3$.\nThe cost for an adult ticket is $\\$2.80$.\nThe cost for a child ticket is $\\frac{3}{4}$ of the adult cost.\nWork out the total cost of the tickets for this journey.",
+              "_dollar_warning": true
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper43/Q02/Q02_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Draw the image of triangle $T$ after a reflection in the line $y = x$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Draw the image of triangle $T$ after a translation by the vector $\\begin{pmatrix} -1 \\\\ 3 \\end{pmatrix}$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Describe fully the single transformation that maps triangle $T$ onto triangle $A$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "____________________\n____________________"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A quadrilateral $P$ is enlarged by a scale factor of $1.2$ to give quadrilateral $Q$.\nThe area of quadrilateral $P$ is $20 \\text{ cm}^2$.\nCalculate the area of quadrilateral $Q$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^2$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 3,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows the numbers of tigers reported to be living in the wild in the year 2014 in some countries."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|}\\hline Country & Number \\\\ \\hline India & 2226 \\\\ \\hline Indonesia & 371 \\\\ \\hline Nepal & 198 \\\\ \\hline Bangladesh & 106 \\\\ \\hline\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper43/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)(a)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Using the table,\nfind the number of tigers in Nepal as a percentage of the number of tigers in Bangladesh,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(i)(b)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "find the ratio tigers in Bangladesh : tigers in Indonesia : tigers in India, giving your answer in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "suffix": ":"
+                  },
+                  {
+                    "suffix": ":"
+                  },
+                  {}
+                ]
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Five years later, the number of tigers reported in India was 2967.\nFind the percentage increase in the population of tigers in India."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The number of tigers in India in the year 2014 is approximately $30.48\\%$ greater than in the year 2010.\nFind the number of tigers in India in the year 2010.\nGive your answer correct to the nearest integer."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "At the start of June, a hive has a population of 2000 bees.\nThree months after the start of June the hive has a population of 2662 bees.\nThe population of this hive can be calculated using the formula\n$$P = ab^x$$\nwhere $P$ is the population of the hive $x$ months after the start of June.\nBy finding the value of $a$ and the value of $b$, calculate the population of the hive 7 months after the start of June.\nGive your answer correct to the nearest integer."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 4,
+      "marks": 11,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A regular 12-sided polygon has side length $6 \\text{ cm}$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that one interior angle of the polygon is $150^{\\circ}$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper43/Q04/Q04_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "The polygon is enclosed by a circle, centre $O$, so that each vertex touches the circumference of the circle."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that the radius, $AO$, of the circle is $11.6 \\text{ cm}$, correct to 1 decimal place."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)(a)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the circumference of the circle,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(ii)(b)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the perimeter of the shaded minor segment formed by the chord $AB$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The regular 12-sided polygon is the cross-section of a prism of length $2 \\text{ cm}$.\nCalculate the volume of the prism."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 19,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The time, $t$ minutes, taken by each of 80 people to travel to work is recorded.\nThe table shows information about these times."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline Time ($t$ minutes) & $0 < t \\le 5$ & $5 < t \\le 10$ & $10 < t \\le 20$ & $20 < t \\le 35$ & $35 < t \\le 60$ \\\\ \\hline Frequency & 3 & 7 & 18 & 28 & 24 \\\\ \\hline\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper43/Q05/Q05_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the class interval containing the median time."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate an estimate of the mean time."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{min}$"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "One of these 80 people is chosen at random.\nFind the probability that this person took longer than 10 minutes to travel to work.\nGive your answer as a fraction in its simplest form."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Two people are chosen at random from those taking 20 minutes or less to travel to work.\nCalculate the probability that one of these people took 5 minutes or less and the other took more than 5 minutes."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ]
+        },
+        {
+          "label": "(c)",
+          "marks": 9,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper43/Q05/Q05_Subc_Fig1.png"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use the frequency table on page 8 to complete the cumulative frequency table."
+                },
+                {
+                  "type": "table",
+                  "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline Time ($t$ minutes) & $t \\le 5$ & $t \\le 10$ & $t \\le 20$ & $t \\le 35$ & $t \\le 60$ \\\\ \\hline Cumulative frequency & 3 & 10 & & & 80 \\\\ \\hline\\end{tabular}"
+                }
+              ],
+              "answer": {
+                "type": "table_input"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw a cumulative frequency diagram to show this information."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find an estimate for the 80th percentile."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{min}$"
+              }
+            },
+            {
+              "label": "(iv)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find an estimate for the percentage of people who took longer than 45 minutes to travel to work.\nShow all your working."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify.\n$$\\frac{a - b}{2} - \\frac{a + 3b}{7}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify.\n$$4(x - 5) - 3(2x - 1)$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write as a single fraction in its simplest form.\n$$\\frac{5}{x} - \\frac{3}{2x - 7}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve.\n$$\\frac{3}{x - 13} = \\frac{4}{x - 6}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Make $x$ the subject of the formula.\n$$y = p\\left(\\frac{x - 5}{2x}\\right)$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$x$ ="
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 14,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a field $ABC$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper43/Q07/Q07_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $BC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$BC$ =",
+            "suffix": "$\\text{m}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate angle $ACB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $ACB$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A gate, $G$, lies on $AB$ at the shortest distance from $C$.\nCalculate $AG$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$AG$ =",
+            "suffix": "$\\text{m}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "A different triangular field $PQR$ has the same area as $ABC$.\n$PQ = 90 \\text{ m}$ and $QR = 60 \\text{ m}$.\nWork out the two possible values of angle $PQR$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "prefix": "Angle $PQR$ =",
+                "suffix": "or"
+              },
+              {}
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 8,
+      "marks": 18,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 12,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A$ has coordinates $(-2, 7)$, $B$ has coordinates $(1, -5)$ and $C$ has coordinates $(5, 4)$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the coordinates of the midpoint of the line $AB$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $\\overrightarrow{AC}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "vector",
+                "fields": 2,
+                "prefix": "$\\overrightarrow{AC} =$"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $AC$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(iv)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of the line $AB$.\nGive your answer in the form $y = mx + c$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$y$ ="
+              }
+            },
+            {
+              "label": "(v)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of the line perpendicular to $AB$ that passes through $C$.\nGive your answer in the form $y = mx + c$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$y$ ="
+              }
+            }
+          ]
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The graphs of $y = 5x + 8$ and $y = 2x^2 + 6x - 13$ intersect at the points $P$ and $Q$.\nFind the coordinates of $P$ and the coordinates of $Q$.\nShow all your working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "$P$ (____, ____)\n$Q$ (____, ____)"
+          }
+        }
+      ]
+    },
+    {
+      "qnum": 9,
+      "marks": 16,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Sketch the graph of $y = (x + 1)(x - 3)(x + 3)$, indicating the coordinates of the points where the graph crosses the $x$-axis and the $y$-axis."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 12,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that $y = (x + 1)(x - 3)(x + 3)$ can be written as $y = x^3 + x^2 - 9x - 9$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 7,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the $x$-values of the turning points of $y = x^3 + x^2 - 9x - 9$.\nShow all your working and give your answers correct to 2 decimal places."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "structured",
+                "answerBlocks": [
+                  {
+                    "prefix": "$x$ =",
+                    "suffix": ","
+                  },
+                  {
+                    "prefix": "$x$ ="
+                  }
+                ]
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The equation $x^3 + x^2 - 9x - 9 = k$ has one solution only when $k < a$ and when $k > b$, where $a$ and $b$ are integers.\nFind the maximum value of $a$ and the minimum value of $b$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "$a$ = ____\n$b$ = ____"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "qnum": 10,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a cuboid $ABCDEFGH$.\n$CG = 6 \\text{ cm}$, $AG = 24 \\text{ cm}$ and $AB = 2BC$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2022MayJune/Paper43/Q10/Q10_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $AB$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$AB$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the angle between $AG$ and the base $ABCD$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ]
+    }
+  ]
+}

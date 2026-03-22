@@ -1,0 +1,1490 @@
+{
+  "v": "1.0",
+  "paper": "2018OctNov-Paper42",
+  "board": "cie",
+  "code": "0580",
+  "year": 2018,
+  "session": "OctNov",
+  "paperNum": "42",
+  "type": "ext-calc",
+  "totalMarks": 130,
+  "time": 150,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The Muller family are on holiday in New Zealand."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "They change some euros (€) and receive $1962 (New Zealand dollars).",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "The exchange rate is €1 = $1.635 .",
+                  "_dollar_warning": true
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the number of euros they change."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "€"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The family spend $15\\%$ of their New Zealand dollars on a tour."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the number of dollars they have left."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The family visit two waterfalls, the Humboldt Falls and the Bridal Veil Falls."
+                },
+                {
+                  "type": "text",
+                  "content": "The ratio of the heights Humboldt Falls : Bridal Veil Falls = 5 : 1."
+                },
+                {
+                  "type": "text",
+                  "content": "The Humboldt Falls are 220 m higher than the Bridal Veil Falls."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the height of the Humboldt Falls."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{m}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Water flows over the Browne Falls at a rate of 3680 litres per second."
+                },
+                {
+                  "type": "text",
+                  "content": "After rain, this rate increases to 9752 litres per second."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the percentage increase in this rate."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\%$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "After rain, water flows over the Sutherland Falls at a rate of 74 240 litres per second."
+                },
+                {
+                  "type": "text",
+                  "content": "This is an increase of $45\\%$ on the rate before the rain."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the rate before the rain."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "litres/second"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 2,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $30 + 2x = 3(3 - 4x)$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise $12ab^3 + 18a^3b^2$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$5a^3c^2 \\times 2a^2c^7$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\frac{16a^8c^4}{12a^3c}$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "$y$ is inversely proportional to the square of $(x + 2)$."
+            },
+            {
+              "type": "text",
+              "content": "When $x = 3$, $y = 2$."
+            },
+            {
+              "type": "text",
+              "content": "Find $y$ when $x = 8$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write as a single fraction in its simplest form."
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{5}{x - 2} - \\frac{2}{x - 5}$$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 3,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper42/Q03/Q03_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle A onto triangle B."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "\n"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the image of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A after a reflection in the $x$-axis,"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A after a translation by the vector $\\begin{pmatrix} -5 \\\\ 7 \\end{pmatrix}$,"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(b)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "triangle A after the transformation represented by the matrix $\\begin{pmatrix} 0.5 & 0 \\\\ 0 & 0.5 \\end{pmatrix}$."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 4,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a right-angled triangle $ABC$."
+        },
+        {
+          "type": "text",
+          "content": "The area of this triangle is $30\\text{ cm}^2$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper42/Q04/Q04_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that $2x^2 + 3x - 20 = 0$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use factorisation to solve the equation $2x^2 + 3x - 20 = 0$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "template": "$x$ = __________ or $x$ = __________"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate $BC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$BC$ =",
+            "suffix": "$\\text{cm}$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 5,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows some values of $y = x^3 - 3x - 1$."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}\\hline\n$x$ & -3 & -2.5 & -2 & -1.5 & -1 & 0 & 1 & 1.5 & 2 & 2.5 & 3 \\\\\\hline\n$y$ & -19 & -9.1 & & 0.1 & 1 & -1 & -3 & -2.1 & 1 & 7.1 & \\\\\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper42/Q05/Q05_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table of values."
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper42/Q05/Q05_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "Draw the graph of $y = x^3 - 3x - 1$ for $-3 \\le x \\le 3$."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "A straight line through $(0, -17)$ is a tangent to the graph of $y = x^3 - 3x - 1$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the grid, draw this tangent."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the co-ordinates of the point where the tangent meets your graph."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(c)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the equation of the tangent."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in the form $y = mx + c$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$y$ ="
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "By drawing a suitable straight line on the grid, solve the equation $x^3 - 3x - 6 = 0$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "template": "$x$ = __________ or $x$ = __________ or $x$ = __________"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 6,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the speed-time graph for part of a journey for two people, a runner and a walker."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper42/Q06/Q06_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the acceleration of the runner for the first 3 seconds."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m/s}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the total distance travelled by the runner in the 19 seconds."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The runner and the walker are travelling in the same direction along the same path."
+            },
+            {
+              "type": "text",
+              "content": "When $t = 0$, the runner is 10 metres behind the walker."
+            },
+            {
+              "type": "text",
+              "content": "Find how far the runner is ahead of the walker when $t = 19$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{m}$"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 7,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In the diagram, $A$, $B$, $C$ and $D$ lie on the circle, centre $O$."
+        },
+        {
+          "type": "text",
+          "content": "$EA$ is a tangent to the circle at $A$."
+        },
+        {
+          "type": "text",
+          "content": "Angle $EAB = 61°$ and angle $BAC = 55°$."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper42/Q07/Q07_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find angle $BAO$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $BAO$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find angle $AOC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $AOC$ ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find angle $ABC$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $ABC$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find angle $CDA$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "Angle $CDA$ ="
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 8,
+      "marks": 12,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the positions of three cities, Geneva ($G$), Budapest ($B$) and Hamburg ($H$)."
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper42/Q08/Q08_Stem_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A plane flies from Geneva to Hamburg."
+            },
+            {
+              "type": "text",
+              "content": "The flight takes 2 hours 20 minutes."
+            },
+            {
+              "type": "text",
+              "content": "Calculate the average speed in kilometres per hour."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km/h}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the cosine rule to calculate the distance from Geneva to Budapest."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "The bearing of Budapest from Hamburg is 133°."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(c)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the bearing of Hamburg from Budapest."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(c)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the bearing of Budapest from Geneva."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 9,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper42/Q09/Q09_Suba_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 8,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table shows the amount of time, $T$ minutes, 120 people each spend in a supermarket one Saturday."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|}\n\\hline\nTime ($T$ minutes) & Number of people \\\\\n\\hline\n$10 < T \\le 30$ & 16 \\\\\n$30 < T \\le 40$ & 18 \\\\\n$40 < T \\le 45$ & 22 \\\\\n$45 < T \\le 50$ & 40 \\\\\n$50 < T \\le 60$ & 21 \\\\\n$60 < T \\le 70$ & 3 \\\\\n\\hline\n\\end{tabular}"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Use the mid-points of the intervals to calculate an estimate of the mean."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{min}$"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Complete this histogram to show the information in the table."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper42/Q09/Q09_Subb_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "This histogram shows the amount of time, $T$ minutes, 120 people each spend in the supermarket one Wednesday."
+            },
+            {
+              "type": "text",
+              "content": "Make a comment comparing the distributions of the times for the two days."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2,
+            "template": "____\n____"
+          }
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 10,
+      "marks": 13,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper42/Q10/Q10_Subb_Fig2.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 7,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper42/Q10/Q10_Suba_Fig1.png"
+            },
+            {
+              "type": "text",
+              "content": "The lake behind a dam has an area of 55 hectares."
+            },
+            {
+              "type": "text",
+              "content": "When the gates in the dam are open, water flows out at a rate of 75 000 litres per second."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that 90 million litres of water flows out in 20 minutes."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Beneath the surface, the lake has vertical sides."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the drop in the water level of the lake when the gates are open for 20 minutes."
+                },
+                {
+                  "type": "text",
+                  "content": "Give your answer in centimetres."
+                },
+                {
+                  "type": "text",
+                  "content": "[1 hectare = $10^4\\text{ m}^2$, 1000 litres = $1\\text{ m}^3$]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 3,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The cross-section of a gate is a sector of a circle with radius 8.5 m and angle 76°."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the perimeter of the sector."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{m}$"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "figure",
+              "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper42/Q10/Q10_Subb_Fig2.png"
+            },
+            {
+              "type": "text",
+              "content": "A solid metal cone has radius 10 cm and height 36 cm."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Calculate the volume of this cone."
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, $V$, of a cone with radius $r$ and height $h$ is $V = \\frac{1}{3}\\pi r^2 h$.]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}^3$"
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The cone is cut, parallel to its base, to give a smaller cone."
+                },
+                {
+                  "type": "text",
+                  "content": "The volume of the smaller cone is half the volume of the original cone."
+                },
+                {
+                  "type": "text",
+                  "content": "The smaller cone is melted down to make two different spheres."
+                },
+                {
+                  "type": "text",
+                  "content": "The ratio of the radii of these two spheres is 1 : 2."
+                },
+                {
+                  "type": "text",
+                  "content": "Calculate the radius of the smaller sphere."
+                },
+                {
+                  "type": "text",
+                  "content": "[The volume, $V$, of a sphere with radius $r$ is $V = \\frac{4}{3}\\pi r^3$.]"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 11,
+      "marks": 15,
+      "stem": [
+        {
+          "type": "text",
+          "content": ""
+        },
+        {
+          "type": "figure",
+          "src": "https://git25math.github.io/25maths-cie0580-figures/2018OctNov/Paper42/Q11/Q11_Subb_Fig1.png"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 9,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\mathbf{a} = \\begin{pmatrix} 2 \\\\ -3 \\end{pmatrix}$ $\\mathbf{b} = \\begin{pmatrix} 5 \\\\ 4 \\end{pmatrix}$ $\\mathbf{c} = \\begin{pmatrix} 14 \\\\ 9 \\end{pmatrix}$"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $3\\mathbf{a} - 2\\mathbf{b}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "vector",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find $|\\mathbf{a}|$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(a)(iii)",
+              "marks": 5,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$m\\mathbf{a} + n\\mathbf{b} = \\mathbf{c}$"
+                },
+                {
+                  "type": "text",
+                  "content": "Write down two simultaneous equations and solve them to find the value of $m$ and the value of $n$."
+                },
+                {
+                  "type": "text",
+                  "content": "Show all your working."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2,
+                "template": "$m$ = __________\n$n$ = __________"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "$OAB$ is a triangle and $C$ is the mid-point of $OB$."
+            },
+            {
+              "type": "text",
+              "content": "$D$ is on $AB$ such that $AD : DB = 3 : 5$."
+            },
+            {
+              "type": "text",
+              "content": "$OAE$ is a straight line such that $OA : AE = 2 : 3$."
+            },
+            {
+              "type": "text",
+              "content": "$\\overrightarrow{OA} = \\mathbf{a}$ and $\\overrightarrow{OC} = \\mathbf{c}$."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(b)(i)(a)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find, in terms of $\\mathbf{a}$ and $\\mathbf{c}$, in its simplest form,"
+                },
+                {
+                  "type": "text",
+                  "content": "(a) $\\overrightarrow{AB}$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$\\overrightarrow{AB}$ ="
+              }
+            },
+            {
+              "label": "(b)(i)(b)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "(b) $\\overrightarrow{AD}$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$\\overrightarrow{AD}$ ="
+              }
+            },
+            {
+              "label": "(b)(i)(c)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "(c) $\\overrightarrow{CE}$,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$\\overrightarrow{CE}$ ="
+              }
+            },
+            {
+              "label": "(b)(i)(d)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "(d) $\\overrightarrow{CD}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$\\overrightarrow{CD}$ ="
+              }
+            },
+            {
+              "label": "(b)(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\overrightarrow{CE} = k\\overrightarrow{CD}$"
+                },
+                {
+                  "type": "text",
+                  "content": "Find the value of $k$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$k$ ="
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null
+    },
+    {
+      "qnum": 12,
+      "marks": 9,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A box contains 20 packets of potato chips."
+        },
+        {
+          "type": "text",
+          "content": "6 packets contain barbecue flavoured chips."
+        },
+        {
+          "type": "text",
+          "content": "10 packets contain salt flavoured chips."
+        },
+        {
+          "type": "text",
+          "content": "4 packets contain chicken flavoured chips."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 6,
+          "content": [
+            {
+              "type": "text",
+              "content": "Maria takes two packets at random without replacement."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(a)(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Show that the probability that she takes two packets of salt flavoured chips is $\\frac{9}{38}$."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(a)(ii)",
+              "marks": 4,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the probability that she takes two packets of different flavoured chips."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Maria takes three packets at random, without replacement, from the 20 packets."
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that she takes at least two packets of chicken flavoured chips."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null
+    }
+  ]
+}

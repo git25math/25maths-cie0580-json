@@ -1,0 +1,2067 @@
+{
+  "v": "1.0",
+  "description": "Question Paper extraction progress tracker",
+  "updated": "2026-03-22",
+  "stats": {
+    "total": 228,
+    "extracted": 228,
+    "validated": 228,
+    "failed": 0,
+    "needs_review": 0,
+    "pending": 0
+  },
+  "papers": {
+    "2018March-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2018March/Paper12/0580_m18_qp_12.pdf",
+      "paper_json": "2018March/Paper12/2018March-Paper12.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018March-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2018March/Paper22/0580_m18_qp_22.pdf",
+      "paper_json": "2018March/Paper22/2018March-Paper22.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018March-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2018March/Paper32/0580_m18_qp_32.pdf",
+      "paper_json": "2018March/Paper32/2018March-Paper32.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018March-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2018March/Paper42/0580_m18_qp_42.pdf",
+      "paper_json": "2018March/Paper42/2018March-Paper42.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018MayJune-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2018MayJune/Paper11/0580_s18_qp_11.pdf",
+      "paper_json": "2018MayJune/Paper11/2018MayJune-Paper11.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018MayJune-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2018MayJune/Paper12/0580_s18_qp_12.pdf",
+      "paper_json": "2018MayJune/Paper12/2018MayJune-Paper12.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018MayJune-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2018MayJune/Paper13/0580_s18_qp_13.pdf",
+      "paper_json": "2018MayJune/Paper13/2018MayJune-Paper13.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018MayJune-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2018MayJune/Paper21/0580_s18_qp_21.pdf",
+      "paper_json": "2018MayJune/Paper21/2018MayJune-Paper21.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018MayJune-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2018MayJune/Paper22/0580_s18_qp_22.pdf",
+      "paper_json": "2018MayJune/Paper22/2018MayJune-Paper22.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018MayJune-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2018MayJune/Paper23/0580_s18_qp_23.pdf",
+      "paper_json": "2018MayJune/Paper23/2018MayJune-Paper23.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018MayJune-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2018MayJune/Paper31/0580_s18_qp_31.pdf",
+      "paper_json": "2018MayJune/Paper31/2018MayJune-Paper31.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018MayJune-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2018MayJune/Paper32/0580_s18_qp_32.pdf",
+      "paper_json": "2018MayJune/Paper32/2018MayJune-Paper32.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018MayJune-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2018MayJune/Paper33/0580_s18_qp_33.pdf",
+      "paper_json": "2018MayJune/Paper33/2018MayJune-Paper33.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018MayJune-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2018MayJune/Paper41/0580_s18_qp_41.pdf",
+      "paper_json": "2018MayJune/Paper41/2018MayJune-Paper41.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018MayJune-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2018MayJune/Paper42/0580_s18_qp_42.pdf",
+      "paper_json": "2018MayJune/Paper42/2018MayJune-Paper42.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018MayJune-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2018MayJune/Paper43/0580_s18_qp_43.pdf",
+      "paper_json": "2018MayJune/Paper43/2018MayJune-Paper43.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018OctNov-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2018OctNov/Paper11/0580_w18_qp_11.pdf",
+      "paper_json": "2018OctNov/Paper11/2018OctNov-Paper11.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018OctNov-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2018OctNov/Paper12/0580_w18_qp_12.pdf",
+      "paper_json": "2018OctNov/Paper12/2018OctNov-Paper12.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018OctNov-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2018OctNov/Paper13/0580_w18_qp_13.pdf",
+      "paper_json": "2018OctNov/Paper13/2018OctNov-Paper13.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018OctNov-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2018OctNov/Paper21/0580_w18_qp_21.pdf",
+      "paper_json": "2018OctNov/Paper21/2018OctNov-Paper21.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018OctNov-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2018OctNov/Paper22/0580_w18_qp_22.pdf",
+      "paper_json": "2018OctNov/Paper22/2018OctNov-Paper22.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018OctNov-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2018OctNov/Paper23/0580_w18_qp_23.pdf",
+      "paper_json": "2018OctNov/Paper23/2018OctNov-Paper23.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018OctNov-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2018OctNov/Paper31/0580_w18_qp_31.pdf",
+      "paper_json": "2018OctNov/Paper31/2018OctNov-Paper31.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018OctNov-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2018OctNov/Paper32/0580_w18_qp_32.pdf",
+      "paper_json": "2018OctNov/Paper32/2018OctNov-Paper32.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018OctNov-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2018OctNov/Paper33/0580_w18_qp_33.pdf",
+      "paper_json": "2018OctNov/Paper33/2018OctNov-Paper33.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018OctNov-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2018OctNov/Paper41/0580_w18_qp_41.pdf",
+      "paper_json": "2018OctNov/Paper41/2018OctNov-Paper41.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018OctNov-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2018OctNov/Paper42/0580_w18_qp_42.pdf",
+      "paper_json": "2018OctNov/Paper42/2018OctNov-Paper42.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2018OctNov-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2018OctNov/Paper43/0580_w18_qp_43.pdf",
+      "paper_json": "2018OctNov/Paper43/2018OctNov-Paper43.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019March-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2019March/Paper12/0580_m19_qp_12.pdf",
+      "paper_json": "2019March/Paper12/2019March-Paper12.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019March-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2019March/Paper22/0580_m19_qp_22.pdf",
+      "paper_json": "2019March/Paper22/2019March-Paper22.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019March-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2019March/Paper32/0580_m19_qp_32.pdf",
+      "paper_json": "2019March/Paper32/2019March-Paper32.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019March-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2019March/Paper42/0580_m19_qp_42.pdf",
+      "paper_json": "2019March/Paper42/2019March-Paper42.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019MayJune-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2019MayJune/Paper11/0580_s19_qp_11.pdf",
+      "paper_json": "2019MayJune/Paper11/2019MayJune-Paper11.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019MayJune-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2019MayJune/Paper12/0580_s19_qp_12.pdf",
+      "paper_json": "2019MayJune/Paper12/2019MayJune-Paper12.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019MayJune-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2019MayJune/Paper13/0580_s19_qp_13.pdf",
+      "paper_json": "2019MayJune/Paper13/2019MayJune-Paper13.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019MayJune-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2019MayJune/Paper21/0580_s19_qp_21.pdf",
+      "paper_json": "2019MayJune/Paper21/2019MayJune-Paper21.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019MayJune-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2019MayJune/Paper22/0580_s19_qp_22.pdf",
+      "paper_json": "2019MayJune/Paper22/2019MayJune-Paper22.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019MayJune-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2019MayJune/Paper23/0580_s19_qp_23.pdf",
+      "paper_json": "2019MayJune/Paper23/2019MayJune-Paper23.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019MayJune-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2019MayJune/Paper31/0580_s19_qp_31.pdf",
+      "paper_json": "2019MayJune/Paper31/2019MayJune-Paper31.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019MayJune-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2019MayJune/Paper32/0580_s19_qp_32.pdf",
+      "paper_json": "2019MayJune/Paper32/2019MayJune-Paper32.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019MayJune-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2019MayJune/Paper33/0580_s19_qp_33.pdf",
+      "paper_json": "2019MayJune/Paper33/2019MayJune-Paper33.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019MayJune-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2019MayJune/Paper41/0580_s19_qp_41.pdf",
+      "paper_json": "2019MayJune/Paper41/2019MayJune-Paper41.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019MayJune-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2019MayJune/Paper42/0580_s19_qp_42.pdf",
+      "paper_json": "2019MayJune/Paper42/2019MayJune-Paper42.json",
+      "extracted_at": "2026-03-21",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019MayJune-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2019MayJune/Paper43/0580_s19_qp_43.pdf",
+      "paper_json": "2019MayJune/Paper43/2019MayJune-Paper43.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019OctNov-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2019OctNov/Paper11/0580_w19_qp_11.pdf",
+      "paper_json": "2019OctNov/Paper11/2019OctNov-Paper11.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019OctNov-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2019OctNov/Paper12/0580_w19_qp_12.pdf",
+      "paper_json": "2019OctNov/Paper12/2019OctNov-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019OctNov-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2019OctNov/Paper13/0580_w19_qp_13.pdf",
+      "paper_json": "2019OctNov/Paper13/2019OctNov-Paper13.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019OctNov-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2019OctNov/Paper21/0580_w19_qp_21.pdf",
+      "paper_json": "2019OctNov/Paper21/2019OctNov-Paper21.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019OctNov-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2019OctNov/Paper22/0580_w19_qp_22.pdf",
+      "paper_json": "2019OctNov/Paper22/2019OctNov-Paper22.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019OctNov-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2019OctNov/Paper23/0580_w19_qp_23.pdf",
+      "paper_json": "2019OctNov/Paper23/2019OctNov-Paper23.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019OctNov-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2019OctNov/Paper31/0580_w19_qp_31.pdf",
+      "paper_json": "2019OctNov/Paper31/2019OctNov-Paper31.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019OctNov-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2019OctNov/Paper32/0580_w19_qp_32.pdf",
+      "paper_json": "2019OctNov/Paper32/2019OctNov-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019OctNov-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2019OctNov/Paper33/0580_w19_qp_33.pdf",
+      "paper_json": "2019OctNov/Paper33/2019OctNov-Paper33.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019OctNov-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2019OctNov/Paper41/0580_w19_qp_41.pdf",
+      "paper_json": "2019OctNov/Paper41/2019OctNov-Paper41.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019OctNov-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2019OctNov/Paper42/0580_w19_qp_42.pdf",
+      "paper_json": "2019OctNov/Paper42/2019OctNov-Paper42.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2019OctNov-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2019OctNov/Paper43/0580_w19_qp_43.pdf",
+      "paper_json": "2019OctNov/Paper43/2019OctNov-Paper43.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020March-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2020March/Paper12/0580_m20_qp_12.pdf",
+      "paper_json": "2020March/Paper12/2020March-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020March-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2020March/Paper22/0580_m20_qp_22.pdf",
+      "paper_json": "2020March/Paper22/2020March-Paper22.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020March-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2020March/Paper32/0580_m20_qp_32.pdf",
+      "paper_json": "2020March/Paper32/2020March-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020March-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2020March/Paper42/0580_m20_qp_42.pdf",
+      "paper_json": "2020March/Paper42/2020March-Paper42.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020MayJune-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2020MayJune/Paper11/0580_s20_qp_11.pdf",
+      "paper_json": "2020MayJune/Paper11/2020MayJune-Paper11.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020MayJune-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2020MayJune/Paper12/0580_s20_qp_12.pdf",
+      "paper_json": "2020MayJune/Paper12/2020MayJune-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020MayJune-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2020MayJune/Paper13/0580_s20_qp_13.pdf",
+      "paper_json": "2020MayJune/Paper13/2020MayJune-Paper13.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020MayJune-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2020MayJune/Paper21/0580_s20_qp_21.pdf",
+      "paper_json": "2020MayJune/Paper21/2020MayJune-Paper21.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020MayJune-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2020MayJune/Paper22/0580_s20_qp_22.pdf",
+      "paper_json": "2020MayJune/Paper22/2020MayJune-Paper22.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020MayJune-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2020MayJune/Paper23/0580_s20_qp_23.pdf",
+      "paper_json": "2020MayJune/Paper23/2020MayJune-Paper23.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020MayJune-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2020MayJune/Paper31/0580_s20_qp_31.pdf",
+      "paper_json": "2020MayJune/Paper31/2020MayJune-Paper31.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020MayJune-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2020MayJune/Paper32/0580_s20_qp_32.pdf",
+      "paper_json": "2020MayJune/Paper32/2020MayJune-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020MayJune-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2020MayJune/Paper33/0580_s20_qp_33.pdf",
+      "paper_json": "2020MayJune/Paper33/2020MayJune-Paper33.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020MayJune-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2020MayJune/Paper41/0580_s20_qp_41.pdf",
+      "paper_json": "2020MayJune/Paper41/2020MayJune-Paper41.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020MayJune-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2020MayJune/Paper42/0580_s20_qp_42.pdf",
+      "paper_json": "2020MayJune/Paper42/2020MayJune-Paper42.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020MayJune-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2020MayJune/Paper43/0580_s20_qp_43.pdf",
+      "paper_json": "2020MayJune/Paper43/2020MayJune-Paper43.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020OctNov-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2020OctNov/Paper11/0580_w20_qp_11.pdf",
+      "paper_json": "2020OctNov/Paper11/2020OctNov-Paper11.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020OctNov-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2020OctNov/Paper12/0580_w20_qp_12.pdf",
+      "paper_json": "2020OctNov/Paper12/2020OctNov-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020OctNov-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2020OctNov/Paper13/0580_w20_qp_13.pdf",
+      "paper_json": "2020OctNov/Paper13/2020OctNov-Paper13.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020OctNov-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2020OctNov/Paper21/0580_w20_qp_21.pdf",
+      "paper_json": "2020OctNov/Paper21/2020OctNov-Paper21.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020OctNov-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2020OctNov/Paper22/0580_w20_qp_22.pdf",
+      "paper_json": "2020OctNov/Paper22/2020OctNov-Paper22.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020OctNov-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2020OctNov/Paper23/0580_w20_qp_23.pdf",
+      "paper_json": "2020OctNov/Paper23/2020OctNov-Paper23.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020OctNov-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2020OctNov/Paper31/0580_w20_qp_31.pdf",
+      "paper_json": "2020OctNov/Paper31/2020OctNov-Paper31.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020OctNov-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2020OctNov/Paper32/0580_w20_qp_32.pdf",
+      "paper_json": "2020OctNov/Paper32/2020OctNov-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020OctNov-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2020OctNov/Paper33/0580_w20_qp_33.pdf",
+      "paper_json": "2020OctNov/Paper33/2020OctNov-Paper33.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020OctNov-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2020OctNov/Paper41/0580_w20_qp_41.pdf",
+      "paper_json": "2020OctNov/Paper41/2020OctNov-Paper41.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020OctNov-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2020OctNov/Paper42/0580_w20_qp_42.pdf",
+      "paper_json": "2020OctNov/Paper42/2020OctNov-Paper42.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2020OctNov-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2020OctNov/Paper43/0580_w20_qp_43.pdf",
+      "paper_json": "2020OctNov/Paper43/2020OctNov-Paper43.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021March-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2021March/Paper12/0580_m21_qp_12.pdf",
+      "paper_json": "2021March/Paper12/2021March-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021March-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2021March/Paper22/0580_m21_qp_22.pdf",
+      "paper_json": "2021March/Paper22/2021March-Paper22.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021March-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2021March/Paper32/0580_m21_qp_32.pdf",
+      "paper_json": "2021March/Paper32/2021March-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021March-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2021March/Paper42/0580_m21_qp_42.pdf",
+      "paper_json": "2021March/Paper42/2021March-Paper42.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021MayJune-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2021MayJune/Paper11/0580_s21_qp_11.pdf",
+      "paper_json": "2021MayJune/Paper11/2021MayJune-Paper11.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021MayJune-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2021MayJune/Paper12/0580_s21_qp_12.pdf",
+      "paper_json": "2021MayJune/Paper12/2021MayJune-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021MayJune-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2021MayJune/Paper13/0580_s21_qp_13.pdf",
+      "paper_json": "2021MayJune/Paper13/2021MayJune-Paper13.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021MayJune-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2021MayJune/Paper21/0580_s21_qp_21.pdf",
+      "paper_json": "2021MayJune/Paper21/2021MayJune-Paper21.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021MayJune-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2021MayJune/Paper22/0580_s21_qp_22.pdf",
+      "paper_json": "2021MayJune/Paper22/2021MayJune-Paper22.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021MayJune-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2021MayJune/Paper23/0580_s21_qp_23.pdf",
+      "paper_json": "2021MayJune/Paper23/2021MayJune-Paper23.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021MayJune-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2021MayJune/Paper31/0580_s21_qp_31.pdf",
+      "paper_json": "2021MayJune/Paper31/2021MayJune-Paper31.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021MayJune-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2021MayJune/Paper32/0580_s21_qp_32.pdf",
+      "paper_json": "2021MayJune/Paper32/2021MayJune-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021MayJune-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2021MayJune/Paper33/0580_s21_qp_33.pdf",
+      "paper_json": "2021MayJune/Paper33/2021MayJune-Paper33.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021MayJune-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2021MayJune/Paper41/0580_s21_qp_41.pdf",
+      "paper_json": "2021MayJune/Paper41/2021MayJune-Paper41.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021MayJune-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2021MayJune/Paper42/0580_s21_qp_42.pdf",
+      "paper_json": "2021MayJune/Paper42/2021MayJune-Paper42.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021MayJune-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2021MayJune/Paper43/0580_s21_qp_43.pdf",
+      "paper_json": "2021MayJune/Paper43/2021MayJune-Paper43.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021OctNov-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2021OctNov/Paper11/0580_w21_qp_11.pdf",
+      "paper_json": "2021OctNov/Paper11/2021OctNov-Paper11.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021OctNov-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2021OctNov/Paper12/0580_w21_qp_12.pdf",
+      "paper_json": "2021OctNov/Paper12/2021OctNov-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021OctNov-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2021OctNov/Paper13/0580_w21_qp_13.pdf",
+      "paper_json": "2021OctNov/Paper13/2021OctNov-Paper13.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021OctNov-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2021OctNov/Paper21/0580_w21_qp_21.pdf",
+      "paper_json": "2021OctNov/Paper21/2021OctNov-Paper21.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021OctNov-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2021OctNov/Paper22/0580_w21_qp_22.pdf",
+      "paper_json": "2021OctNov/Paper22/2021OctNov-Paper22.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021OctNov-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2021OctNov/Paper23/0580_w21_qp_23.pdf",
+      "paper_json": "2021OctNov/Paper23/2021OctNov-Paper23.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021OctNov-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2021OctNov/Paper31/0580_w21_qp_31.pdf",
+      "paper_json": "2021OctNov/Paper31/2021OctNov-Paper31.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021OctNov-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2021OctNov/Paper32/0580_w21_qp_32.pdf",
+      "paper_json": "2021OctNov/Paper32/2021OctNov-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021OctNov-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2021OctNov/Paper33/0580_w21_qp_33.pdf",
+      "paper_json": "2021OctNov/Paper33/2021OctNov-Paper33.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021OctNov-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2021OctNov/Paper41/0580_w21_qp_41.pdf",
+      "paper_json": "2021OctNov/Paper41/2021OctNov-Paper41.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021OctNov-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2021OctNov/Paper42/0580_w21_qp_42.pdf",
+      "paper_json": "2021OctNov/Paper42/2021OctNov-Paper42.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2021OctNov-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2021OctNov/Paper43/0580_w21_qp_43.pdf",
+      "paper_json": "2021OctNov/Paper43/2021OctNov-Paper43.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022March-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2022March/Paper12/0580_m22_qp_12.pdf",
+      "paper_json": "2022March/Paper12/2022March-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022March-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2022March/Paper22/0580_m22_qp_22.pdf",
+      "paper_json": "2022March/Paper22/2022March-Paper22.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022March-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2022March/Paper32/0580_m22_qp_32.pdf",
+      "paper_json": "2022March/Paper32/2022March-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022March-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2022March/Paper42/0580_m22_qp_42.pdf",
+      "paper_json": "2022March/Paper42/2022March-Paper42.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022MayJune-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2022MayJune/Paper11/0580_s22_qp_11.pdf",
+      "paper_json": "2022MayJune/Paper11/2022MayJune-Paper11.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022MayJune-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2022MayJune/Paper12/0580_s22_qp_12.pdf",
+      "paper_json": "2022MayJune/Paper12/2022MayJune-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022MayJune-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2022MayJune/Paper13/0580_s22_qp_13.pdf",
+      "paper_json": "2022MayJune/Paper13/2022MayJune-Paper13.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022MayJune-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2022MayJune/Paper21/0580_s22_qp_21.pdf",
+      "paper_json": "2022MayJune/Paper21/2022MayJune-Paper21.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022MayJune-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2022MayJune/Paper22/0580_s22_qp_22.pdf",
+      "paper_json": "2022MayJune/Paper22/2022MayJune-Paper22.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022MayJune-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2022MayJune/Paper23/0580_s22_qp_23.pdf",
+      "paper_json": "2022MayJune/Paper23/2022MayJune-Paper23.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022MayJune-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2022MayJune/Paper31/0580_s22_qp_31.pdf",
+      "paper_json": "2022MayJune/Paper31/2022MayJune-Paper31.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022MayJune-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2022MayJune/Paper32/0580_s22_qp_32.pdf",
+      "paper_json": "2022MayJune/Paper32/2022MayJune-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022MayJune-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2022MayJune/Paper33/0580_s22_qp_33.pdf",
+      "paper_json": "2022MayJune/Paper33/2022MayJune-Paper33.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022MayJune-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2022MayJune/Paper41/0580_s22_qp_41.pdf",
+      "paper_json": "2022MayJune/Paper41/2022MayJune-Paper41.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022MayJune-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2022MayJune/Paper42/0580_s22_qp_42.pdf",
+      "paper_json": "2022MayJune/Paper42/2022MayJune-Paper42.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022MayJune-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2022MayJune/Paper43/0580_s22_qp_43.pdf",
+      "paper_json": "2022MayJune/Paper43/2022MayJune-Paper43.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022OctNov-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2022OctNov/Paper11/0580_w22_qp_11.pdf",
+      "paper_json": "2022OctNov/Paper11/2022OctNov-Paper11.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022OctNov-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2022OctNov/Paper12/0580_w22_qp_12.pdf",
+      "paper_json": "2022OctNov/Paper12/2022OctNov-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022OctNov-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2022OctNov/Paper13/0580_w22_qp_13.pdf",
+      "paper_json": "2022OctNov/Paper13/2022OctNov-Paper13.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022OctNov-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2022OctNov/Paper21/0580_w22_qp_21.pdf",
+      "paper_json": "2022OctNov/Paper21/2022OctNov-Paper21.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022OctNov-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2022OctNov/Paper22/0580_w22_qp_22.pdf",
+      "paper_json": "2022OctNov/Paper22/2022OctNov-Paper22.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022OctNov-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2022OctNov/Paper23/0580_w22_qp_23.pdf",
+      "paper_json": "2022OctNov/Paper23/2022OctNov-Paper23.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022OctNov-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2022OctNov/Paper31/0580_w22_qp_31.pdf",
+      "paper_json": "2022OctNov/Paper31/2022OctNov-Paper31.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022OctNov-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2022OctNov/Paper32/0580_w22_qp_32.pdf",
+      "paper_json": "2022OctNov/Paper32/2022OctNov-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022OctNov-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2022OctNov/Paper33/0580_w22_qp_33.pdf",
+      "paper_json": "2022OctNov/Paper33/2022OctNov-Paper33.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022OctNov-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2022OctNov/Paper41/0580_w22_qp_41.pdf",
+      "paper_json": "2022OctNov/Paper41/2022OctNov-Paper41.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022OctNov-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2022OctNov/Paper42/0580_w22_qp_42.pdf",
+      "paper_json": "2022OctNov/Paper42/2022OctNov-Paper42.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2022OctNov-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2022OctNov/Paper43/0580_w22_qp_43.pdf",
+      "paper_json": "2022OctNov/Paper43/2022OctNov-Paper43.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023March-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2023March/Paper12/0580_m23_qp_12.pdf",
+      "paper_json": "2023March/Paper12/2023March-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023March-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2023March/Paper22/0580_m23_qp_22.pdf",
+      "paper_json": "2023March/Paper22/2023March-Paper22.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023March-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2023March/Paper32/0580_m23_qp_32.pdf",
+      "paper_json": "2023March/Paper32/2023March-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023March-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2023March/Paper42/0580_m23_qp_42.pdf",
+      "paper_json": "2023March/Paper42/2023March-Paper42.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023MayJune-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2023MayJune/Paper11/0580_s23_qp_11.pdf",
+      "paper_json": "2023MayJune/Paper11/2023MayJune-Paper11.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023MayJune-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2023MayJune/Paper12/0580_s23_qp_12.pdf",
+      "paper_json": "2023MayJune/Paper12/2023MayJune-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023MayJune-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2023MayJune/Paper13/0580_s23_qp_13.pdf",
+      "paper_json": "2023MayJune/Paper13/2023MayJune-Paper13.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023MayJune-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2023MayJune/Paper21/0580_s23_qp_21.pdf",
+      "paper_json": "2023MayJune/Paper21/2023MayJune-Paper21.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023MayJune-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2023MayJune/Paper22/0580_s23_qp_22.pdf",
+      "paper_json": "2023MayJune/Paper22/2023MayJune-Paper22.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023MayJune-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2023MayJune/Paper23/0580_s23_qp_23.pdf",
+      "paper_json": "2023MayJune/Paper23/2023MayJune-Paper23.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023MayJune-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2023MayJune/Paper31/0580_s23_qp_31.pdf",
+      "paper_json": "2023MayJune/Paper31/2023MayJune-Paper31.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023MayJune-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2023MayJune/Paper32/0580_s23_qp_32.pdf",
+      "paper_json": "2023MayJune/Paper32/2023MayJune-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023MayJune-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2023MayJune/Paper33/0580_s23_qp_33.pdf",
+      "paper_json": "2023MayJune/Paper33/2023MayJune-Paper33.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023MayJune-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2023MayJune/Paper41/0580_s23_qp_41.pdf",
+      "paper_json": "2023MayJune/Paper41/2023MayJune-Paper41.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023MayJune-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2023MayJune/Paper42/0580_s23_qp_42.pdf",
+      "paper_json": "2023MayJune/Paper42/2023MayJune-Paper42.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023MayJune-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2023MayJune/Paper43/0580_s23_qp_43.pdf",
+      "paper_json": "2023MayJune/Paper43/2023MayJune-Paper43.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023OctNov-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2023OctNov/Paper11/0580_w23_qp_11.pdf",
+      "paper_json": "2023OctNov/Paper11/2023OctNov-Paper11.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023OctNov-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2023OctNov/Paper12/0580_w23_qp_12.pdf",
+      "paper_json": "2023OctNov/Paper12/2023OctNov-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023OctNov-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2023OctNov/Paper13/0580_w23_qp_13.pdf",
+      "paper_json": "2023OctNov/Paper13/2023OctNov-Paper13.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023OctNov-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2023OctNov/Paper21/0580_w23_qp_21.pdf",
+      "paper_json": "2023OctNov/Paper21/2023OctNov-Paper21.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023OctNov-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2023OctNov/Paper22/0580_w23_qp_22.pdf",
+      "paper_json": "2023OctNov/Paper22/2023OctNov-Paper22.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023OctNov-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2023OctNov/Paper23/0580_w23_qp_23.pdf",
+      "paper_json": "2023OctNov/Paper23/2023OctNov-Paper23.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023OctNov-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2023OctNov/Paper31/0580_w23_qp_31.pdf",
+      "paper_json": "2023OctNov/Paper31/2023OctNov-Paper31.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023OctNov-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2023OctNov/Paper32/0580_w23_qp_32.pdf",
+      "paper_json": "2023OctNov/Paper32/2023OctNov-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023OctNov-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2023OctNov/Paper33/0580_w23_qp_33.pdf",
+      "paper_json": "2023OctNov/Paper33/2023OctNov-Paper33.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023OctNov-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2023OctNov/Paper41/0580_w23_qp_41.pdf",
+      "paper_json": "2023OctNov/Paper41/2023OctNov-Paper41.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023OctNov-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2023OctNov/Paper42/0580_w23_qp_42.pdf",
+      "paper_json": "2023OctNov/Paper42/2023OctNov-Paper42.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2023OctNov-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2023OctNov/Paper43/0580_w23_qp_43.pdf",
+      "paper_json": "2023OctNov/Paper43/2023OctNov-Paper43.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024March-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2024March/Paper12/0580_m24_qp_12.pdf",
+      "paper_json": "2024March/Paper12/2024March-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024March-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2024March/Paper22/0580_m24_qp_22.pdf",
+      "paper_json": "2024March/Paper22/2024March-Paper22.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024March-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2024March/Paper32/0580_m24_qp_32.pdf",
+      "paper_json": "2024March/Paper32/2024March-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024March-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2024March/Paper42/0580_m24_qp_42.pdf",
+      "paper_json": "2024March/Paper42/2024March-Paper42.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024MayJune-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2024MayJune/Paper11/0580_s24_qp_11.pdf",
+      "paper_json": "2024MayJune/Paper11/2024MayJune-Paper11.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024MayJune-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2024MayJune/Paper12/0580_s24_qp_12.pdf",
+      "paper_json": "2024MayJune/Paper12/2024MayJune-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024MayJune-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2024MayJune/Paper13/0580_s24_qp_13.pdf",
+      "paper_json": "2024MayJune/Paper13/2024MayJune-Paper13.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024MayJune-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2024MayJune/Paper21/0580_s24_qp_21.pdf",
+      "paper_json": "2024MayJune/Paper21/2024MayJune-Paper21.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024MayJune-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2024MayJune/Paper22/0580_s24_qp_22.pdf",
+      "paper_json": "2024MayJune/Paper22/2024MayJune-Paper22.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024MayJune-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2024MayJune/Paper23/0580_s24_qp_23.pdf",
+      "paper_json": "2024MayJune/Paper23/2024MayJune-Paper23.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024MayJune-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2024MayJune/Paper31/0580_s24_qp_31.pdf",
+      "paper_json": "2024MayJune/Paper31/2024MayJune-Paper31.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024MayJune-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2024MayJune/Paper32/0580_s24_qp_32.pdf",
+      "paper_json": "2024MayJune/Paper32/2024MayJune-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024MayJune-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2024MayJune/Paper33/0580_s24_qp_33.pdf",
+      "paper_json": "2024MayJune/Paper33/2024MayJune-Paper33.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024MayJune-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2024MayJune/Paper41/0580_s24_qp_41.pdf",
+      "paper_json": "2024MayJune/Paper41/2024MayJune-Paper41.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024MayJune-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2024MayJune/Paper42/0580_s24_qp_42.pdf",
+      "paper_json": "2024MayJune/Paper42/2024MayJune-Paper42.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024MayJune-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2024MayJune/Paper43/0580_s24_qp_43.pdf",
+      "paper_json": "2024MayJune/Paper43/2024MayJune-Paper43.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024OctNov-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2024OctNov/Paper11/0580_w24_qp_11.pdf",
+      "paper_json": "2024OctNov/Paper11/2024OctNov-Paper11.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024OctNov-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2024OctNov/Paper12/0580_w24_qp_12.pdf",
+      "paper_json": "2024OctNov/Paper12/2024OctNov-Paper12.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024OctNov-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2024OctNov/Paper13/0580_w24_qp_13.pdf",
+      "paper_json": "2024OctNov/Paper13/2024OctNov-Paper13.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024OctNov-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2024OctNov/Paper21/0580_w24_qp_21.pdf",
+      "paper_json": "2024OctNov/Paper21/2024OctNov-Paper21.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024OctNov-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2024OctNov/Paper22/0580_w24_qp_22.pdf",
+      "paper_json": "2024OctNov/Paper22/2024OctNov-Paper22.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024OctNov-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2024OctNov/Paper23/0580_w24_qp_23.pdf",
+      "paper_json": "2024OctNov/Paper23/2024OctNov-Paper23.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024OctNov-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2024OctNov/Paper31/0580_w24_qp_31.pdf",
+      "paper_json": "2024OctNov/Paper31/2024OctNov-Paper31.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024OctNov-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2024OctNov/Paper32/0580_w24_qp_32.pdf",
+      "paper_json": "2024OctNov/Paper32/2024OctNov-Paper32.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024OctNov-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2024OctNov/Paper33/0580_w24_qp_33.pdf",
+      "paper_json": "2024OctNov/Paper33/2024OctNov-Paper33.json",
+      "extracted_at": "2026-03-22",
+      "method": "gemini-batch",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024OctNov-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2024OctNov/Paper41/0580_w24_qp_41.pdf",
+      "paper_json": "2024OctNov/Paper41/2024OctNov-Paper41.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024OctNov-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2024OctNov/Paper42/0580_w24_qp_42.pdf",
+      "paper_json": "2024OctNov/Paper42/2024OctNov-Paper42.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2024OctNov-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2024OctNov/Paper43/0580_w24_qp_43.pdf",
+      "paper_json": "2024OctNov/Paper43/2024OctNov-Paper43.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025March-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2025March/Paper12/0580_m25_qp_12.pdf",
+      "paper_json": "2025March/Paper12/2025March-Paper12.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025March-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2025March/Paper22/0580_m25_qp_22.pdf",
+      "paper_json": "2025March/Paper22/2025March-Paper22.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025March-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2025March/Paper32/0580_m25_qp_32.pdf",
+      "paper_json": "2025March/Paper32/2025March-Paper32.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025March-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2025March/Paper42/0580_m25_qp_42.pdf",
+      "paper_json": "2025March/Paper42/2025March-Paper42.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025MayJune-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2025MayJune/Paper11/0580_s25_qp_11.pdf",
+      "paper_json": "2025MayJune/Paper11/2025MayJune-Paper11.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025MayJune-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2025MayJune/Paper12/0580_s25_qp_12.pdf",
+      "paper_json": "2025MayJune/Paper12/2025MayJune-Paper12.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025MayJune-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2025MayJune/Paper13/0580_s25_qp_13.pdf",
+      "paper_json": "2025MayJune/Paper13/2025MayJune-Paper13.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025MayJune-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2025MayJune/Paper21/0580_s25_qp_21.pdf",
+      "paper_json": "2025MayJune/Paper21/2025MayJune-Paper21.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025MayJune-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2025MayJune/Paper22/0580_s25_qp_22.pdf",
+      "paper_json": "2025MayJune/Paper22/2025MayJune-Paper22.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025MayJune-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2025MayJune/Paper23/0580_s25_qp_23.pdf",
+      "paper_json": "2025MayJune/Paper23/2025MayJune-Paper23.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025MayJune-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2025MayJune/Paper31/0580_s25_qp_31.pdf",
+      "paper_json": "2025MayJune/Paper31/2025MayJune-Paper31.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025MayJune-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2025MayJune/Paper32/0580_s25_qp_32.pdf",
+      "paper_json": "2025MayJune/Paper32/2025MayJune-Paper32.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025MayJune-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2025MayJune/Paper33/0580_s25_qp_33.pdf",
+      "paper_json": "2025MayJune/Paper33/2025MayJune-Paper33.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025MayJune-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2025MayJune/Paper41/0580_s25_qp_41.pdf",
+      "paper_json": "2025MayJune/Paper41/2025MayJune-Paper41.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025MayJune-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2025MayJune/Paper42/0580_s25_qp_42.pdf",
+      "paper_json": "2025MayJune/Paper42/2025MayJune-Paper42.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025MayJune-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2025MayJune/Paper43/0580_s25_qp_43.pdf",
+      "paper_json": "2025MayJune/Paper43/2025MayJune-Paper43.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025OctNov-Paper11": {
+      "status": "validated",
+      "qp_pdf": "2025OctNov/Paper11/0580_w25_qp_11.pdf",
+      "paper_json": "2025OctNov/Paper11/2025OctNov-Paper11.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025OctNov-Paper12": {
+      "status": "validated",
+      "qp_pdf": "2025OctNov/Paper12/0580_w25_qp_12.pdf",
+      "paper_json": "2025OctNov/Paper12/2025OctNov-Paper12.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025OctNov-Paper13": {
+      "status": "validated",
+      "qp_pdf": "2025OctNov/Paper13/0580_w25_qp_13.pdf",
+      "paper_json": "2025OctNov/Paper13/2025OctNov-Paper13.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025OctNov-Paper21": {
+      "status": "validated",
+      "qp_pdf": "2025OctNov/Paper21/0580_w25_qp_21.pdf",
+      "paper_json": "2025OctNov/Paper21/2025OctNov-Paper21.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025OctNov-Paper22": {
+      "status": "validated",
+      "qp_pdf": "2025OctNov/Paper22/0580_w25_qp_22.pdf",
+      "paper_json": "2025OctNov/Paper22/2025OctNov-Paper22.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025OctNov-Paper23": {
+      "status": "validated",
+      "qp_pdf": "2025OctNov/Paper23/0580_w25_qp_23.pdf",
+      "paper_json": "2025OctNov/Paper23/2025OctNov-Paper23.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025OctNov-Paper31": {
+      "status": "validated",
+      "qp_pdf": "2025OctNov/Paper31/0580_w25_qp_31.pdf",
+      "paper_json": "2025OctNov/Paper31/2025OctNov-Paper31.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025OctNov-Paper32": {
+      "status": "validated",
+      "qp_pdf": "2025OctNov/Paper32/0580_w25_qp_32.pdf",
+      "paper_json": "2025OctNov/Paper32/2025OctNov-Paper32.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025OctNov-Paper33": {
+      "status": "validated",
+      "qp_pdf": "2025OctNov/Paper33/0580_w25_qp_33.pdf",
+      "paper_json": "2025OctNov/Paper33/2025OctNov-Paper33.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025OctNov-Paper41": {
+      "status": "validated",
+      "qp_pdf": "2025OctNov/Paper41/0580_w25_qp_41.pdf",
+      "paper_json": "2025OctNov/Paper41/2025OctNov-Paper41.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025OctNov-Paper42": {
+      "status": "validated",
+      "qp_pdf": "2025OctNov/Paper42/0580_w25_qp_42.pdf",
+      "paper_json": "2025OctNov/Paper42/2025OctNov-Paper42.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025OctNov-Paper43": {
+      "status": "validated",
+      "qp_pdf": "2025OctNov/Paper43/0580_w25_qp_43.pdf",
+      "paper_json": "2025OctNov/Paper43/2025OctNov-Paper43.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025Specimen-Paper1": {
+      "status": "validated",
+      "qp_pdf": "2025Specimen/Paper1/0580_sp25_qp_01.pdf",
+      "paper_json": "2025Specimen/Paper1/2025Specimen-Paper1.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025Specimen-Paper2": {
+      "status": "validated",
+      "qp_pdf": "2025Specimen/Paper2/0580_sp25_qp_02.pdf",
+      "paper_json": "2025Specimen/Paper2/2025Specimen-Paper2.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025Specimen-Paper3": {
+      "status": "validated",
+      "qp_pdf": "2025Specimen/Paper3/0580_sp25_qp_03.pdf",
+      "paper_json": "2025Specimen/Paper3/2025Specimen-Paper3.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    },
+    "2025Specimen-Paper4": {
+      "status": "validated",
+      "qp_pdf": "2025Specimen/Paper4/0580_sp25_qp_04.pdf",
+      "paper_json": "2025Specimen/Paper4/2025Specimen-Paper4.json",
+      "extracted_at": "2026-03-21",
+      "method": "manual-claude",
+      "checks_passed": 34,
+      "notes": ""
+    }
+  }
+}
