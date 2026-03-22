@@ -152,6 +152,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for each"
+                },
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
+                  "criterion": ""
                 }
               ],
               "guidance": ""
@@ -437,31 +443,13 @@
             },
             {
               "label": "(ii)",
-              "marks": 4,
+              "marks": 3,
               "answer": "28 nfww",
               "markAllocation": [
                 {
-                  "code": "M1",
-                  "type": "M",
-                  "value": 1,
-                  "criterion": "for midpoints soi"
-                },
-                {
-                  "code": "M1",
-                  "type": "M",
-                  "value": 1,
-                  "criterion": "for use of $\\Sigma fm$ with $m$ in correct interval including both boundaries"
-                },
-                {
-                  "code": "M1",
-                  "type": "M",
-                  "value": 1,
-                  "criterion": "dep on 2nd M1 for $\\Sigma fm \\div 80$"
-                },
-                {
-                  "code": "A1",
-                  "type": "A",
-                  "value": 1,
+                  "code": "B3",
+                  "type": "B",
+                  "value": 3,
                   "criterion": ""
                 }
               ],
@@ -476,18 +464,12 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 2,
+              "marks": 1,
               "answer": "$\\frac{7}{8}$ cao",
               "markAllocation": [
                 {
-                  "code": "M1",
-                  "type": "M",
-                  "value": 1,
-                  "criterion": "for $\\frac{18 + 28 + 24}{80}$ oe"
-                },
-                {
-                  "code": "A1",
-                  "type": "A",
+                  "code": "B1",
+                  "type": "B",
                   "value": 1,
                   "criterion": ""
                 }
@@ -846,6 +828,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for each"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": ""
@@ -860,6 +848,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for each"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": ""

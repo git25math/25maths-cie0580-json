@@ -365,7 +365,7 @@
     },
     {
       "qnum": 4,
-      "marks": 9,
+      "marks": 10,
       "parts": [
         {
           "label": "(a)(i)(a)",
@@ -451,7 +451,7 @@
         },
         {
           "label": "(c)(ii)",
-          "marks": 2,
+          "marks": 3,
           "answer": "Correct solution",
           "markAllocation": [
             {
@@ -465,6 +465,12 @@
               "type": "A",
               "value": 1,
               "criterion": ""
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -473,13 +479,19 @@
     },
     {
       "qnum": 5,
-      "marks": 11,
+      "marks": 13,
       "parts": [
         {
           "label": "(a)",
-          "marks": 3,
+          "marks": 6,
           "answer": "Correct net",
           "markAllocation": [
+            {
+              "code": "B3",
+              "type": "B",
+              "value": 3,
+              "criterion": ""
+            },
             {
               "code": "B3",
               "type": "B",
@@ -491,7 +503,7 @@
         },
         {
           "label": "(b)",
-          "marks": 3,
+          "marks": 5,
           "answer": "25 000",
           "markAllocation": [
             {
@@ -504,6 +516,12 @@
               "code": "A1",
               "type": "A",
               "value": 1,
+              "criterion": ""
+            },
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
               "criterion": ""
             }
           ],
@@ -763,7 +781,7 @@
     },
     {
       "qnum": 8,
-      "marks": 14,
+      "marks": 13,
       "parts": [
         {
           "label": "(a)(i)",
@@ -831,31 +849,25 @@
               "type": "B",
               "value": 1,
               "criterion": "for each root"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "FT their curve"
         },
         {
           "label": "(b)",
-          "marks": 3,
+          "marks": 2,
           "answer": "Rearrangement and line",
           "markAllocation": [
             {
-              "code": "M1",
-              "type": "M",
-              "value": 1,
-              "criterion": ""
-            },
-            {
-              "code": "A1",
-              "type": "A",
-              "value": 1,
-              "criterion": ""
-            },
-            {
-              "code": "B1",
+              "code": "B2",
               "type": "B",
-              "value": 1,
+              "value": 2,
               "criterion": ""
             }
           ],
@@ -865,7 +877,7 @@
     },
     {
       "qnum": 9,
-      "marks": 15,
+      "marks": 13,
       "parts": [
         {
           "label": "(a)(i)",
@@ -917,24 +929,24 @@
               "type": "B",
               "value": 1,
               "criterion": "for each bound"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
         },
         {
           "label": "(b)(ii)",
-          "marks": 3,
+          "marks": 1,
           "answer": "Percentage",
           "markAllocation": [
             {
-              "code": "M2",
-              "type": "M",
-              "value": 2,
-              "criterion": ""
-            },
-            {
-              "code": "A1",
-              "type": "A",
+              "code": "B1",
+              "type": "B",
               "value": 1,
               "criterion": ""
             }

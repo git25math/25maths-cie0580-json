@@ -58,6 +58,12 @@
           "type": "B",
           "value": 2,
           "criterion": "for 270"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": "or M2 for 1500 + (1500 x 3 x 6)/100 or M1 for (1500 x 3 [x 6])/100"
@@ -122,6 +128,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for a line with gradient 2 or for a line with positive gradient and intercept at y = 1"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -152,6 +164,12 @@
           "type": "B",
           "value": 2,
           "criterion": "for 24/90 oe"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": "or M1 for 26.66... - 2.66... oe or for 90x = 24 oe or for 2/10 + 6/90 oe"
@@ -170,6 +188,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for (14, k) or (k, 13) or (22, 10) seen"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -184,6 +208,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for y + 5^2 = 7^2 or better"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -286,6 +316,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for correct ruled tangent or both values correct without a correct tangent"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -332,6 +368,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for [UQ =] 5.6 or for [LQ =] 4.2"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or SC1 for 0.7"
@@ -346,6 +388,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for 84 seen"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -366,6 +414,12 @@
               "type": "M",
               "value": 4,
               "criterion": "for 8[pi]h = 100[pi]"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "OR M3 for pi x 6 x 10 + 2 x pi x 6^2 = 2 x pi x 4^2 + 2 x pi x 4 x h oe; OR M1 for pi x 6 x 10 + 2 x pi x 6^2 oe, M1 for 2 x pi x 4^2 + 2 x pi x 4 x h oe; OR SC2 for answer 16.5"
@@ -440,6 +494,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for either a or b correct"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or M1 for 3(4x + 1) - 4"
@@ -486,6 +546,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for 3 correct terms from 2 - 6*sqrt(5) - sqrt(5) + 3*sqrt(5)*sqrt(5) oe"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -500,6 +566,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for 6/sqrt(10) x sqrt(10)/sqrt(10) oe"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -516,6 +588,12 @@
           "type": "B",
           "value": 2,
           "criterion": "for correct expansion unsimplified or simplified four-term expression of correct form with 3 terms correct"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": "or B1 for one pair of brackets expanded with at least 3 terms out of 4 correct"
@@ -558,6 +636,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for 2/5"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": ""
@@ -717,6 +801,12 @@
           "type": "M",
           "value": 2,
           "criterion": "for 6/tan30 or 6sin(60)/sin(30)"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": "or M1 for 6/x = tan30 or sin60/x = sin30/6"
@@ -763,6 +853,12 @@
               "type": "M",
               "value": 2,
               "criterion": "for equivalents CD = -2n + 10m - 3n or CD = -(2m + n) + 2m - n + 10m - 3n"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "For M2, FT their (a). or M1 for correct route for CD using the lines of the diagram with AD e.g. CD = CA + AD oe. CD = 5 OA leading to CD is parallel to OA [OACD is a trapezium] A1 dep on M2"
@@ -783,6 +879,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for each correct value"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -797,6 +899,12 @@
               "type": "B",
               "value": 3,
               "criterion": "for (1, 4) or (3, 0) or for two correct values of x"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or M2 for [3](x - 1)(x - 3) [= 0] oe or quadratic formula; or M1 for writing dy/dx = 0 or for 3x^2 - 12x + 9 = 0"

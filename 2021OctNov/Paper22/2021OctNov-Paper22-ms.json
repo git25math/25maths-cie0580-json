@@ -8,16 +8,71 @@
   "paperNum": "22",
   "totalMarks": 70,
   "questions": [
-    {"qnum": 1, "marks": 1, "answer": "7.5", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
-    {"qnum": 2, "marks": 3, "answer": "41, 43, 20", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for each"}], "guidance": ""},
-    {"qnum": 3, "marks": 1, "answer": "129", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
+    {
+      "qnum": 1,
+      "marks": 1,
+      "answer": "7.5",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "answer": "41, 43, 20",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for each"
+        },
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 3,
+      "marks": 1,
+      "answer": "129",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
     {
       "qnum": 4,
       "marks": 3,
       "answer": "79 nfww",
       "markAllocation": [
-        {"code": "M2", "type": "M", "value": 2, "criterion": "for x + x + 58 + 58 + 86 = 360 oe or 86 - (180 - 2 x 58) implied by CAB = 22"},
-        {"code": "A1", "type": "A", "value": 1, "criterion": ""}
+        {
+          "code": "M2",
+          "type": "M",
+          "value": 2,
+          "criterion": "for x + x + 58 + 58 + 86 = 360 oe or 86 - (180 - 2 x 58) implied by CAB = 22"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
       ],
       "guidance": "or B1 for DCA = 58 or BCA = x or DAC = 64"
     },
@@ -26,8 +81,18 @@
       "marks": 3,
       "answer": "12",
       "markAllocation": [
-        {"code": "M2", "type": "M", "value": 2, "criterion": "for (95.25 - 15.5) / 7.25 oe or (95.25 - (15.5 - 7.25)) / 7.25 oe"},
-        {"code": "A1", "type": "A", "value": 1, "criterion": ""}
+        {
+          "code": "M2",
+          "type": "M",
+          "value": 2,
+          "criterion": "for (95.25 - 15.5) / 7.25 oe or (95.25 - (15.5 - 7.25)) / 7.25 oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
       ],
       "guidance": "or M1 for 95.25 - 15.5 or B1 for 79.75"
     },
@@ -36,10 +101,30 @@
       "marks": 4,
       "answer": "17/35 cao",
       "markAllocation": [
-        {"code": "M1", "type": "M", "value": 1, "criterion": "for 1/3 x 6/7 oe or 2/6 / 7/6 oe"},
-        {"code": "A1", "type": "A", "value": 1, "criterion": "for 2/7 oe"},
-        {"code": "M1", "type": "M", "value": 1, "criterion": "for their 2/7 + 1/5 with a correct method to find fractions with a common denominator"},
-        {"code": "A1", "type": "A", "value": 1, "criterion": ""}
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for 1/3 x 6/7 oe or 2/6 / 7/6 oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": "for 2/7 oe"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for their 2/7 + 1/5 with a correct method to find fractions with a common denominator"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
       ],
       "guidance": "If order of operations not correct SC2 for answer 10/41 with correct working for 1/3 / (7/6 + 1/5) or SC1 for 35/30 + 6/30 oe"
     },
@@ -48,19 +133,52 @@
       "marks": 4,
       "answer": "37/60 oe",
       "markAllocation": [
-        {"code": "B3", "type": "B", "value": 3, "criterion": "for x = 18 or 37 [yellow]"},
-        {"code": "B1", "type": "B", "value": 1, "criterion": ""}
+        {
+          "code": "B3",
+          "type": "B",
+          "value": 3,
+          "criterion": "for x = 18 or 37 [yellow]"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
       ],
       "guidance": "or SC2 for answer 5/12 or M2 for 1/12 = 5/(5+x+2x+1) oe or M1 for 5+x+2x+1 oe or [total number of flowers =] 60"
     },
-    {"qnum": 8, "marks": 1, "answer": "2.5 oe", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
+    {
+      "qnum": 8,
+      "marks": 1,
+      "answer": "2.5 oe",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
     {
       "qnum": 9,
       "marks": 2,
       "answer": "24/1000 < 2.1 x 10^(-1) < 22% < 0.2_recurring < sqrt(0.2)",
       "markAllocation": [
-        {"code": "M1", "type": "M", "value": 1, "criterion": "for four values in the correct order or for conversion to consistent comparable form"},
-        {"code": "A1", "type": "A", "value": 1, "criterion": ""}
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for four values in the correct order or for conversion to consistent comparable form"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
       ],
       "guidance": ""
     },
@@ -69,8 +187,18 @@
       "marks": 2,
       "answer": "15",
       "markAllocation": [
-        {"code": "M1", "type": "M", "value": 1, "criterion": "for 360 / (180 - 156) or 180(n-2)/n = 156 oe"},
-        {"code": "A1", "type": "A", "value": 1, "criterion": ""}
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for 360 / (180 - 156) or 180(n-2)/n = 156 oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
       ],
       "guidance": ""
     },
@@ -79,9 +207,24 @@
       "marks": 3,
       "answer": "Straight line from (20,14) to (35,14) and straight line from (35,14) to (45,0)",
       "markAllocation": [
-        {"code": "M1", "type": "M", "value": 1, "criterion": "for 210 / 14 soi"},
-        {"code": "M1", "type": "M", "value": 1, "criterion": "for 14 / 1.4 or any line with gradient -1.4 ending at x axis"},
-        {"code": "A1", "type": "A", "value": 1, "criterion": ""}
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for 210 / 14 soi"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for 14 / 1.4 or any line with gradient -1.4 ending at x axis"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
       ],
       "guidance": ""
     },
@@ -90,9 +233,24 @@
       "marks": 5,
       "answer": "13 - 5n oe, (n+1)/n oe, 2^(n-2) oe final answers",
       "markAllocation": [
-        {"code": "B2", "type": "B", "value": 2, "criterion": "for 13 - 5n oe final answer"},
-        {"code": "B1", "type": "B", "value": 1, "criterion": "for (n+1)/n oe final answer"},
-        {"code": "B2", "type": "B", "value": 2, "criterion": "for 2^(n-2) oe final answer"}
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for 13 - 5n oe final answer"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for (n+1)/n oe final answer"
+        },
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for 2^(n-2) oe final answer"
+        }
       ],
       "guidance": "B1 for -5n + c or 13 - kn (k ≠ 0) or 13 - 5n seen then spoilt. B1 for 2^(n-k) oe k can be 0"
     },
@@ -100,54 +258,274 @@
       "qnum": 13,
       "marks": 4,
       "parts": [
-        {"label": "(a)", "marks": 2, "answer": "3^(6n+5) final answer", "markAllocation": [{"code": "B2", "type": "B", "value": 2, "criterion": "final answer"}], "guidance": "B1 for 3^5 or (3^3)^(2n) or better or answer 6n + 5"},
-        {"label": "(b)", "marks": 2, "answer": "2^3 x 3^5 x p^6 final answer", "markAllocation": [{"code": "B2", "type": "B", "value": 2, "criterion": "final answer"}], "guidance": "B1 for two parts correct or 2 x 3 x 2 x 3^2 x p^3 x 2 x 3^2 x p^3 or 1944p^6 or k^2 = 2^2 x 3^4 x p^6"}
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "3^(6n+5) final answer",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "final answer"
+            }
+          ],
+          "guidance": "B1 for 3^5 or (3^3)^(2n) or better or answer 6n + 5"
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "2^3 x 3^5 x p^6 final answer",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "final answer"
+            }
+          ],
+          "guidance": "B1 for two parts correct or 2 x 3 x 2 x 3^2 x p^3 x 2 x 3^2 x p^3 or 1944p^6 or k^2 = 2^2 x 3^4 x p^6"
+        }
       ]
     },
     {
       "qnum": 14,
       "marks": 3,
       "parts": [
-        {"label": "(a)", "marks": 2, "answer": "55, Alternate segment theorem", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for 55"}, {"code": "B1", "type": "B", "value": 1, "criterion": "for alternate segment theorem"}], "guidance": ""},
-        {"label": "(b)", "marks": 1, "answer": "Tangents from an external point are equal in length", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""}
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "55, Alternate segment theorem",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for 55"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for alternate segment theorem"
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "Tangents from an external point are equal in length",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
       ]
     },
     {
       "qnum": 15,
       "marks": 4,
       "parts": [
-        {"label": "(a)", "marks": 3, "answer": "[y =] 3x + 7 final answer", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for (31 - 16)/(8 - 3) oe"}, {"code": "M1", "type": "M", "value": 1, "criterion": "for correct substitution of (3,16) or (8,31) into y = (their m)x + c"}, {"code": "A1", "type": "A", "value": 1, "criterion": ""}], "guidance": ""},
-        {"label": "(b)", "marks": 1, "answer": "-2", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""}
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "[y =] 3x + 7 final answer",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for (31 - 16)/(8 - 3) oe"
+            },
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for correct substitution of (3,16) or (8,31) into y = (their m)x + c"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "-2",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
       ]
     },
     {
       "qnum": 16,
       "marks": 4,
       "parts": [
-        {"label": "(a)", "marks": 2, "answer": "Completed addition table", "markAllocation": [{"code": "B2", "type": "B", "value": 2, "criterion": ""}], "guidance": "B1 for at least 4 correct entries"},
-        {"label": "(b)", "marks": 2, "answer": "2/5 oe", "markAllocation": [{"code": "B2", "type": "B", "value": 2, "criterion": "FT for their 2 / their 5"}], "guidance": "or B1FT for their 2/k (k is any integer 1 <= k <= 7) or c/their 5 (c is 0, 1 or 2)"}
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "Completed addition table",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": ""
+            }
+          ],
+          "guidance": "B1 for at least 4 correct entries"
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "2/5 oe",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "FT for their 2 / their 5"
+            }
+          ],
+          "guidance": "or B1FT for their 2/k (k is any integer 1 <= k <= 7) or c/their 5 (c is 0, 1 or 2)"
+        }
       ]
     },
-    {"qnum": 17, "marks": 1, "answer": "3/5 oe and -7/2 oe", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
+    {
+      "qnum": 17,
+      "marks": 1,
+      "answer": "3/5 oe and -7/2 oe",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
     {
       "qnum": 18,
       "marks": 5,
       "answer": "x = 3, y = 3 and x = 8, y = 13",
       "markAllocation": [
-        {"code": "M2", "type": "M", "value": 2, "criterion": "for x^2 - 11x + 24 [= 0] or y^2 - 16y + 39 [= 0]"},
-        {"code": "M1", "type": "M", "value": 1, "criterion": "for (x-8)(x-3) [= 0] or (y-13)(y-3) [= 0] or correct use of quadratic formula"},
-        {"code": "B2", "type": "B", "value": 2, "criterion": ""}
+        {
+          "code": "M2",
+          "type": "M",
+          "value": 2,
+          "criterion": "for x^2 - 11x + 24 [= 0] or y^2 - 16y + 39 [= 0]"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for (x-8)(x-3) [= 0] or (y-13)(y-3) [= 0] or correct use of quadratic formula"
+        },
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": ""
+        }
       ],
       "guidance": "M1 for x^2 - 9x + 21 = 2x - 3 oe. B1 for one correct pair or two correct x or y values. If B0 and at least 2 M marks, SC1 for correct substitution of both their x or y values"
     },
-    {"qnum": 19, "marks": 2, "answer": "Correct Venn diagram with C, D, E in correct regions", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for each"}], "guidance": ""},
+    {
+      "qnum": 19,
+      "marks": 2,
+      "answer": "Correct Venn diagram with C, D, E in correct regions",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for each"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
     {
       "qnum": 20,
       "marks": 5,
       "parts": [
-        {"label": "(a)", "marks": 2, "answer": "32", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for f(6) = 8 or ff(x) = 2^((2^(x-3))-3) oe"}, {"code": "A1", "type": "A", "value": 1, "criterion": ""}], "guidance": ""},
-        {"label": "(b)", "marks": 1, "answer": "x + 21", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
-        {"label": "(c)", "marks": 2, "answer": "-1", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for 1/16 oe or 2^(-4) oe"}, {"code": "A1", "type": "A", "value": 1, "criterion": ""}], "guidance": ""}
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "32",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for f(6) = 8 or ff(x) = 2^((2^(x-3))-3) oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "x + 21",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "answer": "-1",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for 1/16 oe or 2^(-4) oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
       ]
     },
     {
@@ -155,8 +533,18 @@
       "marks": 3,
       "answer": "2x^3 - 7x^2 - 12x + 45 final answer",
       "markAllocation": [
-        {"code": "B2", "type": "B", "value": 2, "criterion": "for unsimplified expansion of the three brackets with at most one error or for simplified four-term expression of correct form with three terms correct"},
-        {"code": "B1", "type": "B", "value": 1, "criterion": ""}
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for unsimplified expansion of the three brackets with at most one error or for simplified four-term expression of correct form with three terms correct"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
       ],
       "guidance": "or B1 for correct expansion of two of the given brackets with at least three terms out of four correct"
     },
@@ -165,8 +553,18 @@
       "marks": 3,
       "answer": "196.6 or 196.60... and 343.4 or 343.39...",
       "markAllocation": [
-        {"code": "B2", "type": "B", "value": 2, "criterion": "for one correct angle"},
-        {"code": "B1", "type": "B", "value": 1, "criterion": ""}
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for one correct angle"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
       ],
       "guidance": "or M1 for sin x = -2/7 or better. If 0 scored SC1 for two angles that sum to 540°"
     },
@@ -175,8 +573,18 @@
       "marks": 4,
       "answer": "(3y - 5) / (2(x - 12)) or (3y - 5) / (2x - 24) final answer",
       "markAllocation": [
-        {"code": "B3", "type": "B", "value": 3, "criterion": "for (3y-5)(x+12) and 2(x-12)(x+12) or (2x-24)(x+12)"},
-        {"code": "B1", "type": "B", "value": 1, "criterion": ""}
+        {
+          "code": "B3",
+          "type": "B",
+          "value": 3,
+          "criterion": "for (3y-5)(x+12) and 2(x-12)(x+12) or (2x-24)(x+12)"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
       ],
       "guidance": "SC3 for answer (3y-5)/(x-12). Or B2 for (3y-5)(x+12) or 2(x-12)(x+12) or (2x-24)(x+12) or (2x+24)(x-12). Or B1 for 3y(x+12)-5(x+12) or x(3y-5)+12(3y-5) or 2(x^2-144) or (x-12)(x+12)"
     }

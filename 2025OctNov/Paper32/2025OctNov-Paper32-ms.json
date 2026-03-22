@@ -8,76 +8,873 @@
   "paperNum": "32",
   "totalMarks": 80,
   "questions": [
-    { "qnum": 1, "marks": 2, "parts": [
-      { "label": "(a)", "marks": 1, "answer": "radius", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(b)", "marks": 1, "answer": "chord", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" }
-    ]},
-    { "qnum": 2, "marks": 2, "answer": "1  2  4  8  16  32", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for 4 correct and no errors or 6 correct and one extra" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-    { "qnum": 3, "marks": 2, "answer": "$<$, $=$, $<$", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for 2 correct" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-    { "qnum": 4, "marks": 3, "parts": [
-      { "label": "(a)", "marks": 1, "answer": "$-2, 3$", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(b)", "marks": 1, "answer": "correct ruled line $y = x$", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(c)", "marks": 1, "answer": "correct ruled line $y = -x + 1$", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "FT their straight $y = x$" }
-    ]},
-    { "qnum": 5, "marks": 2, "parts": [
-      { "label": "(a)", "marks": 1, "answer": "$\\frac{5}{8}$ or 0.625", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(b)", "marks": 1, "answer": "$-3$", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" }
-    ]},
-    { "qnum": 6, "marks": 3, "parts": [
-      { "label": "(a)", "marks": 1, "answer": "1 or 81 accept 0", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(b)", "marks": 1, "answer": "1", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(c)", "marks": 1, "answer": "59", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" }
-    ]},
-    { "qnum": 7, "marks": 1, "answer": "20", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-    { "qnum": 8, "marks": 2, "answer": "650, 3250", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for each" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-    { "qnum": 9, "marks": 2, "parts": [
-      { "label": "(a)", "marks": 1, "answer": "trapezium", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(b)", "marks": 1, "answer": "rhombus", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" }
-    ]},
-    { "qnum": 10, "marks": 3, "answer": "3.06 or 3.057...", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "for $(1 \\times 7) + (2 \\times 5) + (3 \\times 8) + (4 \\times 9) + (5 \\times 6)$" }, { "code": "M1", "type": "M", "value": 1, "criterion": "dep for $their\\ \\Sigma fx \\div (7 + 5 + 8 + 9 + 6)$" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "" },
-    { "qnum": 11, "marks": 2, "answer": "102", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for 108 or $-6$" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "or M1 for $3 \\times 6^2 + 2 \\times -3$ oe" },
-    { "qnum": 12, "marks": 4, "parts": [
-      { "label": "(a)", "marks": 2, "answer": "64, 136, 160", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for 1 correct" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "or M1 for $\\frac{360}{90} \\times k$ ($k = 1, 16, 34$ or $40$) oe" },
-      { "label": "(b)", "marks": 2, "answer": "Accurate pie chart", "markAllocation": [{ "code": "B2", "type": "B", "value": 2, "criterion": "FT if their angles add up to 360°" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "or B1FT for one correct sector or one correct FT sector (may or may not add to 360°)" }
-    ]},
-    { "qnum": 13, "marks": 2, "answer": "32 800 cao", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for 32 768 or their answer of more than 3 figures correctly rounded to 3 sf" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-    { "qnum": 14, "marks": 5, "parts": [
-      { "label": "(a)", "marks": 2, "answer": "40", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for 8 or $22\\frac{1}{2}$ or $17\\frac{1}{2}$" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "if 0 scored SC1 for 45 as final answer" },
-      { "label": "(b)", "marks": 1, "answer": "608", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "FT $their\\ (a) \\times 15.20$ correct to at least 3sf" },
-      { "label": "(c)", "marks": 1, "answer": "22.8[0]", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(d)", "marks": 1, "answer": "400", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" }
-    ]},
-    { "qnum": 15, "marks": 2, "answer": "Correct point marked", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for $B$ on bearing 140° from $A$" }, { "code": "B1", "type": "B", "value": 1, "criterion": "or for $B$ 5.5cm from $A$" }], "guidance": "" },
-    { "qnum": 16, "marks": 1, "answer": "72.96", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-    { "qnum": 17, "marks": 1, "answer": "Correct diagram showing solid arrow right from 3 and dashed arrow right from 3", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-    { "qnum": 18, "marks": 3, "parts": [
-      { "label": "(a)", "marks": 1, "answer": "positive", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(b)", "marks": 1, "answer": "Acceptable ruled line of best fit", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(c)", "marks": 1, "answer": "42 to 47", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "FT their straight line of best fit with positive gradient" }
-    ]},
-    { "qnum": 19, "marks": 3, "answer": "9.8[0] or 9.804 to 9.805", "markAllocation": [{ "code": "M2", "type": "M", "value": 2, "criterion": "for $x^3 = \\pi \\times 5^2 \\times 12$ oe" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "or M1 for $\\pi \\times 5^2 \\times 12$ oe or for $x^3 = their\\ 942.7$" },
-    { "qnum": 20, "marks": 2, "parts": [
-      { "label": "(a)", "marks": 1, "answer": "Flix AND higher mean oe", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(b)", "marks": 1, "answer": "Movie Scene AND higher range oe", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" }
-    ]},
-    { "qnum": 21, "marks": 2, "answer": "$2.33 \\times 10^2$ or $2.33[3...] \\times 10^2$", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for 233[.3...] oe or correct value not in correct standard form or their value seen given in correct standard form" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "if 0 scored SC1 for $2.3 \\times 10^2$ as answer" },
-    { "qnum": 22, "marks": 6, "parts": [
-      { "label": "(a)", "marks": 2, "answer": "78.5 or 78.6 or 78.53 to 78.55", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "for $\\pi \\times (\\frac{10}{2})^2$ oe" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(b)", "marks": 2, "answer": "121 or 120.7 to 120.8", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "FT for $10 \\times 16 - \\frac{1}{2} \\times their\\ (a)$ oe" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(c)", "marks": 2, "answer": "60.4 to 60.8", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "FT for $\\frac{their\\ (b)}{10 \\times 16 + \\frac{1}{2} \\times their\\ (a)} [\\times 100]$ oe or $\\frac{their\\ (b)}{their\\ (b) + their\\ (a)} [\\times 100]$ oe" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "" }
-    ]},
-    { "qnum": 23, "marks": 4, "answer": "52", "markAllocation": [{ "code": "B3", "type": "B", "value": 3, "criterion": "for 17" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "OR B1 for 8 correctly identified. M1 for $15^2 + (their\\ 8)^2$ oe. M1dep for $14 + 15 + 6 + their\\ 17$ soi" },
-    { "qnum": 24, "marks": 2, "answer": "18", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "for $\\frac{42}{x} = \\frac{28}{12}$ oe or better" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "" },
-    { "qnum": 25, "marks": 5, "parts": [
-      { "label": "(a)", "marks": 3, "answer": "$[y =] \\frac{1}{4}x + 2$ final answer", "markAllocation": [{ "code": "B2", "type": "B", "value": 2, "criterion": "for $\\frac{1}{4}x + c$" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "or for a correct unsimplified answer. or M1 for a correct rise/run or for a right-angled triangle with run $= a$ and rise $= b$ labelled with numerical values where $\\frac{b}{a} = \\frac{1}{4}$ oe. or B1 for $mx + 2$ where $m$ is their gradient" },
-      { "label": "(b)", "marks": 2, "answer": "$[y =] -3x + 8$ final answer", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for $-3x + c$ as answer, $c \\neq 5$" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "or M1 for $5 = -3[\\times 1] + c$" }
-    ]},
-    { "qnum": 26, "marks": 2, "answer": "9.04 or 9.042 to 9.043", "markAllocation": [{ "code": "M1", "type": "M", "value": 1, "criterion": "for $\\tan 37 = \\frac{x}{12}$ or better or $\\tan 53 = \\frac{12}{x}$ or better" }, { "code": "A1", "type": "A", "value": 1, "criterion": "" }], "guidance": "" },
-    { "qnum": 27, "marks": 7, "parts": [
-      { "label": "(a)", "marks": 2, "answer": "$-3$  $-12$  $12$  $3$", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "for 2 correct" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "" },
-      { "label": "(b)", "marks": 4, "answer": "Correct curve", "markAllocation": [{ "code": "B3", "type": "B", "value": 3, "criterion": "FT for 7 points correctly plotted" }, { "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "or B2FT for 5 points correctly plotted. or B1FT for 3 points correctly plotted" },
-      { "label": "(c)", "marks": 1, "answer": "1.1 to 1.3", "markAllocation": [{ "code": "B1", "type": "B", "value": 1, "criterion": "" }], "guidance": "FT their curve" }
-    ]},
-    { "qnum": 28, "marks": 5, "answer": "For showing Ali and Bob's final investment values to compare e.g. 4140 or 4144 to 4145 and 4080 e.g. 174000 or 174449 to 174450 and 15960", "markAllocation": [{ "code": "B2", "type": "B", "value": 2, "criterion": "for final value of the compound interest investment for comparison e.g. 4140 or 4144 to 4145 e.g. 174000 or 174449 to 174450" }, { "code": "B3", "type": "B", "value": 3, "criterion": "for final value of the total simple interest investment for comparison e.g. 4080 e.g. 15960" }], "guidance": "or M1 for $2950 \\times (1 + \\frac{12}{100})^k$ oe where $k = 3, 12, 36$ or a time frame clearly shown in the working. AND or B2 for value of simple interest e.g. 1080 e.g. 12960. or M2 for $3000 + \\frac{3000 \\times 12 \\times k}{100}$ oe. or M1 for $\\frac{3000 \\times 12 [\\times k]}{100}$ oe" }
+    {
+      "qnum": 1,
+      "marks": 2,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "radius",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "chord",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "answer": "1  2  4  8  16  32",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for 4 correct and no errors or 6 correct and one extra"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "answer": "$<$, $=$, $<$",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for 2 correct"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "$-2, 3$",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "correct ruled line $y = x$",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "answer": "correct ruled line $y = -x + 1$",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "FT their straight $y = x$"
+        }
+      ]
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "$\\frac{5}{8}$ or 0.625",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "$-3$",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "1 or 81 accept 0",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "1",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "answer": "59",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 7,
+      "marks": 1,
+      "answer": "20",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "answer": "650, 3250",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for each"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "trapezium",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "rhombus",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "answer": "3.06 or 3.057...",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $(1 \\times 7) + (2 \\times 5) + (3 \\times 8) + (4 \\times 9) + (5 \\times 6)$"
+        },
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "dep for $their\\ \\Sigma fx \\div (7 + 5 + 8 + 9 + 6)$"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "answer": "102",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for 108 or $-6$"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M1 for $3 \\times 6^2 + 2 \\times -3$ oe"
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "64, 136, 160",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for 1 correct"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or M1 for $\\frac{360}{90} \\times k$ ($k = 1, 16, 34$ or $40$) oe"
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "Accurate pie chart",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or B1FT for one correct sector or one correct FT sector (may or may not add to 360°)"
+        }
+      ]
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "answer": "32 800 cao",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for 32 768 or their answer of more than 3 figures correctly rounded to 3 sf"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 14,
+      "marks": 5,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "40",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for 8 or $22\\frac{1}{2}$ or $17\\frac{1}{2}$"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "if 0 scored SC1 for 45 as final answer"
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "608",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "FT $their\\ (a) \\times 15.20$ correct to at least 3sf"
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "answer": "22.8[0]",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "answer": "400",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "answer": "Correct point marked",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for $B$ on bearing 140° from $A$"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "or for $B$ 5.5cm from $A$"
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 16,
+      "marks": 1,
+      "answer": "72.96",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 17,
+      "marks": 1,
+      "answer": "Correct diagram showing solid arrow right from 3 and dashed arrow right from 3",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "positive",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "Acceptable ruled line of best fit",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "answer": "42 to 47",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "FT their straight line of best fit with positive gradient"
+        }
+      ]
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "answer": "9.8[0] or 9.804 to 9.805",
+      "markAllocation": [
+        {
+          "code": "M2",
+          "type": "M",
+          "value": 2,
+          "criterion": "for $x^3 = \\pi \\times 5^2 \\times 12$ oe"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M1 for $\\pi \\times 5^2 \\times 12$ oe or for $x^3 = their\\ 942.7$"
+    },
+    {
+      "qnum": 20,
+      "marks": 2,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "Flix AND higher mean oe",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "Movie Scene AND higher range oe",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "answer": "$2.33 \\times 10^2$ or $2.33[3...] \\times 10^2$",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for 233[.3...] oe or correct value not in correct standard form or their value seen given in correct standard form"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "if 0 scored SC1 for $2.3 \\times 10^2$ as answer"
+    },
+    {
+      "qnum": 22,
+      "marks": 6,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "78.5 or 78.6 or 78.53 to 78.55",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for $\\pi \\times (\\frac{10}{2})^2$ oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "121 or 120.7 to 120.8",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "FT for $10 \\times 16 - \\frac{1}{2} \\times their\\ (a)$ oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "answer": "60.4 to 60.8",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "FT for $\\frac{their\\ (b)}{10 \\times 16 + \\frac{1}{2} \\times their\\ (a)} [\\times 100]$ oe or $\\frac{their\\ (b)}{their\\ (b) + their\\ (a)} [\\times 100]$ oe"
+            },
+            {
+              "code": "A1",
+              "type": "A",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
+      ]
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "answer": "52",
+      "markAllocation": [
+        {
+          "code": "B3",
+          "type": "B",
+          "value": 3,
+          "criterion": "for 17"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "OR B1 for 8 correctly identified. M1 for $15^2 + (their\\ 8)^2$ oe. M1dep for $14 + 15 + 6 + their\\ 17$ soi"
+    },
+    {
+      "qnum": 24,
+      "marks": 2,
+      "answer": "18",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $\\frac{42}{x} = \\frac{28}{12}$ oe or better"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 25,
+      "marks": 5,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "$[y =] \\frac{1}{4}x + 2$ final answer",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "for $\\frac{1}{4}x + c$"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or for a correct unsimplified answer. or M1 for a correct rise/run or for a right-angled triangle with run $= a$ and rise $= b$ labelled with numerical values where $\\frac{b}{a} = \\frac{1}{4}$ oe. or B1 for $mx + 2$ where $m$ is their gradient"
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "$[y =] -3x + 8$ final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for $-3x + c$ as answer, $c \\neq 5$"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or M1 for $5 = -3[\\times 1] + c$"
+        }
+      ]
+    },
+    {
+      "qnum": 26,
+      "marks": 2,
+      "answer": "9.04 or 9.042 to 9.043",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for $\\tan 37 = \\frac{x}{12}$ or better or $\\tan 53 = \\frac{12}{x}$ or better"
+        },
+        {
+          "code": "A1",
+          "type": "A",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 27,
+      "marks": 7,
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "$-3$  $-12$  $12$  $3$",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for 2 correct"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "answer": "Correct curve",
+          "markAllocation": [
+            {
+              "code": "B3",
+              "type": "B",
+              "value": 3,
+              "criterion": "FT for 7 points correctly plotted"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or B2FT for 5 points correctly plotted. or B1FT for 3 points correctly plotted"
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "answer": "1.1 to 1.3",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "FT their curve"
+        }
+      ]
+    },
+    {
+      "qnum": 28,
+      "marks": 5,
+      "answer": "For showing Ali and Bob's final investment values to compare e.g. 4140 or 4144 to 4145 and 4080 e.g. 174000 or 174449 to 174450 and 15960",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for final value of the compound interest investment for comparison e.g. 4140 or 4144 to 4145 e.g. 174000 or 174449 to 174450"
+        },
+        {
+          "code": "B3",
+          "type": "B",
+          "value": 3,
+          "criterion": "for final value of the total simple interest investment for comparison e.g. 4080 e.g. 15960"
+        }
+      ],
+      "guidance": "or M1 for $2950 \\times (1 + \\frac{12}{100})^k$ oe where $k = 3, 12, 36$ or a time frame clearly shown in the working. AND or B2 for value of simple interest e.g. 1080 e.g. 12960. or M2 for $3000 + \\frac{3000 \\times 12 \\times k}{100}$ oe. or M1 for $\\frac{3000 \\times 12 [\\times k]}{100}$ oe"
+    }
   ]
 }

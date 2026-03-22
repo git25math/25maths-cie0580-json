@@ -38,7 +38,7 @@
             },
             {
               "label": "(ii)",
-              "marks": 2,
+              "marks": 3,
               "answer": "14",
               "markAllocation": [
                 {
@@ -50,6 +50,12 @@
                 {
                   "code": "A1",
                   "type": "A",
+                  "value": 1,
+                  "criterion": ""
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
                   "value": 1,
                   "criterion": ""
                 }
@@ -85,9 +91,15 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 1,
+              "marks": 2,
               "answer": "$a^8$",
               "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                },
                 {
                   "code": "B1",
                   "type": "B",
@@ -99,7 +111,7 @@
             },
             {
               "label": "(ii)",
-              "marks": 2,
+              "marks": 3,
               "answer": "$\\frac{c}{8}$ final answer",
               "markAllocation": [
                 {
@@ -111,6 +123,12 @@
                 {
                   "code": "A1",
                   "type": "A",
+                  "value": 1,
+                  "criterion": ""
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
                   "value": 1,
                   "criterion": ""
                 }
@@ -431,7 +449,7 @@
               "marks": 7,
               "subparts": [
                 {
-                  "label": "(a)(iii)(a)",
+                  "label": "(a)",
                   "marks": 3,
                   "answer": "$\\frac{5}{9}$ or 0.556 or 0.5555 to 0.5556",
                   "markAllocation": [
@@ -451,7 +469,7 @@
                   "guidance": "Accept $0.\\dot{5}$ or other 'recurrent' notation. Mark at most accurate. M2 implied by 33.3[...] or 0.555 but 0.56 alone does not imply method. or M1 for $20 \\times 25$ oe. their distance only 25, or $25 \\times 11.25$, or $25 \\times 18.75$. oe e.g. $\\frac{25}{900}$"
                 },
                 {
-                  "label": "(a)(iii)(b)",
+                  "label": "(b)",
                   "marks": 4,
                   "answer": "2 h 40 mins",
                   "markAllocation": [
@@ -780,18 +798,12 @@
             },
             {
               "label": "(ii)",
-              "marks": 2,
+              "marks": 1,
               "answer": "$\\frac{7 - x}{3}$ oe final answer",
               "markAllocation": [
                 {
-                  "code": "M1",
-                  "type": "M",
-                  "value": 1,
-                  "criterion": "for $x = 7 - 3y$ or $\\frac{y}{3} = \\frac{7}{3} - x$ or $y - 7 = -3x$ oe or better"
-                },
-                {
-                  "code": "A1",
-                  "type": "A",
+                  "code": "B1",
+                  "type": "B",
                   "value": 1,
                   "criterion": ""
                 }
@@ -1050,7 +1062,7 @@
             },
             {
               "label": "(ii)",
-              "marks": 2,
+              "marks": 4,
               "answer": "59",
               "markAllocation": [
                 {
@@ -1063,6 +1075,12 @@
                   "code": "A1",
                   "type": "A",
                   "value": 1,
+                  "criterion": ""
+                },
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
                   "criterion": ""
                 }
               ],

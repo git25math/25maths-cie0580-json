@@ -10,11 +10,11 @@
   "questions": [
     {
       "qnum": 1,
-      "marks": 18,
+      "marks": 12,
       "parts": [
         {
           "label": "(a)",
-          "marks": 5,
+          "marks": 3,
           "answer": "5.03",
           "markAllocation": [
             {
@@ -108,7 +108,7 @@
         },
         {
           "label": "(f)",
-          "marks": 3,
+          "marks": 2,
           "subparts": [
             {
               "label": "(f)(i)",
@@ -171,7 +171,7 @@
     },
     {
       "qnum": 2,
-      "marks": 11,
+      "marks": 17,
       "parts": [
         {
           "label": "(a)",
@@ -330,10 +330,16 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 1,
+              "marks": 2,
               "answer": "Correct shape",
               "answerFigure": "",
               "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                },
                 {
                   "code": "B1",
                   "type": "B",
@@ -560,9 +566,15 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 1,
+              "marks": 2,
               "answer": "5",
               "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                },
                 {
                   "code": "B1",
                   "type": "B",
@@ -574,24 +586,12 @@
             },
             {
               "label": "(ii)",
-              "marks": 3,
+              "marks": 1,
               "answer": "4.1",
               "markAllocation": [
                 {
-                  "code": "M1",
-                  "type": "M",
-                  "value": 1,
-                  "criterion": "for $1 \\times 2 + 2 \\times 4 + 3 \\times 8 + 4 \\times 7 + 5 \\times 12 + 6 \\times 7$ oe or for 164 soi"
-                },
-                {
-                  "code": "M1",
-                  "type": "M",
-                  "value": 1,
-                  "criterion": "dep for their $164 \\div 40$"
-                },
-                {
-                  "code": "A1",
-                  "type": "A",
+                  "code": "B1",
+                  "type": "B",
                   "value": 1,
                   "criterion": ""
                 }
@@ -929,10 +929,10 @@
             },
             {
               "label": "(ii)",
-              "marks": 3,
+              "marks": 4,
               "subparts": [
                 {
-                  "label": "(a)(ii)(a)",
+                  "label": "(a)",
                   "marks": 2,
                   "answer": "8  [4]  0",
                   "markAllocation": [
@@ -952,7 +952,7 @@
                   "guidance": ""
                 },
                 {
-                  "label": "(a)(ii)(b)",
+                  "label": "(b)",
                   "marks": 1,
                   "answer": "Correct graph through (0, 8) and (4, 0)",
                   "markAllocation": [

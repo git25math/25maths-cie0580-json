@@ -8,131 +8,888 @@
   "paperNum": "43",
   "totalMarks": 100,
   "questions": [
-    {"qnum": 1, "marks": 1, "answer": "12", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
-    {"qnum": 2, "marks": 3, "answer": "Correct triangle constructed with AC = 7 cm and BC = 5.3 cm and intersecting arcs", "markAllocation": [{"code": "B2", "type": "B", "value": 2, "criterion": "for correct triangle with no incorrect arcs or for a triangle with reversed sides with correct arcs"}], "guidance": "or B1 for any triangle with a side of 7 cm or a side of 5.3 cm or for 7[cm] or 5.3[cm] soi"},
+    {
+      "qnum": 1,
+      "marks": 1,
+      "answer": "12",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "answer": "Correct triangle constructed with AC = 7 cm and BC = 5.3 cm and intersecting arcs",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for correct triangle with no incorrect arcs or for a triangle with reversed sides with correct arcs"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or B1 for any triangle with a side of 7 cm or a side of 5.3 cm or for 7[cm] or 5.3[cm] soi"
+    },
     {
       "qnum": 3,
       "marks": 2,
       "parts": [
-        {"label": "(a)", "marks": 1, "answer": "23 or sqrt(144)", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": "Accept 12 for sqrt(144)"},
-        {"label": "(b)", "marks": 1, "answer": "sqrt(15)", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""}
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "23 or sqrt(144)",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "Accept 12 for sqrt(144)"
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "sqrt(15)",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
       ]
     },
-    {"qnum": 4, "marks": 3, "answer": "7.2[0] or 7 1/5", "markAllocation": [{"code": "M2", "type": "M", "value": 2, "criterion": "for 1/2 x 14/2 x (x + 11.4) = 130.2/2 oe or better"}], "guidance": "or M1 for 1/2 x 14/2 x (x + 11.4). If 0 scored, SC1 for height of obtuse-angled triangle = 4.2"},
+    {
+      "qnum": 4,
+      "marks": 3,
+      "answer": "7.2[0] or 7 1/5",
+      "markAllocation": [
+        {
+          "code": "M2",
+          "type": "M",
+          "value": 2,
+          "criterion": "for 1/2 x 14/2 x (x + 11.4) = 130.2/2 oe or better"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M1 for 1/2 x 14/2 x (x + 11.4). If 0 scored, SC1 for height of obtuse-angled triangle = 4.2"
+    },
     {
       "qnum": 5,
       "marks": 2,
       "parts": [
-        {"label": "(a)", "marks": 1, "answer": "0.078[0] oe", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
-        {"label": "(b)", "marks": 1, "answer": "37 000", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""}
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "0.078[0] oe",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "37 000",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
       ]
     },
-    {"qnum": 6, "marks": 2, "answer": "1.26 x 10^25 or 1.257 x 10^25 to 1.258 x 10^25", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for 1000/(7.95 x 10^(-23)) oe"}], "guidance": "or B1 for 1.26 x 10^k or 1.257 x 10^k to 1.258 x 10^k"},
+    {
+      "qnum": 6,
+      "marks": 2,
+      "answer": "1.26 x 10^25 or 1.257 x 10^25 to 1.258 x 10^25",
+      "markAllocation": [
+        {
+          "code": "M1",
+          "type": "M",
+          "value": 1,
+          "criterion": "for 1000/(7.95 x 10^(-23)) oe"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or B1 for 1.26 x 10^k or 1.257 x 10^k to 1.258 x 10^k"
+    },
     {
       "qnum": 7,
       "marks": 3,
       "parts": [
-        {"label": "(a)", "marks": 1, "answer": "4", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
-        {"label": "(b)", "marks": 1, "answer": "6, 12", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
-        {"label": "(c)", "marks": 1, "answer": "1, 5, 7 or 11", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""}
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "4",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "6, 12",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "answer": "1, 5, 7 or 11",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
       ]
     },
     {
       "qnum": 8,
       "marks": 4,
       "parts": [
-        {"label": "(a)", "marks": 2, "answer": "4x(7y - 3) final answer", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for 4x(7y - 3) seen then spoilt or final answers 4(7xy - 3x) or x(28y - 12) or 2x(14y - 6)"}], "guidance": ""},
-        {"label": "(b)", "marks": 2, "answer": "(2x + 1)(y - 3) final answer", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for 2x(y - 3) + 1(y - 3) or 2x(y - 3) + (y - 3) or y(2x + 1) - 3(2x + 1) or correct answer seen then spoilt"}], "guidance": ""}
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "4x(7y - 3) final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for 4x(7y - 3) seen then spoilt or final answers 4(7xy - 3x) or x(28y - 12) or 2x(14y - 6)"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "(2x + 1)(y - 3) final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for 2x(y - 3) + 1(y - 3) or 2x(y - 3) + (y - 3) or y(2x + 1) - 3(2x + 1) or correct answer seen then spoilt"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
       ]
     },
     {
       "qnum": 9,
       "marks": 3,
       "parts": [
-        {"label": "(a)", "marks": 2, "answer": "35x^8y^3 final answer", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for two correct parts from: 35, x^8 and y^3 or for correct answer seen then spoilt"}], "guidance": ""},
-        {"label": "(b)", "marks": 1, "answer": "1/5 oe", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""}
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "35x^8y^3 final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for two correct parts from: 35, x^8 and y^3 or for correct answer seen then spoilt"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "1/5 oe",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
       ]
     },
     {
       "qnum": 10,
       "marks": 5,
       "parts": [
-        {"label": "(a)", "marks": 2, "answer": "x^3 - 3x final answer", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for x^3 or -3x in the final answer or for 2x - 5x + x^3 or for x^3 - 3x seen then spoilt"}], "guidance": ""},
-        {"label": "(b)", "marks": 3, "answer": "x^3 + 2x^2 - 23x - 60 final answer", "markAllocation": [{"code": "B2", "type": "B", "value": 2, "criterion": "for correct expansion of three brackets unsimplified or for simplified four-term expression of correct form with three terms correct"}], "guidance": "or B1 for correct expansion of two brackets with at least three terms out of four correct"}
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "x^3 - 3x final answer",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for x^3 or -3x in the final answer or for 2x - 5x + x^3 or for x^3 - 3x seen then spoilt"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "x^3 + 2x^2 - 23x - 60 final answer",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "for correct expansion of three brackets unsimplified or for simplified four-term expression of correct form with three terms correct"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or B1 for correct expansion of two brackets with at least three terms out of four correct"
+        }
       ]
     },
-    {"qnum": 11, "marks": 8, "answer": "Table: 6th term: -2, 6/11, 8; nth term: 34 - 6n, n/(n+5), 2^(n-3)", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for -2"}, {"code": "B2", "type": "B", "value": 2, "criterion": "for 34 - 6n"}, {"code": "B1", "type": "B", "value": 1, "criterion": "for 6/11"}, {"code": "B1", "type": "B", "value": 1, "criterion": "for n/(n+5)"}, {"code": "B1", "type": "B", "value": 1, "criterion": "for 8"}, {"code": "B2", "type": "B", "value": 2, "criterion": "for 2^(n-3)"}], "guidance": "B1 for answer -6n + c or 34 - kn (k != 0) or for a correct answer seen and spoilt. B1 for answer 2^(n-k) (k can be 0) or for a correct answer seen and spoilt"},
-    {"qnum": 12, "marks": 3, "answer": "50 nfww", "markAllocation": [{"code": "B2", "type": "B", "value": 2, "criterion": "for sqrt(10^100) or 10^200/10^150 or answer k = 10^50"}], "guidance": "or M1 for any correct first step from: 10^220 x 10^80 = 10^300, 10^400 / 10^220 = 10^180, 10^400 / 10^80 = 10^320, sqrt(10^400) = 10^200, sqrt(10^220) = 10^110, sqrt(10^80) = 10^40"},
+    {
+      "qnum": 11,
+      "marks": 8,
+      "answer": "Table: 6th term: -2, 6/11, 8; nth term: 34 - 6n, n/(n+5), 2^(n-3)",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for -2"
+        },
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for 34 - 6n"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for 6/11"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for n/(n+5)"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for 8"
+        },
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for 2^(n-3)"
+        }
+      ],
+      "guidance": "B1 for answer -6n + c or 34 - kn (k != 0) or for a correct answer seen and spoilt. B1 for answer 2^(n-k) (k can be 0) or for a correct answer seen and spoilt"
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "answer": "50 nfww",
+      "markAllocation": [
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for sqrt(10^100) or 10^200/10^150 or answer k = 10^50"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M1 for any correct first step from: 10^220 x 10^80 = 10^300, 10^400 / 10^220 = 10^180, 10^400 / 10^80 = 10^320, sqrt(10^400) = 10^200, sqrt(10^220) = 10^110, sqrt(10^80) = 10^40"
+    },
     {
       "qnum": 13,
       "marks": 6,
       "parts": [
-        {"label": "(a)", "marks": 1, "answer": "(0, -10)", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
-        {"label": "(b)", "marks": 2, "answer": "14.5 or 14 1/2", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for 19/2 = x - 5 or for 19 = 2x - 10 or better"}], "guidance": ""},
-        {"label": "(c)", "marks": 3, "answer": "y = -1/2 x + 4 or y = -0.5x + 4 final answer", "markAllocation": [{"code": "B2", "type": "B", "value": 2, "criterion": "for a correct answer in the wrong form"}], "guidance": "OR M1 for y = -1/2 x + c or gradient = -1/2 soi; M1 for correct substitution of (2, 3) into y = (their -1/2)x + c or into y - k = (their -1/2)(x - h)"}
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "(0, -10)",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "answer": "14.5 or 14 1/2",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for 19/2 = x - 5 or for 19 = 2x - 10 or better"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "answer": "y = -1/2 x + 4 or y = -0.5x + 4 final answer",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "for a correct answer in the wrong form"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "OR M1 for y = -1/2 x + c or gradient = -1/2 soi; M1 for correct substitution of (2, 3) into y = (their -1/2)x + c or into y - k = (their -1/2)(x - h)"
+        }
       ]
     },
-    {"qnum": 14, "marks": 3, "answer": "2.128 to 2.13[0...]", "markAllocation": [{"code": "M2", "type": "M", "value": 2, "criterion": "for 4th root of (1523.15/1400) oe"}], "guidance": "or M1 for 1523.15 = 1400(k)^4 oe for any k"},
-    {"qnum": 15, "marks": 3, "answer": "0.25 or 1/4", "markAllocation": [{"code": "M2", "type": "M", "value": 2, "criterion": "for m*sqrt(98) + 2 = 0.5*sqrt(23) + 2"}], "guidance": "OR M1 for m = k/sqrt(t + 2); M1 for m = their k / sqrt(98 + 2)"},
-    {"qnum": 16, "marks": 5, "answer": "Correct lines and region indicated", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for each correct line"}, {"code": "B2", "type": "B", "value": 2, "criterion": "for correct region"}], "guidance": "or B1dep for region identified satisfying 2 of these inequalities. If y = 3 and x = 2 interchanged, SC1 for a region satisfying y < x + 3, y < 2 and x < 3"},
-    {"qnum": 17, "marks": 1, "answer": "Correct Venn diagram", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
+    {
+      "qnum": 14,
+      "marks": 3,
+      "answer": "2.128 to 2.13[0...]",
+      "markAllocation": [
+        {
+          "code": "M2",
+          "type": "M",
+          "value": 2,
+          "criterion": "for 4th root of (1523.15/1400) oe"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M1 for 1523.15 = 1400(k)^4 oe for any k"
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "answer": "0.25 or 1/4",
+      "markAllocation": [
+        {
+          "code": "M2",
+          "type": "M",
+          "value": 2,
+          "criterion": "for m*sqrt(98) + 2 = 0.5*sqrt(23) + 2"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "OR M1 for m = k/sqrt(t + 2); M1 for m = their k / sqrt(98 + 2)"
+    },
+    {
+      "qnum": 16,
+      "marks": 5,
+      "answer": "Correct lines and region indicated",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": "for each correct line"
+        },
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": "for correct region"
+        },
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or B1dep for region identified satisfying 2 of these inequalities. If y = 3 and x = 2 interchanged, SC1 for a region satisfying y < x + 3, y < 2 and x < 3"
+    },
+    {
+      "qnum": 17,
+      "marks": 1,
+      "answer": "Correct Venn diagram",
+      "markAllocation": [
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": ""
+    },
     {
       "qnum": 18,
       "marks": 8,
       "parts": [
-        {"label": "(a)", "marks": 1, "answer": "475.2", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
-        {"label": "(b)", "marks": 3, "answer": "402", "markAllocation": [{"code": "M2", "type": "M", "value": 2, "criterion": "for [2 x] (13.2 x 4.5 + 13.2 x 8 + 4.5 x 8)"}], "guidance": "or M1 for [2 x] 13.2 x 4.5 or [2 x] 13.2 x 8 or [2 x] 4.5 x 8"},
-        {"label": "(c)", "marks": 4, "answer": "29.8 or 29.83 to 29.84...", "markAllocation": [{"code": "M3", "type": "M", "value": 3, "criterion": "for tan = 8/sqrt(13.2^2 + 4.5^2) oe"}], "guidance": "or M2 for 13.2^2 + 4.5^2; or for 13.2^2 + 4.5^2 + 8^2; or M1 for identifying correct angle"}
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "475.2",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "402",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for [2 x] (13.2 x 4.5 + 13.2 x 8 + 4.5 x 8)"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or M1 for [2 x] 13.2 x 4.5 or [2 x] 13.2 x 8 or [2 x] 4.5 x 8"
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "answer": "29.8 or 29.83 to 29.84...",
+          "markAllocation": [
+            {
+              "code": "M3",
+              "type": "M",
+              "value": 3,
+              "criterion": "for tan = 8/sqrt(13.2^2 + 4.5^2) oe"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or M2 for 13.2^2 + 4.5^2; or for 13.2^2 + 4.5^2 + 8^2; or M1 for identifying correct angle"
+        }
       ]
     },
     {
       "qnum": 19,
       "marks": 4,
       "parts": [
-        {"label": "(a)", "marks": 3, "answer": "A correct cumulative frequency curve through [(20, 0)], (30, 6) (40, 42), (50, 76), (60, 170), (70, 190) and (80, 200)", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for correct horizontal placement for 6 plots"}, {"code": "B1", "type": "B", "value": 1, "criterion": "for correct vertical placement for 6 plots"}, {"code": "B1", "type": "B", "value": 1, "criterion": "FT dep on at least B1 for reasonable increasing curve or polygon through their 6 points"}], "guidance": "If 0 scored, SC1FT for 5 out of 6 points correctly plotted"},
-        {"label": "(b)", "marks": 1, "answer": "Reading at 150 FT their increasing curve", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""}
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "A correct cumulative frequency curve through [(20, 0)], (30, 6) (40, 42), (50, 76), (60, 170), (70, 190) and (80, 200)",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for correct horizontal placement for 6 plots"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for correct vertical placement for 6 plots"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "FT dep on at least B1 for reasonable increasing curve or polygon through their 6 points"
+            }
+          ],
+          "guidance": "If 0 scored, SC1FT for 5 out of 6 points correctly plotted"
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "Reading at 150 FT their increasing curve",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
       ]
     },
     {
       "qnum": 20,
       "marks": 5,
       "parts": [
-        {"label": "(a)", "marks": 2, "answer": "2/9 oe", "markAllocation": [{"code": "M1", "type": "M", "value": 1, "criterion": "for 3/5 x p = 2/15 oe or better"}], "guidance": ""},
-        {"label": "(b)", "marks": 3, "answer": "14/45 oe", "markAllocation": [{"code": "M2", "type": "M", "value": 2, "criterion": "for (1 - their 2/9) x (1 - 3/5) oe"}], "guidance": "FT (1 - their 2/9) x 2/5 correctly evaluated. or M1 for 1 - their 2/9 or 1 - 3/5 oe"}
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "2/9 oe",
+          "markAllocation": [
+            {
+              "code": "M1",
+              "type": "M",
+              "value": 1,
+              "criterion": "for 3/5 x p = 2/15 oe or better"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "14/45 oe",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for (1 - their 2/9) x (1 - 3/5) oe"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "FT (1 - their 2/9) x 2/5 correctly evaluated. or M1 for 1 - their 2/9 or 1 - 3/5 oe"
+        }
       ]
     },
-    {"qnum": 21, "marks": 4, "answer": "28.8 or 28.83 to 28.84...", "markAllocation": [{"code": "M3", "type": "M", "value": 3, "criterion": "for 1/2 x 12 x 12 x sin60 - 60/360 x pi x (2/3 x 12)^2 oe"}], "guidance": "OR M1 for k/360 x pi x (2/3 x 12)^2 oe where k < 90 or k/360 < 1/4; M1 for 1/2 x 12 x 12 x sin k oe where k < 90. If 0 scored, SC1 for [radius =] 8 and [angle A =] 60 seen"},
+    {
+      "qnum": 21,
+      "marks": 4,
+      "answer": "28.8 or 28.83 to 28.84...",
+      "markAllocation": [
+        {
+          "code": "M3",
+          "type": "M",
+          "value": 3,
+          "criterion": "for 1/2 x 12 x 12 x sin60 - 60/360 x pi x (2/3 x 12)^2 oe"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "OR M1 for k/360 x pi x (2/3 x 12)^2 oe where k < 90 or k/360 < 1/4; M1 for 1/2 x 12 x 12 x sin k oe where k < 90. If 0 scored, SC1 for [radius =] 8 and [angle A =] 60 seen"
+    },
     {
       "qnum": 22,
       "marks": 4,
       "parts": [
-        {"label": "(a)", "marks": 1, "answer": "14.15 cao", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
-        {"label": "(b)", "marks": 3, "answer": "7.296 cao nfww", "markAllocation": [{"code": "M2", "type": "M", "value": 2, "criterion": "for (14.2 to 14.3)/(1.3 - 0.05)^3 or (14.3 - 0.05)/(1.2 to 1.3)^3 oe"}], "guidance": "or M1 for 14.25 or 1.35 or 1.25 seen"}
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "14.15 cao",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "7.296 cao nfww",
+          "markAllocation": [
+            {
+              "code": "M2",
+              "type": "M",
+              "value": 2,
+              "criterion": "for (14.2 to 14.3)/(1.3 - 0.05)^3 or (14.3 - 0.05)/(1.2 to 1.3)^3 oe"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or M1 for 14.25 or 1.35 or 1.25 seen"
+        }
       ]
     },
-    {"qnum": 23, "marks": 4, "answer": "168 or 167.5 to 167.6", "markAllocation": [{"code": "M3", "type": "M", "value": 3, "criterion": "for pi/3 x [4.2^2 x (4.5 + 7.5) - (4.2 x 7.5/(4.5 + 7.5))^2 x 7.5] oe"}], "guidance": "or M2 for (7.5/(7.5 + 4.5))^3 x 1/3 x pi x 4.2^2 x (4.5 + 7.5) or for 1/3 x pi x (4.2 x 7.5/(4.5 + 7.5))^2 x 7.5; or M1 for 1/3 x pi x 4.2^2 x (4.5 + 7.5)"},
+    {
+      "qnum": 23,
+      "marks": 4,
+      "answer": "168 or 167.5 to 167.6",
+      "markAllocation": [
+        {
+          "code": "M3",
+          "type": "M",
+          "value": 3,
+          "criterion": "for pi/3 x [4.2^2 x (4.5 + 7.5) - (4.2 x 7.5/(4.5 + 7.5))^2 x 7.5] oe"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
+        }
+      ],
+      "guidance": "or M2 for (7.5/(7.5 + 4.5))^3 x 1/3 x pi x 4.2^2 x (4.5 + 7.5) or for 1/3 x pi x (4.2 x 7.5/(4.5 + 7.5))^2 x 7.5; or M1 for 1/3 x pi x 4.2^2 x (4.5 + 7.5)"
+    },
     {
       "qnum": 24,
       "marks": 4,
       "parts": [
-        {"label": "(a)", "marks": 3, "answer": "14, 37, 24", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for each correct answer"}], "guidance": ""},
-        {"label": "(b)", "marks": 1, "answer": "6", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""}
+        {
+          "label": "(a)",
+          "marks": 3,
+          "answer": "14, 37, 24",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for each correct answer"
+            },
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "answer": "6",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        }
       ]
     },
     {
       "qnum": 25,
       "marks": 5,
       "parts": [
-        {"label": "(a)", "marks": 2, "answer": "Correct sketch to go through (0, 0), (180, 0) and (360, 0)", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": "for correct sine curve shape through the origin (minimum one cycle)"}], "guidance": ""},
-        {"label": "(b)", "marks": 3, "answer": "191.5, 348.5 and no others", "markAllocation": [{"code": "B2", "type": "B", "value": 2, "criterion": "for one correct"}], "guidance": "or M1 for sin x = -1/5 oe. If M1 or 0 scored, SC1 for two reflex angles with a sum that rounds to 540.0 or two non-reflex angles with a sum that rounds to 180.0"}
+        {
+          "label": "(a)",
+          "marks": 2,
+          "answer": "Correct sketch to go through (0, 0), (180, 0) and (360, 0)",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": "for correct sine curve shape through the origin (minimum one cycle)"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "answer": "191.5, 348.5 and no others",
+          "markAllocation": [
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": "for one correct"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "or M1 for sin x = -1/5 oe. If M1 or 0 scored, SC1 for two reflex angles with a sum that rounds to 540.0 or two non-reflex angles with a sum that rounds to 180.0"
+        }
       ]
     },
     {
       "qnum": 26,
       "marks": 5,
       "parts": [
-        {"label": "(a)", "marks": 1, "answer": "-3a + 12b oe", "markAllocation": [{"code": "B1", "type": "B", "value": 1, "criterion": ""}], "guidance": ""},
-        {"label": "(b)", "marks": 4, "answer": "2 : 3 oe nfww", "markAllocation": [{"code": "B3", "type": "B", "value": 3, "criterion": "for any two of OP = 5a + 10b, OT = 2a + 4b, TP = 3a + 6b"}], "guidance": "OR M2 for any two of OP = 12b + 5a - 2b, OT = 3a + 1/3 their(a), TP = 2/3 their(a) + 5a - 2b or better; OR M1 for any one of OP = 12b + 5a - 2b, OT = 3a + 1/3 their(a), TP = 2/3 their(a) + 5a - 2b or better or for +- 1/3(-3a + 12b) or +- 1/3 their(a) or +- 2/3(-3a + 12b) or +- 2/3 their(a)"}
+        {
+          "label": "(a)",
+          "marks": 1,
+          "answer": "-3a + 12b oe",
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": ""
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "answer": "2 : 3 oe nfww",
+          "markAllocation": [
+            {
+              "code": "B3",
+              "type": "B",
+              "value": 3,
+              "criterion": "for any two of OP = 5a + 10b, OT = 2a + 4b, TP = 3a + 6b"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
+          "guidance": "OR M2 for any two of OP = 12b + 5a - 2b, OT = 3a + 1/3 their(a), TP = 2/3 their(a) + 5a - 2b or better; OR M1 for any one of OP = 12b + 5a - 2b, OT = 3a + 1/3 their(a), TP = 2/3 their(a) + 5a - 2b or better or for +- 1/3(-3a + 12b) or +- 1/3 their(a) or +- 2/3(-3a + 12b) or +- 2/3 their(a)"
+        }
       ]
     }
   ]

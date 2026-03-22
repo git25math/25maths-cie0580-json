@@ -381,6 +381,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for each"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": ""
@@ -395,6 +401,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for each"
+                },
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
+                  "criterion": ""
                 }
               ],
               "guidance": ""
@@ -897,6 +909,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for each"
+                },
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
+                  "criterion": ""
                 }
               ],
               "guidance": "If 0 scored, SC1 for $10y + 8x < 80$ oe final answer and $x \\geqslant 4$ oe final answer and $2y \\geqslant x - 4$ oe final answer"

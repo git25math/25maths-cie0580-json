@@ -449,6 +449,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for each"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": "If zero scored, SC1 for 2 values satisfying one of the original equations"
@@ -463,6 +469,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for each"
+                },
+                {
+                  "code": "B3",
+                  "type": "B",
+                  "value": 3,
+                  "criterion": ""
                 }
               ],
               "guidance": "or SC1 for $\\sin u = \\text{their } p$ and $\\cos v = \\text{their } q$. SC1 if their two different angles for $u$ sum to 180 or if their different two angles for $v$ sum to 360"
@@ -759,6 +771,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for each"
+                },
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
+                  "criterion": ""
                 }
               ],
               "guidance": ""
@@ -834,6 +852,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for each"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": "If 0 scored, M1 for their $6x - 12 = 0$ or states $\\frac{dy}{dx} = 0$"
@@ -851,6 +875,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for each"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -1007,6 +1037,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for each"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": ""

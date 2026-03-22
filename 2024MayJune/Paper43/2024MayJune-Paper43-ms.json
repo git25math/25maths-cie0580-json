@@ -38,7 +38,7 @@
             },
             {
               "label": "(ii)",
-              "marks": 1,
+              "marks": 2,
               "answer": "91.1 or 91.14 to 91.15",
               "markAllocation": [
                 {
@@ -46,6 +46,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "FT $\\frac{2780}{\\text{their }3050} \\times 100$"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": ""
@@ -452,9 +458,15 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 1,
+              "marks": 2,
               "answer": "3 cao",
               "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                },
                 {
                   "code": "B1",
                   "type": "B",
@@ -466,21 +478,9 @@
             },
             {
               "label": "(ii)",
-              "marks": 3,
+              "marks": 1,
               "answer": "$-2$, $-0.45$ to $-0.4$, $2.40$ to $2.45$",
               "markAllocation": [
-                {
-                  "code": "B1",
-                  "type": "B",
-                  "value": 1,
-                  "criterion": "for each"
-                },
-                {
-                  "code": "B1",
-                  "type": "B",
-                  "value": 1,
-                  "criterion": ""
-                },
                 {
                   "code": "B1",
                   "type": "B",
@@ -890,7 +890,7 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 1,
+              "marks": 3,
               "answer": "0",
               "markAllocation": [
                 {
@@ -898,19 +898,31 @@
                   "type": "B",
                   "value": 1,
                   "criterion": ""
+                },
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
+                  "criterion": ""
                 }
               ],
               "guidance": ""
             },
             {
               "label": "(ii)",
-              "marks": 1,
+              "marks": 3,
               "answer": "$\\frac{1}{7}$ oe",
               "markAllocation": [
                 {
                   "code": "B1",
                   "type": "B",
                   "value": 1,
+                  "criterion": ""
+                },
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
                   "criterion": ""
                 }
               ],

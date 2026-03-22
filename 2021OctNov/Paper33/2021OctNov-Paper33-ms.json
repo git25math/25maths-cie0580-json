@@ -34,19 +34,13 @@
         },
         {
           "label": "(ii)",
-          "marks": 3,
+          "marks": 2,
           "answer": "779 or 778.6 to 778.7",
           "markAllocation": [
             {
-              "code": "M2",
-              "type": "M",
+              "code": "B2",
+              "type": "B",
               "value": 2,
-              "criterion": "for 8760 / 11.25 oe"
-            },
-            {
-              "code": "A1",
-              "type": "A",
-              "value": 1,
               "criterion": ""
             }
           ],
@@ -88,9 +82,15 @@
         },
         {
           "label": "(i)",
-          "marks": 1,
+          "marks": 2,
           "answer": "5000",
           "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            },
             {
               "code": "B1",
               "type": "B",
@@ -102,9 +102,15 @@
         },
         {
           "label": "(ii)",
-          "marks": 1,
+          "marks": 2,
           "answer": "4.986 x 10^3",
           "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            },
             {
               "code": "B1",
               "type": "B",
@@ -298,12 +304,18 @@
               "type": "B",
               "value": 1,
               "criterion": "for each"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
         },
         {
-          "label": "(b)(i)(a)",
+          "label": "(a)",
           "marks": 3,
           "answer": "Enlargement, centre (-7,-5), sf 2",
           "markAllocation": [
@@ -329,7 +341,7 @@
           "guidance": ""
         },
         {
-          "label": "(b)(i)(b)",
+          "label": "(b)",
           "marks": 3,
           "answer": "Rotation, centre (0,0) oe, 180°",
           "markAllocation": [
@@ -355,7 +367,7 @@
           "guidance": ""
         },
         {
-          "label": "(b)(ii)",
+          "label": "(ii)",
           "marks": 2,
           "answer": "Triangle at (-3,5), (-5,5), (-5,2)",
           "markAllocation": [
@@ -369,7 +381,7 @@
           "guidance": "B1 for correct reflection in x = k (k ≠ -1)"
         },
         {
-          "label": "(b)(iii)",
+          "label": "(iii)",
           "marks": 2,
           "answer": "Triangle at (6,4), (8,4), (8,1)",
           "markAllocation": [
@@ -574,6 +586,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for each"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "If 0 scored, SC1 for both correct but reversed"
@@ -836,6 +854,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for each"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -864,6 +888,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for each"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "FT their curve"

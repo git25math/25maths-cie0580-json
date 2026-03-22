@@ -18,20 +18,14 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 2,
+              "marks": 1,
               "answer": "6h 27 mins",
               "markAllocation": [
                 {
                   "code": "B1",
                   "type": "B",
                   "value": 1,
-                  "criterion": "answer ...h 27 mins"
-                },
-                {
-                  "code": "A1",
-                  "type": "A",
-                  "value": 1,
-                  "criterion": "6h 27 mins"
+                  "criterion": ""
                 }
               ]
             },
@@ -57,7 +51,7 @@
             },
             {
               "label": "(iii)",
-              "marks": 4,
+              "marks": 5,
               "answer": "780",
               "markAllocation": [
                 {
@@ -71,6 +65,12 @@
                   "type": "A",
                   "value": 1,
                   "criterion": "780"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": "or M2 for (90\\times35/3600)\\times1000 oe or B1 for figs 875 or M1 for 90\\times35/3600 seen"
@@ -284,14 +284,14 @@
             },
             {
               "label": "(ii)",
-              "marks": 2,
+              "marks": 1,
               "answer": "Image at (2,1),(4,-1),(2,-2)",
               "markAllocation": [
                 {
-                  "code": "B2",
+                  "code": "B1",
                   "type": "B",
-                  "value": 2,
-                  "criterion": "cao"
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": "B1 for reflection in y=-x or y=x drawn"
@@ -371,7 +371,7 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 2,
+              "marks": 5,
               "answer": "367.8... to 367.9",
               "markAllocation": [
                 {
@@ -385,6 +385,12 @@
                   "type": "A",
                   "value": 1,
                   "criterion": "367.8 to 367.9"
+                },
+                {
+                  "code": "B3",
+                  "type": "B",
+                  "value": 3,
+                  "criterion": ""
                 }
               ]
             },
@@ -449,10 +455,10 @@
             },
             {
               "label": "(ii)",
-              "marks": 7,
+              "marks": 4,
               "subparts": [
                 {
-                  "label": "(a)",
+                  "label": "(ii)(a)",
                   "marks": 4,
                   "answer": "18.94 or 18.939 to 18.944...",
                   "markAllocation": [
@@ -478,7 +484,7 @@
                   "guidance": "M1 for either volume alone or M1 for 1-(1/4)^3 oe"
                 },
                 {
-                  "label": "(b)",
+                  "label": "(ii)(b)",
                   "marks": 3,
                   "answer": "95 final answer",
                   "markAllocation": [
@@ -514,7 +520,7 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 1,
+              "marks": 3,
               "answer": "-3",
               "markAllocation": [
                 {
@@ -522,12 +528,18 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "cao"
+                },
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
+                  "criterion": ""
                 }
               ]
             },
             {
               "label": "(ii)",
-              "marks": 2,
+              "marks": 3,
               "answer": "6.2 to 6.4 oe",
               "markAllocation": [
                 {
@@ -541,6 +553,12 @@
                   "type": "A",
                   "value": 1,
                   "criterion": "6.2 to 6.4"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ]
             }
@@ -855,7 +873,7 @@
               "marks": 8,
               "subparts": [
                 {
-                  "label": "(a)",
+                  "label": "(ii)(a)",
                   "marks": 4,
                   "answer": "4x^2-25x-21=0",
                   "markAllocation": [
@@ -886,7 +904,7 @@
                   ]
                 },
                 {
-                  "label": "(b)",
+                  "label": "(ii)(b)",
                   "marks": 3,
                   "answer": "(4x+3)(x-7) [=0]; 7 and -3/4",
                   "markAllocation": [
@@ -906,7 +924,7 @@
                   "guidance": "M1 for partial factorisation or (4x+a)(x+b) with ab=-21 or 4b+a=-25"
                 },
                 {
-                  "label": "(c)",
+                  "label": "(ii)(c)",
                   "marks": 1,
                   "answer": "7",
                   "markAllocation": [
@@ -955,46 +973,28 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 5,
+              "marks": 4,
               "answer": "76.68... nfww",
               "markAllocation": [
                 {
-                  "code": "B2",
+                  "code": "B4",
                   "type": "B",
-                  "value": 2,
-                  "criterion": "angle ACD=46 soi or angle CDE=44 soi"
-                },
-                {
-                  "code": "M2",
-                  "type": "M",
-                  "value": 2,
-                  "criterion": "58sin108/sin(their 46)"
-                },
-                {
-                  "code": "A1",
-                  "type": "A",
-                  "value": 1,
-                  "criterion": "76.68... nfww"
+                  "value": 4,
+                  "criterion": ""
                 }
               ],
               "guidance": "B1 for angle ADC=108 or angle DCB=18. or M1 for sin108/x=sin(their 46)/58 oe"
             },
             {
               "label": "(ii)",
-              "marks": 3,
+              "marks": 1,
               "answer": "10.9 or 10.91 to 10.94",
               "markAllocation": [
                 {
-                  "code": "B2",
+                  "code": "B1",
                   "type": "B",
-                  "value": 2,
-                  "criterion": "[AB=] 68.9 or 68.91 to 68.94"
-                },
-                {
-                  "code": "A1",
-                  "type": "A",
                   "value": 1,
-                  "criterion": "10.9 or 10.91 to 10.94"
+                  "criterion": ""
                 }
               ],
               "guidance": "or M2 for correct explicit statement for AB or BD or M1 for AB/76.7=cos26 oe"

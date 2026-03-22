@@ -754,6 +754,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for each"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -1178,6 +1184,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for each or for $a$ and $b$ transposed"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": ""

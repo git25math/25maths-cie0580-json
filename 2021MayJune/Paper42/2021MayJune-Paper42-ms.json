@@ -754,29 +754,17 @@
     },
     {
       "qnum": 6,
-      "marks": 14,
+      "marks": 13,
       "parts": [
         {
           "label": "(a)",
-          "marks": 4,
+          "marks": 3,
           "answer": "16.90 to 16.91",
           "markAllocation": [
             {
-              "code": "M2",
-              "type": "M",
-              "value": 2,
-              "criterion": "for sqrt(16^2 + 19^2 - 2×16×19×cos57) oe"
-            },
-            {
-              "code": "A1",
-              "type": "A",
-              "value": 1,
-              "criterion": "for 285.8 to 285.9"
-            },
-            {
-              "code": "A1",
-              "type": "A",
-              "value": 1,
+              "code": "B3",
+              "type": "B",
+              "value": 3,
               "criterion": ""
             }
           ],
@@ -1139,7 +1127,7 @@
     },
     {
       "qnum": 10,
-      "marks": 8,
+      "marks": 9,
       "parts": [
         {
           "label": "(a)",

@@ -384,11 +384,11 @@
     },
     {
       "qnum": 5,
-      "marks": 19,
+      "marks": 18,
       "parts": [
         {
           "label": "(a)",
-          "marks": 5,
+          "marks": 4,
           "answer": "121 or 120.8... or $120\\frac{5}{6}$",
           "markAllocation": [
             {
@@ -741,7 +741,7 @@
     },
     {
       "qnum": 8,
-      "marks": 12,
+      "marks": 13,
       "parts": [
         {
           "label": "(a)",
@@ -765,7 +765,7 @@
         },
         {
           "label": "(b)",
-          "marks": 3,
+          "marks": 4,
           "answer": "$2.8x^2 - 10x - 120 = 0$ oe or $7x^2 - 25x - 300 = 0$",
           "markAllocation": [
             {
@@ -779,6 +779,12 @@
               "type": "A",
               "value": 1,
               "criterion": "with no errors or omissions"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "M1 for $12(x + 10) + 26x$ seen or better"

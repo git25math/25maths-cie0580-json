@@ -1073,15 +1073,9 @@
               "answer": "$\\frac{2}{5}\\mathbf{a} + \\frac{3}{5}\\mathbf{b}$",
               "markAllocation": [
                 {
-                  "code": "M3",
-                  "type": "M",
+                  "code": "B3",
+                  "type": "B",
                   "value": 3,
-                  "criterion": "for $\\mathbf{a} + \\frac{3}{5}(\\mathbf{b} - \\mathbf{a})$ or $\\mathbf{b} + \\frac{2}{5}(\\mathbf{a} - \\mathbf{b})$ leading to $\\frac{2}{5}\\mathbf{a} + \\frac{3}{5}\\mathbf{b}$ with no errors"
-                },
-                {
-                  "code": "A1",
-                  "type": "A",
-                  "value": 1,
                   "criterion": ""
                 }
               ],

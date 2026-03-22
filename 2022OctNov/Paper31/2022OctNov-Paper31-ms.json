@@ -10,11 +10,11 @@
   "questions": [
     {
       "qnum": 1,
-      "marks": 10,
+      "marks": 12,
       "parts": [
         {
           "label": "(a)",
-          "marks": 2,
+          "marks": 3,
           "answer": "9.9[0]\n3.9[0]",
           "markAllocation": [
             {
@@ -22,6 +22,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for each"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             },
             {
               "code": "B1",
@@ -108,7 +114,7 @@
         },
         {
           "label": "(d)(ii)",
-          "marks": 1,
+          "marks": 3,
           "answer": "3",
           "markAllocation": [
             {
@@ -368,7 +374,7 @@
     },
     {
       "qnum": 4,
-      "marks": 14,
+      "marks": 12,
       "parts": [
         {
           "label": "(a)(i)",
@@ -490,7 +496,7 @@
         },
         {
           "label": "(e)",
-          "marks": 5,
+          "marks": 3,
           "answer": "11 45",
           "markAllocation": [
             {
@@ -618,7 +624,7 @@
     },
     {
       "qnum": 6,
-      "marks": 10,
+      "marks": 12,
       "parts": [
         {
           "label": "(a)",
@@ -704,7 +710,7 @@
         },
         {
           "label": "(d)(iii)",
-          "marks": 1,
+          "marks": 3,
           "answer": "17.7 or 17.67 to 17.68",
           "markAllocation": [
             {
@@ -892,7 +898,7 @@
     },
     {
       "qnum": 8,
-      "marks": 12,
+      "marks": 10,
       "parts": [
         {
           "label": "(a)(i)",
@@ -910,7 +916,7 @@
         },
         {
           "label": "(a)(ii)",
-          "marks": 4,
+          "marks": 2,
           "answer": "$\\binom{-13}{14}$",
           "markAllocation": [
             {

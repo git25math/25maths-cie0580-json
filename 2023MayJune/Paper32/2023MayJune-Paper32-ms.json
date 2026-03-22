@@ -10,7 +10,7 @@
   "questions": [
     {
       "qnum": 1,
-      "marks": 15,
+      "marks": 14,
       "parts": [
         {
           "label": "(a)",
@@ -63,7 +63,7 @@
         },
         {
           "label": "(c)",
-          "marks": 3,
+          "marks": 2,
           "answer": "100",
           "markAllocation": [
             {
@@ -181,7 +181,7 @@
     },
     {
       "qnum": 2,
-      "marks": 13,
+      "marks": 12,
       "parts": [
         {
           "label": "(a)",
@@ -328,14 +328,21 @@
           "label": "(d)",
           "marks": 1,
           "answer": "Not used (placeholder)",
-          "markAllocation": [],
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
           "guidance": ""
         }
       ]
     },
     {
       "qnum": 3,
-      "marks": 12,
+      "marks": 11,
       "parts": [
         {
           "label": "(a)",
@@ -455,7 +462,14 @@
           "label": "(c)",
           "marks": 1,
           "answer": "Not used",
-          "markAllocation": [],
+          "markAllocation": [
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
+            }
+          ],
           "guidance": ""
         }
       ]
@@ -937,7 +951,7 @@
     },
     {
       "qnum": 8,
-      "marks": 12,
+      "marks": 15,
       "parts": [
         {
           "label": "(a)",
@@ -1035,7 +1049,7 @@
         },
         {
           "label": "(f)",
-          "marks": 3,
+          "marks": 6,
           "answer": "$[x =] 4.5$\n$[y =] 2$",
           "markAllocation": [
             {

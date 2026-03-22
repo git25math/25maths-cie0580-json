@@ -240,6 +240,12 @@
           "type": "B",
           "value": 1,
           "criterion": "for each"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": ""
@@ -334,6 +340,12 @@
           "type": "B",
           "value": 1,
           "criterion": "for each"
+        },
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": ""
         }
       ],
       "guidance": ""
@@ -368,6 +380,12 @@
           "type": "B",
           "value": 1,
           "criterion": "for each"
+        },
+        {
+          "code": "B3",
+          "type": "B",
+          "value": 3,
+          "criterion": ""
         }
       ],
       "guidance": ""
@@ -532,6 +550,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for each or for two values with sum of 360"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""

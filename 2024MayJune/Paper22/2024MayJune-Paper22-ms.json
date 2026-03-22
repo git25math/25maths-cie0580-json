@@ -538,9 +538,15 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 1,
+              "marks": 2,
               "answer": "cubic",
               "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                },
                 {
                   "code": "B1",
                   "type": "B",
@@ -552,13 +558,19 @@
             },
             {
               "label": "(ii)",
-              "marks": 1,
+              "marks": 3,
               "answer": "reciprocal",
               "markAllocation": [
                 {
                   "code": "B1",
                   "type": "B",
                   "value": 1,
+                  "criterion": ""
+                },
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
                   "criterion": ""
                 }
               ],

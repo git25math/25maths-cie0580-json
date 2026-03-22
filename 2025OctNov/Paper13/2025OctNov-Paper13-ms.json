@@ -704,7 +704,7 @@
     },
     {
       "qnum": 21,
-      "marks": 5,
+      "marks": 6,
       "parts": [
         {
           "label": "(a)",
@@ -736,7 +736,7 @@
         },
         {
           "label": "(c)",
-          "marks": 3,
+          "marks": 4,
           "subparts": [
             {
               "label": "(c)(i)",
@@ -760,9 +760,15 @@
             },
             {
               "label": "(c)(ii)",
-              "marks": 1,
+              "marks": 2,
               "answer": "$7n - 13 = 688$ oe, $7n = 701$. No, 701 is not divisible by 7 oe nfww",
               "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                },
                 {
                   "code": "B1",
                   "type": "B",
@@ -972,7 +978,7 @@
     },
     {
       "qnum": 27,
-      "marks": 2,
+      "marks": 1,
       "answer": "In standard form the value is written as $a \\times 10^n$ where $1 \\leqslant a < 10$ and 85.1 is greater than 10 oe",
       "markAllocation": [
         {

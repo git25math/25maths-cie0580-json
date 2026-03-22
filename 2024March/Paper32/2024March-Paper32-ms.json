@@ -10,7 +10,7 @@
   "questions": [
     {
       "qnum": 1,
-      "marks": 10,
+      "marks": 9,
       "parts": [
         {
           "label": "(a)",
@@ -62,7 +62,7 @@
         },
         {
           "label": "(d)",
-          "marks": 6,
+          "marks": 5,
           "subparts": [
             {
               "label": "(d)(i)",
@@ -80,26 +80,14 @@
             },
             {
               "label": "(d)(ii)",
-              "marks": 3,
+              "marks": 2,
               "answer": "37",
               "markAllocation": [
                 {
-                  "code": "B1",
+                  "code": "B2",
                   "type": "B",
-                  "value": 1,
-                  "criterion": "for 37"
-                },
-                {
-                  "code": "B1",
-                  "type": "B",
-                  "value": 1,
-                  "criterion": "for angles on a straight line"
-                },
-                {
-                  "code": "B1",
-                  "type": "B",
-                  "value": 1,
-                  "criterion": "for alternate angles or corresponding angles"
+                  "value": 2,
+                  "criterion": ""
                 }
               ],
               "guidance": ""
@@ -439,7 +427,7 @@
     },
     {
       "qnum": 4,
-      "marks": 14,
+      "marks": 15,
       "parts": [
         {
           "label": "(a)",
@@ -546,7 +534,7 @@
         },
         {
           "label": "(d)",
-          "marks": 4,
+          "marks": 5,
           "subparts": [
             {
               "label": "(d)(i)",
@@ -570,9 +558,15 @@
             },
             {
               "label": "(d)(ii)",
-              "marks": 1,
+              "marks": 2,
               "answer": "0.0004 oe",
               "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                },
                 {
                   "code": "B1",
                   "type": "B",
@@ -752,7 +746,7 @@
     },
     {
       "qnum": 6,
-      "marks": 12,
+      "marks": 11,
       "parts": [
         {
           "label": "(a)",
@@ -823,23 +817,17 @@
         },
         {
           "label": "(c)",
-          "marks": 5,
+          "marks": 4,
           "subparts": [
             {
               "label": "(c)(i)",
-              "marks": 3,
+              "marks": 2,
               "answer": "360 - 288 + 18 oe = 90",
               "markAllocation": [
                 {
-                  "code": "M2",
-                  "type": "M",
+                  "code": "B2",
+                  "type": "B",
                   "value": 2,
-                  "criterion": "for a fully correct method"
-                },
-                {
-                  "code": "A1",
-                  "type": "A",
-                  "value": 1,
                   "criterion": ""
                 }
               ],
@@ -1033,11 +1021,11 @@
     },
     {
       "qnum": 8,
-      "marks": 7,
+      "marks": 8,
       "parts": [
         {
           "label": "(a)",
-          "marks": 3,
+          "marks": 4,
           "answer": "71 nfww",
           "markAllocation": [
             {
@@ -1051,6 +1039,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for complete demonstration"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""

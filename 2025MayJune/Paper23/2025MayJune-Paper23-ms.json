@@ -104,6 +104,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for each"
+            },
+            {
+              "code": "B2",
+              "type": "B",
+              "value": 2,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -122,6 +128,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for reflection in x = k or in y = -1"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": ""
@@ -136,6 +148,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "for correct 90 anticlockwise rotation about (1, -2) or correct orientation, wrong centre"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": ""
@@ -155,6 +173,12 @@
           "type": "B",
           "value": 1,
           "criterion": "for each correct row"
+        },
+        {
+          "code": "B2",
+          "type": "B",
+          "value": 2,
+          "criterion": ""
         }
       ],
       "guidance": ""
@@ -173,6 +197,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for correct method to find common denominator e.g. 10/12 and 7/12 or 60/72 and 42/72"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -213,6 +243,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for 2, 3, 7"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or M1 for correct factor tree/diagram/table"
@@ -227,6 +263,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for answer 2 or 7"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or M1 for 2 x 7 as final answer or 84 = 2 x 2 x 3 x 7 and 70 = 2 x 5 x 7 or 2 correct factor trees or tables"
@@ -253,6 +295,12 @@
               "type": "M",
               "value": 2,
               "criterion": "for correct method to solve their ax^2 + bx - c [= 0] e.g. factorising (5x - 3)(x + 4) [= 0] or using formula"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or M1 for (5x + a)(x + b) where ab = -12 or 5b + a = 17 or correct partial factorisation e.g. 5x(x + 4) - 3(x + 4) or for sqrt(17^2 - 4(5)(-12)) or better"
@@ -319,6 +367,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for 4 correct"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -333,6 +387,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for answer c/5 where c < 5 or for 2/5 seen in working"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -367,6 +427,12 @@
               "type": "B",
               "value": 3,
               "criterion": "for answer +-10"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "OR M3 for (-4 - 4)^2 + (0 - 6)^2 oe or better; OR M2 for (-4, 0) - (4, 6) oe; or B1 for [J =] (4, 6) soi or (-1, -8); M1 for (their -8)^2 + (their -6)^2 oe or better"
@@ -387,6 +453,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for 120 or a fully correct reason"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -401,6 +473,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for (180 - 120) - 35"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or B1 for ABC = 60 or ABD = 35"
@@ -417,6 +495,12 @@
           "type": "B",
           "value": 1,
           "criterion": "for two correct parts from: 90, x^4 and y^3"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": "or for 3 x 5 x x x y x y and 2 x 3 x 3 x x x x x x x y or for correct answer seen then spoilt"
@@ -435,6 +519,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for 3*sqrt(3) or 2*sqrt(3)"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -449,6 +539,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for 40 x 2*sqrt(2) or 8 x 2*sqrt(2) or 8*sqrt(4)*sqrt(2)/sqrt(2) or 40*sqrt(8)*sqrt(2)/(5*sqrt(2)*sqrt(2)) or better"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or B1 for 8*sqrt(4) or sqrt(256)"
@@ -463,6 +559,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for 1/(3 - sqrt(5)) x (3 + sqrt(5))/(3 + sqrt(5)) oe"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -479,6 +581,12 @@
           "type": "B",
           "value": 2,
           "criterion": "for a fraction equivalent to 65/198 e.g. 325/990"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": "or M1 for 328.28... - 3.28... oe or 3/10 + 28/990 oe or 990x = 325 or k/990"
@@ -493,6 +601,12 @@
           "type": "M",
           "value": 2,
           "criterion": "for 7 x sqrt(540/60) oe or 7 / sqrt(60/540) oe"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": "or M1 for sqrt(540/60) oe or sqrt(60/540) oe or (7/H)^2 = 60/540 oe"
@@ -565,6 +679,12 @@
           "type": "M",
           "value": 2,
           "criterion": "for (360 - 40)/360 x pi x 6 x 2 or (360 - 40)/360 x 22/7 x 6 x 2 oe"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": "or M1 for 40/360 x pi x 6 x 2 oe or B1 for major sector angle = 320 soi or 12*pi"
@@ -583,6 +703,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for 3x^2 - kx or kx^2 - 6x or correct answer spoilt"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or SC1 for 3x^2 - 6x + 1"
@@ -597,6 +723,12 @@
               "type": "B",
               "value": 3,
               "criterion": "for one correct coordinate or for two correct values of x following 3x^2 - 6x oe seen in (b)"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or M2 for [3]x(x - 2) [= 0] or quadratic formula; OR M1 for their dy/dx = 0 or stating dy/dx = 0; M1 for correct method to solve their quadratic"
@@ -605,7 +737,7 @@
     },
     {
       "qnum": 22,
-      "marks": 9,
+      "marks": 8,
       "parts": [
         {
           "label": "(a)",
@@ -631,6 +763,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for correct first step x = 2y + 5 or y - 5 = 2x or (y-5)/2 = x or y/2 = x + 5/2"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -645,6 +783,12 @@
               "type": "M",
               "value": 2,
               "criterion": "for x - 4 = (25 - 5)/2 oe or 2x - 8 = 25 - 5 oe or better"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or M1 for 2(x - 4) + 5 = 25"
@@ -659,6 +803,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for h(2) or 5^2"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -681,7 +831,7 @@
     },
     {
       "qnum": 23,
-      "marks": 5,
+      "marks": 6,
       "parts": [
         {
           "label": "(b)",
@@ -693,6 +843,12 @@
               "type": "B",
               "value": 4,
               "criterion": "for correct explicit expression to find x e.g. x = 2n/cos30 or x = 2n/(sqrt(3)/2) oe"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "OR M3 for correct explicit method to find x with 2 trig functions e.g. x = n/sin30 / cos30 oe or a correct implicit method with one trig function e.g. cos30 = 2n/x oe; OR B2 for hypotenuse of lower triangle = 2n or M2 for any correct implicit method with 2 trig functions e.g. cos30 = n / sin30 / x oe; OR M1 for seeing any correct trig value from sin30 or cos60 = 0.5, cos30 or sin60 = sqrt(3)/2 or tan30 = sqrt(3)/3 oe or for hypotenuse of lower triangle = n/sin30 oe"
@@ -753,6 +909,12 @@
               "type": "M",
               "value": 2,
               "criterion": "for 23 - 5/2(23 - 22) or 39 - 5/2(39 - 34) oe"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or sketch showing similar triangle with sides 2.5 and 12.5; or vector e.g. (2.5, 12.5) or (-2.5, -12.5); or M1 for sketch showing similar triangle with sides 1 and 5; 5/2(23 - 22) or 5/2(39 - 34); or vector e.g. (1, 5) or (-1, -5). SC2 for answer (25.5, 51.5) or (51/2, 103/2)"

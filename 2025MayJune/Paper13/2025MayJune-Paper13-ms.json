@@ -54,6 +54,12 @@
                   "type": "M",
                   "value": 1,
                   "criterion": "for 1/0.25 oe or 4/1"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": ""
@@ -201,6 +207,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for a + 2a = 180 oe or better"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -255,6 +267,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for at least the first four or last four correctly ordered"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -337,6 +355,12 @@
               "type": "B",
               "value": 2,
               "criterion": "for 2 correct extra faces in correct places"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or B1 for 1 correct extra face in correct place"
@@ -351,6 +375,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for 3 x 3 x 5 oe"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "FT their dimensions from (a)"
@@ -371,6 +401,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for 4 x 1/2 x 5 x 4 + 5 x 5 oe"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -419,6 +455,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for short or unruled line or for two correct coordinates plotted or for line with positive gradient passing through (0, -1) or for line with gradient 2"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -439,6 +481,12 @@
               "type": "M",
               "value": 1,
               "criterion": "for 120/360 x 90 oe"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -471,6 +519,12 @@
                   "type": "M",
                   "value": 1,
                   "criterion": "for 9/90 x 360 oe"
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": ""
@@ -508,6 +562,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for two correct values in the correct position"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -538,6 +598,12 @@
           "type": "M",
           "value": 1,
           "criterion": "for 60/(10 x 0.5)"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": "If 0 scored, SC1 for 2 correct roundings or for all correct but with any trailing zeros"
@@ -552,6 +618,12 @@
           "type": "M",
           "value": 1,
           "criterion": "for 1/2(4 + 10)h = 42 oe or better"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": ""
@@ -570,6 +642,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for -4 <= x or x < 3"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -600,6 +678,12 @@
           "type": "B",
           "value": 2,
           "criterion": "for 10 or 10x"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": "or M1 for [5 x](x + 20/100 x) oe"
@@ -666,6 +750,12 @@
               "type": "B",
               "value": 1,
               "criterion": "for either"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": ""
@@ -680,6 +770,12 @@
               "type": "M",
               "value": 2,
               "criterion": "for [ORS =] 180 - (90 + their 25 + 25) oe"
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
+              "criterion": ""
             }
           ],
           "guidance": "or B1 for OSR = 90 or ROS = 50"
@@ -696,6 +792,12 @@
           "type": "M",
           "value": 1,
           "criterion": "for 60/360 x pi x 3^2 oe"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": ""
@@ -710,6 +812,12 @@
           "type": "B",
           "value": 1,
           "criterion": "for answer 2 or 3 or 6 or 9"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": "or M1 for 2 x 3 x 3 oe as final answer or 36 = 2 x 2 x 3 x 3 and 54 = 2 x 3 x 3 x 3 or 2 correct factor trees or tables"
@@ -744,6 +852,12 @@
           "type": "M",
           "value": 1,
           "criterion": "for g + 8 = h/3 or 3g = h - 24"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": ""
@@ -758,6 +872,12 @@
           "type": "M",
           "value": 1,
           "criterion": "for 1.5/x = 2/8 oe or better"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": ""
@@ -772,6 +892,12 @@
           "type": "B",
           "value": 2,
           "criterion": "for 27/14"
+        },
+        {
+          "code": "B1",
+          "type": "B",
+          "value": 1,
+          "criterion": ""
         }
       ],
       "guidance": "or B1 for 7k/2k or 11k/7k. M1 for 49/14 and 22/14 or 3 7/14 and 1 8/14 or [1]21/14 and 8/14 or 35/14 and 8/14 or [2]7/14 and 8/14"

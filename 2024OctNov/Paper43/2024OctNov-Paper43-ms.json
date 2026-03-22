@@ -124,9 +124,15 @@
             },
             {
               "label": "(ii)",
-              "marks": 1,
+              "marks": 2,
               "answer": "$\\binom{-4}{-2}$",
               "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                },
                 {
                   "code": "B1",
                   "type": "B",
@@ -138,7 +144,7 @@
             },
             {
               "label": "(iii)",
-              "marks": 2,
+              "marks": 3,
               "answer": "(15, 13)",
               "markAllocation": [
                 {
@@ -150,6 +156,12 @@
                 {
                   "code": "A1",
                   "type": "A",
+                  "value": 1,
+                  "criterion": ""
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
                   "value": 1,
                   "criterion": ""
                 }
@@ -393,7 +405,7 @@
               "marks": 3,
               "subparts": [
                 {
-                  "label": "(d)(ii)(a)",
+                  "label": "(a)",
                   "marks": 1,
                   "answer": "0.151 or 0.1511 to 0.1512...",
                   "markAllocation": [
@@ -407,7 +419,7 @@
                   "guidance": ""
                 },
                 {
-                  "label": "(d)(ii)(b)",
+                  "label": "(b)",
                   "marks": 2,
                   "answer": "22",
                   "markAllocation": [
@@ -610,7 +622,7 @@
               "marks": 6,
               "subparts": [
                 {
-                  "label": "(a)(ii)(a)",
+                  "label": "(a)",
                   "marks": 3,
                   "answer": "$\\frac{1}{2}(y + 4 + y + 1) \\times (y + 2) [= 264]$ oe\nleading to $2y^2 + 9y - 518 = 0$",
                   "markAllocation": [
@@ -636,7 +648,7 @@
                   "guidance": "Allow $2y + 5$ for sum of sides. For M1 and B1 allow recovery from omission of brackets if expansion is correct but then A0"
                 },
                 {
-                  "label": "(a)(ii)(b)",
+                  "label": "(b)",
                   "marks": 3,
                   "answer": "$(2y + 37)(y - 14)$\n14",
                   "markAllocation": [
@@ -802,13 +814,19 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 1,
+              "marks": 3,
               "answer": "$\\frac{5}{8}$ oe",
               "markAllocation": [
                 {
                   "code": "B1",
                   "type": "B",
                   "value": 1,
+                  "criterion": ""
+                },
+                {
+                  "code": "B2",
+                  "type": "B",
+                  "value": 2,
                   "criterion": ""
                 }
               ],
@@ -833,7 +851,7 @@
         },
         {
           "label": "(b)",
-          "marks": 7,
+          "marks": 4,
           "subparts": [
             {
               "label": "(i)",

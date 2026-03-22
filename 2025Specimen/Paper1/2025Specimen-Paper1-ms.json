@@ -434,15 +434,9 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 2,
+              "marks": 1,
               "answer": "Points plotted at $(10.20, 23.5)$, $(10.86, 25.4)$, $(11.04, 24.9)$",
               "markAllocation": [
-                {
-                  "code": "B1",
-                  "type": "B",
-                  "value": 1,
-                  "criterion": "for 2 correct points plotted"
-                },
                 {
                   "code": "B1",
                   "type": "B",
@@ -454,9 +448,15 @@
             },
             {
               "label": "(ii)",
-              "marks": 1,
+              "marks": 2,
               "answer": "Positive",
               "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                },
                 {
                   "code": "B1",
                   "type": "B",

@@ -58,17 +58,23 @@
     },
     {
       "qnum": 4,
-      "marks": 3,
+      "marks": 4,
       "parts": [
         {
           "label": "(a)",
-          "marks": 2,
+          "marks": 3,
           "answer": "Three correct lines",
           "markAllocation": [
             {
               "code": "B2",
               "type": "B",
               "value": 2,
+              "criterion": ""
+            },
+            {
+              "code": "B1",
+              "type": "B",
+              "value": 1,
               "criterion": ""
             }
           ],
@@ -486,26 +492,14 @@
     },
     {
       "qnum": 20,
-      "marks": 5,
+      "marks": 4,
       "answer": "\\frac{20}{7}",
       "markAllocation": [
         {
-          "code": "M2",
-          "type": "M",
-          "value": 2,
-          "criterion": "correct method for common denominator"
-        },
-        {
-          "code": "M2",
-          "type": "M",
-          "value": 2,
-          "criterion": "multiplication by reciprocal or other method"
-        },
-        {
-          "code": "A1",
-          "type": "A",
-          "value": 1,
-          "criterion": "cao"
+          "code": "B4",
+          "type": "B",
+          "value": 4,
+          "criterion": ""
         }
       ],
       "guidance": "B1 for $3/7$; their $35/6 \\times 24/25$ M1"

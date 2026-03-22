@@ -403,7 +403,7 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 2,
+              "marks": 3,
               "answer": "26",
               "markAllocation": [
                 {
@@ -417,16 +417,22 @@
                   "type": "B",
                   "value": 1,
                   "criterion": ""
+                },
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
                 }
               ],
               "guidance": "$\\angle ABD$ may be on diagram"
             },
             {
               "label": "(ii)",
-              "marks": 3,
+              "marks": 2,
               "subparts": [
                 {
-                  "label": "(b)(ii)(a)",
+                  "label": "(a)",
                   "marks": 2,
                   "answer": "86",
                   "markAllocation": [
@@ -446,7 +452,7 @@
                   "guidance": "For B1 angles must be identified or marked on diagram"
                 },
                 {
-                  "label": "(b)(ii)(b)",
+                  "label": "(b)",
                   "marks": 1,
                   "answer": "Angle in a semicircle = 90",
                   "markAllocation": [
@@ -543,10 +549,10 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 3,
+              "marks": 1,
               "subparts": [
                 {
-                  "label": "(a)(i)(a)",
+                  "label": "(a)",
                   "marks": 1,
                   "answer": "1480",
                   "markAllocation": [
@@ -560,7 +566,7 @@
                   "guidance": ""
                 },
                 {
-                  "label": "(a)(i)(b)",
+                  "label": "(b)",
                   "marks": 2,
                   "answer": "440",
                   "markAllocation": [
@@ -583,7 +589,7 @@
             },
             {
               "label": "(ii)",
-              "marks": 2,
+              "marks": 6,
               "answer": "$\\frac{8}{80}$ oe",
               "markAllocation": [
                 {
@@ -596,6 +602,12 @@
                   "code": "A1",
                   "type": "A",
                   "value": 1,
+                  "criterion": ""
+                },
+                {
+                  "code": "B4",
+                  "type": "B",
+                  "value": 4,
                   "criterion": ""
                 }
               ],
@@ -703,13 +715,19 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 1,
+              "marks": 6,
               "answer": "$(-4, -1)$",
               "markAllocation": [
                 {
                   "code": "B1",
                   "type": "B",
                   "value": 1,
+                  "criterion": ""
+                },
+                {
+                  "code": "B5",
+                  "type": "B",
+                  "value": 5,
                   "criterion": ""
                 }
               ],
@@ -747,7 +765,7 @@
               "marks": 6,
               "subparts": [
                 {
-                  "label": "(c)(i)(a)",
+                  "label": "(a)",
                   "marks": 1,
                   "answer": "$2\\mathbf{c} - \\mathbf{a}$",
                   "markAllocation": [
@@ -761,7 +779,7 @@
                   "guidance": "Accept e.g. $-1\\mathbf{a} + 2\\mathbf{c}$"
                 },
                 {
-                  "label": "(c)(i)(b)",
+                  "label": "(b)",
                   "marks": 1,
                   "answer": "$\\mathbf{c} - \\mathbf{a}$",
                   "markAllocation": [
@@ -775,7 +793,7 @@
                   "guidance": "Accept e.g. $-1\\mathbf{a} + 1\\mathbf{c}$"
                 },
                 {
-                  "label": "(c)(i)(c)",
+                  "label": "(c)",
                   "marks": 2,
                   "answer": "$\\frac{1}{5}(\\mathbf{a} + 8\\mathbf{c})$ final answer",
                   "markAllocation": [
@@ -795,7 +813,7 @@
                   "guidance": "For 2 marks, accept e.g. $\\frac{1}{5}\\mathbf{a} + \\frac{8}{5}\\mathbf{c}$, $0.2\\mathbf{a} + 1.6\\mathbf{c}$. Condone mixed notation for vector route e.g. $2\\mathbf{c} + BP$"
                 },
                 {
-                  "label": "(c)(i)(d)",
+                  "label": "(d)",
                   "marks": 2,
                   "answer": "$\\frac{4}{5}(-\\mathbf{a} + \\mathbf{c})$ final answer",
                   "markAllocation": [
@@ -1010,9 +1028,15 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 1,
+              "marks": 2,
               "answer": "$\\frac{5}{12}$ oe",
               "markAllocation": [
+                {
+                  "code": "B1",
+                  "type": "B",
+                  "value": 1,
+                  "criterion": ""
+                },
                 {
                   "code": "B1",
                   "type": "B",
@@ -1024,7 +1048,7 @@
             },
             {
               "label": "(ii)",
-              "marks": 1,
+              "marks": 4,
               "answer": "$\\frac{7}{12}$ oe",
               "markAllocation": [
                 {
@@ -1032,6 +1056,12 @@
                   "type": "B",
                   "value": 1,
                   "criterion": "FT $1 -$ their (a)(i)"
+                },
+                {
+                  "code": "B3",
+                  "type": "B",
+                  "value": 3,
+                  "criterion": ""
                 }
               ],
               "guidance": "0.583 or 0.5833..."
